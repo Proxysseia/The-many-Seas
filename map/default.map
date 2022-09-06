@@ -26,7 +26,7 @@ sea_starts = {
 }
 
 #definitions = "definition.csv" #When using scenario editor
-definitions = "../mod/ANSWR/map/definition.csv"
+definitions = "../mod/The-many-Seas/map/definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
 terrain = "terrain.bmp"
