@@ -1,6 +1,6 @@
-owner = WES
-controller = WES
-add_core = WES
+owner = NET
+controller = NET
+
 add_core = OUD
 trade_goods = coal
 life_rating = 40
@@ -15,3 +15,5 @@ state_building = {
     upgrade = yes
 }
 2861.1.1 = { railroad = 3 }
+
+add_core = NET

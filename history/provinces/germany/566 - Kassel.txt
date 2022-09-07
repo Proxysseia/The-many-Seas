@@ -1,6 +1,8 @@
-owner = WES
-controller = WES
-add_core = WES
+owner = NET
+controller = NET
+
 add_core = OUD
 trade_goods = coal
 life_rating = 39
+
+add_core = NET

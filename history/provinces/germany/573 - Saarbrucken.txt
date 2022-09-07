@@ -1,8 +1,10 @@
-owner = RHI
-controller = RHI
-add_core = RHI
+owner = NET
+controller = NET
+
 add_core = OUD
 trade_goods = coal
 life_rating = 39
 fort = 1
 terrain = mining_district
+
+add_core = NET
