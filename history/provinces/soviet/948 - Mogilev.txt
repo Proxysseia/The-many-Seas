@@ -1,6 +1,8 @@
-owner = BYE
-controller = BYE
-add_core = BYE
+owner = LIT
+controller = LIT
+
 trade_goods = grain
 life_rating = 32
 naval_base = 1
+
+add_core = LIT

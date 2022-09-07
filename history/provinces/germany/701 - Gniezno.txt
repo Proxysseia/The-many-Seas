@@ -1,6 +1,6 @@
-owner = PZN
-controller = PZN
-add_core = PZN
+owner = LIT
+controller = LIT
+
 add_core = OUD
 trade_goods = grain
 life_rating = 40
@@ -11,3 +11,5 @@ life_rating = 40
         upgrade = yes
     }
 }
+
+add_core = LIT

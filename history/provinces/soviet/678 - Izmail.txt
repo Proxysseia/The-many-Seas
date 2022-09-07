@@ -1,7 +1,9 @@
-owner = MDV
-controller = MDV
-add_core = MDV
+owner = WAL
+controller = WAL
+
 add_core = MOL
 trade_goods = fish
 life_rating = 33
 fort = 1
+
+add_core = WAL

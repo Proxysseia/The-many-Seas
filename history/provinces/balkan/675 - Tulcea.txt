@@ -1,5 +1,7 @@
-owner = MDV
-controller = MDV
-add_core = MDV
+owner = WAL
+controller = WAL
+
 trade_goods = coal
 life_rating = 33
+
+add_core = WAL

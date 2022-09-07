@@ -1,7 +1,9 @@
-owner = EST
-controller = EST
-add_core = EST
+owner = LIT
+controller = LIT
+
 trade_goods = grain
 life_rating = 40
 fort = 1
 naval_base = 2
+
+add_core = LIT

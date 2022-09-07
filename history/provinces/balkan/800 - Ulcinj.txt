@@ -1,5 +1,7 @@
-owner = NOD
-controller = NOD
-add_core = NOD
+owner = SAP
+controller = SAP
+
 trade_goods = grain
 life_rating = 35
+
+add_core = SAP

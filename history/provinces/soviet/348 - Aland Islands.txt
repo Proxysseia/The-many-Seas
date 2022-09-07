@@ -1,7 +1,9 @@
-owner = VLA
-controller = VLA
-add_core = VLA
+owner = SAP
+controller = SAP
+
 trade_goods = fish
 life_rating = 35
 fort = 1
 naval_base = 1
+
+add_core = SAP

@@ -1,7 +1,9 @@
-owner = PZN
-controller = PZN
-add_core = PZN
+owner = LIT
+controller = LIT
+
 add_core = OUD
 trade_goods = grain
 life_rating = 35
 2861.1.1 = { railroad = 3 }
+
+add_core = LIT

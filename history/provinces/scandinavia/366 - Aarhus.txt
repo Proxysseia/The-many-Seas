@@ -1,5 +1,7 @@
-owner = VLA
-controller = VLA
-add_core = VLA
+owner = SAP
+controller = SAP
+
 trade_goods = grain
 life_rating = 35
+
+add_core = SAP

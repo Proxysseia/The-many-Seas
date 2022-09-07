@@ -1,5 +1,7 @@
-owner = BKV
-controller = BKV
-add_core = BKV
+owner = WAL
+controller = WAL
+
 trade_goods = fruit
 life_rating = 35
+
+add_core = WAL

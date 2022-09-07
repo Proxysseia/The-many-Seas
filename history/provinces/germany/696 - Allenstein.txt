@@ -1,5 +1,7 @@
-owner = POL
-controller = POL
-add_core = POL
+owner = LIT
+controller = LIT
+
 trade_goods = cattle
 life_rating = 40
+
+add_core = LIT

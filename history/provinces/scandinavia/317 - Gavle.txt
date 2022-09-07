@@ -1,6 +1,6 @@
-owner = NOD
-controller = NOD
-add_core = NOD
+owner = SAP
+controller = SAP
+
 trade_goods = timber
 life_rating = 35
 2861.1.1 = {
@@ -11,3 +11,5 @@ life_rating = 35
     }
 }
 2861.1.1 = { railroad = 1 }
+
+add_core = SAP

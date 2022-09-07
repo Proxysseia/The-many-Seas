@@ -1,6 +1,8 @@
-owner = BAV
-controller = BAV
-add_core = BAV
+owner = AUS
+controller = AUS
+
 add_core = OUD
 trade_goods = coal
 life_rating = 40
+
+add_core = AUS

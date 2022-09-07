@@ -1,5 +1,7 @@
-owner = POL
-controller = POL
-add_core = POL
+owner = LIT
+controller = LIT
+
 trade_goods = grain
 life_rating = 35
+
+add_core = LIT

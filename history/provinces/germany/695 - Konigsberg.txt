@@ -1,6 +1,6 @@
-owner = POL
-controller = POL
-add_core = POL
+owner = LIT
+controller = LIT
+
 trade_goods = cattle
 life_rating = 35
 fort = 1
@@ -18,3 +18,5 @@ naval_base = 1
     }
 }
 2861.1.1 = { railroad = 3 }
+
+add_core = LIT
