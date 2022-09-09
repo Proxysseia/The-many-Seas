@@ -123,7 +123,6 @@
         religion = ketronant
         size = 1825
     }
-
     artisans = {
         culture = north_german
         religion = ketronant
@@ -205,6 +204,7 @@
         religion = ketronant
         size = 17000
     }
+
 }
 #Under rule of Hannover 1836 (396000)
 #Stade (216000/54000 POPS)
@@ -289,11 +289,10 @@
         size = 45900
     }
 }
+
 #Mecklenburg Region (614000)
 #under the Rule of Lubeck 1836
 #Lubeck (46503/11626 POPS)
-######Jews
-########
 530 = {
     aristocrats = {
         culture = flanish
@@ -343,6 +342,7 @@
         size = 100
     }
 
+    ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
@@ -378,11 +378,10 @@
         religion = jewish
         size = 100
     }
+    ########
 }
 #under the Rule of Mecklenburg 1836
 #Schwerin (484000/121000 POPS)
-######Jews
-########
 544 = {
     aristocrats = {
         culture = north_german
@@ -426,6 +425,7 @@
         size = 109800
     }
 
+    ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
@@ -461,6 +461,7 @@
         religion = jewish
         size = 400
     }
+    ########
 }
 #Neustrelitz (90000/22500 POPS)
 545 = {
@@ -497,8 +498,6 @@
 #Hannover Region (1288000)
 #under the rule of Hannover 1836
 #Hannover (420000/105000 POPS)
-######Jews
-########
 534 = {
     aristocrats = {
         culture = flanish
@@ -565,13 +564,14 @@
         religion = ketronant
         size = 23675
     }
-
+    
     farmers = {
         culture = rhine_german
         religion = ketronant
         size = 20000
     }
 
+    ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
@@ -607,10 +607,9 @@
         religion = jewish
         size = 500
     }
+    ########
 }
 #Nienburg (276000/64000 POPS)
-######Jews
-########
 535 = {
     aristocrats = {
         culture = flanish
@@ -642,6 +641,7 @@
         size = 57575
     }
 
+    ######Jews
     soldiers = {
         culture = ashkenazi
         religion = jewish
@@ -665,6 +665,7 @@
         religion = jewish
         size = 400
     }
+    ########
 }
 #Gottingen (180000/45000 POPS)
 537 = {
@@ -697,6 +698,7 @@
         religion = ketronant
         size = 40925
     }
+
 }
 #under the rule of Brunswick 1836
 #Brunswick (264000/66000 POPS)
@@ -758,7 +760,7 @@
     farmers = {
         culture = north_german
         religion = ketronant
-        size = 0
+        size =303960
     }
 }
 #East Frisia Region (496000)
@@ -882,12 +884,12 @@
         size = 550
     }
 
+
     farmers = {
         culture = north_german
         religion = ketronant
         size = 24460
     }
-
     farmers = {
         culture = north_german
         religion = ketronant
@@ -907,7 +909,6 @@
         religion = ketronant
         size = 45
     }
-
     clergymen = {
         culture = flanish
         religion = ketronant
@@ -919,7 +920,6 @@
         religion = ketronant
         size = 35
     }
-
     artisans = {
         culture = flanish
         religion = ketronant
@@ -962,6 +962,7 @@
         size = 9450
     }
 }
+
 #Pomerania Region (289000) #see Poland.txt for balance of region
 #under the rule of Prussia 1836
 #Swinemunde (132000/33000 POPS)
@@ -997,8 +998,6 @@
     }
 }
 #Stralsund (157000/39250 POPS)
-######Jews
-########
 548 = {
     aristocrats = {
         culture = north_german
@@ -1054,6 +1053,7 @@
         size = 12450
     }
 
+    ######Jews
     soldiers = {
         culture = ashkenazi
         religion = jewish
@@ -1077,12 +1077,11 @@
         religion = jewish
         size = 100
     }
+    ########
 }
 #Brandenburg Region (1628000) #see Poland.txt for balance of region
 #under the rule of Prussia 1836
 #Berlin (772000/193000 POPS)
-######Jews
-########
 549 = {
     aristocrats = {
         culture = north_german
@@ -1174,6 +1173,7 @@
         size = 3400
     }
 
+    ######Jews
     capitalists = {
         culture = ashkenazi
         religion = jewish
@@ -1215,6 +1215,7 @@
         religion = jewish
         size = 6000
     }
+    ########
 
     clergymen = {
         culture = polish
@@ -1381,8 +1382,6 @@
 #Anhalt Region (1527000)
 #under the rule of Prussia 1836
 #Magdeburg (577200/144300 POPS)
-######Jews
-########
 553 = {
     aristocrats = {
         culture = north_german
@@ -1450,6 +1449,7 @@
         size = 22750
     }
 
+    ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
@@ -1485,10 +1485,9 @@
         religion = jewish
         size = 100
     }
+    ########
 }
 #Erfurt (220800/55200 POPS)
-######Jews
-########
 554 = {
     aristocrats = {
         culture = north_german
@@ -1544,6 +1543,7 @@
         size = 9050
     }
 
+    ######Jews
     soldiers = {
         culture = ashkenazi
         religion = jewish
@@ -1567,10 +1567,9 @@
         religion = jewish
         size = 300
     }
+    ########
 }
 #Halle (445000/111250 POPS)
-######Jews
-########
 556 = {
     aristocrats = {
         culture = north_german
@@ -1626,6 +1625,7 @@
         size = 10225
     }
 
+    ######Jews
     soldiers = {
         culture = ashkenazi
         religion = jewish
@@ -1649,6 +1649,7 @@
         religion = jewish
         size = 100
     }
+    ########
 }
 #Stendal (140000/35000 POPS)
 557 = {
@@ -1754,122 +1755,122 @@
 #Saxony Region (1379000)
 #under the rule of Saxony 1836
 #Dresden (806380/201595 POPS)
-######Jews
 558 = {
     aristocrats = {
         culture = north_german
         religion = ketronant
-        size = 1048
+        size = 1905
     }
 
     bureaucrats = {
         culture = north_german
         religion = ketronant
-        size = 454
+        size = 825
     }
 
     officers = {
         culture = north_german
         religion = ketronant
-        size = 74
+        size = 135
     }
 
     capitalists = {
         culture = north_german
         religion = ketronant
-        size = 74
+        size = 135
     }
 
     clergymen = {
         culture = north_german
         religion = ketronant
-        size = 1130
+        size = 2055
     }
 
     clerks = {
         culture = north_german
         religion = ketronant
-        size = 74
+        size = 135
     }
 
     craftsmen = {
         culture = north_german
         religion = ketronant
-        size = 709
+        size = 1290
     }
 
     artisans = {
         culture = north_german
         religion = ketronant
-        size = 7109
+        size = 12925
     }
 
     soldiers = {
         culture = north_german
         religion = ketronant
-        size = 1149
+        size = 2090
     }
 
     labourers = {
         culture = north_german
         religion = ketronant
-        size = 94946
+        size = 172630
     }
 
     aristocrats = {
         culture = north_german
         religion = ketronant
-        size = 55
+        size = 100
     }
 
     officers = {
         culture = north_german
         religion = ketronant
-        size = 55
+        size = 100
     }
 
     capitalists = {
         culture = north_german
         religion = ketronant
-        size = 55
+        size = 100
     }
 
     clergymen = {
         culture = north_german
         religion = ketronant
-        size = 55
+        size = 100
     }
 
     craftsmen = {
         culture = north_german
         religion = ketronant
-        size = 55
+        size = 100
     }
 
     artisans = {
         culture = north_german
         religion = ketronant
-        size = 550
+        size = 1000
     }
 
     soldiers = {
         culture = north_german
         religion = ketronant
-        size = 55
+        size = 100
     }
 
     labourers = {
         culture = north_german
         religion = ketronant
-        size = 3008
+        size = 5470
     }
 
     clerks = {
         culture = north_german
         religion = ketronant
-        size = 55
+        size = 100
     }
 
+    ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
@@ -1886,168 +1887,53 @@
         culture = ashkenazi
         religion = jewish
         size = 100
-    }
-
-    aristocrats = {
-        culture = south_german
-        religion = ketronant
-        size = 857
-    }
-
-    bureaucrats = {
-        culture = south_german
-        religion = ketronant
-        size = 371
-    }
-
-    officers = {
-        culture = south_german
-        religion = ketronant
-        size = 61
-    }
-
-    capitalists = {
-        culture = south_german
-        religion = ketronant
-        size = 61
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = ketronant
-        size = 925
-    }
-
-    clerks = {
-        culture = south_german
-        religion = ketronant
-        size = 61
-    }
-
-    craftsmen = {
-        culture = south_german
-        religion = ketronant
-        size = 581
-    }
-
-    artisans = {
-        culture = south_german
-        religion = ketronant
-        size = 5816
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = ketronant
-        size = 941
-    }
-
-    labourers = {
-        culture = south_german
-        religion = ketronant
-        size = 77684
-    }
-
-    aristocrats = {
-        culture = south_german
-        religion = ketronant
-        size = 45
-    }
-
-    officers = {
-        culture = south_german
-        religion = ketronant
-        size = 45
-    }
-
-    capitalists = {
-        culture = south_german
-        religion = ketronant
-        size = 45
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = ketronant
-        size = 45
-    }
-
-    craftsmen = {
-        culture = south_german
-        religion = ketronant
-        size = 45
-    }
-
-    artisans = {
-        culture = south_german
-        religion = ketronant
-        size = 450
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = ketronant
-        size = 45
-    }
-
-    labourers = {
-        culture = south_german
-        religion = ketronant
-        size = 2462
-    }
-
-    clerks = {
-        culture = south_german
-        religion = ketronant
-        size = 45
     }
 }
 #Leipzig (494440/123610 POPS)
-######Jews
-########
 559 = {
     aristocrats = {
         culture = north_german
         religion = ketronant
-        size = 715
+        size = 1300
     }
 
     clergymen = {
         culture = north_german
         religion = ketronant
-        size = 723
+        size = 1315
     }
 
     clerks = {
         culture = north_german
         religion = ketronant
-        size = 74
+        size = 135
     }
 
     craftsmen = {
         culture = north_german
         religion = ketronant
-        size = 773
+        size = 1405
     }
 
     artisans = {
         culture = north_german
         religion = ketronant
-        size = 5819
+        size = 10580
     }
 
     soldiers = {
         culture = north_german
         religion = ketronant
-        size = 723
+        size = 1315
     }
 
     labourers = {
         culture = north_german
         religion = ketronant
-        size = 59158
+        size = 107560
     }
 
+    ######Jews
     soldiers = {
         culture = ashkenazi
         religion = jewish
@@ -2083,159 +1969,87 @@
         religion = jewish
         size = 100
     }
-
-    aristocrats = {
-        culture = south_german
-        religion = ketronant
-        size = 585
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = ketronant
-        size = 592
-    }
-
-    clerks = {
-        culture = south_german
-        religion = ketronant
-        size = 61
-    }
-
-    craftsmen = {
-        culture = south_german
-        religion = ketronant
-        size = 632
-    }
-
-    artisans = {
-        culture = south_german
-        religion = ketronant
-        size = 4761
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = ketronant
-        size = 592
-    }
-
-    labourers = {
-        culture = south_german
-        religion = ketronant
-        size = 48402
-    }
+    ########
 }
 #Chemnitz (330080/82520 POPS)
 560 = {
     aristocrats = {
         culture = north_german
         religion = ketronant
-        size = 425
+        size = 945
     }
 
     clergymen = {
         culture = north_german
         religion = ketronant
-        size = 333
+        size = 740
     }
 
     artisans = {
         culture = north_german
         religion = ketronant
-        size = 2655
+        size = 5900
     }
 
     soldiers = {
         culture = north_german
         religion = ketronant
-        size = 531
+        size = 1180
     }
 
     labourers = {
         culture = north_german
         religion = ketronant
-        size = 33190
-    }
-
-    aristocrats = {
-        culture = south_german
-        religion = ketronant
-        size = 520
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = ketronant
-        size = 407
-    }
-
-    artisans = {
-        culture = south_german
-        religion = ketronant
-        size = 3245
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = ketronant
-        size = 649
-    }
-
-    labourers = {
-        culture = south_german
-        religion = ketronant
-        size = 40565
+        size = 73755
     }
 }
 #Thuringia Region (865000)
 #under the rule of Saxe-Weimar 1836
 #Weimar (365000/91250 POPS)
-######Jews
-########
 561 = {
     aristocrats = {
         culture = north_german
         religion = ketronant
-        size = 495
+        size = 1100
     }
 
     bureaucrats = {
         culture = north_german
         religion = ketronant
-        size = 67
+        size = 150
     }
 
     officers = {
         culture = north_german
         religion = ketronant
-        size = 45
+        size = 100
     }
 
     clergymen = {
         culture = north_german
         religion = ketronant
-        size = 394
+        size = 875
     }
 
     artisans = {
         culture = north_german
         religion = ketronant
-        size = 1912
+        size = 4250
     }
 
     soldiers = {
         culture = north_german
         religion = ketronant
-        size = 450
+        size = 1000
     }
 
     farmers = {
         culture = north_german
         religion = ketronant
-        size = 37631
+        size = 83625
     }
 
+    ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
@@ -2271,48 +2085,7 @@
         religion = jewish
         size = 500
     }
-
-    aristocrats = {
-        culture = south_german
-        religion = ketronant
-        size = 605
-    }
-
-    bureaucrats = {
-        culture = south_german
-        religion = ketronant
-        size = 83
-    }
-
-    officers = {
-        culture = south_german
-        religion = ketronant
-        size = 55
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = ketronant
-        size = 481
-    }
-
-    artisans = {
-        culture = south_german
-        religion = ketronant
-        size = 2338
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = ketronant
-        size = 550
-    }
-
-    farmers = {
-        culture = south_german
-        religion = ketronant
-        size = 45994
-    }
+    ########
 }
 #under the rule of Saxe-Coburg 1836
 #Gotha (292000/73000 POPS)
@@ -2320,85 +2093,43 @@
     aristocrats = {
         culture = north_german
         religion = ketronant
-        size = 326
+        size = 725
     }
 
     bureaucrats = {
         culture = north_german
         religion = ketronant
-        size = 56
+        size = 125
     }
 
     officers = {
         culture = north_german
         religion = ketronant
-        size = 34
+        size = 75
     }
 
     clergymen = {
         culture = north_german
         religion = ketronant
-        size = 304
+        size = 675
     }
 
     artisans = {
         culture = north_german
         religion = ketronant
-        size = 1642
+        size = 3650
     }
 
     soldiers = {
         culture = north_german
         religion = ketronant
-        size = 450
+        size = 1000
     }
 
     farmers = {
         culture = north_german
         religion = ketronant
-        size = 30037
-    }
-
-    aristocrats = {
-        culture = south_german
-        religion = ketronant
-        size = 399
-    }
-
-    bureaucrats = {
-        culture = south_german
-        religion = ketronant
-        size = 69
-    }
-
-    officers = {
-        culture = south_german
-        religion = ketronant
-        size = 41
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = ketronant
-        size = 371
-    }
-
-    artisans = {
-        culture = south_german
-        religion = ketronant
-        size = 2008
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = ketronant
-        size = 550
-    }
-
-    farmers = {
-        culture = south_german
-        religion = ketronant
-        size = 36713
+        size = 66750
     }
 }
 #under the rule of Saxe-Meiningen 1836
@@ -2449,8 +2180,6 @@
 #Hesse Region (1719600)
 #under the rule of Frankfurt 1836
 #Frankfurt-am-Main (44000/16000 POPS)
-######Jews
-########
 564 = {
     aristocrats = {
         culture = rhine_german
@@ -2512,6 +2241,7 @@
         size = 500
     }
 
+    ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
@@ -2547,11 +2277,10 @@
         religion = jewish
         size = 500
     }
+    ########
 }
 #under the rule of Nassau 1836
 #Wiesbaden (402400/100600 POPS)
-######Jews
-########
 565 = {
     aristocrats = {
         culture = rhine_german
@@ -2619,6 +2348,7 @@
         size = 40306
     }
 
+    ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
@@ -2654,11 +2384,10 @@
         religion = jewish
         size = 600
     }
+    ########
 }
 #under the rule of Hesse-Kassel 1836
 #Kassel (445200/111300 POPS)
-######Jews
-########
 566 = {
     aristocrats = {
         culture = rhine_german
@@ -2732,6 +2461,7 @@
         size = 20475
     }
 
+    ######Jews
     soldiers = {
         culture = ashkenazi
         religion = jewish
@@ -2755,6 +2485,7 @@
         religion = jewish
         size = 100
     }
+    ########
 }
 #Fulda (248000/62000 POPS)
 568 = {
@@ -2787,7 +2518,6 @@
         religion = ketronant
         size = 46850
     }
-
     clergymen = {
         culture = rhine_german
         religion = ketronant
@@ -2916,8 +2646,6 @@
 #Palatinate-Moselle Region (1815200)
 #under the rule of Baden 1836
 #Mannheim (261000/65250 POPS)
-######Jews
-########
 569 = {
     aristocrats = {
         culture = south_german
@@ -2973,6 +2701,7 @@
         size = 46600
     }
 
+    ######Jews
     soldiers = {
         culture = ashkenazi
         religion = jewish
@@ -2996,11 +2725,10 @@
         religion = jewish
         size = 100
     }
+    ########
 }
 #under the rule of Hesse-Darmstadt 1836
 #Mainz (242200/60550 POPS)
-######Jews
-########
 570 = {
     aristocrats = {
         culture = rhine_german
@@ -3056,6 +2784,7 @@
         size = 8700
     }
 
+    ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
@@ -3091,11 +2820,10 @@
         religion = jewish
         size = 100
     }
+    ########
 }
 #under the rule of Bavaria 1836
 #Kaiserslautern (556000/139000 POPS)
-######Jews
-########
 571 = {
     aristocrats = {
         culture = rhine_german
@@ -3151,6 +2879,7 @@
         size = 70750
     }
 
+    ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
@@ -3186,6 +2915,7 @@
         religion = jewish
         size = 100
     }
+    ########
 }
 #Saarbrucken (308000/77000 POPS)
 573 = {
@@ -3329,9 +3059,8 @@
         size = 24875
     }
 }
+
 #Dusseldorf (364000/91000 POPS)
-######Jews
-########
 578 = {
     aristocrats = {
         culture = rhine_german
@@ -3429,6 +3158,7 @@
         size = 5500
     }
 
+    ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
@@ -3470,6 +3200,8 @@
         religion = jewish
         size = 100
     }
+    ########
+
 }
 #Koblenz (200000/50000 POPS)
 579 = {
@@ -3532,6 +3264,7 @@
         religion = ketronant
         size = 12250
     }
+
 }
 #Siegburg (104000/26000 POPS)
 2561 = {
@@ -3598,8 +3331,6 @@
 #Westphalia Region (1390000)
 #under the rule of Prussia in 1836
 #Dortmund (380000/95000 POPS)
-######Jews
-########
 580 = {
     aristocrats = {
         culture = rhine_german
@@ -3709,6 +3440,7 @@
         size = 55475
     }
 
+    ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
@@ -3750,6 +3482,7 @@
         religion = jewish
         size = 200
     }
+    ########
 }
 #Minden (216000/54000 POPS)
 582 = {
@@ -3986,7 +3719,7 @@
         culture = rhine_german
         religion = ketronant
         size = 10405
-    }
+    }    
 
     clergymen = {
         culture = flanish
@@ -4003,8 +3736,6 @@
 #Baden Region (1040000)
 #under the rule of Baden in 1836
 #Karlsruhe (632000/158000 POPS)
-######Jews
-########
 586 = {
     aristocrats = {
         culture = rhine_german
@@ -4072,6 +3803,7 @@
         size = 4400
     }
 
+    ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
@@ -4107,59 +3839,60 @@
         religion = jewish
         size = 300
     }
+    ########
 }
 #Freiburg (244000/61000 POPS)
 587 = {
     aristocrats = {
-        culture = swiss
+        culture = rhine_german
         religion = ketronant
         size = 600
     }
 
     clergymen = {
-        culture = swiss
+        culture = rhine_german
         religion = ketronant
         size = 575
     }
 
     artisans = {
-        culture = swiss
+        culture = rhine_german
         religion = ketronant
         size = 2850
     }
 
     soldiers = {
-        culture = swiss
+        culture = rhine_german
         religion = ketronant
         size = 1000
     }
 
     farmers = {
-        culture = swiss
+        culture = rhine_german
         religion = ketronant
         size = 51975
     }
 
     clergymen = {
-        culture = swiss
+        culture = rhine_german
         religion = ketronant
         size = 75
     }
 
     artisans = {
-        culture = swiss
+        culture = rhine_german
         religion = ketronant
         size = 200
     }
 
     soldiers = {
-        culture = swiss
+        culture = rhine_german
         religion = ketronant
         size = 25
     }
 
     farmers = {
-        culture = swiss
+        culture = rhine_german
         religion = ketronant
         size = 3700
     }
@@ -4167,55 +3900,55 @@
 #Konstanz (164000/41000 POPS)
 588 = {
     aristocrats = {
-        culture = swiss
+        culture = south_german
         religion = ketronant
         size = 350
     }
 
     clergymen = {
-        culture = swiss
+        culture = south_german
         religion = ketronant
         size = 375
     }
 
     artisans = {
-        culture = swiss
+        culture = south_german
         religion = ketronant
         size = 1850
     }
 
     soldiers = {
-        culture = swiss
+        culture = south_german
         religion = ketronant
         size = 400
     }
 
     farmers = {
-        culture = swiss
+        culture = south_german
         religion = ketronant
         size = 34025
     }
 
     clergymen = {
-        culture = swiss
+        culture = south_german
         religion = ketronant
         size = 75
     }
 
     artisans = {
-        culture = swiss
+        culture = south_german
         religion = ketronant
         size = 200
     }
 
     soldiers = {
-        culture = swiss
+        culture = south_german
         religion = ketronant
         size = 25
     }
 
     farmers = {
-        culture = swiss
+        culture = south_german
         religion = ketronant
         size = 3700
     }
@@ -4223,8 +3956,6 @@
 #Wurttemburg Region (1308000)
 #under the rule of Wurttemburg in 1836
 #Stuttgart (676000/169000 POPS)
-######Jews
-########
 589 = {
     aristocrats = {
         culture = south_german
@@ -4304,6 +4035,7 @@
         size = 15175
     }
 
+    ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
@@ -4339,6 +4071,7 @@
         religion = jewish
         size = 200
     }
+    ########
 }
 #Heilbronn (340000/85000 POPS)
 590 = {
@@ -4372,114 +4105,60 @@
         size = 79225
     }
 }
+
 #Tubingen (292000/73000 POPS)
 591 = {
     aristocrats = {
         culture = south_german
         religion = ketronant
-        size = 220
+        size = 400
     }
 
     clergymen = {
         culture = south_german
         religion = ketronant
-        size = 206
+        size = 375
     }
 
     artisans = {
         culture = south_german
         religion = ketronant
-        size = 1045
+        size = 1900
     }
 
     soldiers = {
         culture = south_german
         religion = ketronant
-        size = 220
+        size = 400
     }
 
     farmers = {
         culture = south_german
         religion = ketronant
-        size = 20309
+        size = 36925
     }
-
     clergymen = {
         culture = south_german
         religion = ketronant
-        size = 179
+        size = 325
     }
 
     artisans = {
         culture = south_german
         religion = ketronant
-        size = 962
+        size = 1750
     }
 
     soldiers = {
         culture = south_german
         religion = ketronant
-        size = 165
+        size = 300
     }
 
     farmers = {
         culture = south_german
         religion = ketronant
-        size = 16844
-    }
-
-    aristocrats = {
-        culture = rhine_german
-        religion = ketronant
-        size = 180
-    }
-
-    clergymen = {
-        culture = rhine_german
-        religion = ketronant
-        size = 169
-    }
-
-    artisans = {
-        culture = rhine_german
-        religion = ketronant
-        size = 855
-    }
-
-    soldiers = {
-        culture = rhine_german
-        religion = ketronant
-        size = 180
-    }
-
-    farmers = {
-        culture = rhine_german
-        religion = ketronant
-        size = 16616
-    }
-
-    clergymen = {
-        culture = rhine_german
-        religion = ketronant
-        size = 146
-    }
-
-    artisans = {
-        culture = rhine_german
-        religion = ketronant
-        size = 788
-    }
-
-    soldiers = {
-        culture = rhine_german
-        religion = ketronant
-        size = 135
-    }
-
-    farmers = {
-        culture = rhine_german
-        religion = ketronant
-        size = 13781
+        size = 30625
     }
 }
 #Swabia Region (833000)
@@ -4627,8 +4306,6 @@
 #Franconia Region (1876000)
 #under the rule of Bavaria in 1836
 #Nuremburg (904000/226000 POPS)
-######Jews
-########
 595 = {
     aristocrats = {
         culture = south_german
@@ -4702,6 +4379,7 @@
         size = 111275
     }
 
+    ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
@@ -4737,6 +4415,7 @@
         religion = jewish
         size = 400
     }
+    ########
 }
 #Aschaffenburg (136000/34000 POPS)
 596 = {

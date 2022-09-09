@@ -1,9 +1,11 @@
-owner = BRT
-controller = BRT
+owner = DPA
+controller = DPA
 add_core = FRE
-add_core = BRT
+
 trade_goods = grain
 
 life_rating = 31
 
 2861.1.1 = { railroad = 3 }
+
+add_core = DPA

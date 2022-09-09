@@ -1,6 +1,6 @@
-owner = CHS
-controller = CHS
-add_core = CHS
+owner = UNS
+controller = UNS
+
 add_core = ENL
 trade_goods = coal
 life_rating = 40
@@ -15,3 +15,5 @@ party_loyalty = {
     loyalty_value = 17
 }
 2861.1.1 = { railroad = 3 }
+
+add_core = UNS

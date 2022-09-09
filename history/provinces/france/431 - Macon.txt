@@ -1,7 +1,9 @@
-owner = AUV
-controller = AUV
-add_core = AUV
+owner = DPA
+controller = DPA
+
 add_core = FRE
 trade_goods = coal
 life_rating = 31
 2861.1.1 = { railroad = 2 }
+
+add_core = DPA

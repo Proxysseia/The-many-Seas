@@ -1,6 +1,6 @@
-owner = TYN
-controller = TYN
-add_core = TYN
+owner = UNS
+controller = UNS
+
 add_core = ENL
 trade_goods = iron
 life_rating = 35
@@ -23,3 +23,5 @@ state_building = {
     building = clipper_shipyard
     upgrade = yes
 }
+
+add_core = UNS

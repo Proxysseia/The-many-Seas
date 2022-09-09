@@ -1,6 +1,6 @@
-owner = OCC
-controller = OCC
-add_core = OCC
+owner = DPA
+controller = DPA
+
 add_core = FRE
 trade_goods = cattle
 life_rating = 35
@@ -8,3 +8,5 @@ naval_base = 1
 2861.1.1 = {
     railroad = 3
 }
+
+add_core = DPA

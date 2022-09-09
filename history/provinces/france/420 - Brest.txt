@@ -1,7 +1,7 @@
-owner = BRT
-controller = BRT
+owner = DPA
+controller = DPA
 add_core = FRE
-add_core = BRT
+
 trade_goods = grain
 life_rating = 39
 naval_base = 2
@@ -20,3 +20,5 @@ naval_base = 2
 2861.1.1 = {
     naval_base = 3
 }
+
+add_core = DPA

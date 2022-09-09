@@ -1,5 +1,7 @@
-owner = CAT
-controller = CAT
+owner = DPA
+controller = DPA
 add_core = CAT
 trade_goods = grain
 life_rating = 32
+
+add_core = DPA

@@ -1,6 +1,6 @@
-owner = AUV
-controller = AUV
-add_core = AUV
+owner = DPA
+controller = DPA
+
 add_core = FRE
 trade_goods = iron
 life_rating = 34
@@ -23,3 +23,5 @@ state_building = {
     }
 }
 2861.1.1 = { railroad = 3 }
+
+add_core = DPA

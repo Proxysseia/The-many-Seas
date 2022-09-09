@@ -1,7 +1,7 @@
-owner = OCC
-controller = OCC
+owner = DPA
+controller = DPA
 add_core = FRE
-add_core = OCC
+
 trade_goods = wool
 life_rating = 35
 terrain = forest
@@ -21,3 +21,5 @@ terrain = forest
     railroad = 3
     naval_base = 1
 }
+
+add_core = DPA

@@ -1,9 +1,11 @@
-owner = ROU
-controller = ROU
-add_core = ROU
+owner = DPA
+controller = DPA
+
 add_core = FRE
 trade_goods = grain
 life_rating = 32
 2861.1.1 = {
     naval_base = 2
 }
+
+add_core = DPA

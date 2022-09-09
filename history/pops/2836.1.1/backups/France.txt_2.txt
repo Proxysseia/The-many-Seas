@@ -267,85 +267,85 @@
     aristocrats = {
         culture = rhine_german
         religion = catholic
-        size = 210
+        size = 300
     }
 
     officers = {
         culture = rhine_german
         religion = catholic
-        size = 42
+        size = 60
     }
 
     bureaucrats = {
         culture = rhine_german
         religion = catholic
-        size = 175
+        size = 250
     }
 
     clergymen = {
         culture = rhine_german
         religion = catholic
-        size = 262
+        size = 375
     }
 
     artisans = {
         culture = rhine_german
         religion = catholic
-        size = 3850
+        size = 5500
     }
 
     soldiers = {
         culture = rhine_german
         religion = catholic
-        size = 245
+        size = 350
     }
 
     farmers = {
         culture = rhine_german
         religion = catholic
-        size = 25315
+        size = 36165
     }
 
     aristocrats = {
         culture = rhine_german
         religion = protestant
-        size = 280
+        size = 400
     }
 
     officers = {
         culture = rhine_german
         religion = protestant
-        size = 42
+        size = 60
     }
 
     bureaucrats = {
         culture = rhine_german
         religion = protestant
-        size = 140
+        size = 200
     }
 
     clergymen = {
         culture = rhine_german
         religion = protestant
-        size = 280
+        size = 400
     }
 
     artisans = {
         culture = rhine_german
         religion = protestant
-        size = 4200
+        size = 6000
     }
 
     soldiers = {
         culture = rhine_german
         religion = protestant
-        size = 280
+        size = 400
     }
 
     farmers = {
         culture = rhine_german
         religion = protestant
-        size = 29428
+        size = 42040
     }
 
     aristocrats = {
@@ -389,90 +389,6 @@
         religion = protestant
         size = 24495
     }
-
-    aristocrats = {
-        culture = swiss
-        religion = catholic
-        size = 90
-    }
-
-    officers = {
-        culture = swiss
-        religion = catholic
-        size = 18
-    }
-
-    bureaucrats = {
-        culture = swiss
-        religion = catholic
-        size = 75
-    }
-
-    clergymen = {
-        culture = swiss
-        religion = catholic
-        size = 113
-    }
-
-    artisans = {
-        culture = swiss
-        religion = catholic
-        size = 1650
-    }
-
-    soldiers = {
-        culture = swiss
-        religion = catholic
-        size = 105
-    }
-
-    farmers = {
-        culture = swiss
-        religion = catholic
-        size = 10850
-    }
-
-    aristocrats = {
-        culture = swiss
-        religion = protestant
-        size = 120
-    }
-
-    officers = {
-        culture = swiss
-        religion = protestant
-        size = 18
-    }
-
-    bureaucrats = {
-        culture = swiss
-        religion = protestant
-        size = 60
-    }
-
-    clergymen = {
-        culture = swiss
-        religion = protestant
-        size = 120
-    }
-
-    artisans = {
-        culture = swiss
-        religion = protestant
-        size = 1800
-    }
-
-    soldiers = {
-        culture = swiss
-        religion = protestant
-        size = 120
-    }
-
-    farmers = {
-        culture = swiss
-        religion = protestant
-        size = 12612
-    }
 }
 #Mulhausen (424000/106000 POPS)
 ######Jews
@@ -481,61 +397,61 @@
     aristocrats = {
         culture = rhine_german
         religion = catholic
-        size = 210
+        size = 300
     }
 
     clergymen = {
         culture = rhine_german
         religion = catholic
-        size = 210
+        size = 300
     }
 
     artisans = {
         culture = rhine_german
         religion = catholic
-        size = 1050
+        size = 1500
     }
 
     soldiers = {
         culture = rhine_german
         religion = catholic
-        size = 210
+        size = 300
     }
 
     farmers = {
         culture = rhine_german
         religion = catholic
-        size = 19320
+        size = 27600
     }
 
     aristocrats = {
         culture = rhine_german
         religion = protestant
-        size = 245
+        size = 350
     }
 
     clergymen = {
         culture = rhine_german
         religion = protestant
-        size = 262
+        size = 375
     }
 
     artisans = {
         culture = rhine_german
         religion = protestant
-        size = 1750
+        size = 2500
     }
 
     soldiers = {
         culture = rhine_german
         religion = protestant
-        size = 280
+        size = 400
     }
 
     farmers = {
         culture = rhine_german
         religion = protestant
-        size = 28962
+        size = 41375
     }
 
     soldiers = {
@@ -591,66 +507,6 @@
         religion = protestant
         size = 27600
     }
-
-    aristocrats = {
-        culture = swiss
-        religion = catholic
-        size = 90
-    }
-
-    clergymen = {
-        culture = swiss
-        religion = catholic
-        size = 90
-    }
-
-    artisans = {
-        culture = swiss
-        religion = catholic
-        size = 450
-    }
-
-    soldiers = {
-        culture = swiss
-        religion = catholic
-        size = 90
-    }
-
-    farmers = {
-        culture = swiss
-        religion = catholic
-        size = 8280
-    }
-
-    aristocrats = {
-        culture = swiss
-        religion = protestant
-        size = 105
-    }
-
-    clergymen = {
-        culture = swiss
-        religion = protestant
-        size = 113
-    }
-
-    artisans = {
-        culture = swiss
-        religion = protestant
-        size = 750
-    }
-
-    soldiers = {
-        culture = swiss
-        religion = protestant
-        size = 120
-    }
-
-    farmers = {
-        culture = swiss
-        religion = protestant
-        size = 12413
-    }
 }
 #Lorraine Region (1584000)
 #Nancy (432000/108000 POPS)
@@ -660,43 +516,43 @@
     aristocrats = {
         culture = parish
         religion = catholic
-        size = 660
+        size = 1100
     }
 
     officers = {
         culture = parish
         religion = catholic
-        size = 240
+        size = 400
     }
 
     bureaucrats = {
         culture = parish
         religion = catholic
-        size = 360
+        size = 600
     }
 
     clergymen = {
         culture = parish
         religion = catholic
-        size = 510
+        size = 850
     }
 
     artisans = {
         culture = parish
         religion = catholic
-        size = 4470
+        size = 7450
     }
 
     soldiers = {
         culture = parish
         religion = catholic
-        size = 660
+        size = 1100
     }
 
     farmers = {
         culture = parish
         religion = catholic
-        size = 44760
+        size = 74600
     }
 
     bureaucrats = {
@@ -763,48 +619,6 @@
         culture = ashkenazi
         religion = jewish
         size = 400
-    }
-
-    aristocrats = {
-        culture = swiss
-        religion = catholic
-        size = 440
-    }
-
-    officers = {
-        culture = swiss
-        religion = catholic
-        size = 160
-    }
-
-    bureaucrats = {
-        culture = swiss
-        religion = catholic
-        size = 240
-    }
-
-    clergymen = {
-        culture = swiss
-        religion = catholic
-        size = 340
-    }
-
-    artisans = {
-        culture = swiss
-        religion = catholic
-        size = 2980
-    }
-
-    soldiers = {
-        culture = swiss
-        religion = catholic
-        size = 440
-    }
-
-    farmers = {
-        culture = swiss
-        religion = catholic
-        size = 29840
     }
 }
 #Metz (420000/105000 POPS)
@@ -1014,25 +828,25 @@
     }
 
     clergymen = {
-        culture = swiss
+        culture = rhine_german
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = swiss
+        culture = rhine_german
         religion = catholic
         size = 1225
     }
 
     soldiers = {
-        culture = swiss
+        culture = rhine_german
         religion = catholic
         size = 100
     }
 
     labourers = {
-        culture = swiss
+        culture = rhine_german
         religion = catholic
         size = 700
     }

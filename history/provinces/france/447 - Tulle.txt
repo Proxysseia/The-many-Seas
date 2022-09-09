@@ -1,6 +1,8 @@
-owner = ROU
-controller = ROU
-add_core = ROU
+owner = DPA
+controller = DPA
+
 add_core = FRE
 trade_goods = fruit
 life_rating = 31
+
+add_core = DPA

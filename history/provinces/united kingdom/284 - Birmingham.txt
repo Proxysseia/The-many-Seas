@@ -1,6 +1,6 @@
-owner = CHS
-controller = CHS
-add_core = CHS
+owner = UNS
+controller = UNS
+
 add_core = ENL
 trade_goods = coal
 life_rating = 35
@@ -12,3 +12,5 @@ party_loyalty = {
     ideology = conservative
     loyalty_value = 15
 }
+
+add_core = UNS

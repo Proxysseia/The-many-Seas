@@ -1759,115 +1759,115 @@
     aristocrats = {
         culture = north_german
         religion = ketronant
-        size = 1048
+        size = 1905
     }
 
     bureaucrats = {
         culture = north_german
         religion = ketronant
-        size = 454
+        size = 825
     }
 
     officers = {
         culture = north_german
         religion = ketronant
-        size = 74
+        size = 135
     }
 
     capitalists = {
         culture = north_german
         religion = ketronant
-        size = 74
+        size = 135
     }
 
     clergymen = {
         culture = north_german
         religion = ketronant
-        size = 1130
+        size = 2055
     }
 
     clerks = {
         culture = north_german
         religion = ketronant
-        size = 74
+        size = 135
     }
 
     craftsmen = {
         culture = north_german
         religion = ketronant
-        size = 709
+        size = 1290
     }
 
     artisans = {
         culture = north_german
         religion = ketronant
-        size = 7109
+        size = 12925
     }
 
     soldiers = {
         culture = north_german
         religion = ketronant
-        size = 1149
+        size = 2090
     }
 
     labourers = {
         culture = north_german
         religion = ketronant
-        size = 94946
+        size = 172630
     }
 
     aristocrats = {
         culture = north_german
         religion = ketronant
-        size = 55
+        size = 100
     }
 
     officers = {
         culture = north_german
         religion = ketronant
-        size = 55
+        size = 100
     }
 
     capitalists = {
         culture = north_german
         religion = ketronant
-        size = 55
+        size = 100
     }
 
     clergymen = {
         culture = north_german
         religion = ketronant
-        size = 55
+        size = 100
     }
 
     craftsmen = {
         culture = north_german
         religion = ketronant
-        size = 55
+        size = 100
     }
 
     artisans = {
         culture = north_german
         religion = ketronant
-        size = 550
+        size = 1000
     }
 
     soldiers = {
         culture = north_german
         religion = ketronant
-        size = 55
+        size = 100
     }
 
     labourers = {
         culture = north_german
         religion = ketronant
-        size = 3008
+        size = 5470
     }
 
     clerks = {
         culture = north_german
         religion = ketronant
-        size = 55
+        size = 100
     }
 
     aristocrats = {
@@ -1886,120 +1886,6 @@
         culture = ashkenazi
         religion = jewish
         size = 100
-    }
-
-    aristocrats = {
-        culture = south_german
-        religion = ketronant
-        size = 857
-    }
-
-    bureaucrats = {
-        culture = south_german
-        religion = ketronant
-        size = 371
-    }
-
-    officers = {
-        culture = south_german
-        religion = ketronant
-        size = 61
-    }
-
-    capitalists = {
-        culture = south_german
-        religion = ketronant
-        size = 61
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = ketronant
-        size = 925
-    }
-
-    clerks = {
-        culture = south_german
-        religion = ketronant
-        size = 61
-    }
-
-    craftsmen = {
-        culture = south_german
-        religion = ketronant
-        size = 581
-    }
-
-    artisans = {
-        culture = south_german
-        religion = ketronant
-        size = 5816
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = ketronant
-        size = 941
-    }
-
-    labourers = {
-        culture = south_german
-        religion = ketronant
-        size = 77684
-    }
-
-    aristocrats = {
-        culture = south_german
-        religion = ketronant
-        size = 45
-    }
-
-    officers = {
-        culture = south_german
-        religion = ketronant
-        size = 45
-    }
-
-    capitalists = {
-        culture = south_german
-        religion = ketronant
-        size = 45
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = ketronant
-        size = 45
-    }
-
-    craftsmen = {
-        culture = south_german
-        religion = ketronant
-        size = 45
-    }
-
-    artisans = {
-        culture = south_german
-        religion = ketronant
-        size = 450
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = ketronant
-        size = 45
-    }
-
-    labourers = {
-        culture = south_german
-        religion = ketronant
-        size = 2462
-    }
-
-    clerks = {
-        culture = south_german
-        religion = ketronant
-        size = 45
     }
 }
 #Leipzig (494440/123610 POPS)
@@ -2009,43 +1895,43 @@
     aristocrats = {
         culture = north_german
         religion = ketronant
-        size = 715
+        size = 1300
     }
 
     clergymen = {
         culture = north_german
         religion = ketronant
-        size = 723
+        size = 1315
     }
 
     clerks = {
         culture = north_german
         religion = ketronant
-        size = 74
+        size = 135
     }
 
     craftsmen = {
         culture = north_german
         religion = ketronant
-        size = 773
+        size = 1405
     }
 
     artisans = {
         culture = north_german
         religion = ketronant
-        size = 5819
+        size = 10580
     }
 
     soldiers = {
         culture = north_german
         religion = ketronant
-        size = 723
+        size = 1315
     }
 
     labourers = {
         culture = north_german
         religion = ketronant
-        size = 59158
+        size = 107560
     }
 
     soldiers = {
@@ -2082,48 +1968,6 @@
         culture = ashkenazi
         religion = jewish
         size = 100
-    }
-
-    aristocrats = {
-        culture = south_german
-        religion = ketronant
-        size = 585
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = ketronant
-        size = 592
-    }
-
-    clerks = {
-        culture = south_german
-        religion = ketronant
-        size = 61
-    }
-
-    craftsmen = {
-        culture = south_german
-        religion = ketronant
-        size = 632
-    }
-
-    artisans = {
-        culture = south_german
-        religion = ketronant
-        size = 4761
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = ketronant
-        size = 592
-    }
-
-    labourers = {
-        culture = south_german
-        religion = ketronant
-        size = 48402
     }
 }
 #Chemnitz (330080/82520 POPS)
@@ -2131,61 +1975,31 @@
     aristocrats = {
         culture = north_german
         religion = ketronant
-        size = 425
+        size = 945
     }
 
     clergymen = {
         culture = north_german
         religion = ketronant
-        size = 333
+        size = 740
     }
 
     artisans = {
         culture = north_german
         religion = ketronant
-        size = 2655
+        size = 5900
     }
 
     soldiers = {
         culture = north_german
         religion = ketronant
-        size = 531
+        size = 1180
     }
 
     labourers = {
         culture = north_german
         religion = ketronant
-        size = 33190
-    }
-
-    aristocrats = {
-        culture = south_german
-        religion = ketronant
-        size = 520
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = ketronant
-        size = 407
-    }
-
-    artisans = {
-        culture = south_german
-        religion = ketronant
-        size = 3245
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = ketronant
-        size = 649
-    }
-
-    labourers = {
-        culture = south_german
-        religion = ketronant
-        size = 40565
+        size = 73755
     }
 }
 #Thuringia Region (865000)
@@ -2197,43 +2011,43 @@
     aristocrats = {
         culture = north_german
         religion = ketronant
-        size = 495
+        size = 1100
     }
 
     bureaucrats = {
         culture = north_german
         religion = ketronant
-        size = 67
+        size = 150
     }
 
     officers = {
         culture = north_german
         religion = ketronant
-        size = 45
+        size = 100
     }
 
     clergymen = {
         culture = north_german
         religion = ketronant
-        size = 394
+        size = 875
     }
 
     artisans = {
         culture = north_german
         religion = ketronant
-        size = 1912
+        size = 4250
     }
 
     soldiers = {
         culture = north_german
         religion = ketronant
-        size = 450
+        size = 1000
     }
 
     farmers = {
         culture = north_german
         religion = ketronant
-        size = 37631
+        size = 83625
     }
 
     aristocrats = {
@@ -2271,48 +2085,6 @@
         religion = jewish
         size = 500
     }
-
-    aristocrats = {
-        culture = south_german
-        religion = ketronant
-        size = 605
-    }
-
-    bureaucrats = {
-        culture = south_german
-        religion = ketronant
-        size = 83
-    }
-
-    officers = {
-        culture = south_german
-        religion = ketronant
-        size = 55
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = ketronant
-        size = 481
-    }
-
-    artisans = {
-        culture = south_german
-        religion = ketronant
-        size = 2338
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = ketronant
-        size = 550
-    }
-
-    farmers = {
-        culture = south_german
-        religion = ketronant
-        size = 45994
-    }
 }
 #under the rule of Saxe-Coburg 1836
 #Gotha (292000/73000 POPS)
@@ -2320,85 +2092,43 @@
     aristocrats = {
         culture = north_german
         religion = ketronant
-        size = 326
+        size = 725
     }
 
     bureaucrats = {
         culture = north_german
         religion = ketronant
-        size = 56
+        size = 125
     }
 
     officers = {
         culture = north_german
         religion = ketronant
-        size = 34
+        size = 75
     }
 
     clergymen = {
         culture = north_german
         religion = ketronant
-        size = 304
+        size = 675
     }
 
     artisans = {
         culture = north_german
         religion = ketronant
-        size = 1642
+        size = 3650
     }
 
     soldiers = {
         culture = north_german
         religion = ketronant
-        size = 450
+        size = 1000
     }
 
     farmers = {
         culture = north_german
         religion = ketronant
-        size = 30037
-    }
-
-    aristocrats = {
-        culture = south_german
-        religion = ketronant
-        size = 399
-    }
-
-    bureaucrats = {
-        culture = south_german
-        religion = ketronant
-        size = 69
-    }
-
-    officers = {
-        culture = south_german
-        religion = ketronant
-        size = 41
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = ketronant
-        size = 371
-    }
-
-    artisans = {
-        culture = south_german
-        religion = ketronant
-        size = 2008
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = ketronant
-        size = 550
-    }
-
-    farmers = {
-        culture = south_german
-        religion = ketronant
-        size = 36713
+        size = 66750
     }
 }
 #under the rule of Saxe-Meiningen 1836

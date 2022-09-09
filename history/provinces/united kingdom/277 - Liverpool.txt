@@ -1,6 +1,6 @@
-owner = CHS
-controller = CHS
-add_core = CHS
+owner = UNS
+controller = UNS
+
 add_core = ENL
 trade_goods = fish
 life_rating = 40
@@ -28,3 +28,5 @@ naval_base = 2
     railroad = 3
     naval_base = 2
 }
+
+add_core = UNS

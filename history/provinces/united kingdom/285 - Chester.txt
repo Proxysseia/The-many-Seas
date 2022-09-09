@@ -1,6 +1,6 @@
-owner = CHS
-controller = CHS
-add_core = CHS
+owner = UNS
+controller = UNS
+
 add_core = ENL
 trade_goods = fish
 life_rating = 35
@@ -22,3 +22,5 @@ state_building = {
     building = artillery_factory
     upgrade = yes
 }
+
+add_core = UNS

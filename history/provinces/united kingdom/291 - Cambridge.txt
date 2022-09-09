@@ -1,6 +1,6 @@
-owner = ANI
-controller = ANI
-add_core = ANI
+owner = UNS
+controller = UNS
+
 add_core = ENL
 trade_goods = grain
 life_rating = 35
@@ -13,3 +13,5 @@ party_loyalty = {
     loyalty_value = 17
 }
 
+
+add_core = UNS

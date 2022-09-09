@@ -1,7 +1,9 @@
-owner = BRT
-controller = BRT
+owner = DPA
+controller = DPA
 add_core = BRT
 add_core = FRE
 trade_goods = fish
 life_rating = 35
 terrain = small_island
+
+add_core = DPA
