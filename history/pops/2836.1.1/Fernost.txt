@@ -647,31 +647,31 @@
     }
 
     clergymen = {
-        culture = staromadar
+        culture = austro_german
         religion = ketronant
         size = 60
     }
 
     artisans = {
-        culture = staromadar
+        culture = austro_german
         religion = ketronant
         size = 150
     }
 
     soldiers = {
-        culture = staromadar
+        culture = austro_german
         religion = ketronant
         size = 1025
     }
 
     craftsmen = {
-        culture = staromadar
+        culture = austro_german
         religion = ketronant
         size = 100
     }
 
     farmers = {
-        culture = staromadar
+        culture = austro_german
         religion = ketronant
         size = 12665
     }
@@ -727,49 +727,49 @@
     }
 
     aristocrats = {
-        culture = staromadar
+        culture = austro_german
         religion = ketronant
         size = 350
     }
 
     bureaucrats = {
-        culture = staromadar
+        culture = austro_german
         religion = ketronant
         size = 125
     }
 
     officers = {
-        culture = staromadar
+        culture = austro_german
         religion = ketronant
         size = 150
     }
 
     clergymen = {
-        culture = staromadar
+        culture = austro_german
         religion = ketronant
         size = 125
     }
 
     craftsmen = {
-        culture = staromadar
+        culture = austro_german
         religion = ketronant
         size = 100
     }
 
     artisans = {
-        culture = staromadar
+        culture = austro_german
         religion = ketronant
         size = 1000
     }
 
     soldiers = {
-        culture = staromadar
+        culture = austro_german
         religion = ketronant
         size = 1250
     }
 
     farmers = {
-        culture = staromadar
+        culture = austro_german
         religion = ketronant
         size = 32125
     }
@@ -825,42 +825,42 @@
     }
 
     aristocrats = {
-        culture = staromadar
+        culture = austro_german
         religion = ketronant
         size = 3750
     }
 
     clergymen = {
-        culture = staromadar
+        culture = austro_german
         religion = ketronant
         size = 1250
     }
 
     artisans = {
-        culture = staromadar
+        culture = austro_german
         religion = ketronant
         size = 5900
     }
 
     craftsmen = {
-        culture = staromadar
+        culture = austro_german
         religion = ketronant
         size = 100
     }
 
     soldiers = {
-        culture = staromadar
+        culture = austro_german
         religion = ketronant
         size = 3000
     }
     soldiers = {
-        culture = staromadar
+        culture = austro_german
         religion = ketronant
         size = 250
     }
 
     farmers = {
-        culture = staromadar
+        culture = austro_german
         religion = ketronant
         size = 12000
     }

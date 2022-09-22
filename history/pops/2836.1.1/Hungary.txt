@@ -47,43 +47,43 @@
     }
 
     aristocrats = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 500
     }
 
     bureaucrats = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 75
     }
 
     officers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 175
     }
 
     artisans = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 38545
     }
@@ -123,61 +123,61 @@
 #Budapest (644000/161000 POPS)
 641 = {
     capitalists = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 25
     }
 
     aristocrats = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 1800
     }
 
     bureaucrats = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 1500
     }
 
     officers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 2250
     }
 
     artisans = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 7500
     }
 
     artisans = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 4500
     }
 
     soldiers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 4000
     }
 
     craftsmen = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 115410
     }
@@ -205,37 +205,37 @@
 #Gyor (384000/96000 POPS)
 642 = {
     aristocrats = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 2250
     }
 
     clergymen = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 575
     }
 
     artisans = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 2750
     }
 
     soldiers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 3000
     }
 
     craftsmen = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 55325
     }
@@ -255,37 +255,37 @@
 #Szekesfehervar (364000/91000 POPS)
 643 = {
     aristocrats = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 4100
     }
 
     clergymen = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 3000
     }
 
     artisans = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 2250
     }
 
     craftsmen = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 2000
     }
 
     farmers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size =  78277
     }
@@ -311,31 +311,31 @@
 #Kaposvar (392000/98000 POPS)
 644 = {
     aristocrats = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 3000
     }
 
     clergymen = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 750
     }
 
     artisans = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 3700
     }
 
     soldiers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 71750
     }
@@ -355,31 +355,31 @@
 #Kecskemet (108000/27000 POPS)
 645 = {
     aristocrats = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 400
     }
 
     clergymen = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 125
     }
 
     artisans = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 3200
     }
 
     soldiers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 19125
     }
@@ -401,43 +401,43 @@
 #Miskolc (320000/80000 POPS) #Part of Hungary Today
 646 = {
     aristocrats = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 1750
     }
 
     clergymen = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 425
     }
 
     bureaucrats = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 700
     }
 
     artisans = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 3750
     }
 
     soldiers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 450
     }
 
     craftsmen = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 61525
     }
@@ -519,25 +519,25 @@
     }
 
     clergymen = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 3915
     }
@@ -611,7 +611,7 @@
     }
 
     farmers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 5375
     }
@@ -685,25 +685,25 @@
     }
 
     clergymen = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = staromadar
+        culture = austro_german
         religion = catholic
         size = 6675
     }
