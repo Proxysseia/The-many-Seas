@@ -14,55 +14,55 @@
     }
 
     aristocrats = {
-        culture = iskhor
+        culture = romanian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = iskhor
+        culture = romanian
         religion = orthodox
         size = 13050
     }
 
     aristocrats = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 1650
     }
 
     bureaucrats = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 375
     }
 
     officers = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 5100
     }
 
     soldiers = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 3100
     }
 
     farmers = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 74165
     }
@@ -72,31 +72,31 @@
 #Silistre (84000/21000 POPS) #now part of Bulgaria
 818 = {
     aristocrats = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 500
     }
 
     clergymen = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 200
     }
 
     artisans = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 450
     }
 
     soldiers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 500
     }
 
     farmers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 14250
     }
@@ -126,31 +126,31 @@
     }
 
     aristocrats = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 400
     }
 
     clergymen = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 450
     }
 
     soldiers = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 3100
     }
 
     farmers = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 54100
     }
@@ -158,79 +158,79 @@
 #Shumen (144000/36000 POPS)
 813 = {
     aristocrats = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 1650
     }
 
     clergymen = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 125
     }
 
     artisans = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 950
     }
 
     soldiers = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 25275
     }
 
     clergymen = {
-        culture = iskhor
+        culture = romanian
         religion = sunni
         size = 250
     }
 
     artisans = {
-        culture = iskhor
+        culture = romanian
         religion = sunni
         size = 500
     }
 
     soldiers = {
-        culture = iskhor
+        culture = romanian
         religion = sunni
         size = 250
     }
 
     farmers = {
-        culture = iskhor
+        culture = romanian
         religion = sunni
         size = 3000
     }
 
     soldiers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 500
     }
 
     clergymen = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 500
     }
 
     artisans = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 750
     }
 
     farmers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 31700
     }
@@ -238,55 +238,55 @@
 #Varna (220000/55000 POPS)
 814 = {
     aristocrats = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 700
     }
 
     clergymen = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 175
     }
 
     artisans = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 2100
     }
 
     soldiers = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 2000
     }
 
     farmers = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 26425
     }
 
     clergymen = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 400
     }
 
     artisans = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 1900
     }
 
     soldiers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 500
     }
 
     farmers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 29875
     }
@@ -294,49 +294,49 @@
 #Ruse (188000/47000 POPS)
 811 = {
     aristocrats = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 1050
     }
 
     clergymen = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 850
     }
 
     soldiers = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 3000
     }
 
     farmers = {
-        culture = westturkish
+        culture = romanian
         religion = sunni
         size = 23250
     }
 
     clergymen = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 200
     }
 
     artisans = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 750
     }
 
     farmers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 16050
     }

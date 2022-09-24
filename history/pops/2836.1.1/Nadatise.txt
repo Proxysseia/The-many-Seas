@@ -4,55 +4,55 @@
 806 = {
 
     aristocrats = {
-        culture = nadati
+        culture = albanian
         religion = the_broken
         size = 4500
     }
 
     bureaucrats = {
-        culture = nadati
+        culture = albanian
         religion = the_broken
         size = 1225
     }
 
     officers = {
-        culture = nadati
+        culture = albanian
         religion = the_broken
         size = 475
     }
 
     clergymen = {
-        culture = nadati
+        culture = albanian
         religion = the_broken
         size = 2325
     }
 
     artisans = {
-        culture = nadati
+        culture = albanian
         religion = the_broken
         size = 10000
     }
 
     artisans = {
-        culture = nadati
+        culture = albanian
         religion = the_broken
         size = 10000
     }
 
     artisans = {
-        culture = nadati
+        culture = albanian
         religion = the_broken
         size = 10000
     }
 
     soldiers = {
-        culture = nadati
+        culture = albanian
         religion = the_broken
         size = 6000
     }
 
     farmers = {
-        culture = nadati
+        culture = albanian
         religion = the_broken
         size = 103255
     }
@@ -64,37 +64,37 @@
     }
 
     aristocrats = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 125
     }
 
     officers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 110
     }
 
     soldiers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 200
     }
 
     clergymen = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 125
     }
 
     artisans = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 2100
     }
 
     farmers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 36350
     }
@@ -212,37 +212,37 @@
     }
 
     aristocrats = {
-        culture = nadati
+        culture = albanian
         religion = the_broken
         size = 1250
     }
 
     clergymen = {
-        culture = nadati
+        culture = albanian
         religion = the_broken
         size = 1125
     }
 
     artisans = {
-        culture = nadati
+        culture = albanian
         religion = the_broken
         size = 10000
     }
 
     artisans = {
-        culture = nadati
+        culture = albanian
         religion = the_broken
         size = 4000
     }
 
     soldiers = {
-        culture = nadati
+        culture = albanian
         religion = the_broken
         size = 3000
     }
 
     farmers = {
-        culture = nadati
+        culture = albanian
         religion = the_broken
         size = 61255
     }

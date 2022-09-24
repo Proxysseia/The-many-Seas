@@ -2027,37 +2027,37 @@
     }
 
     aristocrats = {
-        culture = iskhor
+        culture = romanian
         religion = orthodox
         size = 100
     }
 
     officers = {
-        culture = iskhor
+        culture = romanian
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = iskhor
+        culture = romanian
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = iskhor
+        culture = romanian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = iskhor
+        culture = romanian
         religion = orthodox
         size = 550
     }
 
     farmers = {
-        culture = iskhor
+        culture = romanian
         religion = orthodox
         size = 12050
     }

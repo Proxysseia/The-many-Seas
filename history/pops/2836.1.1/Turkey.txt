@@ -3,85 +3,85 @@
 #Edirne (172000/43000 POPS)
 828 = {
     aristocrats = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 900
     }
 
     bureaucrats = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 225
     }
 
     clergymen = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 175
     }
 
     artisans = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 1000
     }
 
     soldiers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 17825
     }
 
     clergymen = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 175
     }
 
     artisans = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 1000
     }
 
     soldiers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 500
     }
 
     farmers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 11525
     }
 
     clergymen = {
-        culture = iskhor
+        culture = romanian
         religion = orthodox
         size = 120
     }
 
     artisans = {
-        culture = iskhor
+        culture = romanian
         religion = orthodox
         size = 500
     }
 
     soldiers = {
-        culture = iskhor
+        culture = romanian
         religion = orthodox
         size = 500
     }
 
     farmers = {
-        culture = iskhor
+        culture = romanian
         religion = orthodox
         size = 9950
     }
@@ -137,79 +137,79 @@
 #Kirklareli (112000/28000 POPS)
 858 = {
     aristocrats = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 550
     }
 
     clergymen = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 125
     }
 
     artisans = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 750
     }
 
     soldiers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 300
     }
 
     farmers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 21275
     }
 
     soldiers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 200
     }
 
     clergymen = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 550
     }
 
     farmers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 17100
     }
 
     soldiers = {
-        culture = iskhor
+        culture = romanian
         religion = sunni
         size = 200
     }
 
     clergymen = {
-        culture = iskhor
+        culture = romanian
         religion = sunni
         size = 120
     }
 
     artisans = {
-        culture = iskhor
+        culture = romanian
         religion = sunni
         size = 120
     }
 
     farmers = {
-        culture = iskhor
+        culture = romanian
         religion = sunni
         size = 10825
     }
@@ -243,91 +243,91 @@
 #Gelibolu (80000/20000 POPS)
 859 = {
     aristocrats = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 375
     }
 
     clergymen = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 550
     }
 
     soldiers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 18975
     }
 
     soldiers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 300
     }
 
     clergymen = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 150
     }
 
     artisans = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 450
     }
 
     farmers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 18225
     }
 
     aristocrats = {
-        culture = iskhor
+        culture = romanian
         religion = sunni
         size = 120
     }
 
     officers = {
-        culture = iskhor
+        culture = romanian
         religion = sunni
         size = 120
     }
 
     soldiers = {
-        culture = iskhor
+        culture = romanian
         religion = sunni
         size = 300
     }
 
     clergymen = {
-        culture = iskhor
+        culture = romanian
         religion = sunni
         size = 200
     }
 
     artisans = {
-        culture = iskhor
+        culture = romanian
         religion = sunni
         size = 2000
     }
 
     farmers = {
-        culture = iskhor
+        culture = romanian
         religion = sunni
         size = 5475
     }
@@ -363,43 +363,43 @@
 #Istanbul (764000/191000 POPS)
 860 = {
     aristocrats = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 750
     }
 
     bureaucrats = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 700
     }
 
     officers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 150
     }
 
     clergymen = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 1125
     }
 
     artisans = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 10000
     }
 
     soldiers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 6000
     }
 
     farmers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 43675
     }
@@ -411,107 +411,107 @@
     }
 
     aristocrats = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 120
     }
 
     officers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 120
     }
 
     soldiers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 300
     }
 
     clergymen = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 550
     }
 
     artisans = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 5000
     }
 
     farmers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 20900
     }
     aristocrats = {
-        culture = iskhor
+        culture = romanian
         religion = orthodox
         size = 120
     }
 
     officers = {
-        culture = iskhor
+        culture = romanian
         religion = orthodox
         size = 120
     }
 
     soldiers = {
-        culture = iskhor
+        culture = romanian
         religion = orthodox
         size = 120
     }
 
     clergymen = {
-        culture = iskhor
+        culture = romanian
         religion = orthodox
         size = 120
     }
 
     artisans = {
-        culture = iskhor
+        culture = romanian
         religion = orthodox
         size = 5000
     }
 
     farmers = {
-        culture = iskhor
+        culture = romanian
         religion = orthodox
         size = 475
     }
     aristocrats = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 120
     }
 
     officers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 120
     }
 
     soldiers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 300
     }
 
     clergymen = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 225
     }
 
     artisans = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 5000
     }
 
     farmers = {
-        culture = westturkish
+        culture = turkish
         religion = sunni
         size = 22775
     }
@@ -541,7 +541,7 @@
     }
 
     slaves = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 6675
     }
@@ -707,8 +707,8 @@
     }
 
     slaves = {
-        culture = forest_bantu #african_minor
-        religion = animist
+        culture = armenian 
+        religion = coptic
         size = 500
     }
 }

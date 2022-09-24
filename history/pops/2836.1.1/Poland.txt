@@ -3,45 +3,69 @@
 #Stettin (484000/121000 POPS) #Part of Poland since 1945
 546 = {
     aristocrats = {
-        culture = north_german
+        culture = sorbian
         religion = ketronant
         size = 3250
     }
 
     bureaucrats = {
-        culture = north_german
+        culture = polish
         religion = ketronant
-        size = 4500
+        size = 1500
+    }
+	
+	bureaucrats = {
+        culture = sorbian
+        religion = ketronant
+        size = 1730
     }
 
     officers = {
-        culture = north_german
+        culture = sorbian
         religion = ketronant
         size = 350
     }
 
     clergymen = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 1125
     }
 
     artisans = {
-        culture = north_german
+        culture = polish
         religion = ketronant
-        size = 8250
+        size = 3250
+    }
+	
+	artisans = {
+        culture = sorbian
+        religion = ketronant
+        size = 5050
     }
 
     soldiers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
-        size = 6300
+        size = 4300
+    }
+	
+	soldiers = {
+        culture = sorbian
+        religion = ketronant
+        size = 2300
     }
 
     farmers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
-        size = 147125
+        size = 37125
+    }
+	
+	farmers = {
+        culture = sorbian
+        religion = ketronant
+        size = 43186
     }
 
     clergymen = {
@@ -61,65 +85,77 @@
         religion = prosperity
         size = 400
     }
-
+	
+    soldiers = {
+        culture = sorbian
+        religion = prosperity
+        size = 900
+    }
+	
     farmers = {
         culture = polish
         religion = prosperity
         size = 4920
     }
+	
+    farmers = {
+        culture = sorbian
+        religion = prosperity
+        size = 1920
+    }	
 }
 #Kolberg (160000/40000 POPS) #Part of Poland since 1945
 679 = {
     aristocrats = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 350
     }
 
     clergymen = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 375
     }
 
     artisans = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 1900
     }
 
     soldiers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 1000
     }
 
     farmers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 34375
     }
 
     clergymen = {
-        culture = western_slavic
+        culture = sorbian
         religion = prosperity
         size = 100
     }
 
     artisans = {
-        culture = western_slavic
+        culture = sorbian
         religion = prosperity
         size = 100
     }
 
     soldiers = {
-        culture = western_slavic
+        culture = sorbian
         religion = prosperity
         size = 100
     }
 
     farmers = {
-        culture = western_slavic
+        culture = sorbian
         religion = prosperity
         size = 1825
     }
@@ -127,79 +163,79 @@
 #Koslin (160000/40000 POPS) #Part of Poland since 1945
 680 = {
     aristocrats = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 250
     }
 
     clergymen = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 250
     }
 
     artisans = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 1350
     }
 
     soldiers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 1000
     }
 
     farmers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 24150
     }
 
     clergymen = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 100
     }
 
     artisans = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 550
     }
 
     soldiers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 100
     }
 
     farmers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 10250
     }
 
     clergymen = {
-        culture = western_slavic
+        culture = sorbian
         religion = prosperity
         size = 100
     }
 
     artisans = {
-        culture = western_slavic
+        culture = sorbian
         religion = prosperity
         size = 100
     }
 
     soldiers = {
-        culture = western_slavic
+        culture = sorbian
         religion = prosperity
         size = 100
     }
 
     farmers = {
-        culture = western_slavic
+        culture = sorbian
         religion = prosperity
         size = 1825
     }
@@ -209,33 +245,57 @@
 #Kustrin (208000/52000 POPS) #Part of Poland since 1945
 681 = {
     aristocrats = {
-        culture = north_german
+        culture = polish
         religion = ketronant
-        size = 525
+        size = 425
+    }
+	
+	aristocrats = {
+        culture = sorbian
+        religion = ketronant
+        size = 99
     }
 
     clergymen = {
-        culture = north_german
+        culture = sorbian
         religion = ketronant
         size = 450
     }
+	
+	clergymen = {
+        culture = polish
+        religion = ketronant
+        size = 100
+    }
 
     artisans = {
-        culture = north_german
+        culture = sorbian
         religion = ketronant
         size = 2400
     }
 
     soldiers = {
-        culture = north_german
+        culture = sorbian
         religion = ketronant
-        size = 2000
+        size = 1300
+    }
+	
+	soldiers = {
+        culture = polish
+        religion = ketronant
+        size = 750
     }
 
     farmers = {
-        culture = north_german
+        culture = sorbian
         religion = ketronant
-        size = 46425
+        size = 26425
+    }
+	
+	farmers = {
+        culture = polish
+        religion = ketronant
+        size = 21025
     }
 }
 #West Prussia Region (688000)
@@ -243,49 +303,49 @@
 #Danzig (76000/19000 POPS)
 690 = {
     aristocrats = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 100
     }
 
     bureaucrats = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 375
     }
 
     officers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 200
     }
 
     clergymen = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 100
     }
 
     artisans = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 9500
     }
 
     soldiers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 125
     }
 
     farmers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 1100
     }
 
     farmers = {
-        culture = western_slavic
+        culture = sorbian
         religion = prosperity
         size = 275
     }
@@ -323,61 +383,61 @@
 #Tuchel (180000/45000 POPS)
 691 = {
     aristocrats = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 800
     }
 
     clergymen = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 250
     }
 
     soldiers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 375
     }
 
     farmers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 23825
     }
 
     clergymen = {
-        culture = western_slavic
+        culture = sorbian
         religion = prosperity
         size = 100
     }
 
     farmers = {
-        culture = western_slavic
+        culture = sorbian
         religion = prosperity
         size = 3200
     }
 
     clergymen = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 100
     }
 
     artisans = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 100
     }
 
     soldiers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 100
     }
 
     farmers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 925
     }
@@ -409,31 +469,31 @@
 #Deutsche Krone (128000/32000 POPS)
 692 = {
     aristocrats = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 625
     }
 
     clergymen = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 175
     }
 
     artisans = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 1250
     }
 
     soldiers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 1000
     }
 
     farmers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 25950
     }
@@ -567,7 +627,7 @@
     }
 
     farmers = {
-        culture = paltijan
+        culture = latvian
         religion = prosperity
         size = 11800
     }
@@ -617,25 +677,25 @@
     }
 
     clergymen = {
-        culture = paltijan
+        culture = latvian
         religion = prosperity
         size = 100
     }
 
     artisans = {
-        culture = paltijan
+        culture = latvian
         religion = prosperity
         size = 250
     }
 
     soldiers = {
-        culture = paltijan
+        culture = latvian
         religion = prosperity
         size = 100
     }
 
     farmers = {
-        culture = paltijan
+        culture = latvian
         religion = prosperity
         size = 35650
     }
@@ -673,25 +733,25 @@
     }
 
     clergymen = {
-        culture = paltijan
+        culture = latvian
         religion = prosperity
         size = 250
     }
 
     artisans = {
-        culture = paltijan
+        culture = latvian
         religion = prosperity
         size = 4500
     }
 
     soldiers = {
-        culture = paltijan
+        culture = latvian
         religion = prosperity
         size = 250
     }
 
     farmers = {
-        culture = paltijan
+        culture = latvian
         religion = prosperity
         size = 31800
     }
@@ -703,67 +763,67 @@
 #Posen (540000/135000 POPS)
 699 = {
     aristocrats = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 2000
     }
 
     bureaucrats = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 700
     }
 
     officers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 350
     }
 
     clergymen = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 325
     }
 
     artisans = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 2650
     }
 
     soldiers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 1000
     }
 
     farmers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 26825
     }
 
     clergymen = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 175
     }
 
     artisans = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 1750
     }
 
     soldiers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 175
     }
 
     farmers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 15190
     }
@@ -801,55 +861,55 @@
 #Bromberg (212000/53000 POPS)
 700 = {
     aristocrats = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 800
     }
 
     clergymen = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 200
     }
 
     artisans = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 1050
     }
 
     soldiers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 1150
     }
 
     farmers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 20150
     }
 
     clergymen = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 100
     }
 
     artisans = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 350
     }
 
     soldiers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 100
     }
 
     farmers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 6525
     }
@@ -887,31 +947,31 @@
 #Gniezno (456000/116000 POPS)
 701 = {
     aristocrats = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 1750
     }
 
     clergymen = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 125
     }
 
     artisans = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 750
     }
 
     soldiers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 3000
     }
 
     farmers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 52125
     }
@@ -1426,37 +1486,37 @@
     }
 
     aristocrats = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 1000
     }
 
     clergymen = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 1000
     }
 
     officers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 100
     }
 
     artisans = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 2500
     }
 
     soldiers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 3000
     }
 
     farmers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 23400
     }
@@ -1500,25 +1560,25 @@
     }
 
     clergymen = {
-        culture = paltijan
+        culture = latvian
         religion = prosperity
         size = 100
     }
 
     artisans = {
-        culture = paltijan
+        culture = latvian
         religion = prosperity
         size = 1250
     }
 
     soldiers = {
-        culture = paltijan
+        culture = latvian
         religion = prosperity
         size = 1000
     }
 
     farmers = {
-        culture = paltijan
+        culture = latvian
         religion = prosperity
         size = 24625
     }
@@ -1562,25 +1622,25 @@
     }
 
     clergymen = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 100
     }
 
     soldiers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 100
     }
 
     artisans = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 275
     }
 
     farmers = {
-        culture = north_german
+        culture = polish
         religion = ketronant
         size = 2690
     }
@@ -1728,25 +1788,25 @@
 #Bialystok (320000/80000 POPS)
 719 = {
     clergymen = {
-        culture = byelorussian
+        culture = latvian
         religion = orthodox
         size = 325
     }
 
     artisans = {
-        culture = byelorussian
+        culture = latvian
         religion = orthodox
         size = 250
     }
 
     soldiers = {
-        culture = byelorussian
+        culture = latvian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = byelorussian
+        culture = latvian
         religion = orthodox
         size = 19275
     }
@@ -1782,25 +1842,25 @@
     }
 
     clergymen = {
-        culture = byelorussian
+        culture = latvian
         religion = prosperity
         size = 100
     }
 
     soldiers = {
-        culture = byelorussian
+        culture = latvian
         religion = prosperity
         size = 100
     }
 
     artisans = {
-        culture = byelorussian
+        culture = latvian
         religion = prosperity
         size = 750
     }
 
     farmers = {
-        culture = byelorussian
+        culture = latvian
         religion = prosperity
         size = 12350
     }

@@ -4,55 +4,55 @@
 829 = {
 
 	aristocrats = {
-        culture = skrvat
+        culture = greek
     	religion = the_broken
         size = 2200
     }
 
     bureaucrats = {
-        culture = skrvat
+        culture = greek
     	religion = the_broken
         size = 400
     }
 
     officers = {
-        culture = skrvat
+        culture = greek
     	religion = the_broken
         size = 250
     }
 
     soldiers = {
-    	culture = skrvat
+    	culture = greek
     	religion = the_broken
     	size = 6000
     }
 
     artisans = {
-    	culture = skrvat
+    	culture = greek
     	religion = the_broken
     	size = 9500
     }
 
     artisans = {
-    	culture = skrvat
+    	culture = greek
     	religion = the_broken
     	size = 9500
     }
 
     artisans = {
-    	culture = skrvat
+    	culture = greek
     	religion = the_broken
     	size = 3500
     }
 
     farmers = {
-    	culture = skrvat
+    	culture = greek
     	religion = the_broken
     	size = 61255
     }
 
     farmers = {
-        culture = skrvat
+        culture = greek
         religion = the_broken
         size = 14925
     }
@@ -76,19 +76,19 @@
     }
 
     clergymen = {
-        culture = skrvat
+        culture = greek
         religion = orthodox
         size = 300
     }
 
     artisans = {
-        culture = skrvat
+        culture = greek
         religion = orthodox
         size = 300
     }
 
     farmers = {
-        culture = skrvat
+        culture = greek
         religion = orthodox
         size = 6550
     }
@@ -96,49 +96,49 @@
 #Hraj (160000/40000 POPS) #now part of Greece
 823 = {
     aristocrats = {
-        culture = skrvat
+        culture = greek
     	religion = the_broken
         size = 800
     }
 
     artisans = {
-    	culture = skrvat
+    	culture = greek
     	religion = the_broken
     	size = 4000
     }
 
     soldiers = {
-    	culture = skrvat
+    	culture = greek
     	religion = the_broken
     	size = 3255
     }
 
     farmers = {
-    	culture = skrvat
+    	culture = greek
     	religion = the_broken
     	size = 43255
     }
 
     farmers = {
-        culture = skrvat
+        culture = greek
         religion = the_broken
         size = 9525
     }
 
     soldiers = {
-        culture = skrvat
+        culture = greek
         religion = orthodox
         size = 400
     }
 
     artisans = {
-        culture = skrvat
+        culture = greek
         religion = orthodox
         size = 300
     }
 
     farmers = {
-        culture = skrvat
+        culture = greek
         religion = orthodox
         size = 7000
     }
@@ -164,79 +164,79 @@
 #Ruzbrda (192000/48000 POPS)
 808 = {
     aristocrats = {
-        culture = skrvat
+        culture = greek
     	religion = the_broken
         size = 500
     }
 
     artisans = {
-    	culture = skrvat
+    	culture = greek
     	religion = the_broken
     	size = 2000
     }
 
     soldiers = {
-    	culture = skrvat
+    	culture = greek
     	religion = the_broken
     	size = 1500
     }
 
     farmers = {
-    	culture = skrvat
+    	culture = greek
     	religion = the_broken
     	size = 23255
     }
 
     farmers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 4600
     }
 
     soldiers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 500
     }
 
     clergymen = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 625
     }
 
     artisans = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 900
     }
 
     farmers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 28075
     }
 
     soldiers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 300
     }
 
     clergymen = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 300
     }
 
     artisans = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 300
     }
 
     farmers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 5100
     }
@@ -270,121 +270,121 @@
 815 = {
 	
 	aristocrats = {
-        culture = skrvat
+        culture = greek
     	religion = the_broken
         size = 1200
     }
 
     artisans = {
-    	culture = skrvat
+    	culture = greek
     	religion = the_broken
     	size = 6000
     }
 
     soldiers = {
-    	culture = skrvat
+    	culture = greek
     	religion = the_broken
     	size = 4000
     }
 
     farmers = {
-    	culture = skrvat
+    	culture = greek
     	religion = the_broken
     	size = 31750
     }
 
     farmers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 3425
     }
 
     aristocrats = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 400
     }
 
     aristocrats = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 200
     }
 
     clergymen = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 800
     }
 
     artisans = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 600
     }
 
     farmers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 21475
     }
 
     aristocrats = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 300
     }
 
     officers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 100
     }
 
     clergymen = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 300
     }
 
     artisans = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 200
     }
 
     soldiers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 300
     }
 
     farmers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 9700
     }
 
     soldiers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 300
     }
 
     clergymen = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 300
     }
 
     artisans = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 600
     }
 
     farmers = {
-        culture = iskhor
+        culture = romanian
         religion = the_broken
         size = 6200
     }
