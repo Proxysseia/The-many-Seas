@@ -516,62 +516,6 @@
         size = 2910
     }
 }
-#Lida (192000/48000 POPS)
-938 = {
-    clergymen = {
-        culture = lithuanian
-        religion = catholic
-        size = 200
-    }
-
-    artisans = {
-        culture = lithuanian
-        religion = catholic
-        size = 800
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 250
-    }
-
-    farmers = {
-        culture = lithuanian
-        religion = catholic
-        size = 35875
-    }
-
-    farmers = {
-        culture = polish
-        religion = catholic
-        size = 5250
-    }
-
-    clergymen = {
-        culture = latvian
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = latvian
-        religion = catholic
-        size = 450
-    }
-
-    soldiers = {
-        culture = latvian
-        religion = catholic
-        size = 2100
-    }
-
-    farmers = {
-        culture = latvian
-        religion = catholic
-        size = 36175
-    }
-}
 #Baranovichi (196000/49000 POPS)
 939 = {
     clergymen = {

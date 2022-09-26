@@ -258,7 +258,7 @@
     }
 
     farmers = {
-        culture = provencal
+        culture = swiss
         religion = vitalic
         size = 22000
     }
@@ -729,7 +729,7 @@
     }
 
     farmers = {
-        culture = provencal
+        culture = swiss
         religion = vitalic
         size = 33175
     }
@@ -743,31 +743,31 @@
 #Grenoble (696000/174000 POPS)
 454 = {
     aristocrats = {
-        culture = provencal
+        culture = swiss
         religion = vitalic
         size = 1700
     }
 
     clergymen = {
-        culture = provencal
+        culture = swiss
         religion = vitalic
         size = 1250
     }
 
     artisans = {
-        culture = provencal
+        culture = swiss
         religion = vitalic
         size = 4500
     }
 
         artisans = {
-        culture = provencal
+        culture = swiss
         religion = vitalic
         size = 4000
     }
 
     soldiers = {
-        culture = provencal
+        culture = swiss
         religion = vitalic
         size = 1750
     }
@@ -785,7 +785,7 @@
     }
 
     farmers = {
-        culture = provencal
+        culture = swiss
         religion = vitalic
         size = 90800
     }
@@ -794,31 +794,31 @@
 #Digne (113200/31000 POPS)
 469 = {
     aristocrats = {
-        culture = provencal
+        culture = swiss
         religion = vitalic
         size = 250
     }
 
     clergymen = {
-        culture = provencal
+        culture = swiss
         religion = vitalic
         size = 100
     }
 
     artisans = {
-        culture = provencal
+        culture = swiss
         religion = vitalic
         size = 1500
     }
 
     soldiers = {
-        culture = provencal
+        culture = swiss
         religion = vitalic
         size = 350
     }
 
     farmers = {
-        culture = provencal
+        culture = swiss
         religion = vitalic
         size = 22900
     }
@@ -862,7 +862,7 @@
     }
 
     farmers = {
-        culture = provencal
+        culture = swiss
         religion = vitalic
         size = 18825
     }
@@ -1076,31 +1076,31 @@
     }
 
     aristocrats = {
-        culture = provencal
+        culture = swiss
         religion = vitalic
         size = 275
     }
 
     clergymen = {
-        culture = provencal
+        culture = swiss
         religion = vitalic
         size = 225
     }
 
     artisans = {
-        culture = provencal
+        culture = swiss
         religion = vitalic
         size = 1175
     }
 
     soldiers = {
-        culture = provencal
+        culture = swiss
         religion = vitalic
         size = 225
     }
 
     farmers = {
-        culture = provencal
+        culture = swiss
         religion = vitalic
         size = 11600
     }
