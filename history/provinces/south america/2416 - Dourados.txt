@@ -1,6 +1,5 @@
-owner = RLP
-controller = RLP
-add_core = RLP
+owner = AMZ
+controller = AMZ
+add_core = AMZ
 trade_goods = fruit
-terrain = savanna
 life_rating = 33
