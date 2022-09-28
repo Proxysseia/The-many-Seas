@@ -68,7 +68,7 @@ USA_139 = { 139 140 142 } #Louisiana
 
 USA_144 = { 143 193 187 189} #Arkansas
 
-USA_148 = { 146 148 147 149 150 144 145 } #Missouri
+USA_148 = { 146 147 149 150 144 145 } #Missouri
 
 USA_151 = { 151 152 153 154 155 156} #Iowa
 
@@ -76,7 +76,7 @@ USA_162 = { 177 160 161 } #Wisconsin
 
 USA_168 = { 163 165 164 159 162 } #Inner Illinois
 
-PAW_166 = { 166 167 168 } #Outer Illinois
+PAW_166 = { 148 166 167 168 } #Outer Illinois
 
 USA_170 = { 169 170 172 171 } #Indiana
 
