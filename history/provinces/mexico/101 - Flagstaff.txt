@@ -1,3 +1,5 @@
-add_core = ARI
+owner = RGR
+controller = RGR
+add_core = RGR
 trade_goods = iron
 life_rating = 25

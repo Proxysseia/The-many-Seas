@@ -1,6 +1,6 @@
-owner = SLC
-controller = SLC
-add_core = SLC
+owner = RSB
+controller = RSB
+add_core = RSB
 trade_goods = grain
 life_rating = 40
 naval_base = 1

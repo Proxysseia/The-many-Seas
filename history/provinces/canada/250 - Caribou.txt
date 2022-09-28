@@ -1,6 +1,5 @@
-owner = MRU
-controller = MRU
-add_core = MRU
+owner = NEN
+controller = NEN
 add_core = NEN
 trade_goods = grain
 life_rating = 35

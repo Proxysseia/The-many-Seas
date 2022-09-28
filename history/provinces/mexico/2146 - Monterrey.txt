@@ -1,6 +1,5 @@
-owner = WKK
-controller = WKK
-add_core = WKK
+owner = RSB
+controller = RSB
+add_core = RSB
 trade_goods = grain
 life_rating = 35
-terrain = urban

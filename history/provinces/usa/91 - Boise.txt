@@ -1,2 +1,5 @@
+owner = CAL
+controller = CAL
+add_core = CAL
 trade_goods = wool
-life_rating = 20
+life_rating = 30

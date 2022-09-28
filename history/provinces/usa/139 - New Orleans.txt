@@ -1,7 +1,6 @@
-owner = DIX
-controller = DIX
-add_core = DIX
-add_core = CSA
+owner = TEX
+controller = TEX
+add_core = TEX
 trade_goods = grain
 life_rating = 39
 naval_base = 1

@@ -1,10 +1,5 @@
-owner = ANM
-controller = ANM
-add_core = ANM
+owner =  RSB
+controller =  RSB
+add_core =  RSB
 trade_goods = grain
 life_rating = 35
-
-party_loyalty = {
-    ideology = anarcho_liberal
-    loyalty_value = 50
-}

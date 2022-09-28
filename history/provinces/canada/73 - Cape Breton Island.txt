@@ -1,5 +1,5 @@
-owner = MRU
-controller = MRU
-add_core = MRU
+owner = QUE
+controller = QUE
+add_core = QUE
 trade_goods = coal
 life_rating = 33

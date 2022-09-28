@@ -1,8 +1,6 @@
-owner = WIN
-controller = WIN
-add_core = WIN
+owner = QUE
+controller = QUE
+add_core = QUE
 trade_goods = coal
 life_rating = 35
 
-
-2861.1.1 = { colonial = 0 }
