@@ -1395,7 +1395,7 @@
 #Toronto (172000/43000 POPS)
 46 = {
     aristocrats = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 750
     }
@@ -1540,7 +1540,7 @@
     }
 
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 5700
     }
@@ -1584,7 +1584,7 @@
     }
 
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 6000
     }
@@ -1595,31 +1595,31 @@
 #Fredericton (84000/21000 POPS)
 68 = {
     bureaucrats = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 600
     }
 
     soldiers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 31650
     }
@@ -1639,7 +1639,7 @@
         size = 491
     }
     artisans = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 563
     }
@@ -1650,7 +1650,7 @@
 
     }
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 14660
     }
@@ -1661,7 +1661,7 @@
 
     }
     farmers = {
-        culture = yankee
+        culture = rustic
         religion = protestant
         size = 5501
     }
@@ -1671,25 +1671,25 @@
 #Caribou (36000/9000 POPS)
 250 = {
     clergymen = {
-        culture = yankee
+        culture = rustic
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = yankee
+        culture = rustic
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = yankee
+        culture = rustic
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = yankee
+        culture = rustic
         religion = protestant
         size = 7625
     }
@@ -1719,7 +1719,7 @@
     }
 
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = protestant
         size = 6725
     }
@@ -1754,7 +1754,7 @@
     }
 
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = protestant
         size = 4725
     }
@@ -1794,13 +1794,13 @@
     }
 
     bureaucrats = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 52100
     }
@@ -1833,7 +1833,7 @@
     }
 
     labourers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 5100
     }
@@ -1865,7 +1865,7 @@
     }
 
     labourers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 1100
     }
@@ -1931,7 +1931,7 @@
     }
 
     farmers = {
-        culture = yankee
+        culture = rustic
         religion = protestant
         size = 4250
     }
@@ -1969,7 +1969,7 @@
     }
 
     farmers = {
-        culture = yankee
+        culture = rustic
         religion = protestant
         size = 7250
     }
@@ -2007,7 +2007,7 @@
     }
 
     farmers = {
-        culture = yankee
+        culture = rustic
         religion = protestant
         size = 2250
     }

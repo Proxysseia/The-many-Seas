@@ -21,25 +21,25 @@
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 20
     }

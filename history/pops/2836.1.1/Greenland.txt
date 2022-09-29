@@ -301,7 +301,7 @@
         size = 62525
     }
     aristocrats = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 1250
     }
@@ -311,7 +311,7 @@
         size = 3200
     }
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 15200
     }
@@ -354,7 +354,7 @@
         size = 1200
     }
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 3200
     }
@@ -402,7 +402,7 @@
         size = 28575
     }
     aristocrats = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 250
     }
@@ -412,7 +412,7 @@
         size = 1200
     }
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 2200
     }
@@ -455,7 +455,7 @@
         size = 33120
     }
     aristocrats = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 300
     }
@@ -465,7 +465,7 @@
         size = 5200
     }
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 6200
     }
@@ -508,7 +508,7 @@ clergymen = {
         size = 500
     }
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = catholic
         size = 1200
     }

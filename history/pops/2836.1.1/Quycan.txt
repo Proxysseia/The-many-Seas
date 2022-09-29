@@ -3,73 +3,73 @@
 #Bogota (240000/60000 POPS)
 2247 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 1000
     }
 
     bureaucrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 400
     }
 
     officers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 300
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 1600
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 6100
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 46875
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 6475
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 4250
     }
@@ -77,61 +77,61 @@
 #Ibaque (88000/22000 POPS)
 2248 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 200
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 400
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 10200
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 10
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 10
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 680
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 250
     }
@@ -145,31 +145,31 @@
 #Tunja (56000/14000 POPS)
 2249 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5050
     }
@@ -177,31 +177,31 @@
 #Manizales (116000/29000 POPS)
 2250 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 225
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 275
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 850
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 12650
     }
@@ -209,25 +209,25 @@
 #Cucuta (84000/21000 POPS)
 2251 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 6525
     }
@@ -237,67 +237,67 @@
 #Medellin (128000/32000 POPS)
 2252 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 250
     }
 
     bureaucrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 33875
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 75
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 3375
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 10000
     }
@@ -305,61 +305,61 @@
 #Quibdo (48000/12000 POPS)
 2253 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 7400
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 350
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 75
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 2500
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 5000
     }
@@ -367,61 +367,61 @@
 #Cartagena de Indias (144000/36000 POPS)
 2254 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 600
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 550
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 2100
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 15575
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 1050
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 12675
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 5000
     }
@@ -433,19 +433,19 @@
     }
 
     artisans = {
-        culture = amazonian #guajiro
+        culture = amazonian 
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = amazonian #guajiro
+        culture = amazonian 
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = amazonian #guajiro
+        culture = amazonian 
         religion = catholic
         size = 850
     }
@@ -453,85 +453,85 @@
 #Barranquilla (132000/33000 POPS)
 2255 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 1050
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 1650
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 3100
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 41725
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 1200
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 11800
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 4000
     }
 
     clergymen = {
-        culture = amazonian #guajiro
+        culture = amazonian 
         religion = catholic
         size = 10
     }
 
     artisans = {
-        culture = amazonian #guajiro
+        culture = amazonian 
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = amazonian #guajiro
+        culture = amazonian 
         religion = catholic
         size = 10
     }
 
     farmers = {
-        culture = amazonian #guajiro
+        culture = amazonian 
         religion = catholic
         size = 530
     }
@@ -541,73 +541,73 @@
 #Cali (92000/23000 POPS)
 2256 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 275
     }
 
     bureaucrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 10
     }
 
     officers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 600
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 8250
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 150
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 1000
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 1750
     }
@@ -615,31 +615,31 @@
 #Popayan (68000/17000 POPS)
 2257 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5875
     }
@@ -671,61 +671,61 @@
 #Buenaventura (60000/15000 POPS)
 2258 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 525
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 1050
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 12100
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 75
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 4800
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 4900
     }
@@ -733,31 +733,31 @@
 #Pasto (80000/20000 POPS)
 2259 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 550
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 6925
     }
@@ -791,19 +791,19 @@
 #San Jose del Guaviare (36000/9000 POPS)
 2260 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 75
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 675
     }
@@ -859,25 +859,25 @@
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 20
     }
@@ -885,43 +885,43 @@
 #Casanare (60000/15000 POPS)
 2262 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 125
     }
 
     bureaucrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     officers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 3500
     }
@@ -977,25 +977,25 @@
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 520
     }
@@ -1010,37 +1010,37 @@
 2234 = {
 
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
 
     bureaucrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 60
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 1250
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 750
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 8080
     }
@@ -1060,25 +1060,25 @@
 #Manaus (40000/10000 POPS)
 2402 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 200
     }
 
     bureaucrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     officers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 10
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 75
     }
@@ -1090,13 +1090,13 @@
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 3455
     }
@@ -1131,7 +1131,6 @@
         size = 4525
     }
 }
-#Under loose authority of Brazil 1836
 #Cachoeira (8000/2000 POPS)
 2403 = {
     aristocrats = {
@@ -1153,25 +1152,25 @@
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 15
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 1220
     }
@@ -1187,73 +1186,73 @@
 #Caracas (224000/56000 POPS)
 2264 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 525
     }
 
     bureaucrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     officers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 20
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 560
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 760
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 23200
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 550
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 3400
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 5000
     }
@@ -1261,61 +1260,61 @@
 #Cumana (24000/6000 POPS)
 2267 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 125
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 10
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 400
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 2575
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 600
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 500
     }
@@ -1323,61 +1322,61 @@
 #San Felipe (44000/11000 POPS)
 2268 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 125
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 350
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5560
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 125
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 2425
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 1400
     }
@@ -1385,131 +1384,130 @@
 #Guiria (40000/10000 POPS)
 2269 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 3500
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 10
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 750
     }
 }
-#Llanos Region (88000)
-#Ruled by Venezuela 1836
+
 #Guanare (16000/4000 POPS)
 2265 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     bureaucrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 10
     }
 
     officers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 10
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 150
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 1575
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 20
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 10
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 220
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 200
     }
@@ -1517,61 +1515,61 @@
 #Calabozo (40000/10000 POPS)
 2266 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 225
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 75
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5225
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 750
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 300
     }
@@ -1579,61 +1577,61 @@
 #Barinas (32000/8000 POPS)
 2274 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 40
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 125
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 3250
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 10
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 315
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
@@ -1643,73 +1641,73 @@
 #Maracaibo (100000/25000 POPS)
 2270 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 450
     }
 
     bureaucrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     officers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 33
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 1700
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 2150
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 22275
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 8350
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 5000
     }
@@ -1741,61 +1739,61 @@
 #Valera (128000/32000 POPS)
 2271 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 750
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 1850
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 27725
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 2700
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 2100
     }
@@ -1803,61 +1801,61 @@
 #Coro (56000/14000 POPS)
 2272 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 120
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 16950
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 9700
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 6100
     }
@@ -1865,61 +1863,61 @@
 #Barquisimento (96000/24000 POPS)
 2273 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 325
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 400
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 4075
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 1700
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 750
     }
@@ -1929,31 +1927,31 @@
 #Angostura (32000/8000 POPS)
 2275 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 40
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 2475
     }
@@ -1997,73 +1995,73 @@
 #Curiapo (104000/26000 POPS)
 2276 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
 
     bureaucrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5
     }
 
     officers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 10
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 2050
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 225
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 9900
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 2625
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 900
     }
@@ -2072,31 +2070,31 @@
 #El Jobal (12000/4000 POPS)
 2277 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 15
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 10
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 500
     }
@@ -2152,25 +2150,25 @@
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 20
     }
@@ -2181,37 +2179,37 @@
 #Georgetown (58600/14650 POPS)
 2239 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
 
     bureaucrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 350
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 3100
     }
@@ -2272,7 +2270,7 @@
         size = 400
     }
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 300
     }
@@ -2280,31 +2278,31 @@
 #Essequibo (33000/8250 POPS)
 2243 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 1250
     }
@@ -2365,7 +2363,7 @@
         size = 900
     }
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 1100
     }
@@ -2375,31 +2373,31 @@
 #Paramaribo (48640/12160 POPS)
 2240 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 75
     }
 
     bureaucrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 60
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 275
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 4075
     }
@@ -2468,72 +2466,72 @@
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 1250
     }
 
 }
-#muisca Guiana (20000)
+#fortaleceirei Guiana (20000)
 #Ruled by Quycan 2836
 #Cayenne (17000/4250 POPS)
 2241 = {
     aristocrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 150
     }
 
     bureaucrats = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 40
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 2080
     }
 
     artisans = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 150
     }
 
     clergymen = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 425
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = fortaleceirei
         religion = catholic
         size = 2950
     }
@@ -2601,7 +2599,7 @@
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 280
     }

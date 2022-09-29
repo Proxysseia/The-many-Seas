@@ -1250,25 +1250,25 @@
     }
 
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5
     }
 
     artisans = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5
     }
 
     soldiers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 5
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 2320
     }
@@ -1501,7 +1501,7 @@
 #Obidos (8000/2000 POPS)
 2412 = {
     clergymen = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 25
     }
@@ -1519,7 +1519,7 @@
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 1900
     }
@@ -1651,7 +1651,7 @@
     }
 
     farmers = {
-        culture = muisca
+        culture = fortaleceirei
         religion = catholic
         size = 2105
     }
