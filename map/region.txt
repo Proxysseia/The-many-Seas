@@ -2,13 +2,9 @@
 
 USA_1 = { 1 2 4 5 2599 2630 2631 } #Alaska
 
-#ENG_6 = { 7 } #Yukon
-
-ENG_9 = { 11 2598 7 2629 18 } #Northwest Territories
+ENG_9 = { 7 11 18 2598 2629 } #Northwest Territories
 
 CAN_13 = { 13 14 20 21 15 19 16  17 } #Columbia
-
-#CAN_18 = { 18 17 2629 } #New Caledonia
 
 ENG_30 = {  31 32 35 27 26 22 23 24 25 28 2597 } #Saskatchewan
 
@@ -138,9 +134,7 @@ ENG_300 = { 300 294 301 302 303 295 } #South East England
 
 ### Scandinavia
 
-QUE_251 = { 2636 251 1330 93 1570 1652 } #Quebec Greenland
-
-SCO_252 = { 1541 1498 1606 252 }#Scotish Greenland & Iceland
+SCO_252 = { 93 251 252 1330 1498 1541 1570 1606 1652 2636 }# Greenland & Iceland
 
 SWE_308 = { 308 305 306 800 } #Nordnoge
 
@@ -258,9 +252,7 @@ HAN_528 = { 539 531 532 535 540 541 } #Lower Elbe
 
 HAN_534 = { 534 536 585 582 } #Hannover
 
-PRU_544 = { 545 547 } #Mecklenburg
-
-HAN_530 = { 529 548 544 } #New Coast
+HAN_530 = { 529 544 545 547 548 } #New Coast
 
 PRU_546 = { 546 679 680 692 690 691 } #Pomerania
 

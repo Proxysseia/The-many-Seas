@@ -1,8 +1,5 @@
-owner = SCO
-controller = SCO
+owner = GRN
+controller = GRN
 add_core = GRN
-add_core = NSO
 trade_goods = iron
-life_rating = 39
-terrain = forest
-colonial = 2
+life_rating = 25

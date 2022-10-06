@@ -1,8 +1,5 @@
-owner = QUE
-controller = QUE
+owner = GRN
+controller = GRN
 add_core = GRN
-add_core = NOU
 trade_goods = grain
-life_rating = 35
-terrain = forest
-colonial = 2
+life_rating = 25

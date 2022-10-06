@@ -2,49 +2,49 @@
 2209 = {
 
     aristocrats = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 3103
     }
 
     bureaucrats = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 500
     }
 
     clergymen = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 175
     }
 
     artisans = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 4000
     }
 
     soldiers = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 3500
     }
 
     farmers = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 58625
     }
 
     slaves = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 38000
     }
@@ -52,55 +52,55 @@
 #Jagua (252000/63000 POPS)
 2210 = {
     aristocrats = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 600
     }
 
     clergymen = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 375
     }
 
     artisans = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 1200
     }
 
     soldiers = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 21575
     }
 
     artisans = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 2000
     }
 
     soldiers = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 11850
     }
 
     slaves = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 25000
     }
@@ -108,55 +108,55 @@
 #Camaguey (168000/42000 POPS)
 2211 = {
     aristocrats = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 450
     }
 
     clergymen = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 400
     }
 
     artisans = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 3500
     }
 
     soldiers = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 8500
     }
 
     artisans = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 1500
     }
 
     soldiers = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 2200
     }
 
     slaves = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 25000
     }
@@ -164,55 +164,55 @@
 #Santiago de Cuba (128000/32000 POPS)
 2212 = {
     aristocrats = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 200
     }
 
     clergymen = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 175
     }
 
     artisans = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 3500
     }
 
     soldiers = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 8975
     }
 
     artisans = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 1500
     }
 
     soldiers = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 3300
     }
 
     slaves = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 34000
     }
@@ -222,36 +222,36 @@
 #Baker/Repulse Bay/ Echo Bay - Now Guantanamo Bay (5036/1259 POPS)
 44 = {
     aristocrats = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 500
     }
 
     clergymen = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 2500
     }
 
     soldiers = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 2100
     }
 
     farmers = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 12420
     }
     slaves = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 28790
     }
@@ -261,37 +261,37 @@
 #The Bahamas (20000/5000 POPS)
 2219 = {
     aristocrats = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 500
     }
 
     clergymen = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 525
     }
 
     soldiers = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 1240
     }
 
     farmers = {
-        culture = caribeno
+        culture = antillean
         religion = catholic
         size = 5879
     }
@@ -392,7 +392,7 @@
     }
 
 }
-#Jamaica (372000/93000 POPS)
+#Jamaica 
 2217 = {
     aristocrats = {
         culture = antillean
@@ -400,7 +400,7 @@
         size = 100
     }
 
-    aristocrats = { #So the state has 2% aristocrats
+    aristocrats = { 
         culture = antillean
         religion = protestant
         size = 1890
@@ -687,7 +687,7 @@
         size = 9075
     }
 }
-#Grenada (30000/7500 POPS) #now independent
+#Grenada
 2233 = {
     aristocrats = {
         culture = antillean
@@ -743,7 +743,7 @@
         size = 16725
     }
 }
-#Saint Vincent (21000/5250 POPS) #now independent
+#Saint Vincent
 2409 = {
     aristocrats = {
         culture = antillean
@@ -792,9 +792,8 @@
         religion = protestant
         size = 47000
     }
-
 }
-#Tortola (4800/1200 POPS) #still British Colony
+#Tortola
 2226 = {
     aristocrats = {
         culture = antillean
@@ -844,7 +843,7 @@
         size = 6040
     }
 }
-#Saint Kitts (26500/6625 POPS) #now independent
+#Saint Kitts 
 2227 = {
     aristocrats = {
         culture = antillean
@@ -901,8 +900,7 @@
     }
 
 }
-#Ruled by Denmark 1836
-#Saint Thomas (44000/11000 POPS)
+#Saint Thomas
 2223 = {
     aristocrats = {
         culture = antillean
@@ -947,42 +945,41 @@
     }
 
 }
-#Haitia Under Norge-Svea
-#Port au Prince (312000/78000 POPS)
+#Port au Prince 
 2213 = {
 
     bureaucrats = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 1500
     }
 
     aristocrats = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 3825
     }
 
     officers = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 450
     }
 
     clergymen = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 1750
     }
 
     artisans = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 14050
     }
 
     soldiers = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 6000
     }
@@ -993,28 +990,28 @@
         size = 88300
     }
 }
-#Cap Haitien (204000/51000 POPS)
+#Cap Haitien
 2215 = {
     aristocrats = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 2550
     }
 
     clergymen = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 750
     }
 
     artisans = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 12550
     }
 
     soldiers = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 3000
     }
@@ -1029,37 +1026,37 @@
 #Santo Domingo (68000/17000 POPS) #now part of Dominican Republic
 2214 = {
     aristocrats = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 700
     }
 
     bureaucrats = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 25
     }
 
     clergymen = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 350
     }
 
     soldiers = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 75
     }
 
     farmers = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 62375
     }
@@ -1091,31 +1088,31 @@
 #La Vega (56000/15000 POPS) #now part of Dominican Republic
 2216 = {
     aristocrats = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 550
     }
 
     clergymen = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = norwegian
+        culture = antillean
         religion = catholic
         size = 15175
     }

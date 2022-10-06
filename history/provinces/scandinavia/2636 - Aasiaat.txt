@@ -1,7 +1,5 @@
-owner = QUE
-controller = QUE
+owner = GRN
+controller = GRN
 add_core = GRN
-add_core = NOU
 trade_goods = iron
-life_rating = 35
-colonial = 2
+life_rating = 25
