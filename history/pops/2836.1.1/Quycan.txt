@@ -1,137 +1,147 @@
-#Cundinamarca Region (584000)
-#Ruled by Colombia 1836
-#Bogota (240000/60000 POPS)
+#Bogota
 2247 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 1000
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 400
     }
 
     officers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 300
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 1600
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 6100
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
-        size = 46875
+        size = 45000
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 6475
     }
+	
+	farmers = {
+        culture = amazonian
+        religion = catholic
+        size = 15000
+    }
 
     slaves = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 4250
     }
 }
-#Ibaque (88000/22000 POPS)
+#Ibaque 
 2248 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 200
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 400
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 10200
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 10
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 10
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 680
     }
 
+	farmers = {
+        culture = amazonian
+        religion = catholic
+        size = 1000
+    }
+	
     slaves = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 250
     }
@@ -145,289 +155,305 @@
 #Tunja (56000/14000 POPS)
 2249 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 100
     }
 
-    farmers = {
-        culture = fortaleceirei
+	farmers = {
+        culture = amazonian
         religion = catholic
-        size = 5050
+        size = 3050
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 2050
     }
 }
-#Manizales (116000/29000 POPS)
+#Manizales
 2250 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 225
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 275
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 850
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
-        size = 12650
+        size = 12000
+    }
+	
+	farmers = {
+        culture = amazonian
+        religion = catholic
+        size = 2500
     }
 }
-#Cucuta (84000/21000 POPS)
+#Cucuta
 2251 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 6525
     }
+	
+	farmers = {
+        culture = quechua
+        religion = catholic
+        size = 4525
+    }
 }
-#Antioquia Region (452000)
-#Ruled by Colombia 1836
-#Medellin (128000/32000 POPS)
+#Medellin 
 2252 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 250
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
-        size = 33875
+        size = 30000
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 75
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
-        size = 3375
+        size = 13375
     }
 
     slaves = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 10000
     }
 }
-#Quibdo (48000/12000 POPS)
+#Quibdo 
 2253 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 7400
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 350
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 75
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 2500
     }
 
     slaves = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 5000
     }
 }
-#Cartagena de Indias (144000/36000 POPS)
+#Cartagena de Indias
 2254 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 600
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 550
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 2100
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 15575
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 1050
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 12675
     }
 
     slaves = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 5000
     }
 
     clergymen = {
-        culture = amazonian #guajiro
+        culture = amazonian
         religion = catholic
         size = 25
     }
@@ -450,196 +476,182 @@
         size = 850
     }
 }
-#Barranquilla (132000/33000 POPS)
+#Barranquilla
 2255 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 1050
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 1650
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 3100
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
-        size = 41725
+        size = 31725
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
-        size = 100
+        size = 1000
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 1200
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
-        size = 11800
+        size = 14800
     }
 
     slaves = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 4000
     }
-
-    clergymen = {
-        culture = amazonian 
+	
+	slaves = {
+        culture = amazonian
         religion = catholic
-        size = 10
-    }
-
-    artisans = {
-        culture = amazonian 
-        religion = catholic
-        size = 50
-    }
-
-    soldiers = {
-        culture = amazonian 
-        religion = catholic
-        size = 10
+        size = 3000
     }
 
     farmers = {
         culture = amazonian 
         religion = catholic
-        size = 530
+        size = 5300
     }
 }
-#Ruled by Colombia 1836
-#Cauca Region (300000)
-#Cali (92000/23000 POPS)
+#Cali
 2256 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 275
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 10
     }
 
     officers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 25
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 600
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 8250
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 150
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 1000
     }
 
     slaves = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 1750
     }
 }
-#Popayan (68000/17000 POPS)
+#Popayan
 2257 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 5875
     }
@@ -651,163 +663,143 @@
     }
 
     artisans = {
-        culture = quechua
+        culture = amazonian
         religion = catholic
         size = 300
     }
 
     soldiers = {
-        culture = quechua
+        culture = amazonian
         religion = catholic
         size = 75
     }
 
     farmers = {
-        culture = quechua
+        culture = amazonian
         religion = catholic
         size = 3550
     }
 }
-#Buenaventura (60000/15000 POPS)
+#Buenaventura
 2258 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 525
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 1050
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 12100
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 75
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 4800
     }
 
     slaves = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 4900
     }
 }
-#Pasto (80000/20000 POPS)
+#Pasto
 2259 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 550
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 6925
     }
 
     clergymen = {
-        culture = quechua
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = quechua
+        culture = amazonian
         religion = catholic
         size = 550
     }
 
     soldiers = {
-        culture = quechua
+        culture = amazonian
         religion = catholic
         size = 125
     }
 
     farmers = {
-        culture = quechua
+        culture = amazonian
         religion = catholic
         size = 4275
     }
 }
-#Rio Negro Region (128000) #see Brazil.txt for balance of region
-#Ruled by Colombia 1836
-#San Jose del Guaviare (36000/9000 POPS)
+#San Jose del Guaviare 
 2260 = {
-    aristocrats = {
-        culture = fortaleceirei
-        religion = catholic
-        size = 75
-    }
-
-    soldiers = {
-        culture = fortaleceirei
-        religion = catholic
-        size = 25
-    }
-
-    farmers = {
-        culture = fortaleceirei
-        religion = catholic
-        size = 675
-    }
-
     aristocrats = {
         culture = amazonian
         religion = animist
@@ -829,13 +821,13 @@
     soldiers = {
         culture = amazonian
         religion = animist
-        size = 75
+        size = 500
     }
 
     farmers = {
         culture = amazonian
         religion = animist
-        size = 4475
+        size = 7475
     }
 }
 #Obando (20000/5000 POPS)
@@ -859,25 +851,25 @@
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 5
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 5
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 5
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 20
     }
@@ -885,43 +877,43 @@
 #Casanare (60000/15000 POPS)
 2262 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 125
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 25
     }
 
     officers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 25
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = quechua
         religion = catholic
         size = 3500
     }
@@ -977,31 +969,31 @@
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 5
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 5
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 5
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 520
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 320
     }
@@ -1010,43 +1002,43 @@
 2234 = {
 
     aristocrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 100
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 60
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 1250
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 750
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 8080
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 3455
     }
@@ -1060,69 +1052,45 @@
 #Manaus (40000/10000 POPS)
 2402 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 200
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     officers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 10
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = amazonian
+        culture = nossogene
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
-        size = 3455
-    }
-
-    farmers = {
-        culture = fortaleceirei
-        religion = catholic
-        size = 3455
-    }
-
-    clergymen = {
-        culture = amazonian
-        religion = catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = amazonian
-        religion = catholic
-        size = 300
-    }
-
-    soldiers = {
-        culture = amazonian
-        religion = catholic
-        size = 75
+        size = 7000
     }
 
     farmers = {
@@ -1152,31 +1120,31 @@
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 15
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 1220
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 1020
     }
@@ -1186,73 +1154,73 @@
 #Caracas (224000/56000 POPS)
 2264 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 525
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 25
     }
 
     officers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 25
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 20
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 560
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 760
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 23200
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 550
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 3400
     }
 
     slaves = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 5000
     }
@@ -1260,61 +1228,61 @@
 #Cumana (24000/6000 POPS)
 2267 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 125
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 10
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 400
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 2575
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 600
     }
 
     slaves = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 500
     }
@@ -1322,61 +1290,61 @@
 #San Felipe (44000/11000 POPS)
 2268 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 125
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 350
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 5560
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 125
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 2425
     }
 
     slaves = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 1400
     }
@@ -1384,55 +1352,55 @@
 #Guiria (40000/10000 POPS)
 2269 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 3500
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 10
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 750
     }
@@ -1441,73 +1409,73 @@
 #Guanare (16000/4000 POPS)
 2265 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 10
     }
 
     officers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 5
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 10
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 150
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 1575
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 20
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 10
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 220
     }
 
     slaves = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 200
     }
@@ -1515,61 +1483,61 @@
 #Calabozo (40000/10000 POPS)
 2266 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 225
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 75
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 5225
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 750
     }
 
     slaves = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 300
     }
@@ -1577,61 +1545,61 @@
 #Barinas (32000/8000 POPS)
 2274 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 25
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 40
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 125
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 3250
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 10
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 315
     }
 
     slaves = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 100
     }
@@ -1641,73 +1609,73 @@
 #Maracaibo (100000/25000 POPS)
 2270 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 450
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 25
     }
 
     officers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 33
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 1700
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 2150
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 22275
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 8350
     }
 
     slaves = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 5000
     }
@@ -1739,61 +1707,61 @@
 #Valera (128000/32000 POPS)
 2271 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 750
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 1850
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 27725
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 2700
     }
 
     slaves = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 2100
     }
@@ -1801,61 +1769,61 @@
 #Coro (56000/14000 POPS)
 2272 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 120
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 16950
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 9700
     }
 
     slaves = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 6100
     }
@@ -1863,61 +1831,61 @@
 #Barquisimento (96000/24000 POPS)
 2273 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 325
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 400
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 4075
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 1700
     }
 
     slaves = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 750
     }
@@ -1927,37 +1895,37 @@
 #Angostura (32000/8000 POPS)
 2275 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 40
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 2475
     }
 
     farmers = {
-        culture = afro_caribbean
+        culture = amazonian
         religion = protestant
         size = 100
     }
@@ -1995,73 +1963,73 @@
 #Curiapo (104000/26000 POPS)
 2276 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 100
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 5
     }
 
     officers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 5
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 10
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 2050
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 225
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 9900
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 2625
     }
 
     slaves = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 900
     }
@@ -2070,31 +2038,31 @@
 #El Jobal (12000/4000 POPS)
 2277 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 15
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 10
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 500
     }
@@ -2150,25 +2118,25 @@
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 5
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 5
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 5
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 20
     }
@@ -2179,154 +2147,136 @@
 #Georgetown (58600/14650 POPS)
 2239 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 100
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
-        size = 50
+        size = 200
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 350
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
-        size = 25
+        size = 250
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
-        size = 3100
-    }
-
-    clergymen = {
-        culture = afro_caribbean
-        religion = catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = afro_caribbean
-        religion = catholic
-        size = 700
-    }
-
-    soldiers = {
-        culture = afro_caribbean
-        religion = catholic
-        size = 150
+        size = 4100
     }
 
     farmers = {
-        culture = afro_caribbean
+        culture = amazonian
         religion = catholic
-        size = 3075
+        size = 2000
     }
 }
 #Mahdia (4000/1000 POPS)
 2242 = {
     aristocrats = {
-        culture = amazonian
+        culture = nossogene
         religion = catholic
-        size = 10
+        size = 100
     }
 
     clergymen = {
-        culture = amazonian
+        culture = nossogene
         religion = catholic
-        size = 25
+        size = 250
     }
 
     artisans = {
-        culture = amazonian
+        culture = nossogene
         religion = catholic
-        size = 50
+        size = 500
     }
 
     soldiers = {
-        culture = amazonian
+        culture = nossogene
         religion = catholic
-        size = 15
+        size = 150
     }
 
     farmers = {
-        culture = amazonian
+        culture = nossogene
         religion = catholic
-        size = 400
+        size = 4500
     }
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
-        size = 300
+        size = 1000
     }
 }
 #Essequibo (33000/8250 POPS)
 2243 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 1250
     }
 
     clergymen = {
-        culture = afro_caribbean
+        culture = amazonian
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = afro_caribbean
+        culture = amazonian
         religion = catholic
         size = 300
     }
 
     soldiers = {
-        culture = afro_caribbean
+        culture = amazonian
         religion = catholic
         size = 75
     }
 
     farmers = {
-        culture = afro_caribbean
+        culture = amazonian
         religion = catholic
         size = 1550
     }
@@ -2334,272 +2284,207 @@
 #Biloka (4000/1000 POPS)
 1979 = {
     aristocrats = {
-        culture = amazonian
+        culture = nossogene
         religion = catholic
         size = 10
     }
 
     clergymen = {
-        culture = amazonian
+        culture = nossogene
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = amazonian
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = amazonian
+        culture = nossogene
         religion = catholic
         size = 15
     }
 
+    farmers = {
+        culture = nossogene
+        religion = catholic
+        size = 3000
+    }
     farmers = {
         culture = amazonian
         religion = catholic
         size = 900
     }
-    farmers = {
-        culture = fortaleceirei
-        religion = catholic
-        size = 1100
-    }
 }
-#Surinam : 56640
-#Ruled by The Netherlands 1836
-#Paramaribo (48640/12160 POPS)
 2240 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 75
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 60
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 275
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
-        size = 4075
-    }
-
-    clergymen = {
-        culture = afro_caribbean
-        religion = catholic
-        size = 25
-    }
-
-    artisans = {
-        culture = afro_caribbean
-        religion = catholic
-        size = 1750
+        size = 8075
     }
 
     farmers = {
-        culture = afro_caribbean
+        culture = amazonian
         religion = catholic
         size = 1200
     }
 
-    soldiers = {
-        culture = afro_caribbean
-        religion = catholic
-        size = 25
-    }
-
     slaves = {
-        culture = afro_caribbean
+        culture = amazonian
         religion = protestant
         size = 5000
     }
     
 }
-#Aperina (8000/2000 POPS)
-2245 = {
-    aristocrats = {
-        culture = amazonian
-        religion = animist
-        size = 25
-    }
-
-    clergymen = {
-        culture = amazonian
-        religion = animist
-        size = 50
-    }
-
-    artisans = {
-        culture = amazonian
-        religion = animist
-        size = 100
-    }
-
-    soldiers = {
-        culture = amazonian
-        religion = animist
-        size = 25
-    }
-
-    farmers = {
-        culture = amazonian
-        religion = animist
-        size = 1350
-    }
-
-    farmers = {
-        culture = fortaleceirei
-        religion = catholic
-        size = 1250
-    }
-
-}
-#fortaleceirei Guiana (20000)
-#Ruled by Quycan 2836
-#Cayenne (17000/4250 POPS)
+#Cayenne
 2241 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 150
+    }
+	
+	clergymen = {
+        culture = nossogene
+        religion = animist
+        size = 50
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
-        size = 40
+        size = 80
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
-        size = 50
+        size = 200
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
-        size = 2080
+        size = 3500
     }
 
-    artisans = {
-        culture = fortaleceirei
-        religion = catholic
-        size = 150
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 250
     }
-
-    clergymen = {
-        culture = fortaleceirei
+	
+	slaves = {
+        culture = amazonian
         religion = catholic
+        size = 2500
+    }
+}
+#Aperina
+2245 = {
+    aristocrats = {
+        culture = nossogene
+        religion = animist
         size = 25
     }
 
-    soldiers = {
-        culture = fortaleceirei
-        religion = catholic
+    clergymen = {
+        culture = nossogene
+        religion = animist
         size = 50
     }
 
-    farmers = {
-        culture = fortaleceirei
-        religion = catholic
-        size = 425
-    }
-
-    slaves = {
-        culture = fortaleceirei
-        religion = catholic
-        size = 2950
-    }
-
-    aristocrats = {
-        culture = amazonian
-        religion = animist
-        size = 2
-    }
-
-    clergymen = {
-        culture = amazonian
-        religion = animist
-        size = 3
-    }
-
     artisans = {
-        culture = amazonian
+        culture = nossogene
         religion = animist
-        size = 10
+        size = 100
     }
 
     soldiers = {
-        culture = amazonian
+        culture = nossogene
         religion = animist
-        size = 5
+        size = 25
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = animist
+        size = 2000
     }
 
     farmers = {
         culture = amazonian
-        religion = animist
-        size = 230
+        religion = catholic
+        size = 1000
     }
+
 }
-#Maripasoula (3000/750 POPS)
+#Maripasoula
 2246 = {
     aristocrats = {
-        culture = amazonian
+        culture = nossogene
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = amazonian
+        culture = nossogene
         religion = animist
         size = 15
     }
 
     artisans = {
-        culture = amazonian
+        culture = nossogene
         religion = animist
         size = 35
     }
 
     soldiers = {
-        culture = amazonian
+        culture = nossogene
         religion = animist
-        size = 10
+        size = 100
     }
 
     farmers = {
-        culture = amazonian
+        culture = nossogene
         religion = animist
         size = 580
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = amazonian
         religion = catholic
         size = 280
     }

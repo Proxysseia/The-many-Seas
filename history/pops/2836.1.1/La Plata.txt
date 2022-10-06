@@ -3,13 +3,13 @@
 2322 = {
 
     soldiers = {
-        culture = pacinian
+        culture = quechua
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = aimara
+        culture = quechua
         religion = catholic
         size = 825
     }
@@ -21,7 +21,7 @@
     }
 
     farmers = {
-        culture = pacinian
+        culture = quechua
         religion = catholic
         size = 1825
     }
@@ -30,13 +30,13 @@
 2323 = {
 
     soldiers = {
-        culture = pacinian
+        culture = quechua
         religion = catholic
         size = 375
     }
 
     farmers = {
-        culture = aimara
+        culture = quechua
         religion = catholic
         size = 2825
     }
@@ -48,7 +48,7 @@
     }
 
     farmers = {
-        culture = pacinian
+        culture = quechua
         religion = catholic
         size = 3825
     }
@@ -59,7 +59,7 @@
 2324 = {
 
     soldiers = {
-        culture = pacinian
+        culture = quechua
         religion = catholic
         size = 500
     }
@@ -71,7 +71,7 @@
     }
 
     farmers = {
-        culture = pacinian
+        culture = quechua
         religion = catholic
         size = 10775
     }
@@ -80,7 +80,7 @@
 2325 = {
 
     soldiers = {
-        culture = pacinian
+        culture = quechua
         religion = catholic
         size = 500
     }
@@ -98,7 +98,7 @@
     }
 
     farmers = {
-        culture = pacinian
+        culture = quechua
         religion = catholic
         size = 5000
     }
@@ -106,7 +106,7 @@
 #Vina del Mar (72000/18000 POPS)
 2326 = {
     soldiers = {
-        culture = pacinian
+        culture = quechua
         religion = catholic
         size = 1100
     }
@@ -124,7 +124,7 @@
     }
 
     farmers = {
-        culture = pacinian
+        culture = quechua
         religion = catholic
         size = 3000
     }
@@ -319,7 +319,7 @@
     }
 
     farmers = {
-        culture = pacinian
+        culture = quechua
         religion = catholic
         size = 2650
     }
@@ -327,25 +327,25 @@
 #Chillan (36000/9000 POPS)
 2331 = {
     aristocrats = {
-        culture = pacinian
+        culture = quechua
         religion = catholic
         size = 175
     }
 
     clergymen = {
-        culture = pacinian
+        culture = quechua
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = pacinian
+        culture = quechua
         religion = catholic
         size = 350
     }
 
     soldiers = {
-        culture = pacinian
+        culture = quechua
         religion = catholic
         size = 75
     }
@@ -357,7 +357,7 @@
     }
 
     farmers = {
-        culture = pacinian
+        culture = quechua
         religion = catholic
         size = 2525
     }
@@ -955,13 +955,13 @@
     }
 
     soldiers = {
-        culture = afro_caribeno
+        culture = amazonian
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = amazonian
         religion = catholic
         size = 500
     }
@@ -995,7 +995,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = amazonian
         religion = catholic
         size = 500
     }
@@ -1039,7 +1039,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = amazonian
         religion = catholic
         size = 1000
     }
@@ -1163,12 +1163,12 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = amazonian
         religion = catholic
         size = 800
     }
 }
-#Xolotas (20000/5000 POPS) #now part of Argentina
+#Xolotas
 2367 = {
     aristocrats = {
         culture = platinean
@@ -1191,13 +1191,13 @@
     labourers = {
         culture = janeiran
         religion = catholic
-        size = 1075
+        size = 3100
     }
 
     labourers = {
         culture = platinean
         religion = catholic
-        size = 4075
+        size = 2575
     }
 }
 #Salta Region (36000)
@@ -1241,7 +1241,7 @@
     }
 
     farmers = {
-        culture = pacinian
+        culture = quechua
         religion = catholic
         size = 700
     }
@@ -1292,7 +1292,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = amazonian
         religion = catholic
         size = 500
     }
@@ -1430,7 +1430,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = amazonian
         religion = catholic
         size = 200
     }
@@ -1462,7 +1462,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = amazonian
         religion = catholic
         size = 250
     }
@@ -1534,7 +1534,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = amazonian
         religion = catholic
         size = 200
     }
@@ -1643,7 +1643,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = amazonian
         religion = catholic
         size = 3000
     }
@@ -1795,7 +1795,7 @@
         size = 25
     }
     farmers = {
-        culture = pacinian
+        culture = quechua
         religion = catholic
         size = 1000
     }
@@ -1806,7 +1806,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = amazonian
         religion = catholic
         size = 200
     }
@@ -1864,7 +1864,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = amazonian
         religion = catholic
         size = 100
     }
@@ -1891,7 +1891,7 @@
     }
 
     farmers = {
-        culture = pacinian
+        culture = quechua
         religion = catholic
         size = 500
     }   
@@ -1902,9 +1902,7 @@
         size = 450
     }
 }
-#Mendoza Region (32000)
-#Under rule of Argentina 1836
-#Mendoza (12000/3000 POPS)
+#Mendoza 
 2389 = {
 
     clergymen = {
@@ -1920,7 +1918,7 @@
     }
 
     farmers = {
-        culture = pacinian
+        culture = quechua
         religion = catholic
         size = 500
     }   
@@ -1932,7 +1930,7 @@
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = amazonian
         religion = catholic
         size = 250
     }

@@ -1,6 +1,4 @@
-#Paraiba Region (456000)
-#Under the rule of Brazil 1836
-#Paraiba (92000/23000 POPS)
+#Paraiba 
 2428 = {
     aristocrats = {
         culture = nossogene
@@ -33,36 +31,36 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 650
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 1000
     }
 }
-#Fortaleza (180000/45000 POPS)
+#Fortaleza 
 2429 = {
     aristocrats = {
         culture = nossogene
@@ -107,31 +105,31 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 850
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 175
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 1900
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 2000
     }
@@ -169,31 +167,31 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 950
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 2000
     }
@@ -231,31 +229,31 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 750
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 4025
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 4000
     }
@@ -307,25 +305,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 75
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 7025
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 3000
     }
@@ -389,31 +387,31 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 900
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 175
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 2850
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 5000
     }
@@ -497,31 +495,31 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 300
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 175
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 1750
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 2000
     }
@@ -559,31 +557,31 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 125
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 825
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 1000
     }
@@ -621,31 +619,31 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 800
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 175
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 2950
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 2000
     }
@@ -683,31 +681,31 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 650
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 125
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 800
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 1000
     }
@@ -763,31 +761,31 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 1500
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 3050
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 2000
     }
@@ -825,31 +823,31 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 125
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 1300
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 275
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 2300
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 3000
     }
@@ -887,31 +885,31 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 750
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 3025
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 2000
     }
@@ -954,31 +952,31 @@
         size = 4275
     }
     clergymen = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 125
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 2175
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 6000
     }
@@ -1022,31 +1020,31 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 700
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 1575
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 2500
     }
@@ -1074,25 +1072,25 @@
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5020
     }
@@ -1118,25 +1116,25 @@
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5020
     }
@@ -1162,74 +1160,30 @@
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 520
     }
 }
-#Oriximina (8000/2000 POPS)
-2408 = {
-    aristocrats = {
-        culture = amazonian
-        religion = catholic
-        size = 25
-    }
-
-    soldiers = {
-        culture = amazonian
-        religion = catholic
-        size = 25
-    }
-
-    farmers = {
-        culture = amazonian
-        religion = catholic
-        size = 650
-    }
-
-    clergymen = {
-        culture = fortaleceirei
-        religion = catholic
-        size = 5
-    }
-
-    artisans = {
-        culture = fortaleceirei
-        religion = catholic
-        size = 5
-    }
-
-    soldiers = {
-        culture = fortaleceirei
-        religion = catholic
-        size = 5
-    }
-
-    farmers = {
-        culture = fortaleceirei
-        religion = catholic
-        size = 220
-    }
-}
-#Forte Sao Joaquim (4000/1000 POPS) #now Roraima state Brazil
+#Forte Sao Joaquim
 2532 = {
     aristocrats = {
         culture = amazonian
@@ -1250,25 +1204,25 @@
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 2320
     }
@@ -1277,13 +1231,13 @@
 2235 = {
 
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1120
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 125
     }
@@ -1295,7 +1249,7 @@
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 18400
     }
@@ -1307,19 +1261,19 @@
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 2175
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 80
     }
 
     officers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 50
     }
@@ -1329,43 +1283,43 @@
 #Belem (60000/15000 POPS)
 2410 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 250
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 25
     }
 
     officers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 25
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 325
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 7175
     }
@@ -1376,31 +1330,31 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 1150
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 1500
     }
@@ -1438,31 +1392,31 @@
 #Santarem (20000/5000 POPS)
 2411 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 600
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 4100
     }
@@ -1480,13 +1434,13 @@
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 1400
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 600
     }
@@ -1497,91 +1451,28 @@
         size = 1975
     }
 }
-#Under loose authority of Brazil 1836
-#Obidos (8000/2000 POPS)
-2412 = {
-    clergymen = {
-        culture = fortaleceirei
-        religion = catholic
-        size = 25
-    }
-
-    artisans = {
-        culture = amazonian
-        religion = catholic
-        size = 50
-    }
-
-    soldiers = {
-        culture = amazonian
-        religion = catholic
-        size = 25
-    }
-
-    farmers = {
-        culture = fortaleceirei
-        religion = catholic
-        size = 1900
-    }
-
-    farmers = {
-        culture = fortaleceirei
-        religion = catholic
-        size = 1400
-    }
-
-    aristocrats = {
-        culture = amazonian
-        religion = animist
-        size = 10
-    }
-
-    clergymen = {
-        culture = amazonian
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = amazonian
-        religion = animist
-        size = 50
-    }
-
-    soldiers = {
-        culture = amazonian
-        religion = animist
-        size = 15
-    }
-
-    farmers = {
-        culture = amazonian
-        religion = animist
-        size = 900
-    }
-}
 #Cachimbo (12000/3000 POPS)
 2413 = {
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1200
     }
@@ -1621,53 +1512,47 @@
 2415 = {
 
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 5
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
-        size = 2105
+        size = 7105
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = amazonian
         religion = catholic
         size = 105
     }
-
-    aristocrats = {
-        culture = amazonian
-        religion = animist
-        size = 10
-    }
-
+	
     soldiers = {
         culture = amazonian
         religion = animist
@@ -1683,31 +1568,31 @@
 #Altamira (12000/3000 POPS)
 2600 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 215
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 2220
     }
@@ -1810,7 +1695,7 @@
 #Vila Bela (28000/7000 POPS)
 2417 = {
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 150
     }
@@ -1828,7 +1713,7 @@
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 3825
     }
@@ -1979,13 +1864,13 @@
 2423 = {
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1900
     }
@@ -2055,7 +1940,7 @@
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 900
     }  
@@ -2082,7 +1967,7 @@
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 900
     }
@@ -2121,43 +2006,43 @@
 #Rotterdam (567000/141750 POPS)
 376 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 465
     }
 
     bureaucrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 250
     }
 
     officers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 400
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 3325
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 3250
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 31175
     }
@@ -2168,31 +2053,31 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 1150
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 10500
     }
@@ -2230,31 +2115,31 @@
 #Leeuwarden (209200/52300 POPS)
 385 = {
     aristocrats = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 450
     }
 
     clergymen = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 1325
     }
 
     soldiers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 3000
     }
 
     farmers = {
-        culture = fortaleceirei
+        culture = nossogene
         religion = catholic
         size = 27175
     }
@@ -2265,31 +2150,31 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 1150
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = nossogene
         religion = catholic
         size = 5500
     }

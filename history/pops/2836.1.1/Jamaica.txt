@@ -1,6 +1,4 @@
-#Jamaica Region - 384000
-#Ruled by Britain 1836
-#Jamaica (372000/93000 POPS)
+#Jamaica
 2217 = {
     aristocrats = {
         culture = antillean
@@ -8,7 +6,7 @@
         size = 100
     }
 
-    aristocrats = { #So the state has 2% aristocrats
+    aristocrats = { 
         culture = antillean
         religion = protestant
         size = 1890
@@ -45,45 +43,45 @@
     }
 
     clergymen = {
-        culture = afro_antillean
+        culture = antillean
         religion = protestant
         size = 625
     }
 
     artisans = {
-        culture = afro_antillean
+        culture = antillean
         religion = protestant
         size = 3250
     }
 
     soldiers = {
-        culture = afro_antillean
+        culture = antillean
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = afro_antillean
+        culture = antillean
         religion = protestant
         size = 84375
     }
 }
-#Cayman Islands : (1200/300 POPS) #still a antillean Colony
+#Cayman Islands
 2218 = {
     clergymen = {
-        culture = afro_antillean
+        culture = amazonian
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = afro_antillean
+        culture = amazonian
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = afro_antillean
+        culture = amazonian
         religion = protestant
         size = 280
     }
