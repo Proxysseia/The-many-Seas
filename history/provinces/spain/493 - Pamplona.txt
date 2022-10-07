@@ -1,8 +1,5 @@
-owner = BSQ
-controller = BSQ
-add_core = BSQ
+owner = CAT
+controller = CAT
+add_core = CAT
 trade_goods = fruit
 life_rating = 35
-
-
-2861.1.1 = { railroad = 3 }

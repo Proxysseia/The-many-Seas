@@ -1,6 +1,5 @@
-owner = DAL
-controller = DAL
-add_core = DAL
+owner = POR
+controller = POR
+add_core = POR
 trade_goods = coal
 life_rating = 35
-2861.1.1 = { railroad = 3 }

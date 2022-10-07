@@ -1,7 +1,7 @@
 owner = CLV
 controller = CLV
 add_core = CLV
-add_core = MOR
+add_core = CLV
 trade_goods = fish
 terrain = urban
 life_rating = 35

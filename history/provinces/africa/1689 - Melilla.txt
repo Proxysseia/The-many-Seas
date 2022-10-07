@@ -1,8 +1,5 @@
-owner = DMN
-controller = DMN
-add_core = DMN
-add_core = MOR
+owner = CLV
+controller = CLV
+add_core = CLV
 trade_goods = fish
-terrain = urban
 life_rating = 35
-colonial = 2
