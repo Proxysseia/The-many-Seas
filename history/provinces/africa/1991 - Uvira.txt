@@ -1,3 +1,5 @@
+owner = NMB
+controller = NMB
+add_core = NMB
 trade_goods = fruit
-terrain = montane_forest
-life_rating = 10
+life_rating = 30

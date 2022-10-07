@@ -3,7 +3,3 @@ controller = CLV
 add_core = CLV
 trade_goods = fruit
 life_rating = 35
-2861.1.1 = {
-    owner = FRA
-    controller = FRA
-}

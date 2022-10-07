@@ -1,6 +1,5 @@
-owner = NGR
-controller = NGR
-add_core = NGR
+owner = KBO
+controller = KBO
+add_core = KBO
 trade_goods = cattle
-terrain = plains
-life_rating = 39
+life_rating = 35

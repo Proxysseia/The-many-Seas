@@ -1,7 +1,5 @@
-owner = SAF
-controller = SAF
-add_core = MAD
+owner = XHO
+controller = XHO
+add_core = XHO
 trade_goods = coffee
 life_rating = 35
-colonial = 2
-naval_base = 1

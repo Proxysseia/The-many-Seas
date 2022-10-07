@@ -3,7 +3,3 @@ controller = KNG
 add_core = KNG
 trade_goods = fruit
 life_rating = 35
-colonial = 2
-2861.1.1 = {
-    add_core = LIB
-}

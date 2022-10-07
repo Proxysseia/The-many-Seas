@@ -1,5 +1,6 @@
-owner = SAF
-controller = SAF
+owner = SHO
+controller = SHO
+add_core = SHO
 add_core = MAD
 trade_goods = grain
 life_rating = 35
