@@ -1,5 +1,7 @@
-owner = PRZ
-controller = PRZ
+owner = MOW
+controller = MOW
 add_core = PRZ
 trade_goods = grain
 life_rating = 35
+
+add_core = MOW

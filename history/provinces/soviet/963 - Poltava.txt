@@ -1,6 +1,8 @@
-owner = PRZ
-controller = PRZ
+owner = MOW
+controller = MOW
 add_core = PRZ
 trade_goods = coal
 life_rating = 32
 terrain = mining_district
+
+add_core = MOW
