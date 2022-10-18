@@ -1,5 +1,7 @@
-owner = NBA
-controller = NBA
+owner = MOW
+controller = MOW
 add_core = NBA
 trade_goods = grain
 life_rating = 32
+
+add_core = MOW

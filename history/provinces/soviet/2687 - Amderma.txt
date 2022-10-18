@@ -1,5 +1,7 @@
-owner = NBA
-controller = NBA
+owner = MOW
+controller = MOW
 add_core = NBA
 trade_goods = fish
 life_rating = 20
+
+add_core = MOW

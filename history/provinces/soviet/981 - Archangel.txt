@@ -1,6 +1,8 @@
-owner = NBA
-controller = NBA
+owner = MOW
+controller = MOW
 add_core = NBA
 trade_goods = timber
 terrain = boreal
 life_rating = 20
+
+add_core = MOW

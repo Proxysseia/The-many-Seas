@@ -1,5 +1,7 @@
-owner = STR
-controller = STR
+owner = MOW
+controller = MOW
 add_core = STR
 trade_goods = coal
 life_rating = 35
+
+add_core = MOW
