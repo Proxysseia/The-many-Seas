@@ -4,79 +4,79 @@
 2000 = {
 
     officers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 1350
     }
 
     bureaucrats = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 3125
     }
 
     aristocrats = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 4425
     }
 
     clergymen = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 3225
     }
 
     artisans = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 9000
     }
 
     artisans = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 9000
     }
 
     artisans = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 3000
     }
 
     soldiers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 6250
     }
 
     farmers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 185575
     }
 
     aristocrats = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 325
     }
 
     clergymen = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 9375
     }
 
     slaves = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 15000
     }
@@ -86,61 +86,61 @@
 1983 = {
 
     aristocrats = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 2025
     }
 
     clergymen = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 1080
     }
 
     artisans = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 3000
     }
 
     soldiers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 3050
     }
 
     farmers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 100575
     }
 
     aristocrats = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 140
     }
 
     artisans = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 775
     }
 
     soldiers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 500
     }
 
     farmers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 10250
     }
 
     slaves = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 80000
     }
@@ -149,67 +149,67 @@
 1977 = {
 
     aristocrats = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 1500
     }
 
     clergymen = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 750
     }
 
     artisans = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 4000
     }
 
     soldiers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 4250
     }
 
     farmers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 80575
     }
 
     aristocrats = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 750
     }
 
     clergymen = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 400
     }
 
     artisans = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 1000
     }
 
     soldiers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 1000
     }
 
     farmers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 12250
     }
 
     slaves = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 50000
     }
@@ -218,67 +218,67 @@
 1978 = {
     
     aristocrats = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 250
     }
 
     clergymen = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 750
     }
 
     artisans = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 4000
     }
 
     soldiers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 1250
     }
 
     farmers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 32515
     }
 
     aristocrats = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 1250
     }
 
     clergymen = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 500
     }
 
     artisans = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 1550
     }
 
     soldiers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 500
     }
 
     farmers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 16500
     }
 
     slaves = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 30000
     }
@@ -286,67 +286,67 @@
 #Loango (320000/80000 POPS)
 2624 = {
     aristocrats = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 2500
     }
 
     clergymen = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 450
     }
 
     artisans = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 6000
     }
 
     soldiers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 1250
     }
 
     farmers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 40175
     }
 
     aristocrats = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 1500
     }
 
     clergymen = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 750
     }
 
     artisans = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 1250
     }
 
     soldiers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 500
     }
 
     farmers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 13500
     }
 
     slaves = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 20000
     }
@@ -356,66 +356,66 @@
 #Djambala (28000/7000 POPS)
 1980 = {
     aristocrats = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 500
     }
 
     clergymen = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 1450
     }
 
     artisans = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 2000
     }
 
     soldiers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 20175
     }
     aristocrats = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 425
     }
 
     clergymen = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 500
     }
 
     farmers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 16700
     }
 
     slaves = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 19000
     }
@@ -423,66 +423,66 @@
 #Moanda (28000/7000 POPS)
 1975 = {
     aristocrats = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 75
     }
 
     clergymen = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 500
     }
 
     soldiers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 12175
     }
     aristocrats = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 1425
     }
 
     clergymen = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 750
     }
 
     soldiers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 1000
     }
 
     farmers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 1700
     }
 
     slaves = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 24000
     }
@@ -491,66 +491,66 @@
 #Makokou (72000/18000 POPS)
 1976 = {
     aristocrats = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 400
     }
 
     clergymen = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 150
     }
 
     artisans = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 12175
     }
     aristocrats = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 925
     }
 
     clergymen = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 500
     }
 
     farmers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 26800
     }
 
     slaves = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 59000
     }
@@ -559,66 +559,66 @@
 #Basoko (1324400/331100 POPS)
 1992 = {
     aristocrats = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 1400
     }
 
     clergymen = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 650
     }
 
     artisans = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 1700
     }
 
     soldiers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 29175
     }
     aristocrats = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 80
     }
 
     clergymen = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 40
     }
 
     artisans = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 11400
     }
 
     slaves = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 41000
     }
@@ -627,37 +627,37 @@
 #Fernando Po (11000/2750 POPS)
 1955 = {
     aristocrats = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 125
     }
 
     farmers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 7175
     }
 
     slaves = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 3700
     }
@@ -666,66 +666,66 @@
 #Bata (132000/33000 POPS)
 1973 = {
     aristocrats = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 200
     }
 
     clergymen = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 450
     }
 
     artisans = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 1000
     }
 
     soldiers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 500
     }
 
     farmers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 15175
     }
     aristocrats = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 425
     }
 
     clergymen = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 500
     }
 
     farmers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 6700
     }
 
     slaves = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 34000
     }
@@ -733,66 +733,66 @@
 #Libreville (48000/12000 POPS)
 1972 = {
     aristocrats = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 2200
     }
 
     clergymen = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 450
     }
 
     artisans = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 1000
     }
 
     soldiers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 1500
     }
 
     farmers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 25175
     }
     aristocrats = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 125
     }
 
     clergymen = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 250
     }
 
     artisans = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 12250
     }
 
     slaves = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 74000
     }
@@ -800,66 +800,66 @@
 #Mayumbe (32000/8000 POPS)
 1974 = {
     aristocrats = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 500
     }
 
     clergymen = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 450
     }
 
     artisans = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 3000
     }
 
     soldiers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 1200
     }
 
     farmers = {
-        culture = nork
-        religion = ketronant
+        culture = fulbe
+        religion = sunni
         size = 35175
     }
     aristocrats = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 625
     }
 
     clergymen = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 500
     }
 
     farmers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 26700
     }
 
     slaves = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 24000
     }

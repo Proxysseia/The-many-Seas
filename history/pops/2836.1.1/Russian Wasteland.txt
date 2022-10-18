@@ -2310,46 +2310,7 @@
         size = 23450
     }
 }
-#Irkutsk Region (292000)
-#under the rule of Russia in 1836
-#Chita Region (472000)
-#under the rule of Russia in 1836
-#under the rule of China in 1836
-#Sakhalin-Kurile Region (16200)
-#uncolonized in 1836
-#Etorofu (4000/1000 POPS)
-1089 = {
-    aristocrats = {
-        culture = ainu
-        religion = animist
-        size = 2
-    }
 
-    clergymen = {
-        culture = ainu
-        religion = animist
-        size = 3
-    }
-
-    artisans = {
-        culture = ainu
-        religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = ainu
-        religion = animist
-        size = 10
-    }
-
-    farmers = {
-        culture = ainu
-        religion = animist
-        size = 475
-    }
-
-}
 #Uralsk (164000/41000 POPS)
 2610 = {
     aristocrats = {

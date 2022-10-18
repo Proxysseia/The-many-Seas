@@ -63,25 +63,25 @@
     }
 
     clergymen = {
-        culture = kreol
+        culture = mongo
         religion = protestant
         size = 125
     }
 
     artisans = {
-        culture = kreol
+        culture = mongo
         religion = protestant
         size = 1100
     }
 
     soldiers = {
-        culture = kreol
+        culture = mongo
         religion = protestant
         size = 250
     }
 
     farmers = {
-        culture = kreol
+        culture = mongo
         religion = catholic
         size = 22375
     }

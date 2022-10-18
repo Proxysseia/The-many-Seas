@@ -13,7 +13,7 @@
         religion = sunni
         size = 200
     }
-
+	
     artisans = {
         culture = fulbe
         religion = sunni
@@ -33,109 +33,109 @@
     }
 
     aristocrats = {
-        culture = dyula
+        culture = fulbe
         religion = sunni
         size = 170
     }
 
     clergymen = {
-        culture = dyula
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = dyula
+        culture = fulbe
         religion = sunni
         size = 500
     }
 
     soldiers = {
-        culture = dyula
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = dyula
+        culture = fulbe
         religion = sunni
         size = 9150
     }
 
     aristocrats = {
-        culture = songhai
+        culture = fulbe
         religion = sunni
         size = 450
     }
 
     bureaucrats = {
-        culture = songhai
+        culture = fulbe
         religion = sunni
         size = 450
     }
 
     bureaucrats = {
-        culture = tsakiya
+        culture = fulbe
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = songhai
+        culture = fulbe
         religion = sunni
         size = 250
     }
 
     artisans = {
-        culture = songhai
+        culture = fulbe
         religion = sunni
         size = 1150
     }
 
     soldiers = {
-        culture = songhai
+        culture = fulbe
         religion = sunni
         size = 2280
     }
 
     farmers = {
-        culture = songhai
+        culture = fulbe
         religion = sunni
         size = 24050
     }
 
     slaves = {
-        culture = gur
-        religion = animist
+        culture = fulbe
+        religion = sunni
         size = 2000
     }
 
     aristocrats = {
-        culture = tuareg
+        culture = fulbe
         religion = sunni
         size = 250
     }
 
     clergymen = {
-        culture = tuareg
+        culture = fulbe
         religion = sunni
         size = 150
     }
 
     artisans = {
-        culture = tuareg
+        culture = fulbe
         religion = sunni
         size = 700
     }
 
     soldiers = {
-        culture = tuareg
+        culture = fulbe
         religion = sunni
         size = 150
     }
 
     farmers = {
-        culture = tuareg
+        culture = fulbe
         religion = sunni
         size = 10750
     }
@@ -173,68 +173,68 @@
     }
 
     aristocrats = {
-        culture = dyula
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = dyula
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = dyula
+        culture = fulbe
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = dyula
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = dyula
+        culture = fulbe
         religion = sunni
         size = 3600
     }
 
     aristocrats = {
-        culture = songhai
+        culture = fulbe
         religion = sunni
         size = 350
     }
 
     clergymen = {
-        culture = songhai
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = songhai
+        culture = fulbe
         religion = sunni
         size = 1000
     }
 
     soldiers = {
-        culture = songhai
+        culture = fulbe
         religion = sunni
         size = 1200
     }
 
     farmers = {
-        culture = songhai
+        culture = fulbe
         religion = sunni
         size = 35350
     }
 
     slaves = {
-        culture = gur
-        religion = animist
+        culture = fulbe
+        religion = sunni
         size = 4000
     }
 }

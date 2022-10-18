@@ -1659,7 +1659,7 @@
     }
 
     slaves = {
-        culture = forest_bantu #african_minor
+        culture = maghrebi #african_minor
         religion = animist
         size = 2000
     }

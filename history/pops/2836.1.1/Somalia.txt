@@ -1,7 +1,4 @@
-#file includes modern Somalia and Djibouti
-#Benadir Region (392000)
-#under the loose rule of Muscat in 1836
-#Mogadishu (216000/54000 POPS)
+#Mogadishu
 1868 = {
     aristocrats = {
         culture = somali
@@ -46,12 +43,12 @@
     }
 
     slaves = {
-        culture = cushitic
+        culture = somali
         religion = animist
         size = 6000
     }
 }
-#Kismayo (84000/21000 POPS)
+#Kismayo
 1870 = {
     aristocrats = {
         culture = somali
@@ -84,37 +81,37 @@
     }
 
     aristocrats = {
-        culture = cushitic
+        culture = somali
         religion = animist
         size = 75
     }
 
     clergymen = {
-        culture = cushitic
+        culture = somali
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = cushitic
+        culture = somali
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = cushitic
+        culture = somali
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = cushitic
+        culture = somali
         religion = animist
         size = 4575
     }
 
     slaves = {
-        culture = cushitic
+        culture = somali
         religion = animist
         size = 1100
     }
@@ -187,7 +184,7 @@
     }
 
     slaves = {
-        culture = cushitic
+        culture = somali
         religion = animist
         size = 2000
     }
@@ -237,7 +234,7 @@
     }
 
     slaves = {
-        culture = cushitic
+        culture = somali
         religion = animist
         size = 5000
     }
@@ -289,13 +286,13 @@
     }
 
     slaves = {
-        culture = oromo
+        culture = somali
         religion = animist
         size = 7000
     }
 
     slaves = {
-        culture = cushitic
+        culture = somali
         religion = animist
         size = 3000
     }
@@ -330,5 +327,73 @@
         culture = somali
         religion = sunni
         size = 7300
+    }
+}
+#Wajir 
+2031 = {
+    aristocrats = {
+        culture = somali
+        religion = sunni
+        size = 400
+    }
+
+    clergymen = {
+        culture = somali
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = somali
+        religion = sunni
+        size = 850
+    }
+
+    soldiers = {
+        culture = somali
+        religion = sunni
+        size = 225
+    }
+
+    farmers = {
+        culture = somali
+        religion = sunni
+        size = 20000
+    }
+
+    aristocrats = {
+        culture = nyasa
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 200
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 3650
+    }
+
+    slaves = {
+        culture = nyasa
+        religion = animist
+        size = 1100
     }
 }
