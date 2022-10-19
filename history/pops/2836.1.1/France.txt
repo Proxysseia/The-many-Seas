@@ -2797,38 +2797,7 @@
         size = 60400
     }
 }
-#Foix (348000/87000 POPS)
-457 = {
-    aristocrats = {
-        culture = occitan
-        religion = catholic
-        size = 800
-    }
 
-    clergymen = {
-        culture = occitan
-        religion = catholic
-        size = 450
-    }
-
-    artisans = {
-        culture = occitan
-        religion = catholic
-        size = 4000
-    }
-
-    soldiers = {
-        culture = occitan
-        religion = catholic
-        size = 1000
-    }
-
-    farmers = {
-        culture = occitan
-        religion = catholic
-        size = 80750
-    }
-}
 #Aquitaine Region (1864000)
 #Bordeaux (632000/158000 POPS)
 458 = {
@@ -2934,80 +2903,6 @@
         culture = occitan
         religion = catholic
         size = 40975
-    }
-}
-#Pau (676000/169000 POPS)
-460 = {
-    aristocrats = {
-        culture = basque
-        religion = catholic
-        size = 1200
-    }
-
-    clergymen = {
-        culture = basque
-        religion = catholic
-        size = 850
-    }
-
-    artisans = {
-        culture = basque
-        religion = catholic
-        size = 3000
-    }
-
-    artisans = {
-        culture = basque
-        religion = catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = basque
-        religion = catholic
-        size = 1250
-    }
-
-    farmers = {
-        culture = basque
-        religion = catholic
-        size = 64700
-    }
-
-    farmers = {
-        culture = basque
-        religion = catholic
-        size = 10000
-    }
-
-    aristocrats = {
-        culture = basque
-        religion = catholic
-        size = 400
-    }
-
-    clergymen = {
-        culture = basque
-        religion = catholic
-        size = 350
-    }
-
-    artisans = {
-        culture = basque
-        religion = catholic
-        size = 2500
-    }
-
-    soldiers = {
-        culture = basque
-        religion = catholic
-        size = 450
-    }
-
-    farmers = {
-        culture = basque
-        religion = catholic
-        size = 31300
     }
 }
 #Languedoc Region (1668000)
@@ -3123,68 +3018,6 @@
         culture = occitan
         religion = catholic
         size = 32350
-    }
-}
-#Perpignan (164000/41000 POPS)
-464 = {
-    aristocrats = {
-        culture = catalan
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = catalan
-        religion = catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 1250
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = catholic
-        size = 150
-    }
-
-    farmers = {
-        culture = catalan
-        religion = catholic
-        size = 11425
-    }
-
-    aristocrats = {
-        culture = catalan
-        religion = catholic
-        size = 200
-    }
-
-    clergymen = {
-        culture = catalan
-        religion = catholic
-        size = 175
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 2250
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = catholic
-        size = 250
-    }
-
-    farmers = {
-        culture = catalan
-        religion = catholic
-        size = 25075
     }
 }
 #Savoy Region (486800)

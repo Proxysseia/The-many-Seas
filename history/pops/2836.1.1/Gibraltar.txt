@@ -1,70 +1,689 @@
-#Gibraltar : 16394
-#Ruled by Britain 1836
-#Gibraltar (16394/4100 POPS)
+#Badajoz 
+484 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 1250
+    }
+
+    officers = {
+        culture = berber
+        religion = sunni
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = berber
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 550
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 4500
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 600
+    }
+
+    farmers = {
+        culture = berber
+        religion = sunni
+        size = 46650
+    }
+}
+#Cartagena
+506 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 1100
+    }
+
+    officers = {
+        culture = berber
+        religion = sunni
+        size = 150
+    }
+
+    bureaucrats = {
+        culture = berber
+        religion = sunni
+        size = 900
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 525
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 7000
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 550
+    }
+
+    farmers = {
+        culture = berber
+        religion = sunni
+        size = 42375
+    }
+}
+#Seville 
+509 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 1800
+    }
+
+    officers = {
+        culture = berber
+        religion = sunni
+        size = 550
+    }
+
+    bureaucrats = {
+        culture = berber
+        religion = sunni
+        size = 450
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 1100
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 10000
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 10000
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 5000
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 3000
+    }
+
+    farmers = {
+        culture = berber
+        religion = sunni
+        size = 62200
+    }
+}
+#Cordoba
+510 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 1700
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 800
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 9000
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = berber
+        religion = sunni
+        size = 68500
+    }
+}
+#Huelva
+511 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 750
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 375
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 2000
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 500
+    }
+
+    farmers = {
+        culture = berber
+        religion = sunni
+        size = 31375
+    }
+}
+#Cadiz (336000/84000 POPS)
+512 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 1100
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 850
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 10000
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 6500
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = berber
+        religion = sunni
+        size = 64650
+    }
+
+}
+#Granada
+513 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 2750
+    }
+
+    officers = {
+        culture = berber
+        religion = sunni
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = berber
+        religion = sunni
+        size = 500
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 950
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 15000
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 3000
+    }
+
+    farmers = {
+        culture = berber
+        religion = sunni
+        size = 72850
+    }
+}
+#Malaga
+514 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 2700
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 900
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 10000
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 7500
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = berber
+        religion = sunni
+        size = 78400
+    }
+}
+#Almeria
+515 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 1650
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 550
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 5000
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = berber
+        religion = sunni
+        size = 52600
+    }
+}
+#Jaen
+516 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 1700
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 600
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 6000
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = berber
+        religion = sunni
+        size = 58200
+    }
+}
+#Gibraltar 
 517 = {
     officers = {
-        culture = english
-        religion = protestant
+        culture = berber
+        religion = sunni
         size = 5
     }
 
     bureaucrats = {
-        culture = english
-        religion = protestant
-        size = 5
+        culture = berber
+        religion = sunni
+        size = 50
     }
 
     soldiers = {
-        culture = english
-        religion = protestant
-        size = 674
+        culture = berber
+        religion = sunni
+        size = 700
     }
 
     artisans = {
-        culture = english
-        religion = protestant
-        size = 138
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 353
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = jewish
-        size = 117
+        culture = berber
+        religion = sunni
+        size = 1500
     }
 
     farmers = {
-        culture = spanish
-        religion = catholic
-        size = 1069
+        culture = berber
+        religion = sunni
+        size = 7000
     }
-
-    farmers = {
-        culture = portuguese
-        religion = catholic
-        size = 169
+}
+#Setubal
+524 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 400
     }
 
     clergymen = {
-        culture = north_italian
-        religion = catholic
-        size = 5
+        culture = berber
+        religion = sunni
+        size = 300
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 1500
     }
 
     farmers = {
-        culture = north_italian
-        religion = catholic
-        size = 1302
+        culture = berber
+        religion = sunni
+        size = 42800
+    }
+
+}
+#Evora
+525 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 850
+    }
+
+    officers = {
+        culture = berber
+        religion = sunni
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = berber
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 425
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 2250
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 1100
     }
 
     farmers = {
-        culture = south_italian
-        religion = catholic
-        size = 35
+        culture = berber
+        religion = sunni
+        size = 44250
+    }
+}
+#Beja
+526 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 500
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 1250
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = berber
+        religion = sunni
+        size = 42250
+    }
+}
+#Faro 
+527 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 550
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 325
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 1750
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 350
+    }
+
+    farmers = {
+        culture = berber
+        religion = sunni
+        size = 41025
+    }
+}
+
+####################################
+
+#Azores
+2134 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 500
+    }
+
+    officers = {
+        culture = berber
+        religion = sunni
+        size = 50
+    }
+
+    bureaucrats = {
+        culture = berber
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 375
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = berber
+        religion = sunni
+        size = 45975
+    }
+}
+#Madeira
+2135 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 175
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 1500
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = berber
+        religion = sunni
+        size = 23825
+    }
+}
+#Canary Islands
+2136 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 825
+    }
+
+    officers = {
+        culture = berber
+        religion = sunni
+        size = 50
+    }
+
+    bureaucrats = {
+        culture = berber
+        religion = sunni
+        size = 75
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 525
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 500
+    }
+
+    farmers = {
+        culture = berber
+        religion = sunni
+        size = 47025
     }
 }
