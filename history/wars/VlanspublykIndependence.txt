@@ -1,6 +1,6 @@
 name = "Vlanisch War of Independence"
 
-2719.3.1 = {
+1719.3.1 = {
 	add_attacker = NET
 	add_defender = VLA
 	
@@ -23,7 +23,7 @@ name = "Vlanisch War of Independence"
 
 }
 
-2727.12.25 = {
+1727.12.25 = {
 	rem_attacker = NET
 	rem_defender = AUS
 	rem_defender = VLA

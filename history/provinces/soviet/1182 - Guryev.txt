@@ -1,7 +1,9 @@
-owner = MOW
-controller = MOW
+ 
+ 
+owner = STR
+controller = STR
 add_core = STR
 trade_goods = opium
 life_rating = 35
 
-add_core = MOW
+ 

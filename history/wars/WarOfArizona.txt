@@ -1,6 +1,6 @@
 name = "War of Arizonan Subjugation"
 
-2772.9.15 = {
+1772.9.15 = {
 	add_attacker = LOS
 	add_defender = ARI
 	
@@ -22,7 +22,7 @@ name = "War of Arizonan Subjugation"
 
 }
 
-2773.7.24 = {
+1773.7.24 = {
     rem_attacker = LOS
 	rem_defender = ARI
 }

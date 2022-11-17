@@ -1,0 +1,17 @@
+name = "Russian Civil War"
+
+1836.1.2 = {
+    add_attacker = URA
+    add_defender = OMS
+
+    war_goal = {
+        casus_belli = civil_war
+        actor = URA
+        receiver = OMS
+    }
+	war_goal = {
+        casus_belli = status_quo
+        actor = OMS
+        receiver = URA
+    }
+}

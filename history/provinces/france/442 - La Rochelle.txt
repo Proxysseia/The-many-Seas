@@ -3,7 +3,7 @@ controller = DPA
 
 add_core = FRE
 trade_goods = fish
-life_rating = 31
+life_rating = 35
 naval_base = 2
 2861.1.1 = {
     state_building = {

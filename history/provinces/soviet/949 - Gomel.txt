@@ -1,7 +1,9 @@
-owner = MOW
-controller = MOW
+ 
+ 
+owner = PRZ
+controller = PRZ
 add_core = PRZ               
 trade_goods = cattle
-life_rating = 32
+life_rating = 35
 
-add_core = MOW
+ 

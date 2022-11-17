@@ -3,7 +3,7 @@ controller = DPA
 
 add_core = FRE
 trade_goods = cattle
-life_rating = 31
+life_rating = 35
 #state_building = {
 #    level = 1
 #    building = lumber_mill

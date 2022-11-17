@@ -1,6 +1,6 @@
 name = "War of the One"
 
-2762.6.14 = {
+1762.6.14 = {
     add_attacker = LIT
     add_attacker = POL
     add_attacker = UKR
@@ -21,7 +21,7 @@ name = "War of the One"
 
 }
 
-2809.3.18 = {
+1809.3.18 = {
     rem_attacker = LIT
     rem_attacker = POL
     rem_attacker = UKR

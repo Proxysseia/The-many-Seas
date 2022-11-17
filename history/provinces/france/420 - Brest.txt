@@ -3,7 +3,7 @@ controller = DPA
 add_core = FRE
 
 trade_goods = grain
-life_rating = 39
+life_rating = 40
 naval_base = 2
 #state_building = {
 #    level = 1

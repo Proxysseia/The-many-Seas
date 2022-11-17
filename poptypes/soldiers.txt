@@ -23,13 +23,13 @@ life_needs_income = {
 
 everyday_needs_income = {
 	type = military
-	weight = 1.5
+	weight = 2.0
 }
 
 luxury_needs_income =
 {
 	type = military
-	weight = 1.5
+	weight = 1
 }
 
 
@@ -69,45 +69,98 @@ luxury_needs = {
 country_migration_target =
 {
 	factor = 1
+
 	modifier = {
-		factor = 2.0
-		has_pop_culture = THIS
+		factor = 0.9
+		unemployment = 0.05
 	}
 	modifier = {
-		factor = 1.2
-		is_greater_power = yes
+		factor = 0.9
+		unemployment = 0.1
 	}
 	modifier = {
-		factor = 1.1
-		government = democracy
+		factor = 0.9
+		unemployment = 0.15
 	}
 	modifier = {
-		factor = 0.75
-		government = prussian_constitutionalism
+		factor = 0.9
+		unemployment = 0.2
 	}
 	modifier = {
-		factor = 0.4
-		OR = {
-			government = proletarian_dictatorship
-			government = presidential_dictatorship
-			government = bourgeois_dictatorship
-			government = fascist_dictatorship
-			government = absolute_monarchy
-		}
+		factor = 0.9
+		unemployment = 0.25
+	}
+	modifier = {
+		factor = 0.9
+		unemployment = 0.3
+	}
+	modifier = {
+		factor = 0.9
+		unemployment = 0.35
+	}
+	modifier = {
+		factor = 0.1
+		unemployment = 0.5
+	}
+	modifier = {
+		factor = -10000
+		soldiers = 0.06
+	}
+	
+	modifier = {
+		factor = -10000.0
+		NOT = { has_country_flag = new_world_nation }
 	}
 	modifier = {
 		factor = 4.0
-		OR = { 
-			continent = north_america
-			continent = south_america
-			continent = oceania
+		THIS = { religion = jewish }
+		any_owned_province = { is_core = ISR }
+	}
+	modifier = {
+		factor = 10.0
+		has_country_flag = new_world_nation
+		nationalvalue = nv_liberty
+	}
+	modifier = {
+        factor = -1000.0
+		has_global_flag = fuck_ai_immigration
+		ai = yes
+    }
+	modifier = {
+		factor = 0.1
+		has_country_flag = new_world_nation
+		nationalvalue = nv_liberty
+		NOT = {
+			any_owned_province = {
+				OR = {
+					AND = {
+						has_pop_type = labourers
+						NOT = { unemployment_by_type = { value = 0.1 type = labourers } }
+					}
+					AND = {
+						has_pop_type = farmers
+						NOT = { unemployment_by_type = { value = 0.1 type = farmers } }
+					}
+					AND = {
+						state_scope = { has_factories = yes }
+						NOT = { unemployment_by_type = { value = 0.1 type = craftsmen } }
+					}
+				}
+			}
 		}
-	}	
+	}
 }
 
 migration_target =
 {
 	factor = 0.01
+	
+	modifier = {
+		factor = 0
+		state_scope = {
+			soldiers = 0.05
+		}
+	}
 	
 	modifier = {
 		factor = 1.2
@@ -125,20 +178,15 @@ migration_target =
 		factor = 1.2
 		total_pops = 750000
 	}
-	
+
 	modifier = {
-		factor = 1.2
+    		factor = 4
+    		has_culture_core = yes
+	}
+
+	modifier = {
+		factor = 4
 		has_pop_culture = THIS
-	}
-	modifier = {
-    	factor = 0.25
-    	has_culture_core = no
-	}
-	modifier = {
-		factor = 2
-		state_scope = {
-			has_factories = yes
-		}
 	}
 	modifier = {
 		factor = 1.2
@@ -153,6 +201,11 @@ migration_target =
 		state_scope = {
 			is_slave = yes
 		}
+	}
+	modifier = {
+		factor = 4
+		this = { religion = jewish }
+		is_core = ISR 
 	}
 	modifier = {
 		factor = 20000
@@ -180,7 +233,7 @@ migration_target =
 		terrain = marsh
 	}
 	modifier = {
-		factor = 0.1
+		factor = 0.01
 		terrain = arctic
 	}
 	modifier = {
@@ -205,7 +258,9 @@ promote_to =
 		}
 		modifier = {
 			factor = -100
-			officers = 0.002
+			state_scope = {
+				officers = 0.002
+			}
 		}		
 
 		modifier = {
@@ -2171,7 +2226,7 @@ issues =
 		}
 		modifier = {
 			factor = 0.25
-			NOT = { literacy = 0.5 }
+			NOT = { literacy = 50 }
 		}
 		modifier = {
 			factor = 1.25
@@ -2216,7 +2271,7 @@ issues =
 		}
 		modifier = {
 			factor = 0.25
-			NOT = { literacy = 0.5 }
+			NOT = { literacy = 50 }
 		}
 		modifier = {
 			factor = 1.25

@@ -8,7 +8,7 @@ cruiser = {
 	unit_type = light_ship
 	move_sound = steam_move
 	select_sound = steam_selected
-	colonial_points = 19.2
+	colonial_points = 8 #10
 	
 	#Core Abilities
 	priority = 12
@@ -21,29 +21,31 @@ cruiser = {
 
 
 	#Building Costs
-	build_time = 280
+	build_time = 380
 	build_cost = {
-		steamer_convoy = 60
-		artillery = 12
-		canned_food = 8
-		fuel = 20
+		steamer_convoy = 25
+		artillery = 20
+		coal = 100
+		canned_food = 100
+		#fuel = 5
 	}
 	min_port_level = 4
 	limit_per_port = -1
-	supply_consumption_score = 0
+	supply_consumption_score = 20
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		steamer_convoy = 1.5
-		artillery = 0.2
-		canned_food = 0.4
-		fuel = 2.0
+		steamer_convoy = 0.5 #18.6
+		artillery = 0.1       #15
+		#canned_food = 0.15    #1.5
+		#steel = 2.5           #11.75
+		fuel = 0.14            #7.5 total 53.35
 	}
 	
 	#Naval Abilties
-	hull = 50
-	gun_power = 30
-	fire_range = 0.65
-	evasion = 0.30
-	torpedo_attack = 2
+	hull = 30
+	gun_power = 20
+	fire_range = 0.75
+	evasion = 0
+	torpedo_attack = 0
 }

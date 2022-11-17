@@ -1,6 +1,6 @@
 name = "Sardinia"
 
-2755.12.25 = {
+1755.12.25 = {
     add_attacker = SIC
     add_defender = APU
     add_defender = TUS
@@ -22,7 +22,7 @@ name = "Sardinia"
     }
 }
 
-2756.5.6 = {
+1756.5.6 = {
     rem_attacker = SIC
     rem_defender = APU
     rem_defender = TUS

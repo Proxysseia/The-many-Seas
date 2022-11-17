@@ -1,6 +1,6 @@
 name = "The Pacific War"
 
-2813.4.12 = {
+1813.4.12 = {
     add_attacker = LOS
     add_defender = CAL
 
@@ -12,7 +12,7 @@ name = "The Pacific War"
 
 }
 
-2815.3.17 = {
+1815.3.17 = {
     rem_attacker = LOS
     rem_defender = CAL
 }

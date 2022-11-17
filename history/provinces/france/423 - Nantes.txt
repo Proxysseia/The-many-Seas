@@ -4,7 +4,7 @@ add_core = FRE
 
 trade_goods = grain
 
-life_rating = 31
+life_rating = 35
 
 2861.1.1 = { railroad = 3 }
 
