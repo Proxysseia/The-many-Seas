@@ -3,8 +3,3 @@ controller = RYU
 add_core = RYU
 trade_goods = tea
 life_rating = 35
-2861.1.1 = {
-    owner = TPG
-    controller = TPG
-    add_core = TPG
-}

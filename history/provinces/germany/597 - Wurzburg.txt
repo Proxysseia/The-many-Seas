@@ -1,9 +1,5 @@
 owner = AUS
 controller = AUS
-
-add_core = OUD
+add_core = AUS
 trade_goods = fruit
 life_rating = 40
-2861.1.1 = { railroad = 3 }
-
-add_core = AUS

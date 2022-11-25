@@ -1,9 +1,6 @@
 owner = WAL
 controller = WAL
-
-add_core = MOL
+add_core = WAL
 trade_goods = fish
 life_rating = 35
 fort = 1
-
-add_core = WAL

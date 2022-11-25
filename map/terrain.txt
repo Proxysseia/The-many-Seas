@@ -1,6 +1,5 @@
 terrain = 64
 
-
 categories =  {
     ocean = {
         movement_cost = 1.0

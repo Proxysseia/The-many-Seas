@@ -3,9 +3,3 @@ controller = UKR
 add_core = UKR
 trade_goods = grain
 life_rating = 35
-terrain = farmlands
-#state_building = {
-#    level = 1
-#    building = glass_factory
-#    upgrade = yes
-#}

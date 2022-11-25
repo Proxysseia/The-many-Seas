@@ -1,12 +1,5 @@
 owner = MCK
 controller = MCK
-
 add_core = MCK
 trade_goods = coal
 life_rating = 35
-2861.1.1 = {
-    owner = RUS
-    controller = RUS
-    colonial = 1
-    naval_base = 1
-}

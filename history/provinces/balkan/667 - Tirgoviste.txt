@@ -3,8 +3,3 @@ controller = WAL
 add_core = WAL
 trade_goods = wool
 life_rating = 35
-
-2861.1.1 = {
-    controller = ROM
-    owner = ROM
-}

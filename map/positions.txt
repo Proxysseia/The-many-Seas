@@ -127418,7 +127418,8 @@
         naval_base = 4.919627
     }
 	
-} # Grant River
+} 
+# Grant River
 
 3360 = {
     text_position = {
@@ -127432,7 +127433,8 @@
         y = 1585.916667
     }
 	
-} # Snake River
+} 
+# Snake River
 
 3361 = {
     text_position = {
@@ -127446,9 +127448,40 @@
         y = 1585.916667
     }
 	
-} # Mississippi
+}
+ # Mississippi
 
 3362 = {
+    text_position = {
+        x = 20.383333
+        y = -20.650000
+    }
+
+    text_scale = 6.67
+    unit = {
+        x = 3349.400000
+        y = 1585.916667
+    }
+
+}
+# Upper Jdar
+
+3363 = {
+    text_position = {
+        x = 20.383333
+        y = 20.650000
+    }
+
+    text_scale = 8.67
+    unit = {
+        x = 3349.400000
+        y = 1585.916667
+    }
+	
+}
+ # lower Jdar
+
+3364 = {
     text_position = {
         x = 20.383333
         y = -20.650000

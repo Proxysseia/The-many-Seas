@@ -1,8 +1,5 @@
 owner = NET
 controller = NET
-
-add_core = OUD
+add_core = NET
 trade_goods = sulphur
 life_rating = 40
-
-add_core = NET

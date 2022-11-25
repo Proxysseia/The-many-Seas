@@ -1,6 +1,5 @@
 owner = KAR
 controller = KAR
 add_core = KAR
-add_core = BUR
-trade_goods = opium
+trade_goods = coal
 life_rating = 35

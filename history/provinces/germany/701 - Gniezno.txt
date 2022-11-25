@@ -1,15 +1,5 @@
 owner = LIT
 controller = LIT
-
-add_core = OUD
+add_core = LIT
 trade_goods = grain
 life_rating = 40
-2861.1.1 = {
-    state_building = {
-        level = 1
-        building = fertilizer_factory
-        upgrade = yes
-    }
-}
-
-add_core = LIT

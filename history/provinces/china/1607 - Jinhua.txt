@@ -3,8 +3,3 @@ controller = WYS
 add_core = WYS
 trade_goods = timber
 life_rating = 35
-2861.1.1 = {
-    owner = TPG
-    controller = TPG
-    add_core = TPG
-}

@@ -1,18 +1,2 @@
-add_core = MOW 
- 
 trade_goods = cattle
 life_rating = 30
-#state_building = {
-#    level = 1
-#    building = liquor_distillery
-#    upgrade = yes
-#}
-2861.1.1 = {
-    state_building = {
-        level = 1
-        building = liquor_distillery
-        upgrade = yes
-    }
-}
-
- 

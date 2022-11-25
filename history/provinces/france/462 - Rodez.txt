@@ -1,9 +1,5 @@
-owner = DPA
-controller = DPA
-
+owner = FRE
+controller = FRE
 add_core = FRE
 trade_goods = cattle
 life_rating = 35
-2861.1.1 = { railroad = 3 }
-
-add_core = DPA
