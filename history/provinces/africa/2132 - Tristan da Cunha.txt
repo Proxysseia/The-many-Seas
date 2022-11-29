@@ -1,4 +1,5 @@
-owner = POR
-controller = POR
+owner = NET
+controller = NET
+add_core = NET
 trade_goods = fish
 life_rating = 20

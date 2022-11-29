@@ -1,7 +1,6 @@
-owner = APU
-controller = APU
-add_core = TUN
+owner = CLV
+controller = CLV
+add_core = CLV
 trade_goods = grain
 life_rating = 40
 naval_base = 1
-colonial = 2

@@ -1,4 +1,5 @@
-owner = NET
-controller = NET
+owner = UNS
+controller = UNS
+add_core = UNS
 trade_goods = fish
 life_rating = 20

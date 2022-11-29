@@ -1,6 +1,6 @@
-owner = OMA
-controller = OMA
-add_core = OMA
+owner = ETH
+controller = ETH
+add_core = ETH
 trade_goods = opium
 life_rating = 35
 naval_base = 1
