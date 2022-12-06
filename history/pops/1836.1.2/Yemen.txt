@@ -200,43 +200,43 @@
 #Sana (124000/31000 POPS)
 1178 = {
     aristocrats = {
-        culture = mashriqi
+        culture = maghrebi
         religion = shiite
         size = 950
     }
 
     bureaucrats = {
-        culture = mashriqi
+        culture = maghrebi
         religion = shiite
         size = 100
     }
 
     officers = {
-        culture = mashriqi
+        culture = maghrebi
         religion = shiite
         size = 150
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = maghrebi
         religion = shiite
         size = 500
     }
 
     artisans = {
-        culture = mashriqi
+        culture = maghrebi
         religion = shiite
         size = 2550
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = maghrebi
         religion = shiite
         size = 2000
     }
 
     farmers = {
-        culture = mashriqi
+        culture = maghrebi
         religion = shiite
         size = 42750
     }
@@ -292,31 +292,31 @@
 #Hodeida (48000/12000 POPS)
 1179 = {
     aristocrats = {
-        culture = mashriqi
+        culture = maghrebi
         religion = sunni
         size = 300
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = maghrebi
         religion = sunni
         size = 200
     }
 
     artisans = {
-        culture = mashriqi
+        culture = maghrebi
         religion = sunni
         size = 1100
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = maghrebi
         religion = sunni
         size = 2000
     }
 
     farmers = {
-        culture = mashriqi
+        culture = maghrebi
         religion = sunni
         size = 12500
     }
@@ -360,61 +360,61 @@
 #Taizz (52000/13000 POPS)
 1180 = {
     aristocrats = {
-        culture = mashriqi
+        culture = maghrebi
         religion = sunni
         size = 2000
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = maghrebi
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
+        culture = maghrebi
         religion = sunni
         size = 500
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = maghrebi
         religion = sunni
         size = 2000
     }
 
     farmers = {
-        culture = mashriqi
+        culture = maghrebi
         religion = sunni
         size = 7225
     }
 
     aristocrats = {
-        culture = mashriqi
+        culture = maghrebi
         religion = shiite
         size = 250
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = maghrebi
         religion = shiite
         size = 150
     }
 
     artisans = {
-        culture = mashriqi
+        culture = maghrebi
         religion = shiite
         size = 800
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = maghrebi
         religion = shiite
         size = 150
     }
 
     farmers = {
-        culture = mashriqi
+        culture = maghrebi
         religion = shiite
         size = 12400
     }
@@ -429,7 +429,7 @@
 1412 = {
 
     aristocrats = {
-        culture = mashriqi
+        culture = maghrebi
         religion = sunni
         size = 436
     }
@@ -447,55 +447,55 @@
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = maghrebi
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
+        culture = maghrebi
         religion = sunni
         size = 500
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = maghrebi
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = mashriqi
+        culture = maghrebi
         religion = sunni
         size = 7225
     }
 
     aristocrats = {
-        culture = mashriqi
+        culture = maghrebi
         religion = shiite
         size = 200
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = maghrebi
         religion = shiite
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
+        culture = maghrebi
         religion = shiite
         size = 300
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = maghrebi
         religion = shiite
         size = 2000
     }
 
     farmers = {
-        culture = mashriqi
+        culture = maghrebi
         religion = shiite
         size = 5275
     }

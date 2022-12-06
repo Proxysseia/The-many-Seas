@@ -64,13 +64,13 @@
 
     ######Jews
     artisans = {
-        culture = ashkenazi
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     farmers = {
-        culture = ashkenazi
+        culture = maghrebi
         religion = jewish
         size = 100
     }

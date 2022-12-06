@@ -1,0 +1,1528 @@
+#Kars
+885 = {
+	aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 400
+    }
+
+	bureaucrats = {
+        culture = circassian
+        religion = orthodox
+        size = 150
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 1000
+    }
+
+    officers = {
+        culture = circassian
+        religion = orthodox
+        size = 500
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 3000
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 10000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 100000
+    }
+}
+#Ardahan
+886 = {
+	aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 300
+    }
+	
+	bureaucrats = {
+        culture = circassian
+        religion = orthodox
+        size = 150
+    }
+
+	    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 1000
+    }
+
+    officers = {
+        culture = circassian
+        religion = orthodox
+        size = 400
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 2500
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 12000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 80000
+    }
+}
+#Azov
+1047 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 400
+    }
+	
+	bureaucrats = {
+        culture = circassian
+        religion = orthodox
+        size = 150
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 300
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 4000
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 45000
+    }
+}
+#Ekaterinodar
+1048 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 400
+    }
+	
+	bureaucrats = {
+        culture = circassian
+        religion = orthodox
+        size = 150
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 300
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 2000
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 50000
+    }
+}
+1049 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 600
+    }
+	
+	bureaucrats = {
+        culture = circassian
+        religion = orthodox
+        size = 150
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 750
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 3500
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 70000
+    }
+}
+#Stavropol
+1050 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 500
+    }
+
+    bureaucrats = {
+        culture = circassian
+        religion = orthodox
+        size = 150
+    }
+
+    officers = {
+        culture = circassian
+        religion = orthodox
+        size = 75
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 2000
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 11000
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 4000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 80000
+    }
+}
+#Adygei
+1051 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 450
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 1200
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 1100
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 5000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 90000
+    }
+}
+#Derbent
+1052 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 650
+    }
+
+    officers = {
+        culture = circassian
+        religion = orthodox
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = circassian
+        religion = orthodox
+        size = 75
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 500
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 2000
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 1500
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 48000
+    }
+}
+#Gunib
+1053 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 650
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 350
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 3000
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 5000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 45000
+    }
+}
+#Vladikavkaz
+1054 = {
+    bureaucrats = {
+        culture = circassian
+        religion = orthodox
+        size = 1000
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 2500
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 5000
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 4000
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 60000
+    }
+}
+#Grozny
+1055 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 1000
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 2000
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 14000
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 5000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 110000
+    }
+}
+#Pyatigorsk
+1056 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 600
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 1350
+    }
+
+    officers = {
+        culture = circassian
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 600
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 10000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 150000
+    }
+}
+#Kizlyar
+1057 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 200
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 400
+    }
+
+    officers = {
+        culture = circassian
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 1700
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 3000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 40000
+    }
+}
+#Tblisi
+1090 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 1100
+    }
+
+    bureaucrats = {
+        culture = circassian
+        religion = orthodox
+        size = 150
+    }
+
+    officers = {
+        culture = circassian
+        religion = orthodox
+        size = 175
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 250
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 2500
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 1000
+    }
+	
+	farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 35000
+    }
+}
+#Pasanauri
+1091 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 200
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 500
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 20000
+    }
+}
+#Kutaisi
+1092 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 550
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 300
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 2500
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 27000
+    }
+}
+#Akhaltsikhle
+1093 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 150
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 200
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 10000
+    }
+}
+#Poti
+1094 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 500
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 250
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 1300
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 3000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 30000
+    }
+}
+#Sukhumi
+1095 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 750
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 750
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 5000
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 5000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 650000
+    }
+}
+#Erivan
+1098 = {
+	aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 750
+    }
+	
+	soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 3000
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 1000
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 3500
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 50000
+    }
+}
+#Gyumri (68000/17000 POPS)
+1099 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 300
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 300
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 4000
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 20000
+    }
+}
+#Kapan (44000/11000 POPS)
+1100 = {
+	aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 125
+    }
+	
+	soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 110
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 110
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 3000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 25000
+    }
+}
+#Nakhichevan
+1101 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 125
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 175
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 450
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 15000
+    }
+}
+#Baku
+1102 = {
+    bureaucrats = {
+        culture = circassian
+        religion = orthodox
+        size = 50
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 750
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 1000
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 750
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 125
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 15000
+    }
+}
+#Siyazen (56000/14000 POPS)
+1103 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 50
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 1500
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 250
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 15000
+    }
+}
+#Sheki (24000/6000 POPS)
+1104 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 50
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 750
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 250
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 8000
+    }
+}
+#Ganja
+1105 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 225
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 500
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 4000
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 3000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 15000
+    }
+}
+#Agdam
+1106 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 300
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 500
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 450
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 3000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 13000
+    }
+}
+#Malacca
+1386 = {
+	aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 100
+    }
+	
+	bureaucrats = {
+        culture = circassian
+        religion = orthodox
+        size = 40
+    }
+	
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 3000
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 1500
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 18000
+	}
+}
+#Kelang
+1387 = {
+	aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 100
+    }
+	
+	bureaucrats = {
+        culture = circassian
+        religion = orthodox
+        size = 40
+    }
+	
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 3000
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 1500
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 18000
+	}
+}
+#Alor Setar (116000/29000 POPS)
+1389 = {
+	aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 125
+    }
+	
+	bureaucrats = {
+		culture = circassian
+        religion = orthodox
+        size = 40
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 1000
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 500
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 15000
+    }
+}
+#Tanjungpinang (100000/25000 POPS)
+1402 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 125
+    }
+
+	bureaucrats = {
+        culture = circassian
+        religion = orthodox
+        size = 40
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 1000
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 500
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 15000
+    }
+}
+#Rise-Artvin
+3342 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 500
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 250
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 1300
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 3000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 26000
+    }
+
+}
+#Nalchik
+3343 = {
+	 clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 350
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 350
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 650
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 150
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 45000
+    }
+}
+#Armavir (136000/34000 POPS)
+3344 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 700
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 600
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 550
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 5000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 110000
+    }
+}
+#Tskhinval
+3351 = {
+		 aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 25
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 25
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 150
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 750
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 8000
+    }
+}
+#Gori
+3352 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 200
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 2000
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 1500
+    }
+}
+#Telavi
+3353 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 50
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 1000
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 10000
+    }
+}
+#Martuni (68000/17000 POPS)
+3354 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 300
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 175
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 800
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 175
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 14750
+    }
+}
+#Stepanavan (68000/17000 POPS)
+3355 = {
+    aristocrats = {
+        culture = circassian
+        religion = orthodox
+        size = 300
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = orthodox
+        size = 175
+    }
+
+    artisans = {
+        culture = circassian
+        religion = orthodox
+        size = 800
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = orthodox
+        size = 175
+    }
+
+    farmers = {
+        culture = circassian
+        religion = orthodox
+        size = 15000
+    }
+}
+#Sumayquit (56000/14000 POPS)
+3356 = {
+    aristocrats = {
+        culture = circassian
+        religion = shiite
+        size = 225
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = shiite
+        size = 125
+    }
+
+    artisans = {
+        culture = circassian
+        religion = shiite
+        size = 700
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = shiite
+        size = 150
+    }
+
+    farmers = {
+        culture = circassian
+        religion = shiite
+        size = 12800
+    }
+}
+#Azeri Shirvan (56000/14000 POPS)
+3357 = {
+    aristocrats = {
+        culture = circassian
+        religion = shiite
+        size = 225
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = shiite
+        size = 125
+    }
+
+    artisans = {
+        culture = circassian
+        religion = shiite
+        size = 700
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = shiite
+        size = 150
+    }
+
+    farmers = {
+        culture = circassian
+        religion = shiite
+        size = 12800
+    }
+}
+#Quobustan (56000/14000 POPS)
+3358 = {
+    aristocrats = {
+        culture = circassian
+        religion = shiite
+        size = 225
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = shiite
+        size = 125
+    }
+
+    artisans = {
+        culture = circassian
+        religion = shiite
+        size = 700
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = shiite
+        size = 150
+    }
+
+    farmers = {
+        culture = circassian
+        religion = shiite
+        size = 12800
+    }
+}
+#Masalli (56000/14000 POPS)
+3359 = {
+    aristocrats = {
+        culture = circassian
+        religion = shiite
+        size = 225
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = shiite
+        size = 125
+    }
+
+    artisans = {
+        culture = circassian
+        religion = shiite
+        size = 700
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = shiite
+        size = 150
+    }
+
+    farmers = {
+        culture = circassian
+        religion = shiite
+        size = 12800
+    }
+}

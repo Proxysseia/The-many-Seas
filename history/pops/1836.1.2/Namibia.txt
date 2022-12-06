@@ -217,71 +217,7 @@
         size = 4575
     }
 }
-#Linyati
-2081 = {
-    aristocrats = {
-        culture = tswana
-        religion = protestant
-        size = 100
-    }
-
-    clergymen = {
-        culture = tswana
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = tswana
-        religion = protestant
-        size = 150
-    }
-
-    soldiers = {
-        culture = tswana
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = tswana
-        religion = protestant
-        size = 2700
-    }
-
-    aristocrats = {
-        culture = tswana
-        religion = protestant
-        size = 100
-    }
-
-    clergymen = {
-        culture = tswana
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = tswana
-        religion = protestant
-        size = 100
-    }
-
-    soldiers = {
-        culture = tswana
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = tswana
-        religion = protestant
-        size = 900
-    }
-}
-#Namaqualand Region (64000) #see South Africa.txt for balance of region
-#uncolonized in 1836/dominated by the Nama in 1836
-#Walvis Bay (4000/1000 POPS)
+#Walvis Bay
 2083 = {
     aristocrats = {
         culture = tswana

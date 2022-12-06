@@ -1,5 +1,65 @@
-#Imerina Region (1500000)
-#ruled by Madagascar in 1836
+#Linyati
+2081 = {
+    aristocrats = {
+        culture = malagasy
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = malagasy
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = malagasy
+        religion = protestant
+        size = 150
+    }
+
+    soldiers = {
+        culture = malagasy
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = malagasy
+        religion = protestant
+        size = 2700
+    }
+
+    aristocrats = {
+        culture = malagasy
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = malagasy
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = malagasy
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = malagasy
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = malagasy
+        religion = protestant
+        size = 900
+    }
+}
 #Tananarive (824000/207000 POPS)
 2115 = {
     aristocrats = {
@@ -581,5 +641,167 @@
         religion = animist
         size = 52975
     }
+}#Comoro Islands (56000/14000 POPS)
+2123 = {
+    aristocrats = {
+        culture = malagasy
+        religion = sunni
+        size = 150
+    }
 
+    clergymen = {
+        culture = malagasy
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = malagasy
+        religion = sunni
+        size = 325
+    }
+
+    soldiers = {
+        culture = malagasy
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = malagasy
+        religion = sunni
+        size = 3425
+    }
+
+    aristocrats = {
+        culture = malagasy
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = malagasy
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = malagasy
+        religion = sunni
+        size = 300
+    }
+
+    soldiers = {
+        culture = malagasy
+        religion = sunni
+        size = 50
+    }
+
+    farmers = {
+        culture = malagasy
+        religion = sunni
+        size = 8219
+    }
+
+    slaves = {
+        culture = malagasy
+        religion = animist
+        size = 281
+    }
+}
+#Mayotte
+2124 = {
+    aristocrats = {
+        culture = malagasy
+        religion = sunni
+        size = 15
+    }
+
+    clergymen = {
+        culture = malagasy
+        religion = sunni
+        size = 25
+    }
+
+    artisans = {
+        culture = malagasy
+        religion = sunni
+        size = 50
+    }
+
+    soldiers = {
+        culture = malagasy
+        religion = sunni
+        size = 10
+    }
+
+    farmers = {
+        culture = malagasy
+        religion = sunni
+        size = 500
+    }
+
+    slaves = {
+        culture = malagasy
+        religion = animist
+        size = 250
+    }
+}
+#Mauritius 
+2125 = {
+    clergymen = {
+        culture = malagasy
+        religion = protestant
+        size = 125
+    }
+
+    artisans = {
+        culture = malagasy
+        religion = protestant
+        size = 1100
+    }
+
+    soldiers = {
+        culture = malagasy
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = malagasy
+        religion = catholic
+        size = 22375
+    }
+}
+#Reunion 
+2126 = {
+    clergymen = {
+        culture = malagasy
+        religion = catholic
+        size = 125
+    }
+
+    artisans = {
+        culture = malagasy
+        religion = catholic
+        size = 850
+    }
+
+    soldiers = {
+        culture = malagasy
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = malagasy
+        religion = catholic
+        size = 1825
+    }
+
+    slaves = {
+        culture = malagasy
+        religion = catholic
+        size = 14000
+    }
 }

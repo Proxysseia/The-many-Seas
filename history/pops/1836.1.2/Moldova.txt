@@ -63,25 +63,25 @@
     }
 
     clergymen = {
-        culture = ashkenazi
+        culture = maghrebi
         religion = jewish
         size = 75
     }
 
     artisans = {
-        culture = ashkenazi
+        culture = maghrebi
         religion = jewish
         size = 1600
     }
 
     soldiers = {
-        culture = ashkenazi
+        culture = maghrebi
         religion = jewish
         size = 75
     }
 
     farmers = {
-        culture = ashkenazi
+        culture = maghrebi
         religion = jewish
         size = 6250
     }
@@ -155,25 +155,25 @@
     }
 
     clergymen = {
-        culture = ashkenazi
+        culture = maghrebi
         religion = jewish
         size = 75
     }
 
     artisans = {
-        culture = ashkenazi
+        culture = maghrebi
         religion = jewish
         size = 1800
     }
 
     soldiers = {
-        culture = ashkenazi
+        culture = maghrebi
         religion = jewish
         size = 75
     }
 
     farmers = {
-        culture = ashkenazi
+        culture = maghrebi
         religion = jewish
         size = 7050
     }

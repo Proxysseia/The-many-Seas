@@ -1,212 +1,208 @@
-#Smolensk Region (2032000) #see Belarus.txt for balance of region
-#under the rule of Russia in 1836
-#Smolensk (336000/84000 POPS)
+#Smolensk
 943 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 3700
     }
 
     bureaucrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 800
     }
 
     officers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 625
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 325
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 3700
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 3000
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 2000
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 10550
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 30000
     }
 }
-#Vyazma (416000/104000 POPS)
+#Vyazma
 1014 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 2100
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 350
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 4500
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 4100
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 11600
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 10000
     }
 }
-#Peremyshl (624000/156000 POPS)
+#Peremyshl
 1015 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 92
     }
 
     officers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 46
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 323
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1846
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1384
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 42469
     }
 }
-#Bryansk (656000/164000 POPS)
+#Bryansk
 1016 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 112
     }
 
     officers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 56
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 393
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 2249
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1686
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 31734
     }
 }
-#Kursk Region (3716000) #see Ukraine.txt for balance of region
-#under the rule of Russia in 1836
-#Kursk (772000/193000 POPS)
+#Kursk
 977 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 437
     }
 
     officers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 221
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1532
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 8759
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 6569
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 201473
     }
 
@@ -240,7 +236,7 @@
         size = 2035
     }
 }
-#Chernigov (616000/154000 POPS)
+#Chernigov
 962 = {
     aristocrats = {
         culture = russian
@@ -278,7 +274,7 @@
         size = 80000
     }
 }
-#Poltava (1552000/388000 POPS)
+#Poltava
 963 = {
     aristocrats = {
         culture = russian
@@ -352,79 +348,79 @@
         size = 20275
     }
 }
-#Orel (656000/164000 POPS)
+#Orel
 1017 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 165
     }
 
     officers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 82
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 577
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 3300
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 2475
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 35913
     }
 }
-#Belgorod (748000/187000 POPS)
+#Belgorod
 1018 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 198
     }
 
     officers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 102
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 696
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 3977
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 2983
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 91493
     }
 
@@ -462,37 +458,37 @@
 1019 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 124
     }
 
     officers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 62
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 434
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 2484
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1863
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 27133
     }
 }
@@ -502,73 +498,73 @@
 979 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 675
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 325
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1750
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 3000
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 88125
     }
 
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 225
     }
 
     bureaucrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 375
     }
 
     officers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 300
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 100
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 450
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 100
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 17450
     }
 }
@@ -578,43 +574,43 @@
 981 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 250
     }
 
     bureaucrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 50
     }
 
     officers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 50
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 125
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1550
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 325
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 7450
     }
 }
@@ -622,31 +618,31 @@
 2588 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 50
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 250
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 500
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 18200
     }
 }
@@ -656,31 +652,31 @@
 985 = {
     bureaucrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 10
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 80
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 250
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 50
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 6610
     }
 }
@@ -688,25 +684,25 @@
 987 = {
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 50
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 150
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 25
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 4775
     }
 }
@@ -714,25 +710,25 @@
 2700 = {
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 25
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 75
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 10
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 2375
     }
 }
@@ -742,19 +738,19 @@
 986 = {
     bureaucrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 5
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 10
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1585
     }
 }
@@ -762,13 +758,13 @@
 2689 = {
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 10
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1490
     }
 }
@@ -776,13 +772,13 @@
 2687 = {
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 50
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1205
     }
 }
@@ -792,25 +788,25 @@
 990 = {
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 25
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 50
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 25
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 6900
     }
 }
@@ -818,37 +814,37 @@
 991 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1400
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1125
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1500
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1100
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 22875
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 4000
     }
 }
@@ -856,37 +852,37 @@
 992 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1150
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 950
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 4500
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 950
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 7450
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 12000
     }
 }
@@ -898,49 +894,49 @@
 998 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 325
     }
 
     bureaucrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 325
     }
 
     officers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 175
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 750
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 4050
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1000
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 18075
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 20000
     }
 }
@@ -948,31 +944,31 @@
 1000 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 650
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 200
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1550
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 325
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 21475
     }
 }
@@ -980,37 +976,37 @@
 1001 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 2000
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1100
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 5500
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1100
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 5300
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 20000
     }
 }
@@ -1022,49 +1018,49 @@
 1008 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 13600
     }
 
     bureaucrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 500
     }
 
     officers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 150
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 550
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 7525
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 6200
     }
 
     labourers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 40800
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 72815
     }
 }
@@ -1072,25 +1068,25 @@
 1010 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1350
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 3000
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 16025
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 32000
     }
 }
@@ -1098,37 +1094,37 @@
 1012 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1500
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 250
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 4500
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 6100
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 26725
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 37000
     }
 }
@@ -1136,37 +1132,37 @@
 1013 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 2300
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1350
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 5750
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 3250
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 30270
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 37750
     }
 }
@@ -1176,49 +1172,49 @@
 1020 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 800
     }
 
     bureaucrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 500
     }
 
     officers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 250
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 650
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1600
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1650
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 10000
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 25000
     }
 }
@@ -1226,49 +1222,49 @@
 1022 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 400
     }
 
     bureaucrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 200
     }
 
     officers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 200
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 250
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 950
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 250
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 4000
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 20000
     }
 }
@@ -1276,37 +1272,37 @@
 1025 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 50
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1000
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 5000
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1000
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 10000
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 20000
     }
 }
@@ -1316,19 +1312,19 @@
 1026 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 850
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 2375
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 40610
     }
 }
@@ -1336,31 +1332,31 @@
 1027 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1100
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 750
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 3850
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 775
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 10655
     }
 }
@@ -1368,37 +1364,37 @@
 1028 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 200
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 125
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 500
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 500
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 10000
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 22000
     }
 }
@@ -1406,19 +1402,19 @@
 1029 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1575
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1125
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 26575
     }
 }
@@ -1428,37 +1424,37 @@
 1030 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 200
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 125
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 500
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 200
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 13000
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 20000
     }
 }
@@ -1466,37 +1462,37 @@
 1031 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 850
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 325
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 2650
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 325
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 21850
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 10000
     }
 }
@@ -1504,31 +1500,31 @@
 1033 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 925
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 700
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1600
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 725
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 22500
     }
 }
@@ -1536,31 +1532,31 @@
 1034 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 750
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 450
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 2200
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1000
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 19600
     }
 }
@@ -1568,31 +1564,31 @@
 1035 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 2150
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1350
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 6750
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1350
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 12340
     }
 }
@@ -1602,31 +1598,31 @@
 1037 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 4600
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 550
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 6500
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1000
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 21350
     }
 }
@@ -1634,49 +1630,49 @@
 1039 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 2000
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 2500
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 3500
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 3000
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 13850
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 4000
     }
 
     farmers = {
         culture = tatar
-        religion = veravburyu
+        religion = orthodox
         size = 5250
     }
 
     farmers = {
         culture = ukrainian
-        religion = veravburyu
+        religion = orthodox
         size = 12250
     }
 }
@@ -1684,37 +1680,37 @@
 1040 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 50
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 75
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 200
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 100
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 13100
     }
 
     farmers = {
         culture = tatar
-        religion = veravburyu
+        religion = orthodox
         size = 4250
     }
 }
@@ -1724,49 +1720,49 @@
 1042 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 300
     }
 
     bureaucrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 100
     }
 
     officers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 150
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 525
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 2300
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 2100
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 21045
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 10000
     }
 }
@@ -1774,31 +1770,31 @@
 1043 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 525
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 400
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 2000
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 400
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 22675
     }
 }
@@ -1806,441 +1802,87 @@
 1044 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 350
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 300
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1550
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 1000
     }
 
     labourers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 17800
     }
 }
-#Dagestan Region (324000)
-#under the rule of Russia in 1836
-#Derbent (160000/40000 POPS)
-######Jews
-########
-1052 = {
-    bureaucrats = {
-        culture = russian
-        religion = veravburyu
-        size = 75
-    }
-
-    clergymen = {
-        culture = russian
-        religion = veravburyu
-        size = 25
-    }
-
-    artisans = {
-        culture = russian
-        religion = veravburyu
-        size = 225
-    }
-
-    aristocrats = {
-        culture = dagestani
-        religion = veravburyu
-        size = 650
-    }
-
-    clergymen = {
-        culture = dagestani
-        religion = veravburyu
-        size = 350
-    }
-
-    officers = {
-        culture = dagestani
-        religion = veravburyu
-        size = 100
-    }
-
-    artisans = {
-        culture = dagestani
-        religion = veravburyu
-        size = 1800
-    }
-
-    soldiers = {
-        culture = dagestani
-        religion = veravburyu
-        size = 1150
-    }
-
-    farmers = {
-        culture = dagestani
-        religion = veravburyu
-        size = 48000
-    }
-
-    aristocrats = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 300
-    }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 200
-    }
-
-    aristocrats = {
-        culture = azerbaijani
-        religion = veravburyu
-        size = 100
-    }
-
-    clergymen = {
-        culture = azerbaijani
-        religion = veravburyu
-        size = 100
-    }
-
-    artisans = {
-        culture = azerbaijani
-        religion = veravburyu
-        size = 150
-    }
-
-    soldiers = {
-        culture = azerbaijani
-        religion = veravburyu
-        size = 1750
-    }
-
-    farmers = {
-        culture = azerbaijani
-        religion = veravburyu
-        size = 1100
-    }
-}
-#Gunib (164000/41000 POPS)
-######Jews
-########
-1053 = {
-    aristocrats = {
-        culture = dagestani
-        religion = veravburyu
-        size = 650
-    }
-
-    clergymen = {
-        culture = dagestani
-        religion = veravburyu
-        size = 350
-    }
-
-    artisans = {
-        culture = dagestani
-        religion = veravburyu
-        size = 1750
-    }
-
-    soldiers = {
-        culture = dagestani
-        religion = veravburyu
-        size = 4350
-    }
-
-    farmers = {
-        culture = dagestani
-        religion = veravburyu
-        size = 42200
-    }
-
-    aristocrats = {
-        culture = azerbaijani
-        religion = veravburyu
-        size = 75
-    }
-
-    clergymen = {
-        culture = azerbaijani
-        religion = veravburyu
-        size = 100
-    }
-
-    artisans = {
-        culture = azerbaijani
-        religion = veravburyu
-        size = 250
-    }
-
-    soldiers = {
-        culture = azerbaijani
-        religion = veravburyu
-        size = 1050
-    }
-
-    farmers = {
-        culture = azerbaijani
-        religion = veravburyu
-        size = 3575
-    }
-
-    soldiers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 400
-    }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 300
-    }
-}
-#Kavkaz Region (348000)
-#under the rule of Russia in 1836
-#Grozny (68000/17000 POPS)
-1055 = {
-    aristocrats = {
-        culture = chechen
-        religion = veravburyu
-        size = 1325
-    }
-
-    clergymen = {
-        culture = chechen
-        religion = veravburyu
-        size = 1175
-    }
-
-    artisans = {
-        culture = chechen
-        religion = veravburyu
-        size = 3850
-    }
-
-    soldiers = {
-        culture = chechen
-        religion = veravburyu
-        size = 42650
-    }
-
-    farmers = {
-        culture = chechen
-        religion = veravburyu
-        size = 179000
-    }
-}
-#Kizylyar (68000/17000 POPS)
-1057 = {
-    aristocrats = {
-        culture = cherkesskiy
-        religion = veravburyu
-        size = 125
-    }
-
-    clergymen = {
-        culture = cherkesskiy
-        religion = veravburyu
-        size = 100
-    }
-
-    artisans = {
-        culture = cherkesskiy
-        religion = veravburyu
-        size = 600
-    }
-
-    farmers = {
-        culture = cherkesskiy
-        religion = veravburyu
-        size = 6175
-    }
-
-    aristocrats = {
-        culture = cherkesskiy
-        religion = veravburyu
-        size = 125
-    }
-
-    clergymen = {
-        culture = cherkesskiy
-        religion = veravburyu
-        size = 75
-    }
-
-    artisans = {
-        culture = cherkesskiy
-        religion = veravburyu
-        size = 3350
-    }
-
-    soldiers = {
-        culture = cherkesskiy
-        religion = veravburyu
-        size = 2075
-    }
-
-    farmers = {
-        culture = cherkesskiy
-        religion = veravburyu
-        size = 9375
-    }
-
-    aristocrats = {
-        culture = cherkesskiy
-        religion = veravburyu
-        size = 125
-    }
-
-    clergymen = {
-        culture = cherkesskiy
-        religion = veravburyu
-        size = 100
-    }
-
-    artisans = {
-        culture = cherkesskiy
-        religion = veravburyu
-        size = 600
-    }
-
-    farmers = {
-        culture = cherkesskiy
-        religion = veravburyu
-        size = 6175
-    }
-
-    aristocrats = {
-        culture = cherkesskiy
-        religion = veravburyu
-        size = 125
-    }
-
-    clergymen = {
-        culture = cherkesskiy
-        religion = veravburyu
-        size = 75
-    }
-
-    artisans = {
-        culture = cherkesskiy
-        religion = veravburyu
-        size = 3350
-    }
-
-    soldiers = {
-        culture = cherkesskiy
-        religion = veravburyu
-        size = 2075
-    }
-
-    farmers = {
-        culture = cherkesskiy
-        religion = veravburyu
-        size = 9375
-    }
-}
-#Yamalia Region (10400)
-#under the rule of Russia in 1836
-#Mordiyakha (1000/250 POPS) => Shadrinsk
+#Mordiyakha
 2614 = {
     aristocrats = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = orthodox
         size = 1800
     }
 
     bureaucrats = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = orthodox
         size = 275
     }
 
     officers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = orthodox
         size = 225
     }
 
     clergymen = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = orthodox
         size = 500
     }
 
     artisans = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = orthodox
         size = 12000
     }
 
     artisans = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = orthodox
         size = 4950
     }
 
     soldiers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = orthodox
         size = 1000
     }
 
     farmers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = orthodox
         size = 66000
     }
 
     farmers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = orthodox
         size = 18000
     }
 }
@@ -2252,31 +1894,31 @@
 1077 = {
     aristocrats = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = orthodox
         size = 900
     }
 
     clergymen = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = orthodox
         size = 650
     }
 
     artisans = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = orthodox
         size = 5200
     }
 
     soldiers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = orthodox
         size = 6400
     }
 
     farmers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = orthodox
         size = 73450
     }
 }
@@ -2284,25 +1926,25 @@
 2701 = {
     clergymen = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = orthodox
         size = 150
     }
 
     artisans = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = orthodox
         size = 1000
     }
 
     soldiers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = orthodox
         size = 500
     }
 
     farmers = {
         culture = novosibiryaki
-        religion = veravburyu
+        religion = orthodox
         size = 23450
     }
 }
@@ -2310,37 +1952,37 @@
 2610 = {
     aristocrats = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 125
     }
 
     clergymen = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 100
     }
 
     artisans = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 700
     }
 
     soldiers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 200
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 13175
     }
 
     farmers = {
         culture = russian
-        religion = veravburyu
+        religion = orthodox
         size = 12575
     }
 }

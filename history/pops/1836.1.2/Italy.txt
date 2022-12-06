@@ -343,31 +343,31 @@
 
     ######Jews
     aristocrats = {
-        culture = ashkenazi
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     soldiers = {
-        culture = ashkenazi
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     clergymen = {
-        culture = ashkenazi
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = ashkenazi
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     farmers = {
-        culture = ashkenazi
+        culture = maghrebi
         religion = jewish
         size = 100
     }
@@ -413,25 +413,25 @@
 
     ######Jews
     soldiers = {
-        culture = ashkenazi
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     clergymen = {
-        culture = ashkenazi
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = ashkenazi
+        culture = maghrebi
         religion = jewish
         size = 550
     }
 
     farmers = {
-        culture = ashkenazi
+        culture = maghrebi
         religion = jewish
         size = 500
     }
