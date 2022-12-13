@@ -395,13 +395,13 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 120
     }
@@ -917,13 +917,13 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 10
     }
 
     artisans = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 490
     }
@@ -997,13 +997,13 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 5
     }
 
     artisans = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 120
     }
@@ -1906,37 +1906,37 @@
 
     ######Jews
     aristocrats = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     officers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     soldiers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     clergymen = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 380
     }
 
     farmers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 480
     }
@@ -2027,25 +2027,25 @@
     ######Jews
 
     soldiers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     clergymen = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     farmers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }

@@ -87,49 +87,49 @@
     }
 
     clergymen = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 200
     }
 
     artisans = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 400
     }
 
     soldiers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 400
     }
 
     farmers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 500
     }
 
     clergymen = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 200
     }
 
     artisans = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 600
     }
 
     soldiers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 200
     }
 
     farmers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 1000
     }
@@ -216,25 +216,25 @@
 
     ######Jews
     soldiers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     clergymen = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     farmers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
@@ -334,25 +334,25 @@
 
     ######Jews
     soldiers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     clergymen = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     farmers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
@@ -517,25 +517,25 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     soldiers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 600
     }
 
     artisans = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 1025
     }
 
     farmers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 8300
     }
@@ -603,25 +603,25 @@
     }
 
     soldiers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 120
     }
 
     clergymen = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 120
     }
 
     artisans = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 2500
     }
 
     farmers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 3450
     }
@@ -683,31 +683,31 @@
     }
 
     soldiers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 125
     }
 
     clergymen = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 125
     }
 
     artisans = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 700
     }
 
     farmers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 13375
     }
 
     slaves = {
-        culture = armenian 
+        culture = turkish 
         religion = coptic
         size = 500
     }
@@ -795,69 +795,69 @@
     }
 
     aristocrats = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 120
     }
 
     officers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 120
     }
 
     soldiers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 300
     }
 
     clergymen = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 120
     }
 
     artisans = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 2500
     }
 
     farmers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 6425
     }
 
     ######Jews
     soldiers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     clergymen = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 200
     }
 
     farmers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
     ########
 
     slaves = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 1000
     }
@@ -1033,25 +1033,25 @@
     }
 
     soldiers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 200
     }
 
     clergymen = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 120
     }
 
     artisans = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 150
     }
 
     farmers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 1100
     }
@@ -1181,25 +1181,25 @@
     }
 
     soldiers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 200
     }
 
     clergymen = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 120
     }
 
     artisans = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 150
     }
 
     farmers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 1100
     }
@@ -1305,68 +1305,68 @@
     }
 
     aristocrats = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 120
     }
 
     officers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 120
     }
 
     soldiers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 150
     }
 
     clergymen = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 120
     }
 
     artisans = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 400
     }
 
     farmers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 580
     }
 
     ######Jews
     aristocrats = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     soldiers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 200
     }
 
     clergymen = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 1500
     }
 
     farmers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 1100
     }
@@ -1623,37 +1623,37 @@
     }
 
     aristocrats = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 120
     }
 
     officers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 120
     }
 
     soldiers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 200
     }
 
     clergymen = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 120
     }
 
     artisans = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 150
     }
 
     farmers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 930
     }
@@ -1721,25 +1721,25 @@
     }
 
     soldiers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 200
     }
 
     clergymen = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 120
     }
 
     artisans = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 150
     }
 
     farmers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 930
     }
@@ -1883,37 +1883,37 @@
     }
 
     aristocrats = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 120
     }
 
     officers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 120
     }
 
     soldiers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 200
     }
 
     clergymen = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 120
     }
 
     artisans = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 250
     }
 
     farmers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 4700
     }
@@ -1975,25 +1975,25 @@
     }
 
     soldiers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 200
     }
 
     clergymen = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 120
     }
 
     artisans = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 100
     }
 
     farmers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 1875
     }
@@ -2055,25 +2055,25 @@
     }
 
     soldiers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 200
     }
 
     clergymen = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 120
     }
 
     artisans = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 350
     }
 
     farmers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 6575
     }
@@ -2367,37 +2367,37 @@
     }
 
     aristocrats = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 110
     }
 
     officers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 110
     }
 
     soldiers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 200
     }
 
     clergymen = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 110
     }
 
     artisans = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 250
     }
 
     farmers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 4700
     }
@@ -2521,25 +2521,25 @@
     }
 
     soldiers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 110
     }
 
     clergymen = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 110
     }
 
     artisans = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 100
     }
 
     farmers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 1875
     }
@@ -2887,7 +2887,7 @@
     }
 
     slaves = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 1000
     }
@@ -3290,37 +3290,37 @@
     }
 
     aristocrats = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 110
     }
 
     officers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 110
     }
 
     soldiers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 110
     }
 
     clergymen = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 110
     }
 
     artisans = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 450
     }
 
     farmers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 8075
     }
@@ -3438,25 +3438,25 @@
     }
 
     soldiers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 110
     }
 
     clergymen = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 110
     }
 
     artisans = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 300
     }
 
     farmers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 5650
     }
@@ -3532,25 +3532,25 @@
     }
 
     soldiers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 110
     }
 
     clergymen = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 110
     }
 
     artisans = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 500
     }
 
     farmers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 9425
     }
@@ -3728,19 +3728,19 @@
     }
 
     clergymen = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 75
     }
 
     artisans = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 200
     }
 
     farmers = {
-        culture = armenian
+        culture = turkish
         religion = coptic
         size = 3725
     }

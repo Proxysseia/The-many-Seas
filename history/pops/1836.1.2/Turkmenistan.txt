@@ -1,35 +1,31 @@
-#Khwarazm Region (40000) #see Uzbekistan.txt and Kazakhstan.txt for balance of region
-#under the rule of Khiva in 1836
-#Turkmenia Region (368000)
-#under the rule of Khiva in 1836
 #Ashkabad (148000/32000 POPS)
 1204 = {
     aristocrats = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 500
     }
 
     clergymen = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 275
     }
 
     artisans = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 1250
     }
 
     soldiers = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 300
     }
 
     farmers = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 25675
     }
@@ -62,61 +58,61 @@
 #Chardzhou (132000/33000 POPS)
 1206 = {
     aristocrats = {
-        culture = uzbek
+        culture = kazak
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = uzbek
+        culture = kazak
         religion = sunni
         size = 25
     }
 
     artisans = {
-        culture = uzbek
+        culture = kazak
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = uzbek
+        culture = kazak
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = uzbek
+        culture = kazak
         religion = sunni
         size = 1825
     }
 
     aristocrats = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 400
     }
 
     clergymen = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 225
     }
 
     artisans = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 1100
     }
 
     soldiers = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 250
     }
 
     farmers = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 21025
     }
@@ -125,31 +121,31 @@
 #Merv - Former Line Islands (?/? POPS)
 686 = {
     aristocrats = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 200
     }
 
     artisans = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 250
     }
 
     farmers = {
-        culture = turkmen
+        culture = kazak
         religion = sunni
         size = 5000
     }

@@ -75,19 +75,19 @@
     }
 
     artisans = {
-        culture = baluchi
+        culture = persian
         religion = sunni
         size = 50
     }
 
     soldiers = {
-        culture = baluchi
+        culture = persian
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = baluchi
+        culture = persian
         religion = sunni
         size = 925
     }
@@ -267,19 +267,19 @@
     }
 
     artisans = {
-        culture = baluchi
+        culture = persian
         religion = sunni
         size = 50
     }
 
     soldiers = {
-        culture = baluchi
+        culture = persian
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = baluchi
+        culture = persian
         religion = sunni
         size = 925
     }
@@ -450,7 +450,7 @@
     }
 
     farmers = {
-        culture = baluchi
+        culture = persian
         religion = sunni
         size = 100
     }

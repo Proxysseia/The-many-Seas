@@ -323,17 +323,17 @@
         size = 1139725
     }
     farmers = {
-        culture = yue
+        culture = lanzu
         religion = xifang
         size = 110900
     }
     farmers = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 103500
     }
     farmers = {
-        culture = ping
+        culture = lanzu
         religion = xifang
         size = 94000
     }
@@ -892,31 +892,31 @@
     }
 
     aristocrats = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 1400
     }
 
     clergymen = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 1200
     }
 
     artisans = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 11050
     }
 
     soldiers = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 1225
     }
 
     farmers = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 121225
     }
@@ -967,13 +967,13 @@
     }
 
     aristocrats = {
-        culture = ping
+        culture = lanzu
         religion = xifang
         size = 1700
     }
     
     farmers = {
-        culture = ping
+        culture = lanzu
         religion = xifang
         size = 52700
     }
@@ -1029,7 +1029,7 @@
         size = 429975
     }
     farmers = {
-        culture = ping
+        culture = lanzu
         religion = xifang
         size = 342135
     }
@@ -1067,7 +1067,7 @@
     }
 
     farmers = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 127315
     }
@@ -1123,7 +1123,7 @@
     }
 
     farmers = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 42500
     }
@@ -1173,31 +1173,31 @@
     }
 
     aristocrats = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 2400
     }
 
     clergymen = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 2200
     }
 
     artisans = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 21050
     }
 
     soldiers = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 1225
     }
 
     farmers = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 183125
     }
@@ -1235,31 +1235,31 @@
     }
 
     aristocrats = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 3825
     }
 
     clergymen = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 1925
     }
 
     artisans = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 9650
     }
 
     soldiers = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 1950
     }
 
     farmers = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 135650
     }
@@ -1316,7 +1316,7 @@
     }
 
     farmers = {
-        culture = yue
+        culture = lanzu
         religion = mahayana
         size = 115475
     }
@@ -1372,7 +1372,7 @@
     }
 
     farmers = {
-        culture = yue
+        culture = lanzu
         religion = mahayana
         size = 131550
     }
@@ -1530,7 +1530,7 @@
     }
 
     farmers = {
-        culture = yue
+        culture = lanzu
         religion = mahayana
         size = 124175
     }
@@ -1630,43 +1630,43 @@
     }
 
     aristocrats = {
-        culture = yue
+        culture = lanzu
         religion = mahayana
         size = 11900
     }
 
     clergymen = {
-        culture = yue
+        culture = lanzu
         religion = mahayana
         size = 3000
     }
 
     artisans = {
-        culture = yue
+        culture = lanzu
         religion = mahayana
         size = 22000
     }
 
     artisans = {
-        culture = yue
+        culture = lanzu
         religion = mahayana
         size = 4750
     }
 
     soldiers = {
-        culture = yue
+        culture = lanzu
         religion = mahayana
         size = 3000
     }
 
     soldiers = {
-        culture = yue
+        culture = lanzu
         religion = mahayana
         size = 1950
     }
 
     farmers = {
-        culture = yue
+        culture = lanzu
         religion = mahayana
         size = 224100
     }
@@ -1716,7 +1716,7 @@
     }
 
     farmers = {
-        culture = yue
+        culture = lanzu
         religion = mahayana
         size = 137425
     }
@@ -1847,36 +1847,6 @@
         religion = xifang
         size = 382225
     }
-
-    aristocrats = {
-        culture = miao
-        religion = animist
-        size = 400
-    }
-
-    clergymen = {
-        culture = miao
-        religion = animist
-        size = 200
-    }
-
-    artisans = {
-        culture = miao
-        religion = animist
-        size = 1050
-    }
-
-    soldiers = {
-        culture = miao
-        religion = animist
-        size = 225
-    }
-
-    farmers = {
-        culture = miao
-        religion = animist
-        size = 19125
-    }
 }
 ##Chaoxue##
 ##Wuying
@@ -1919,13 +1889,13 @@
     }
 
     aristocrats = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 8700
     }
     
     farmers = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 108700
     }
@@ -2018,13 +1988,13 @@
         size = 212375
     }
     aristocrats = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 1200
     }
     
     farmers = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 80700
     }
@@ -2068,31 +2038,31 @@
     }
 
     aristocrats = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 4050
     }
 
     clergymen = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 2050
     }
 
     artisans = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 8225
     }
 
     soldiers = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 2050
     }
 
     farmers = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 95125
     }
@@ -2362,19 +2332,19 @@
     }
 
     aristocrats = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 3400
     }
 
     soldiers = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 5500
     }
 
     farmers = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 128250
     }
@@ -2412,19 +2382,19 @@
     }
 
     aristocrats = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 400
     }
 
     soldiers = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 1500
     }
 
     farmers = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 82250
     }
@@ -2468,25 +2438,25 @@
     }
 
     aristocrats = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 5900
     }
 
     soldiers = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 2250
     }
 
     farmers = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 158250
     }
 
     farmers = {
-        culture = yue
+        culture = lanzu
         religion = xifang
         size = 72875
     }
@@ -2542,19 +2512,19 @@
     }
 
     aristocrats = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 15900
     }
 
     soldiers = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 250
     }
 
     farmers = {
-        culture = cantan
+        culture = lanzu
         religion = xifang
         size = 313250
     }

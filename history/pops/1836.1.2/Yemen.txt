@@ -272,13 +272,13 @@
     }
 
     clergymen = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 50
     }
 
     artisans = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 2950
     }

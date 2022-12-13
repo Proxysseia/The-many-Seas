@@ -1,6 +1,6 @@
-owner = OTA
-controller = OTA
-add_core = OTA
+owner = TCA
+controller = TCA
+add_core = TCA
 trade_goods = fish
 life_rating = 35
 naval_base = 1

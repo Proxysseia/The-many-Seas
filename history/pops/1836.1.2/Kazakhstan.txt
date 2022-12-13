@@ -183,7 +183,7 @@
 1193 = {
 
     farmers = {
-        culture = uzbek
+        culture = kazak
         religion = sunni
         size = 12775
     }
@@ -224,31 +224,31 @@
 #Shymkent (180000/45000 POPS) #now part of Kazakhstan
 1197 = {
     aristocrats = {
-        culture = uzbek
+        culture = kazak
         religion = sunni
         size = 1250
     }
 
     clergymen = {
-        culture = uzbek
+        culture = kazak
         religion = sunni
         size = 125
     }
 
     artisans = {
-        culture = uzbek
+        culture = kazak
         religion = sunni
         size = 750
     }
 
     soldiers = {
-        culture = uzbek
+        culture = kazak
         religion = sunni
         size = 150
     }
 
     farmers = {
-        culture = uzbek
+        culture = kazak
         religion = sunni
         size = 46325
     }

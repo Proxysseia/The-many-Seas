@@ -75,21 +75,21 @@
     }
 
     clergymen = {
-        culture = basque
+        culture = spanish
         religion = catholic
         size = 50
         militancy = 8
     }
 
     soldiers = {
-        culture = basque
+        culture = spanish
         religion = catholic
         size = 50
         militancy = 8
     }
 
     farmers = {
-        culture = basque
+        culture = spanish
         religion = catholic
         size = 3900
         militancy = 8
@@ -206,21 +206,21 @@
     }
 
     clergymen = {
-        culture = basque
+        culture = spanish
         religion = catholic
         size = 50
         militancy = 8
     }
 
     soldiers = {
-        culture = basque
+        culture = spanish
         religion = catholic
         size = 50
         militancy = 8
     }
 
     farmers = {
-        culture = basque
+        culture = spanish
         religion = catholic
         size = 3900
         militancy = 8
@@ -259,14 +259,14 @@
     }
 
     clergymen = {
-        culture = basque
+        culture = spanish
         religion = catholic
         size = 25
         militancy = 8
     }
 
     farmers = {
-        culture = basque
+        culture = spanish
         religion = catholic
         size = 975
         militancy = 8

@@ -1,5 +1,3 @@
-#Outer Mongolia Region (1292000)
-#under the rule of China in 1836
 #Urga (376000/94000 POPS)
 1465 = {
     aristocrats = {
@@ -45,31 +43,31 @@
     }
 
     bureaucrats = {
-        culture = beifaren
+        culture = tibetan
         religion = mahayana
         size = 125
     }
 
     clergymen = {
-        culture = beifaren
+        culture = tibetan
         religion = mahayana
         size = 75
     }
 
     artisans = {
-        culture = beifaren
+        culture = tibetan
         religion = mahayana
         size = 400
     }
 
     soldiers = {
-        culture = beifaren
+        culture = tibetan
         religion = mahayana
         size = 100
     }
 
     farmers = {
-        culture = beifaren
+        culture = tibetan
         religion = gelugpa
         size = 3300
     }
@@ -447,7 +445,7 @@
         size = 29900
     }
     farmers = {
-        culture = hui
+        culture = mongol
         religion = gelugpa
         size = 42100
     }
@@ -547,37 +545,37 @@
     }
 
     clergymen = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 75
     }
 
     artisans = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 200
     }
 
     farmers = {
-        culture = ping
+        culture = lanzu
         religion = gelugpa
         size = 3625
     }
 
     bureaucrats = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 25
     }
 
     officers = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 75
     }
 
     soldiers = {
-        culture = ping
+        culture = lanzu
         religion = mahayana
         size = 1100
     }
@@ -645,22 +643,125 @@
         religion = gelugpa
         size = 101925
     }
-
-    clergymen = {
-        culture = ping
-        religion = mahayana
-        size = 25
+}
+###Hui Majority ###
+#Qinghai Region (1248000)
+#under the rule of China in 1836
+#Makhai (452000/113000 POPS)
+1556 = {
+    aristocrats = {
+        culture = mongol
+        religion = gelugpa
+        size = 1900
     }
 
     artisans = {
-        culture = ping
-        religion = mahayana
-        size = 100
+        culture = mongol
+        religion = gelugpa
+        size = 14550
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = gelugpa
+        size = 1925
     }
 
     farmers = {
-        culture = ping
+        culture = mongol
         religion = gelugpa
-        size = 1875
+        size = 27200
     }
+
+    farmers = {
+        culture = mongol
+        religion = gelugpa
+        size = 40000
+    }
+
+    bureaucrats = {
+        culture = mongol
+        religion = gelugpa
+        size = 1025
+    }
+
+    officers = {
+        culture = mongol
+        religion = gelugpa
+        size = 525
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = gelugpa
+        size = 6000
+    }
+
+    farmers = {
+        culture = mongol
+        religion = gelugpa
+        size = 121000
+    }
+
+}
+#Balekungomi (364000/91000 POPS)
+1557 = {
+
+    aristocrats = {
+        culture = mongol
+        religion = gelugpa
+        size = 1500
+    }
+
+    clergymen = {
+        culture = mongol
+        religion = gelugpa
+        size = 1750
+    }
+
+    artisans = {
+        culture = mongol
+        religion = gelugpa
+        size = 13800
+    }
+
+    farmers = {
+        culture = mongol
+        religion = gelugpa
+        size = 71200
+    }
+}
+#Kegudo (432000/108000 POPS)
+1558 = {
+
+    aristocrats = {
+        culture = mongol
+        religion = gelugpa
+        size = 4000
+    }
+
+    clergymen = {
+        culture = mongol
+        religion = gelugpa
+        size = 4000
+    }
+
+    artisans = {
+        culture = mongol
+        religion = gelugpa
+        size = 19000
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = gelugpa
+        size = 4000
+    }
+
+    farmers = {
+        culture = mongol
+        religion = gelugpa
+        size = 128600
+    }
+
 }

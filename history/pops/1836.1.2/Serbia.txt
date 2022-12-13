@@ -446,25 +446,25 @@
 
     ######Jews
     soldiers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     clergymen = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 300
     }
 
     farmers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 200
     }

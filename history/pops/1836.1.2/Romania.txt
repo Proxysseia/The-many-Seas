@@ -1505,37 +1505,37 @@
 
     ######Jews
     aristocrats = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     officers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     soldiers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     clergymen = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 1100
     }
 
     farmers = {
-        culture = sephardic
+        culture = maghrebi
         religion = jewish
         size = 1000
     }

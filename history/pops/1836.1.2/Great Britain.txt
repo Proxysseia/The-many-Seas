@@ -1898,13 +1898,13 @@
     }
 
     farmers = {
-        culture = bengali
+        culture = kachin
         religion = hindu
         size = 100
     }
 
     farmers = {
-        culture = yue
+        culture = lanzu
         religion = mahayana
         size = 100
     }
