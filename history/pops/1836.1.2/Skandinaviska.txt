@@ -95,29 +95,31 @@
         religion = protestant
         size = 1100
     }
+
     clergymen = {
         culture = flanish
         religion = protestant
         size = 125
     }
+
     soldiers = {
         culture = flanish
         religion = protestant
         size = 1100
     }
+
     aristocrats = {
         culture = flanish
         religion = protestant
         size = 250
     }
+
     farmers = {
         culture = danish
         religion = protestant
         size = 23550
     }
 }
-
-
 #Schleswig Region : 336000
 #Flensburg (236000/59000 POPS)
 370 = {
@@ -176,21 +178,45 @@
     }
 
     artisans = {
-        culture = north_german
+        culture = flanish
         religion = protestant
-        size = 2500
+        size = 225
     }
 
     soldiers = {
-        culture = north_german
+        culture = flanish
         religion = protestant
-        size = 500
+        size = 45
     }
 
     farmers = {
         culture = flanish
         religion = protestant
         size = 38850
+    }
+
+    artisans = {
+        culture = flanish
+        religion = protestant
+        size = 1750
+    }
+
+    soldiers = {
+        culture = flanish
+        religion = protestant
+        size = 350
+    }
+
+    artisans = {
+        culture = flanish
+        religion = protestant
+        size = 525
+    }
+
+    soldiers = {
+        culture = flanish
+        religion = protestant
+        size = 105
     }
 }
 #Aabenra (100000/25000 POPS)
@@ -226,9 +252,9 @@
     }
 
     clergymen = {
-        culture = north_german
+        culture = flanish
         religion = protestant
-        size = 50
+        size = 4
     }
 
     artisans = {
@@ -244,11 +270,34 @@
     }
 
     farmers = {
-        culture = north_german
+        culture = flanish
         religion = protestant
-        size = 6550
+        size = 589
     }
 
+    clergymen = {
+        culture = flanish
+        religion = protestant
+        size = 35
+    }
+
+    farmers = {
+        culture = flanish
+        religion = protestant
+        size = 4585
+    }
+
+    clergymen = {
+        culture = flanish
+        religion = protestant
+        size = 11
+    }
+
+    farmers = {
+        culture = flanish
+        religion = protestant
+        size = 1376
+    }
 }
 #Archipelago Region : 616000
 #Copenhagen (392000/98000 POPS)
@@ -342,6 +391,7 @@
         religion = protestant
         size = 1100
     }
+
     farmers = {
         culture = flanish
         religion = protestant
@@ -405,7 +455,6 @@
         religion = protestant
         size = 14500
     }
-
 }
 #Aland Islands (11000 POPS)
 348 = {
@@ -477,7 +526,6 @@
         religion = protestant
         size = 34500
     }
-
 }
 ##########  SWEDEN  ################
 #Svealand Region : 1178000
@@ -542,6 +590,7 @@
         religion = protestant
         size = 50000
     }
+
     farmers = {
         culture = swedish
         religion = protestant
@@ -739,7 +788,6 @@
         religion = protestant
         size = 43300
     }
-
 }
 #Gotaland Region : 1457000
 #Goteborg (168000/42000 POPS)
@@ -989,7 +1037,6 @@
         religion = protestant
         size = 60625
     }
-
 }
 ##########  NORWAY  ################
 #Vestlandet-Sorlandet Region : 544000
@@ -1099,6 +1146,7 @@
         religion = protestant
         size = 62825
     }
+
     farmers = {
         culture = scottish
         religion = protestant
@@ -1186,6 +1234,7 @@
         religion = protestant
         size = 33600
     }
+
     farmers = {
         culture = scottish
         religion = protestant
@@ -1224,7 +1273,6 @@
         religion = protestant
         size = 32125
     }
-
 }
 #Batum (76000/19000 POPS) #now part of Georgia
 1096 = {
@@ -1257,7 +1305,6 @@
         religion = protestant
         size = 23025
     }
-
 }
 #Kostorma (312000/78000 POPS)
 1023 = {
@@ -1481,5 +1528,4 @@
         religion = protestant
         size = 17025
     }
-
 }

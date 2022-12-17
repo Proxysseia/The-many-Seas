@@ -1335,37 +1335,37 @@
     farmers = {
         culture = polish
         religion = ketronant
-        size = 5385
+        size = 1346
     }
 
     aristocrats = {
         culture = polish
         religion = ketronant
-        size = 250
+        size = 62
     }
 
     officers = {
         culture = polish
         religion = ketronant
-        size = 100
+        size = 25
     }
 
     bureaucrats = {
         culture = polish
         religion = ketronant
-        size = 140
+        size = 35
     }
 
     clergymen = {
         culture = polish
         religion = ketronant
-        size = 200
+        size = 50
     }
 
     artisans = {
         culture = polish
         religion = ketronant
-        size = 1550
+        size = 387
     }
 
     soldiers = {
@@ -1378,6 +1378,42 @@
         culture = czech
         religion = ketronant
         size = 17610
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = ketronant
+        size = 4039
+    }
+
+    aristocrats = {
+        culture = sorbian
+        religion = ketronant
+        size = 188
+    }
+
+    officers = {
+        culture = sorbian
+        religion = ketronant
+        size = 75
+    }
+
+    bureaucrats = {
+        culture = sorbian
+        religion = ketronant
+        size = 105
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = ketronant
+        size = 150
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = ketronant
+        size = 1163
     }
 }
 #Teschen (116000/45000 POPS)
@@ -1439,25 +1475,49 @@
     clergymen = {
         culture = polish
         religion = ketronant
-        size = 150
+        size = 37
     }
 
     artisans = {
         culture = polish
         religion = ketronant
-        size = 700
+        size = 175
     }
 
     soldiers = {
         culture = polish
         religion = ketronant
-        size = 150
+        size = 37
     }
 
     farmers = {
         culture = polish
         religion = ketronant
-        size = 5650
+        size = 1412
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = ketronant
+        size = 113
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = ketronant
+        size = 525
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = ketronant
+        size = 113
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = ketronant
+        size = 4238
     }
 }
 #Bielsko
@@ -1495,7 +1555,13 @@
     farmers = {
         culture = polish
         religion = ketronant
-        size = 2650
+        size = 662
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = ketronant
+        size = 1988
     }
 }
 #Silesia
@@ -1600,55 +1666,109 @@
     farmers = {
         culture = polish
         religion = prosperity
-        size = 6720
+        size = 1680
     }
 
     bureaucrats = {
         culture = polish
         religion = ketronant
-        size = 360
+        size = 90
     }
 
     officers = {
         culture = polish
         religion = ketronant
-        size = 120
+        size = 30
     }
 
     clergymen = {
         culture = polish
         religion = ketronant
-        size = 420
+        size = 105
     }
 
     artisans = {
         culture = polish
         religion = ketronant
-        size = 3135
+        size = 784
     }
 
     artisans = {
         culture = polish
         religion = ketronant
-        size = 3135
+        size = 784
     }
 
     craftsmen = {
         culture = polish
         religion = ketronant
-        size = 525
+        size = 131
     }
 
     soldiers = {
         culture = polish
         religion = ketronant
-        size = 1800
+        size = 450
     }
 
     farmers = {
         culture = polish
         religion = ketronant
-        size = 29025
+        size = 7256
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = prosperity
+        size = 5040
+    }
+
+    bureaucrats = {
+        culture = sorbian
+        religion = ketronant
+        size = 270
+    }
+
+    officers = {
+        culture = sorbian
+        religion = ketronant
+        size = 90
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = ketronant
+        size = 315
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = ketronant
+        size = 2351
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = ketronant
+        size = 2351
+    }
+
+    craftsmen = {
+        culture = sorbian
+        religion = ketronant
+        size = 394
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = ketronant
+        size = 1350
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = ketronant
+        size = 21769
     }
 }
 #Waldenburg
@@ -1710,37 +1830,73 @@
     farmers = {
         culture = polish
         religion = prosperity
-        size = 3250
+        size = 812
     }
 
     clergymen = {
         culture = polish
         religion = ketronant
-        size = 240
+        size = 60
     }
 
     artisans = {
         culture = polish
         religion = ketronant
-        size = 3735
+        size = 934
     }
 
     artisans = {
         culture = polish
         religion = ketronant
-        size = 1935
+        size = 484
     }
 
     soldiers = {
         culture = polish
         religion = ketronant
-        size = 1110
+        size = 277
     }
 
     farmers = {
         culture = polish
         religion = ketronant
-        size = 18435
+        size = 4609
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = prosperity
+        size = 2438
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = ketronant
+        size = 180
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = ketronant
+        size = 2801
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = ketronant
+        size = 1451
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = ketronant
+        size = 833
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = ketronant
+        size = 13826
     }
 }
 #Oppeln
@@ -1778,31 +1934,61 @@
     farmers = {
         culture = polish
         religion = ketronant
-        size = 2385
+        size = 596
     }
 
     aristocrats = {
         culture = polish
         religion = ketronant
-        size = 750
+        size = 187
     }
 
     soldiers = {
         culture = polish
         religion = ketronant
-        size = 1200
+        size = 300
     }
 
     farmers = {
         culture = polish
         religion = ketronant
-        size = 21750
+        size = 5437
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 18250
+        size = 4562
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = ketronant
+        size = 1789
+    }
+
+    aristocrats = {
+        culture = sorbian
+        religion = ketronant
+        size = 563
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = ketronant
+        size = 900
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = ketronant
+        size = 16313
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = prosperity
+        size = 13688
     }
 }
 #Kattowitz
@@ -1840,31 +2026,61 @@
     farmers = {
         culture = polish
         religion = ketronant
-        size = 2385
+        size = 596
     }
 
     aristocrats = {
         culture = polish
         religion = ketronant
-        size = 450
+        size = 112
     }
 
     soldiers = {
         culture = polish
         religion = ketronant
-        size = 500
+        size = 125
     }
 
     farmers = {
         culture = polish
         religion = ketronant
-        size = 37750
+        size = 9437
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 44250
+        size = 11062
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = ketronant
+        size = 1789
+    }
+
+    aristocrats = {
+        culture = sorbian
+        religion = ketronant
+        size = 338
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = ketronant
+        size = 375
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = ketronant
+        size = 28313
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = prosperity
+        size = 33188
     }
 }
 #Krakow
@@ -1926,6 +2142,12 @@
     farmers = {
         culture = polish
         religion = prosperity
-        size = 59250
+        size = 14812
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = prosperity
+        size = 44438
     }
 }
