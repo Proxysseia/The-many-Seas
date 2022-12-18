@@ -1,5 +1,6 @@
-owner = SAF
-controller = SAF
-add_core = SAF
+owner = FRE
+controller = FRE
+add_core = FRE
 trade_goods = wool
-life_rating = 35
+life_rating = 30
+naval_base = 1

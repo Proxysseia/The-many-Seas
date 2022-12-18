@@ -1,2 +1,5 @@
+owner = SIB
+controller = SIB
+add_core = SIB
 trade_goods = fruit
-life_rating = 35
+life_rating = 25
