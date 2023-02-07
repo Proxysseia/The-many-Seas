@@ -1,0 +1,105 @@
+leader = {
+	name = "Josef Radetzky"
+	date = 1805.1.1
+	type = land
+	personality = au_fait
+	background = elderly
+	prestige = 0.3
+}
+
+#Army
+
+army = {
+	name = "Gods Kalpot"
+	location = 360
+	regiment = {
+		name= "Vilnius Hussars"
+		type = hussar
+		home = 360
+	}
+
+	regiment = {
+		name= "Riga Infantry"
+		type = infantry
+		home = 354
+	}
+
+	regiment = {
+		name= "Kaunas Infantry"
+		type = infantry
+		home = 361
+	}
+
+	regiment = {
+		name= "Godno Infantry"
+		type = infantry
+		home = 936
+	}
+
+	regiment = {
+		name= "3.2. Infanteriedivision"
+		type = infantry
+		home = 938
+	}
+
+	regiment = {
+		name= "1.3. Artillery"
+		type = artillery
+		home = 947
+	}
+
+	regiment = {
+		name= "2.3. Artillery"
+		type = artillery
+		home = 364
+	}
+	
+		regiment = {
+		name= "3.3. Artillery"
+		type = artillery
+		home = 718
+	}
+
+	regiment = {
+		name= "4.3. Artillery"
+		type = artillery
+		home = 355
+	}
+
+	regiment = {
+		name= "5.3. Artillery"
+		type = artillery
+		home = 939
+	}
+}
+
+navy = {
+	name = "Latvian Navy"
+	location = 354
+	ship = {
+		name= "1. Clipper"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Clipper"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Clipper"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "4. Clipper"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "5. Clipper"
+		type = clipper_transport
+	}
+
+}
+
