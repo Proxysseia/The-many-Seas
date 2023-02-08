@@ -37,37 +37,37 @@ army = {
 	}
 
 	regiment = {
-		name= "3.2. Infanteriedivision"
+		name= "Riga Infanteriedivision"
 		type = infantry
 		home = 938
 	}
 
 	regiment = {
-		name= "1.3. Artillery"
+		name= "Riga Artillery"
 		type = artillery
 		home = 947
 	}
 
 	regiment = {
-		name= "2.3. Artillery"
+		name= "Godno Artillery"
 		type = artillery
 		home = 364
 	}
 	
 		regiment = {
-		name= "3.3. Artillery"
+		name= "Lebensraum Artillery"
 		type = artillery
 		home = 718
 	}
 
 	regiment = {
-		name= "4.3. Artillery"
+		name= "Femboy Artillery"
 		type = artillery
 		home = 355
 	}
 
 	regiment = {
-		name= "5.3. Artillery"
+		name= "Evola Artillery"
 		type = artillery
 		home = 939
 	}
@@ -77,29 +77,28 @@ navy = {
 	name = "Latvian Navy"
 	location = 354
 	ship = {
-		name= "1. Clipper"
+		name= "Riga Clipper"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "2. Clipper"
+		name= "Latvia Clipper"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "3. Clipper"
+		name= "Honest Clipper"
 		type = clipper_transport
 	}
 	
 	ship = {
-		name= "4. Clipper"
+		name= "Bucharest Clipper"
 		type = clipper_transport
 	}
 	
 	ship = {
-		name= "5. Clipper"
+		name= "Havanna Clipper"
 		type = clipper_transport
 	}
 
 }
-

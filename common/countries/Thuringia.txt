@@ -3,8 +3,8 @@ graphical_culture = EuropeanGC
 
 party = {
     name = "SAX_liberal"
-    start_date = 2830.1.1
-    end_date = 3000.1.1
+    start_date = 1830.1.1
+    end_date = 2000.1.1
 
     ideology = liberal
 
@@ -18,8 +18,8 @@ party = {
 
 party = {
     name = "SAX_conservative"
-    start_date = 2878.1.1
-    end_date = 3000.1.1
+    start_date = 1878.1.1
+    end_date = 2000.1.1
 
     ideology = conservative
 
@@ -33,8 +33,8 @@ party = {
 
 party = {
     name = "SAX_liberal_2"
-    start_date = 2861.1.1
-    end_date = 3000.1.1
+    start_date = 1861.1.1
+    end_date = 2000.1.1
 
     ideology = liberal
 
@@ -47,24 +47,9 @@ party = {
 }
 
 party = {
-    name = "SAX_liberal_3"
-    start_date = 2861.1.1
-    end_date = 3000.1.1
-
-    ideology = liberal
-
-    social_policy = no_position_set
-    economic_policy = laissez_faire
-    trade_policy = free_trade
-    religious_policy = pluralism
-    citizenship_policy = limited_citizenship
-    war_policy = pro_military
-}
-
-party = {
     name = "SAX_socialist"
-    start_date = 2860.1.1
-    end_date = 2875.1.1
+    start_date = 1860.1.1
+    end_date = 2000.1.1
 
     ideology = socialist
 
@@ -72,44 +57,14 @@ party = {
     economic_policy = planned_economy
     trade_policy = free_trade
     religious_policy = pluralism
-    citizenship_policy = full_citizenship
-    war_policy = anti_military
-}
-
-party = {
-    name = "SAX_socialist_2"
-    start_date = 2848.1.1
-    end_date = 2875.1.1
-
-    ideology = socialist
-
-    social_policy = welfare_state
-    economic_policy = planned_economy
-    trade_policy = free_trade
-    religious_policy = secularized
-    citizenship_policy = full_citizenship
-    war_policy = anti_military
-}
-
-party = {
-    name = "SAX_socialist_3"
-    start_date = 2875.1.1
-    end_date = 3000.1.1
-
-    ideology = socialist
-
-    social_policy = welfare_state
-    economic_policy = planned_economy
-    trade_policy = free_trade
-    religious_policy = secularized
     citizenship_policy = full_citizenship
     war_policy = anti_military
 }
 
 party = {
     name = "SAX_reactionary"
-    start_date = 2830.1.1
-    end_date = 3000.1.1
+    start_date = 1830.1.1
+    end_date = 2000.1.1
 
     ideology = reactionary
 
@@ -123,8 +78,8 @@ party = {
 
 party = {
     name = "SAX_conservative_2"
-    start_date = 2830.1.1
-    end_date = 3000.1.1
+    start_date = 1830.1.1
+    end_date = 2000.1.1
 
     ideology = conservative
 
@@ -138,8 +93,8 @@ party = {
 
 party = {
     name = "SAX_conservative_3"
-    start_date = 2878.1.1
-    end_date = 3000.1.1
+    start_date = 1878.1.1
+    end_date = 2000.1.1
 
     ideology = conservative
 
@@ -153,8 +108,8 @@ party = {
 
 party = {
     name = "SAX_anarcho_liberal"
-    start_date = 2830.1.1
-    end_date = 3000.1.1
+    start_date = 1830.1.1
+    end_date = 2000.1.1
 
     ideology = anarcho_liberal
 
@@ -168,8 +123,8 @@ party = {
 
 party = {
     name = "SAX_communist"
-    start_date = 2848.1.1
-    end_date = 3000.1.1
+    start_date = 1848.1.1
+    end_date = 2000.1.1
 
     ideology = communist
 
@@ -183,8 +138,8 @@ party = {
 
 party = {
     name = "SAX_fascist"
-    start_date = 2900.1.1
-    end_date = 3000.1.1
+    start_date = 1900.1.1
+    end_date = 2000.1.1
 
     ideology = fascist
 

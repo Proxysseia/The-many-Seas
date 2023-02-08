@@ -16,7 +16,7 @@ ITA		= "countries/Italy.txt"
 KUK		= "countries/Austria-Hungary.txt"
 
 
-#European Island
+#European Islands
 LAT		= "countries/Latvia.txt"
 NET		= "countries/Lavland.txt"
 SLO		= "countries/Slovakia.txt"
@@ -27,18 +27,34 @@ BAD		= "countries/Baden.txt"
 ALS		= "countries/Alsace.txt"
 SAX		= "countries/Saxony.txt"
 THU		= "countries/Thuringia.txt"
-
-
-
-PAR		= "countries/Parma.txt"
+HAN		= "countries/Hansa.txt"
+SOR		= "countries/Sorbia.txt"
+DAN		= "countries/Danubia.txt"
+MAC		= "countries/Macedonia.txt"
+MON		= "countries/Montenegro.txt"
+BOH		= "countries/Bohemia.txt"
+ALB		= "countries/Albania.txt"
+TUR		= "countries/Turkey.txt"
+ATT		= "countries/Attica.txt"
+SCA		= "countries/Scandinavia.txt"
+UNS		= "countries/Union of Stales.txt"
+CAT		= "countries/Catalonia.txt"
+POR		= "countries/Portugal.txt"
+AND		= "countries/Andalucia.txt"
+CAS		= "countries/Castilla.txt"
+AST		= "countries/Asturias.txt"
+NAP		= "countries/Naples.txt"
 SIC		= "countries/Two Sicilies.txt"
 TUS		= "countries/Tuscany.txt"
-BOH		= "countries/Bohemia-Moravia.txt"
+PAR		= "countries/Parma.txt"
 SWI		= "countries/Switzerland.txt"
+ULA		= "countries/Ulaidh.txt"
+LEI		= "countries/Leinster.txt"
+CNN		= "countries/Connacht.txt"
+IRE		= "countries/Ireland.txt"
+
+
 UKR		= "countries/Ukraine.txt"
-ALB		= "countries/Albania.txt"
-MON		= "countries/Montenegro.txt"
-TUR		= "countries/Ottoman Empire.txt"
 TRI		= "countries/Tripoli.txt"
 ZUL		= "countries/Zulu.txt"
 

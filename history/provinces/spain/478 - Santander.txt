@@ -1,5 +1,5 @@
-owner = DAL
-controller = DAL
-add_core = DAL
+owner = AST
+controller = AST
+add_core = AST
 trade_goods = iron
 life_rating = 35

@@ -44,7 +44,7 @@ BAN = {
 
 # Baden
 BAD = {
-    color1= { 12 85 92  }
+    color1= { 12 85 192  }
     color2= { 197 92 106  }
     color3= { 119 151 122  }
 }
@@ -68,4 +68,192 @@ THU = {
     color1= { 255 255 255  }
     color2= { 134 224 126  }
     color3= { 117 127 174  }
+}
+
+# Hansa
+HAN = {
+    color1= { 71 231 40  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Hansa
+HAN = {
+    color1= { 71 231 40  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Sorbia
+SOR = {
+    color1= { 51 85 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+# Danubia
+DAN = {
+    color1= { 51 85 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Macedonia
+MAC = {
+    color1= { 51 85 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Montenegro
+MON = {
+    color1= { 51 85 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Bohemia
+BOH = {
+    color1= { 51 85 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Turkey
+TUR = {
+    color1= { 51 85 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Albania
+ALB = {
+    color1= { 150 0 0  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Attica
+ATT = {
+    color1= { 150 0 0  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Scandinavia
+SCA = {
+    color1= { 150 0 0  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Union of Stales
+UNS = {
+    color1= { 150 0 0  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# France
+FRA = {
+    color1= { 50 0 250  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Catalonia
+CAT = {
+    color1= { 150 10 110  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Portugal
+POR = {
+    color1= { 150 10 110  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Andalusia
+AND = {
+    color1= { 150 10 110  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Castilla
+CAS = {
+    color1= { 150 10 110  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Asturias
+AST = {
+    color1= { 150 10 110  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Naples
+NAP = {
+    color1= { 150 10 110  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Sicily
+SIC = {
+    color1= { 150 10 110  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Tuscany
+TUS = {
+    color1= { 150 10 110  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Parma
+PAR = {
+    color1= { 150 10 110  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Switzerland
+SWI = {
+    color1= { 150 10 110  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Ulaidh
+ULA = {
+    color1= { 150 10 110  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Leinster
+LEI = {
+    color1= { 150 10 110  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Connacht
+CNN = {
+    color1= { 150 10 110  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Ireland
+IRE = {
+    color1= { 150 10 110  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
 }

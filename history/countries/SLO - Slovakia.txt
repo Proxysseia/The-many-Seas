@@ -1,5 +1,6 @@
-capital = 768
+capital = 633
 primary_culture = slovak
+culture = czech
 religion = catholic
 government = absolute_monarchy
 plurality = 0.05
@@ -61,7 +62,7 @@ nonstate_consciousness = 2
 
 schools = army_tech_school
 
-ruling_party = SLV_conservative
+ruling_party = SLO_conservative
 upper_house = {
 	fascist = 0
 	liberal = 20
