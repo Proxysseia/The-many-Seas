@@ -1,74 +1,108 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-LAT;Latvia;;;;;;;;;;;;;
-LAT_ADJ;Latvian;;;;;;;;;;;;;
-NET; Lavland;;;;;;;;;;;;;
-NET_ADJ; Lavlandisk;;;;;;;;;;;;;
-SLO; Slovakia;;;;;;;;;;;;;
-SLO_ADJ; Slovakian;;;;;;;;;;;;;
-ROM; Romania;;;;;;;;;;;;;
-ROM_ADJ; Romanian;;;;;;;;;;;;;
-DBR; Debrecen;;;;;;;;;;;;;
-DBR_ADJ; Debrecian;;;;;;;;;;;;;
-BAN; Banat;;;;;;;;;;;;;
-BAN_ADJ; Banatian;;;;;;;;;;;;;
-BAD; Baden;;;;;;;;;;;;;
-BAD_ADJ; Bader;;;;;;;;;;;;;
+ALB; Albania;;;;;;;;;;;;;
+ALB_ADJ; Albanian;;;;;;;;;;;;;
 ALS; Alsace;;;;;;;;;;;;;
 ALS_ADJ; Alsacian;;;;;;;;;;;;;
-SAX; Saxony;;;;;;;;;;;;;
-SAX_ADJ; Saxon;;;;;;;;;;;;;
-THU; Thuringia;;;;;;;;;;;;;
-THU_ADJ; Thuringian;;;;;;;;;;;;;
-HAN; Hanseatic League;;;;;;;;;;;;;
-HAN_ADJ; Hansean;;;;;;;;;;;;;
-SOR; Serbja;;;;;;;;;;;;;
-SOR_ADJ; Sorbian;;;;;;;;;;;;;
+AND; Andalucia;;;;;;;;;;;;;
+AND_ADJ; Andalucian;;;;;;;;;;;;;
+AST; Asturias;;;;;;;;;;;;;
+AST_ADJ; Asturias;;;;;;;;;;;;;
+ATT; Attica;;;;;;;;;;;;;
+ATT_ADJ; Attican;;;;;;;;;;;;;
+BAD; Baden;;;;;;;;;;;;;
+BAD_ADJ; Bader;;;;;;;;;;;;;
+BAN; Banat;;;;;;;;;;;;;
+BAN_ADJ; Banatian;;;;;;;;;;;;;
+BOH; Bohemia;;;;;;;;;;;;;
+BOH_ADJ; Bohemian;;;;;;;;;;;;;
+CAS; Castilla;;;;;;;;;;;;;
+CAS_ADJ; Castillan;;;;;;;;;;;;;
+CAT; Catalonia;;;;;;;;;;;;;
+CAT_ADJ; Catalan;;;;;;;;;;;;;
+CNN; Connacht;;;;;;;;;;;;;
+CNN_ADJ; Connachtian;;;;;;;;;;;;;
 DAN; Danubia;;;;;;;;;;;;;
 DAN_ADJ; Danubian;;;;;;;;;;;;;
+DBR; Debrecen;;;;;;;;;;;;;
+DBR_ADJ; Debrecian;;;;;;;;;;;;;
+FIN; Finnland;;;;;;;;;;;;;
+FIN_ADJ; Finnish;;;;;;;;;;;;;
+FRA; France;;;;;;;;;;;;;
+FRA_ADJ; French;;;;;;;;;;;;;
+HAN; Hanseatic League;;;;;;;;;;;;;
+HAN_ADJ; Hansean;;;;;;;;;;;;;
+IRE; Ireland;;;;;;;;;;;;;
+IRE_ADJ; Irish;;;;;;;;;;;;;
+LAT;Latvia;;;;;;;;;;;;;
+LAT_ADJ;Latvian;;;;;;;;;;;;;
+LEI; Leinster;;;;;;;;;;;;;
+LEI_ADJ; Leinsterian;;;;;;;;;;;;;
 MAC; Macedonia;;;;;;;;;;;;;
 MAC_ADJ; Macedonian;;;;;;;;;;;;;
 MON; Montenegro;;;;;;;;;;;;;
 MON_ADJ; Montenegrian;;;;;;;;;;;;;
-BOH; Bohemia;;;;;;;;;;;;;
-BOH_ADJ; Bohemian;;;;;;;;;;;;;
-TUR; Turkey;;;;;;;;;;;;;
-TUR_ADJ; Turkish;;;;;;;;;;;;;
-ALB; Albania;;;;;;;;;;;;;
-ALB_ADJ; Albanian;;;;;;;;;;;;;
-ATT; Attica;;;;;;;;;;;;;
-ATT_ADJ; Attican;;;;;;;;;;;;;
-SCA; Greater Sweden;;;;;;;;;;;;;
-SCA_ADJ; Swedish;;;;;;;;;;;;;
-UNS; Union of the Stales;;;;;;;;;;;;;
-UNS; Scottish;;;;;;;;;;;;;
-FRA; France;;;;;;;;;;;;;
-FRA_ADJ; French;;;;;;;;;;;;;
-CAT; Catalonia;;;;;;;;;;;;;
-CAT_ADJ; Catalan;;;;;;;;;;;;;
-POR; Portugal;;;;;;;;;;;;;
-POR_ADJ; Portugese;;;;;;;;;;;;;
-AND; Andalucia;;;;;;;;;;;;;
-AND_ADJ; Andalucian;;;;;;;;;;;;;
-CAS; Castilla;;;;;;;;;;;;;
-CAS_ADJ; Castillan;;;;;;;;;;;;;
-AST; Asturias;;;;;;;;;;;;;
-AST_ADJ; Asturias;;;;;;;;;;;;;
-SIC;Sicily;;;;;;;;;;;;;,,
-SIC_ADJ;Sicillian;;;;;;;;;;;;;,,
-TUS;Tuscany;;;;;;;;;;;;;,,
-TUS_ADJ;Tuscanese;;;;;;;;;;;;;,,
-PAR;Parma;;;;;;;;;;;;;,,
-PAR_ADJ;Parmese;;;;;;;;;;;;;,,
 NAP;Naples;;;;;;;;;;;;;,,
 NAP_ADJ;Neapolitan;;;;;;;;;;;;;,,
+NET; Lavland;;;;;;;;;;;;;
+NET_ADJ; Lavlandisk;;;;;;;;;;;;;
+PAR;Parma;;;;;;;;;;;;;,,
+PAR_ADJ;Parmese;;;;;;;;;;;;;,,
+POR; Portugal;;;;;;;;;;;;;
+POR_ADJ; Portugese;;;;;;;;;;;;;
+ROM; Romania;;;;;;;;;;;;;
+ROM_ADJ; Romanian;;;;;;;;;;;;;
+SAX; Saxony;;;;;;;;;;;;;
+SAX_ADJ; Saxon;;;;;;;;;;;;;
+SCA; Greater Sweden;;;;;;;;;;;;;
+SCA_ADJ; Swedish;;;;;;;;;;;;;
+SIC;Sicily;;;;;;;;;;;;;,,
+SIC_ADJ;Sicillian;;;;;;;;;;;;;,,
+SLO; Slovakia;;;;;;;;;;;;;
+SLO_ADJ; Slovakian;;;;;;;;;;;;;
+SOR; Serbja;;;;;;;;;;;;;
+SOR_ADJ; Sorbian;;;;;;;;;;;;;
 SWI; Switzerland;;;;;;;;;;;;;,,
 SWI_ADJ; Swiss;;;;;;;;;;;;;,,
-#######################
-#ULA; Ulaidh;;;;;;;;;;;;;
-#ULA_ADJ; Ulaidhian;;;;;;;;;;;;;
-#LEI; Leinster;;;;;;;;;;;;;
-#LEI_ADJ; Leinsterian;;;;;;;;;;;;;
-#CNN; Connacht;;;;;;;;;;;;;
-#CNN_ADJ; Connachtian;;;;;;;;;;;;;
-#IRE; Ireland;;;;;;;;;;;;;
-#IRE_ADJ; Irish;;;;;;;;;;;;;
+THU; Thuringia;;;;;;;;;;;;;
+THU_ADJ; Thuringian;;;;;;;;;;;;;
+TUR; Turkey;;;;;;;;;;;;;
+TUR_ADJ; Turkish;;;;;;;;;;;;;
+TUS;Tuscany;;;;;;;;;;;;;,,
+TUS_ADJ;Tuscanese;;;;;;;;;;;;;,,
+UKR; Ukkkraine;;;;;;;;;;;;;
+UKR_ADJ; Ukranian;;;;;;;;;;;;;
+ULA; Ulaidh;;;;;;;;;;;;;
+ULA_ADJ; Ulaidhian;;;;;;;;;;;;;
+UNS; Scottish;;;;;;;;;;;;;
+UNS; Union of the Stales;;;;;;;;;;;;;
+EST; Estonia;;;;;;;;;;;;;
+EST_ADJ; Estonian;;;;;;;;;;;;;
+DON; Donbass;;;;;;;;;;;;;
+DON_ADJ; Donbassian;;;;;;;;;;;;;
+DAG; Dagestan;;;;;;;;;;;;;
+DAG_ADJ; Dagestani;;;;;;;;;;;;;
+GEO; Georgia;;;;;;;;;;;;;
+GEO_ADJ; Georgian;;;;;;;;;;;;;
+AZB; Azerbaijan;;;;;;;;;;;;;
+AZB_ADJ; Azerai;;;;;;;;;;;;;
+KRD; Kurdistan;;;;;;;;;;;;;
+KRD_ADJ; Kurdish;;;;;;;;;;;;;
+CRI; Crimea;;;;;;;;;;;;;
+CRI_ADJ; Crimean;;;;;;;;;;;;;
+NVJ; Navajo;;;;;;;;;;;;;
+NVJ_ADJ; Navajo;;;;;;;;;;;;;
+PLD; Pueldo;;;;;;;;;;;;;
+PLD_ADJ; Pueldoese;;;;;;;;;;;;;
+APA; Apache;;;;;;;;;;;;;
+APA_ADJ; Apache;;;;;;;;;;;;;
+DAK; Dakota;;;;;;;;;;;;;
+DAK_ADJ; Dakota;;;;;;;;;;;;;
+CPW; Chippewa;;;;;;;;;;;;;
+CPW_ADJ; Chippewan;;;;;;;;;;;;;
+CHE; Cherokee;;;;;;;;;;;;;
+CHE_ADJ; Cherokee;;;;;;;;;;;;;
+POT; Potawatomi;;;;;;;;;;;;;
+POT_ADJ; Potawatomi;;;;;;;;;;;;;
+ALG; Algonquin;;;;;;;;;;;;;
+ALG_ADJ;Algonquin;;;;;;;;;;;;;
+

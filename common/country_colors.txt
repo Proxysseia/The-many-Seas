@@ -257,3 +257,122 @@ IRE = {
     color2= { 255 255 255  }
     color3= { 255 255 255  }
 }
+
+# Ukraine
+UKR = {
+    color1= { 150 10 110  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Finnland
+FIN = {
+    color1= { 150 10 110  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Estonia
+EST = {
+    color1= { 150 10 110  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Donbass
+DON = {
+    color1= { 150 10 110  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Dagestan
+DAG = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Georgia
+GEO = {
+    color1= { 255 225 251  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Azerbaijan
+AZB = {
+    color1= { 231 51 61  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Kurdistan
+KRD = {
+    color1= { 231 87 152  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Crimea
+CRI = {
+    color1= { 231 87 152  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Navajo
+NAV = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Pueldo
+PLD = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Apache
+APA = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Dakota
+DAK = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Cherokee
+CHE = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Chippewa
+CPW = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Potawatomi
+POT = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Algonquin
+ALG = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
