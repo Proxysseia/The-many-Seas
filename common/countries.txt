@@ -66,7 +66,7 @@ GEO		= "countries/Georgia.txt"
 AZB		= "countries/Azerbaijan.txt"
 KRD		= "countries/Kurdistan.txt"
 
-#America
+#North America
 NVJ		= "countries/Navajo.txt"
 PLD		= "countries/Pueldo.txt"
 APA		= "countries/Apache.txt"
@@ -75,6 +75,22 @@ CHE		= "countries/Cherokee.txt"
 CPW		= "countries/Chippewa.txt"
 POT		= "countries/Potawatomi.txt"
 ALG		= "countries/Algonquin.txt"
+MIC		= "countries/Miccosukee.txt"
+
+#America
+IGU		= "countries/Iguachu.txt"
+AKB		= "countries/Akayby.txt"
+CQT		= "countries/Chiquito.txt"
+CAR		= "countries/Caribe.txt"
+INC		= "countries/Inca.txt"
+CHH		= "countries/Chhikatara.txt"
+WNQ		= "countries/Winaq.txt"
+GUA		= "countries/Guachichil.txt"
+MAY		= "countries/Maya.txt"
+MIS		= "countries/Miskito.txt"
+TAI		= "countries/Taino.txt"
+AZT		= "countries/Aztec.txt"
+YAM		= "countries/Yamayeka.txt"
 
 
 
