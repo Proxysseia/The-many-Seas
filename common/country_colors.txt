@@ -446,6 +446,7 @@ MIC = {
     color2= { 255 255 255  }
     color3= { 255 255 255  }
 }
+
 # Winaq
 WNQ = {
     color1= { 255 255 255  }
@@ -454,7 +455,7 @@ WNQ = {
 }
 
 # Guachichil
-GUA = {
+GCC = {
     color1= { 255 255 255  }
     color2= { 255 255 255  }
     color3= { 255 255 255  }
@@ -470,6 +471,82 @@ MAY = {
 # Miskito
 MIS = {
     color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Nenet
+NEN = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Smolensk
+SMO = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Severia
+SEV = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Muscovy
+MUS = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+# Kyrgistan
+KYR = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Golestan
+GOL = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Kazakhstan
+KAZ = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Turkestan
+TRK = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Zaysan
+ZAY = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Yenisey
+YEN = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Uralsk
+URA = {
+    color1= { 25 255 255  }
     color2= { 255 255 255  }
     color3= { 255 255 255  }
 }
