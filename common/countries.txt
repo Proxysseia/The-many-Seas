@@ -16,25 +16,18 @@ ITA		= "countries/Italy.txt"
 KUK		= "countries/Austria-Hungary.txt"
 
 
-#European Islands
+#European Island
 ALB = "countries/Albania.txt"
 ALS = "countries/Alsace.txt"
-AND = "countries/Andalucia.txt"
-AST = "countries/Asturias.txt"
 ATT = "countries/Attica.txt"
 BAD = "countries/Baden.txt"
 BAN = "countries/Banat.txt"
 BOH = "countries/Bohemia.txt"
-CAS = "countries/Castilla.txt"
-CAT = "countries/Catalonia.txt"
-CNN = "countries/Connacht.txt"
 DAN = "countries/Danubia.txt"
 DBR = "countries/Debrecen.txt"
 FIN = "countries/Finnland.txt"
 HAN = "countries/Hansa.txt"
-IRE = "countries/Ireland.txt"
 LAT = "countries/Latvia.txt"
-LEI = "countries/Leinster.txt"
 MAC = "countries/Macedonia.txt"
 MON = "countries/Montenegro.txt"
 NAP = "countries/Naples.txt"
@@ -52,6 +45,15 @@ THU = "countries/Thuringia.txt"
 TUR = "countries/Turkey.txt"
 TUS = "countries/Tuscany.txt"
 UKR = "countries/Ukraine.txt"
+
+#Western Europe
+AND = "countries/Andalucia.txt"
+AST = "countries/Asturias.txt"
+CAS = "countries/Castilla.txt"
+CAT = "countries/Catalonia.txt"
+CNN = "countries/Connacht.txt"
+IRE = "countries/Ireland.txt"
+LEI = "countries/Leinster.txt"
 ULA = "countries/Ulaidh.txt"
 UNS = "countries/Union of Stales.txt"
 
@@ -76,6 +78,33 @@ KYR		= "countries/Kyrgistan.txt"
 GOL		= "countries/Golestan.txt"
 KAZ		= "countries/Kazakhstan.txt"
 TRK		= "countries/Turkestan.txt"
+
+#Africa
+ZYY		= "countries/Zayyanid.txt"
+TAH		= "countries/Tahirid.txt"
+KIT		= "countries/Kitara.txt"
+BGB		= "countries/Bagabu.txt"
+ZAG		= "countries/Zagwe.txt"
+JIM		= "countries/Jimma.txt"
+ETH		= "countries/Ethiopeia.txt"
+PER		= "countries/Persia.txt"
+ZIY		= "countries/Ziyanid.txt"
+BNA 	= "countries/Beni Abbas.txt"
+FUL		= "countries/Fulo.txt"
+MAL		= "countries/Mali.txt"
+KAN		= "countries/Kanem.txt"
+DUG		= "countries/Dugu Surun.txt"
+MAS		= "countries/Masina.txt"
+MOS		= "countries/Mossi.txt"
+DAH		= "countries/Dahomey.txt"
+NRI		= "countries/Nri.txt"
+LUB		= "countries/Luba.txt"
+WNG		= "countries/Wanga.txt"
+RZV		= "countries/Rozvi.txt"
+MRV		= "countries/Maravi.txt"
+XHO		= "countries/Xhosa.txt"
+
+
 
 #North America
 ALG = "countries/Algonquin.txt"
@@ -103,10 +132,6 @@ TAI = "countries/Taino.txt"
 WNQ = "countries/Winaq.txt"
 YAM = "countries/Yamayeka.txt"
 
-
-
-TRI		= "countries/Tripoli.txt"
-ZUL		= "countries/Zulu.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions
