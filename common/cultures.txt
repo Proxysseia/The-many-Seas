@@ -1986,7 +1986,7 @@ east_asian = {
     leader = asian
     unit = ChineseGC
 
-    lanzu = {
+    chinese = {
         color = {212 207 169}
         first_names = { Lin Shen Chen Wong Yan Sa Hou Zheng Bing Wu Tan He Du Xue Xu Qin
         }
@@ -3673,4 +3673,13 @@ southern_african = {
         last_names = { kaMpande kaMahole KaMdlela waMswati Buthelezei Khoza kaSihayo kaMvundlana kaZikhala kaMaphitha
         }
     }
+}
+
+koryaki = {
+	color = { 139  69  19 }
+	first_names = { Cetshwayo Ntshingwayo Dabulamanzi Sikukuni Sihayo Mavumengwana Mbilini Mnyamana Hamu Gawozi Mgojana Zibhebhu Hehlokazulu Manyonyoba Mahubulwana Mkhosana Dingiswayo Senzagkhona Sekhukhune Sekethwayo Somopho
+        }
+
+        last_names = { kaMpande kaMahole KaMdlela waMswati Buthelezei Khoza kaSihayo kaMvundlana kaZikhala kaMaphitha
+        }
 }

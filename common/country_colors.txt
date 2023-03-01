@@ -769,3 +769,122 @@ NOO   = {
     color2= { 255 255 255  }
     color3= { 255 255 255  }
 }
+
+# Tungus
+TNG   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Koryak
+KRY   = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Mongolia
+MGL   = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# China
+CHI   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Hokkaido
+HOK   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Korea
+KOR   = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Ainu
+AIN   = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Penglai
+PNL   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Tibet
+TIB   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Burma
+BUR   = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Tenasserim
+TEN   = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Sayam
+SAY   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Malaya
+MLY   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Riau
+RIA   = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Brunei
+BRN   = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Banten-Lampung
+BTL   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Rangitane
+RGT   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}

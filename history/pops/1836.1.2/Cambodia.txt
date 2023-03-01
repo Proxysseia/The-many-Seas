@@ -256,25 +256,25 @@
     }
 
     clergymen = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 50
     }
 
     artisans = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 750
     }
 
     soldiers = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 50
     }
 
     farmers = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 2150
     }

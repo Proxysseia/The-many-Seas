@@ -545,37 +545,37 @@
     }
 
     clergymen = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 75
     }
 
     artisans = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 200
     }
 
     farmers = {
-        culture = lanzu
+        culture = chinese
         religion = gelugpa
         size = 3625
     }
 
     bureaucrats = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 25
     }
 
     officers = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 75
     }
 
     soldiers = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 1100
     }
