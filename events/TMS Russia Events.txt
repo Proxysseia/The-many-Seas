@@ -1,12 +1,12 @@
 country_event = {
 	id = 198720
-	title = "Erasure of Omsk"
+	title = "Erasure of the Yenisey"
 	desc = "We will burn their institutions to the ground and rise the flag of the Tsar in their place."
 	fire_only_once = yes
 	
 	trigger = {
 		NOT = {
-			exists = OMS
+			exists = YEN
 		}
 		tag = URA
 	}
@@ -15,21 +15,21 @@ country_event = {
 		name = "For the Tsar!"
 		effect = {
 			prestige = 2
-			OMS = { any_owned_state = { add_core =  URA } }
-			OMS = { any_owned_state = { remove_core = OMS } }
+			YEN = { any_owned_state = { add_core =  URA } }
+			YEN = { any_owned_state = { remove_core = YEN } }
 		}
 	}
 }
 
 country_event = {
 	id = 198721
-	title = "Erasure of Krilograd"
+	title = "Erasure of Zaysan"
 	desc = "We will burn their institutions to the ground and rise the flag of the Tsar in their place."
 	fire_only_once = yes
 	
 	trigger = {
 		NOT = {
-			exists = SIB
+			exists = ZAY
 		}
 		tag = URA
 	}
@@ -38,8 +38,8 @@ country_event = {
 		name = "For the Tsar!"
 		effect = {
 			prestige = 2
-			SIB = { any_owned_state = { add_core =  URA } }
-			SIB = { any_owned_state = { remove_core = SIB } }
+			ZAY = { any_owned_state = { add_core =  URA } }
+			ZAY = { any_owned_state = { remove_core = ZAY } }
 		}
 	}
 }

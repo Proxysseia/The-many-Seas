@@ -1,105 +1,42 @@
-#Holy Australian Empire - Fromden
+#England - Lambeth
 vassal = {
-    first = HAE
-    second = FRM
+    first = ENL
+    second = LAM
     start_date = 1836.1.1
     end_date = 1936.1.1
 }
-#Holy Australian Empire - Wagga Wagga
+#England - Berg
 vassal = {
-    first = HAE
-    second = WAG
+    first = ENL
+    second = BER
     start_date = 1836.1.1
     end_date = 1936.1.1
 }
-#Holy Australian Empire - Augusta
+#England - Mabolton
 vassal = {
-    first = HAE
-    second = AUG
+    first = ENL
+    second = MAB
     start_date = 1836.1.1
     end_date = 1936.1.1
 }
-#Holy Australian Empire - Newport
+#England - Sudenely
 vassal = {
-    first = HAE
-    second = PRI
+    first = ENL
+    second = SUD
     start_date = 1836.1.1
     end_date = 1936.1.1
 }
-#Holy Australian Empire - Ranseyre
+#England - Pembroke
 vassal = {
-    first = HAE
-    second = RPL
+    first = ENL
+    second = PEM
     start_date = 1836.1.1
     end_date = 1936.1.1
 }
-#Holy Australian Empire - Trovenstray
+#England - Whitehall
 vassal = {
-    first = HAE
-    second = TTB
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-#Holy Australian Empire - UIL
-vassal = {
-    first = HAE
-    second = UIL
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-#Holy Australian Empire - Coustre
-vassal = {
-    first = HAE
-    second = UNB
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-#Holy Australian Empire - Undflaw
-vassal = {
-    first = HAE
-    second = UNM
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-#Holy Australian Empire - Nowozer
-vassal = {
-    first = HAE
-    second = UOR
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-#Holy Australian Empire - Chalevia
-vassal = {
-    first = HAE
-    second = FSA
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-#Holy Australian Empire - Barze
-vassal = {
-    first = HAE
-    second = BLZ
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-#Holy Australian Empire - Queensland
-vassal = {
-    first = HAE
-    second = VEN
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-#Holy Australian Empire - Lost CoHAE
-vassal = {
-    first = HAE
-    second = TRE
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-#Holy Australian Empire - Levega
-vassal = {
-    first = HAE
-    second = ION
+    first = ENL
+    second = WHI
     start_date = 1836.1.1
     end_date = 1936.1.1
 }

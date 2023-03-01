@@ -706,3 +706,66 @@ XHO   = {
     color3= { 255 255 255  }
 }
 
+# England
+ENL   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Lambeth
+LAM   = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Berg
+BER   = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Mabolton
+MAB   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+
+# Pembroke
+PEM   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Sudenely
+SUD   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Whitehall
+WHI   = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Kija
+KIJ   = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Noongar
+NOO   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
