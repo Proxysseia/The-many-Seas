@@ -1,6 +1,6 @@
-owner = MHR
-controller = MHR
-add_core = MHR
-add_core = HND
+owner = SIV
+controller = SIV
+add_core = SIV
+add_core = BHA
 trade_goods = silk
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = KUT
-controller = KUT
-add_core = KUT
-add_core = HND
+owner = SAT
+controller = SAT
+add_core = SAT
+add_core = BHA
 trade_goods = opium
 life_rating = 35

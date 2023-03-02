@@ -882,8 +882,78 @@ BTL   = {
     color3= { 255 255 255  }
 }
 
-# Rangitane
-RGT   = {
+# Sakastan
+SAK   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Gandhara
+GND   = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Nepal
+NEP   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Satrap
+SAT   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Shanga
+SHA   = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Pallava
+PLL   = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Hoysala
+HOY   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Sivaganga
+SIV   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Nayak
+NAY   = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Kalabra
+KLT   = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Bharat
+BHA   = {
     color1= { 25 255 255  }
     color2= { 255 255 255  }
     color3= { 255 255 255  }
