@@ -1,5 +1,5 @@
-owner = SAP
-controller = SAP
-add_core = ATC
+owner = SCA
+controller = SCA
+add_core = TAI
 trade_goods = coffee
 life_rating = 35

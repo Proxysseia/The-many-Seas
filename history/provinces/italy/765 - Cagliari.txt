@@ -1,6 +1,6 @@
-owner = APU
-controller = APU
-add_core = APU
+owner = AND
+controller = AND
+add_core = AND
 trade_goods = coal
 naval_base = 1
 life_rating = 35

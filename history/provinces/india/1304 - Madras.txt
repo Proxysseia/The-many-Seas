@@ -1,7 +1,7 @@
-owner = TRA
-controller = TRA
-add_core = TRA
-add_core = HND
+owner = KLT
+controller = KLT
+add_core = KLT
+add_core = BHA
 trade_goods = cotton
 life_rating = 35
 colonial = 2

@@ -1,6 +1,6 @@
-owner = APU
-controller = APU
-add_core = APU
+owner = AND
+controller = AND
+add_core = AND
 trade_goods = sulphur
 life_rating = 35
 state_building = {

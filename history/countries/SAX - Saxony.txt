@@ -1,6 +1,6 @@
 capital = 558
-primary_culture = north_german
-culture = south_german
+primary_culture = sorbian
+culture = czech
 religion = catholic
 government = absolute_monarchy
 plurality = 25.0
@@ -36,9 +36,6 @@ school_reforms = no_schools
 #citizens_rights = culture_voting_only
 #border_policy = open_borders
 
-set_country_flag = oudrijk_prince
-set_country_flag = ketronant_country
-
 ruling_party = SAX_conservative_2
 upper_house = {
     fascist = 0
@@ -67,14 +64,17 @@ malthusian_thought = 1
 enlightenment_thought = 1
 introspectionism = 1
 private_banks = 1
+stock_exchange = 1
 no_standard = 1
 early_classical_theory_and_critique = 1
 freedom_of_trade = 1
 guild_based_production = 1
-piston_steam_engine = 1
+water_wheel_power = 1
 mechanical_production = 1
-hot_blast = 1
+mechanized_mining = 1
 basic_chemistry = 1
+piston_steam_engine = 1
+experimental_railroad = 1
 
 #Inventions
 

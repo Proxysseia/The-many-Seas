@@ -134,31 +134,31 @@
     }
 
     aristocrats = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 25
     }
 
     clergymen = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 50
     }
 
     artisans = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 1250
     }
 
     soldiers = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 25
     }
 
     farmers = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 1650
     }
@@ -312,31 +312,31 @@
     }
 
     aristocrats = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 75
     }
 
     clergymen = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 50
     }
 
     artisans = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 1100
     }
 
     soldiers = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 50
     }
 
     farmers = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 3825
     }
@@ -404,31 +404,31 @@
     }
 
     aristocrats = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 125
     }
 
     clergymen = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 75
     }
 
     artisans = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 1500
     }
 
     soldiers = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 75
     }
 
     farmers = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 5225
     }
@@ -466,31 +466,31 @@
     }
 
     aristocrats = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 75
     }
 
     clergymen = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 50
     }
 
     artisans = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 1275
     }
 
     soldiers = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 50
     }
 
     slaves = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 3550
     }
@@ -984,25 +984,25 @@
     }
 
     clergymen = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 50
     }
 
     artisans = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 650
     }
 
     soldiers = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 25
     }
 
     farmers = {
-        culture = lanzu
+        culture = chinese
         religion = mahayana
         size = 1275
     }

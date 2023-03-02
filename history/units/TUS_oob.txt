@@ -1,36 +1,8 @@
 leader = {
-        name = "Leopoldo II"
-        date = 1824.1.1
-        type = land
-        personality = soft
-        background = gifted_administrator
-        prestige = 0.5
-    }
-
-army = {
-    name = "Esercito Toscano"
-    location = 744
-    regiment = {
-        name= "1. Fanteria di Linea"
-        type = infantry
-        home = 744
-    }
-
-    regiment = {
-        name= "2. Fanteria di Linea"
-        type = infantry
-        home = 745
-    }
-
-    regiment = {
-        name= "3. Fanteria di Linea"
-        type = infantry
-        home = 748
-    }
-
-    regiment = {
-        name= "1. Guardia Civica"
-        type = infantry
-        home = 747
-    }
+	name = "David Chassé"
+	date = 1806.1.1
+	type = land
+	personality = timid
+	background = school_of_defense
+	prestige = 0.3
 }

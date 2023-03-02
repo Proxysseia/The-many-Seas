@@ -1,11 +1,14 @@
-capital = 1090
-primary_culture = georgian
-religion = orthodox
+capital = 885
+primary_culture = circassian
+religion = sunni
 government = absolute_monarchy
-plurality = 0.0
+plurality = 25.0
 nationalvalue = nv_order
-literacy = 0.1
+literacy = 0.04
 civilized = yes
+
+#GreaterPowers = prestige
+prestige = 20
 
 # Political reforms
 slavery = no_slavery
@@ -23,54 +26,41 @@ work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions
+pensions = no_pensions 
 school_reforms = no_schools
 
-# New Reforms
-#conscription = two_year_draft
-#debt_law = serfdom
-#penal_system = capital_punishment
-#child_labor = child_labor_legal
-#citizens_rights = primary_culture_only
-#border_policy = open_borders
-
-set_country_flag = orthodox_country
-
-ruling_party = GEO_conservative
+ruling_party = GEO_reactionary
 upper_house = {
-    fascist = 0
-    liberal = 15
-    conservative = 68
-    reactionary = 17
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+	fascist = 0
+	liberal = 25
+	conservative = 60
+	reactionary = 15
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 # Technologies
+post_napoleonic_thought = 1
 flintlock_rifles = 1
 bronze_muzzle_loaded_artillery = 1
+army_command_principle = 1
+post_nelsonian_thought = 1
+the_command_principle = 1
+private_banks = 1
 no_standard = 1
 guild_based_production = 1
 classicism_n_early_romanticism = 1
 late_enlightenment_philosophy = 1
-piston_steam_engine = 1
+enlightenment_thought = 1
+water_wheel_power = 1
 
 # Inventions
 
-# Starting Consciousness
-consciousness = 0
+#Starting Consciousness
+consciousness = 2
 nonstate_consciousness = 0
 
-2861.1.1 = {
-# Technologies
-    flintlock_rifles = 1
-    bronze_muzzle_loaded_artillery = 1
-    no_standard = 1
-    guild_based_production = 1
-    classicism_n_early_romanticism = 1
-    late_enlightenment_philosophy = 1
-    piston_steam_engine = 1
+schools = army_tech_school
 
-#Inventions
-}
+oob = "GEO_oob.txt"

@@ -1,9 +1,8 @@
-army = {
-    name = "Army of the Kurdish Emir"
-    location = 891
-    regiment = {
-        name= "Kurdish Warriors"
-        type = infantry
-        home = 891
-    }
+leader = {
+	name = "David Chassé"
+	date = 1806.1.1
+	type = land
+	personality = timid
+	background = school_of_defense
+	prestige = 0.3
 }

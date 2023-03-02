@@ -1,5 +1,5 @@
-owner = LIR
-controller = LIR
-add_core = LIR
+owner = CAS
+controller = CAS
+add_core = CAS
 trade_goods = grain
 life_rating = 35

@@ -1,22 +1,8 @@
-army = {
-    name = "Army of Tibet"
-    location = 1587
-    regiment = {
-        name= "1st Infantry"
-        type = irregular
-        home = 1587
-    }
-
-    regiment = {
-        name= "2nd Infantry"
-        type = irregular
-        home = 1587
-    }
-
-    regiment = {
-        name= "3rd Infantry"
-        type = irregular
-        home = 1588
-    }
-
+leader = {
+	name = "David Chassé"
+	date = 1806.1.1
+	type = land
+	personality = timid
+	background = school_of_defense
+	prestige = 0.3
 }

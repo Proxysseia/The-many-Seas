@@ -1,6 +1,6 @@
-owner = CLV
-controller = CLV
-add_core = CLV
+owner = AND
+controller = AND
+add_core = AND
 trade_goods = grain
 life_rating = 40
 naval_base = 1

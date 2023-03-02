@@ -1,6 +1,6 @@
-owner = SIN
-controller = SIN
-add_core = SIN
-add_core = HND
+owner = PLL
+controller = PLL
+add_core = PLL
+add_core = BHA
 trade_goods = dye
 life_rating = 35

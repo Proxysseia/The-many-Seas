@@ -1,22 +1,23 @@
-capital = 605
+capital = 738
 primary_culture = swiss
-religion = protestant
-government = democracy
-plurality = 40.0
-nationalvalue = nv_liberty
-literacy = 0.9
+culture = north_italian
+religion = catholic
+government = absolute_monarchy
+plurality = 25.0
+nationalvalue = nv_order
+literacy = 0.8
 civilized = yes
-prestige = 50
+prestige = 5
 
 # Political reforms
 slavery = no_slavery
-upper_house_composition = state_equal_weight
-vote_franschise = wealth_voting
+upper_house_composition = appointed
+vote_franschise = none_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
-voting_system = jefferson_method
-political_parties = non_secret_ballots
+voting_system = first_past_the_post
+political_parties = underground_parties
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -27,22 +28,20 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-# New Reforms
-#conscription = mandatory_service
+
+#New Reforms
+#conscription = two_year_draft
 #debt_law = debtors_prisons
-#penal_system = incarceration
+#penal_system = capital_punishment
 #child_labor = child_labor_legal
-#citizens_rights = primary_culture_only
+#citizens_rights = culture_voting_only
 #border_policy = open_borders
 
-set_country_flag = protestant_country
-
 ruling_party = SWI_conservative
-last_election = 1835.1.1
 upper_house = {
     fascist = 0
-    liberal = 25
-    conservative = 65
+    liberal = 32
+    conservative = 58
     reactionary = 10
     anarcho_liberal = 0
     socialist = 0
@@ -50,7 +49,7 @@ upper_house = {
 }
 
 
-#Technologies
+# Technologies
 post_napoleonic_thought = 1
 flintlock_rifles = 1
 bronze_muzzle_loaded_artillery = 1
@@ -71,23 +70,16 @@ no_standard = 1
 early_classical_theory_and_critique = 1
 freedom_of_trade = 1
 guild_based_production = 1
-piston_steam_engine = 1
+water_wheel_power = 1
 mechanical_production = 1
-hot_blast = 1
+mechanized_mining = 1
 basic_chemistry = 1
-high_pressure_steam_engine = 1
+piston_steam_engine = 1
 
 #Inventions
-authoritarianism = yes
-hierarchical_order = yes
-traditionalism = yes
-political_religion = yes
-paternalism = yes
-
-schools = industrial_tech_school
 
 # Starting Consciousness
-consciousness = 3
-nonstate_consciousness = 1
+consciousness = 2
+nonstate_consciousness = 0
 
 oob = "SWI_oob.txt"
