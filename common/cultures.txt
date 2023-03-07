@@ -839,7 +839,7 @@ leader = russian
                           Nikolaevich Ostrovsky Pavlov Putyatin Romanov Rozhestvensky Skobelev
                           Shuvalov Surkov Tukhachevsky Yegorov Yudenich Vorontsov Voroshilov Zavoyko }
     }
-    ledyanyyeludi = {
+    koryaki = {
         color = {254 81 127}
     first_names = { Aleksandr Alexei Andrei Anton Boris Dmitry Fyodor Gennady
                          Giorgi Grigoriy Igor Ivan Kirill Konstantin Lavr Leonid Lev Maxim
@@ -3673,13 +3673,4 @@ southern_african = {
         last_names = { kaMpande kaMahole KaMdlela waMswati Buthelezei Khoza kaSihayo kaMvundlana kaZikhala kaMaphitha
         }
     }
-}
-
-koryaki = {
-	color = { 139  69  19 }
-	first_names = { Cetshwayo Ntshingwayo Dabulamanzi Sikukuni Sihayo Mavumengwana Mbilini Mnyamana Hamu Gawozi Mgojana Zibhebhu Hehlokazulu Manyonyoba Mahubulwana Mkhosana Dingiswayo Senzagkhona Sekhukhune Sekethwayo Somopho
-        }
-
-        last_names = { kaMpande kaMahole KaMdlela waMswati Buthelezei Khoza kaSihayo kaMvundlana kaZikhala kaMaphitha
-        }
 }

@@ -42,6 +42,130 @@
         size = 20
     }
 }
+#Dourados (44000/11000 POPS)
+2416 = {
+    aristocrats = {
+        culture = janeiran
+        religion = catholic
+        size = 225
+    }
+
+    bureaucrats = {
+        culture = janeiran
+        religion = catholic
+        size = 10
+    }
+
+    officers = {
+        culture = janeiran
+        religion = catholic
+        size = 15
+    }
+
+    clergymen = {
+        culture = janeiran
+        religion = catholic
+        size = 125
+    }
+
+    artisans = {
+        culture = janeiran
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = janeiran
+        religion = catholic
+        size = 75
+    }
+
+    farmers = {
+        culture = janeiran
+        religion = catholic
+        size = 6400
+    }
+
+    clergymen = {
+        culture = janeiran
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = janeiran
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = janeiran
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = janeiran
+        religion = catholic
+        size = 2650
+    }
+}
+#Corumba (8000/2000 POPS)
+2419 = {
+    clergymen = {
+        culture = janeiran
+        religion = catholic
+        size = 25
+    }
+
+    artisans = {
+        culture = janeiran
+        religion = catholic
+        size = 150
+    }
+
+    soldiers = {
+        culture = janeiran
+        religion = catholic
+        size = 25
+    }
+
+    farmers = {
+        culture = janeiran
+        religion = catholic
+        size = 2900
+    }
+
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 15
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 900
+    }
+}
 #Igautemi (
 2420 = {
     clergymen = {
@@ -1717,13 +1841,13 @@
     }
 
     farmers = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 700
     }
 
     slaves = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 1000
     }
@@ -1821,7 +1945,7 @@
         size = 2000
     }
 	farmers = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 500
     }
@@ -1864,7 +1988,7 @@
     }
 
     farmers = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 700
     }
@@ -1890,13 +2014,13 @@
     }
 
     soldiers = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 900
     }
@@ -1915,43 +2039,43 @@
 #Asuncion 
 2339 = {
     aristocrats = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 850
     }
 
     bureaucrats = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 200
     }
 
     officers = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 300
     }
 
     clergymen = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 775
     }
 
     artisans = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 2200
     }
 
     soldiers = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 2100
     }
 
     farmers = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 7825
     }
@@ -2221,13 +2345,13 @@
     }
 
     artisans = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 480
     }
 
     soldiers = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 500
     }
@@ -2239,7 +2363,7 @@
     }
 
     farmers = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 5095
     }
@@ -2313,13 +2437,13 @@
     }
 
     artisans = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 100
     }
@@ -2371,13 +2495,13 @@
     }
 
     soldiers = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 1450
     }
@@ -2404,19 +2528,19 @@
     }
 
     artisans = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 3450
     }
@@ -2479,7 +2603,7 @@
     }
 
     farmers = {
-        culture = platinean
+        culture = janeiran
         religion = catholic
         size = 9825
     }

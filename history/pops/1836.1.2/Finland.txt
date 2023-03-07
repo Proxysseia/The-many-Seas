@@ -256,43 +256,6 @@
         size = 925
     }
 }
-#Onega Island (192000/12000 POPS)
-2715 = {
-    bureaucrats = {
-        culture = finnish
-        religion = protestant
-        size = 100
-    }
-
-    clergymen = {
-        culture = finnish
-        religion = orthodox
-        size = 250
-    }
-
-    artisans = {
-        culture = finnish
-        religion = orthodox
-        size = 500
-    }
-
-    soldiers = {
-        culture = finnish
-        religion = orthodox
-        size = 500
-    }
-
-    farmers = {
-        culture = finnish
-        religion = orthodox
-        size = 6700
-    }
-    farmers = {
-        culture = russian
-        religion = orthodox
-        size = 8000
-    }
-}
 #Segozero (64000/4000 POPS)
 3315 = {
     clergymen = {

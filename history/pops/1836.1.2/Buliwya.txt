@@ -1,5 +1,3 @@
-#Atacama Region (164000) #see Peru.txt for balance of Region
-#Ruled by Buliwya 2836
 #Antofagasta (80000/20000 POPS)
 2305 = {
     aristocrats = {
@@ -679,30 +677,6 @@
 }
 #San Ignacio (20000/5000 POPS)
 2317 = {
-    clergymen = {
-        culture = quechua
-        religion = catholic
-        size = 25
-    }
-
-    artisans = {
-        culture = quechua
-        religion = catholic
-        size = 50
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = catholic
-        size = 25
-    }
-
-    farmers = {
-        culture = quechua
-        religion = catholic
-        size = 300
-    }
-
     aristocrats = {
         culture = amazonian
         religion = animist
@@ -730,37 +704,7 @@
     farmers = {
         culture = amazonian
         religion = animist
-        size = 1400
-    }
-
-    aristocrats = {
-        culture = quechua
-        religion = animist
-        size = 25
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = animist
-        size = 50
-    }
-
-    artisans = {
-        culture = quechua
-        religion = animist
-        size = 100
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = animist
-        size = 25
-    }
-
-    farmers = {
-        culture = quechua
-        religion = animist
-        size = 500
+        size = 1900
     }
 }
 #Robore (12000/3000 POPS)

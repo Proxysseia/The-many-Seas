@@ -750,7 +750,7 @@
         size = 600
     }
     farmers = {
-        culture = janeiran
+        culture = quechua
         religion = catholic
         size = 7850
     }
@@ -917,31 +917,31 @@
 #Porto Seguro (120000/30000 POPS)
 2439 = {
     aristocrats = {
-        culture = janeiran
+        culture = quechua
         religion = catholic
         size = 625
     }
 
     clergymen = {
-        culture = janeiran
+        culture = quechua
         religion = catholic
         size = 225
     }
 
     artisans = {
-        culture = janeiran
+        culture = quechua
         religion = catholic
         size = 700
     }
 
     soldiers = {
-        culture = janeiran
+        culture = quechua
         religion = catholic
         size = 175
     }
 
     farmers = {
-        culture = janeiran
+        culture = quechua
         religion = catholic
         size = 6275
     }
@@ -1014,7 +1014,7 @@
     }
 
     farmers = {
-        culture = janeiran
+        culture = quechua
         religion = catholic
         size = 3275
     }
@@ -1621,78 +1621,7 @@
         size = 1950
     }
 }
-#Mato Grosso Region (108000)
-#Under the rule of Brazil 1836
-#Dourados (44000/11000 POPS)
-2416 = {
-    aristocrats = {
-        culture = janeiran
-        religion = catholic
-        size = 225
-    }
-
-    bureaucrats = {
-        culture = janeiran
-        religion = catholic
-        size = 10
-    }
-
-    officers = {
-        culture = janeiran
-        religion = catholic
-        size = 15
-    }
-
-    clergymen = {
-        culture = janeiran
-        religion = catholic
-        size = 125
-    }
-
-    artisans = {
-        culture = janeiran
-        religion = catholic
-        size = 250
-    }
-
-    soldiers = {
-        culture = janeiran
-        religion = catholic
-        size = 75
-    }
-
-    farmers = {
-        culture = janeiran
-        religion = catholic
-        size = 6400
-    }
-
-    clergymen = {
-        culture = platinean
-        religion = catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = platinean
-        religion = catholic
-        size = 250
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = catholic
-        size = 50
-    }
-
-    farmers = {
-        culture = platinean
-        religion = catholic
-        size = 2650
-    }
-}
-#Under loose authority of Brazil 1836
-#Vila Bela (28000/7000 POPS)
+#Vila Bela
 2417 = {
     clergymen = {
         culture = nossogene
@@ -1751,25 +1680,25 @@
 #Cuiaba (28000/7000 POPS)
 2418 = {
     clergymen = {
-        culture = janeiran
+        culture = quechua
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = janeiran
+        culture = quechua
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = janeiran
+        culture = quechua
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = janeiran
+        culture = quechua
         religion = catholic
         size = 1200
     }
@@ -1802,62 +1731,6 @@
         culture = amazonian
         religion = animist
         size = 1900
-    }
-}
-#Corumba (8000/2000 POPS)
-2419 = {
-    clergymen = {
-        culture = janeiran
-        religion = catholic
-        size = 25
-    }
-
-    artisans = {
-        culture = janeiran
-        religion = catholic
-        size = 150
-    }
-
-    soldiers = {
-        culture = janeiran
-        religion = catholic
-        size = 25
-    }
-
-    farmers = {
-        culture = janeiran
-        religion = catholic
-        size = 2900
-    }
-
-    aristocrats = {
-        culture = amazonian
-        religion = animist
-        size = 10
-    }
-
-    clergymen = {
-        culture = amazonian
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = amazonian
-        religion = animist
-        size = 50
-    }
-
-    soldiers = {
-        culture = amazonian
-        religion = animist
-        size = 15
-    }
-
-    farmers = {
-        culture = amazonian
-        religion = animist
-        size = 900
     }
 }
 #Palmas (12000/3000 POPS)

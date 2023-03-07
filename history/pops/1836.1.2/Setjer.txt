@@ -240,50 +240,6 @@
         size = 625
     }
 }
-#Chirskaya
-1046 = {
-    aristocrats = {
-        culture = russian
-        religion = orthodox
-        size = 50
-    }
-
-    clergymen = {
-        culture = russian
-        religion = orthodox
-        size = 425
-    }
-
-    artisans = {
-        culture = russian
-        religion = orthodox
-        size = 8200
-    }
-
-    soldiers = {
-        culture = russian
-        religion = orthodox
-        size = 3750
-    }
-
-    farmers = {
-        culture = russian
-        religion = orthodox
-        size = 23250
-    }
-
-    farmers = {
-        culture = russian
-        religion = orthodox
-        size = 10625
-    }
-
-    farmers = {
-        culture = russian
-        religion = orthodox
-        size = 13625
-    }
-}
 #Setjer
 #Aqtau (32000/8000 POPS)
 1194 = {
