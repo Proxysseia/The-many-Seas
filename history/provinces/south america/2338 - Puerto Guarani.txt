@@ -1,5 +1,7 @@
 owner = IGU
 controller = IGU
 add_core = IGU
+add_core = DUG
+add_core = INC
 trade_goods = fish
-life_rating = 25
+life_rating = 30

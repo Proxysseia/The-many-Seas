@@ -16,7 +16,7 @@
     }
 
     artisans = {
-        culture = afro_antillean
+        culture = antillean
         religion = catholic
         size = 55
     }
@@ -28,7 +28,7 @@
     }
 
     slaves = {
-        culture = afro_antillean
+        culture = antillean
         religion = catholic
         size = 100
     }

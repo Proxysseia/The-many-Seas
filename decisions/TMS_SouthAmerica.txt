@@ -1,0 +1,97 @@
+political_decisions = {
+	dugu_accept_janeiran_title = {
+		potential = {
+			tag = DUG
+			NOT = { has_country_flag = janeiran_accepted }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			war = no
+			IGU = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					IGU = {
+						vassal_of = THIS
+						}
+					}
+				}
+			}
+			AKB = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					AKB = {
+						vassal_of = THIS
+						}
+					}
+				}
+			}
+			CHH = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					CHH = {
+						vassal_of = THIS
+						}
+					}
+				}
+			}
+		}
+		effect {
+			add_accepted_culture = janeiran
+			prestige = 20
+			inherit = IGU
+			inherit = AKB
+			inherit = CHH
+			set_country_flag = janeiran_accepted
+		}
+	}
+	inca_accept_janeiran_title = {
+		potential = {
+			tag = INC
+			NOT = { has_country_flag = janeiran_accepted }
+		}
+		allow = {
+			war = no
+			IGU = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					IGU = {
+						vassal_of = THIS
+						}
+					}
+				}
+			}
+			AKB = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					AKB = {
+						vassal_of = THIS
+						}
+					}
+				}
+			}
+			CHH = {
+				all_core = {
+					OR = {
+					owned_by = THIS
+					CHH = {
+						vassal_of = THIS
+						}
+					}
+				}
+			}
+		}
+		effect {
+			add_accepted_culture = janeiran
+			prestige = 20
+			inherit = IGU
+			inherit = AKB
+			inherit = CHH
+			set_country_flag = janeiran_accepted
+		}
+	}
+}

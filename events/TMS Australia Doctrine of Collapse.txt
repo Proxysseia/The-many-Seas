@@ -8,7 +8,7 @@ country_event = {
 	
 	trigger = {
 		primary_culture = australian
-		vassal_of = HAE
+		vassal_of = ENL
 		ai = yes
 	}
 	
@@ -18,7 +18,7 @@ country_event = {
 	
 	option = {
 		name = "Die."
-		HAE = {
+		ENL = {
 			country_event = { id=198731 days=0 }
 		}
 	}
@@ -36,7 +36,7 @@ country_event = {
 	option = {
 		name = "Kill him."
 		prestige = 4
-		FROM = { all_core = { add_core = HAE } }
+		FROM = { all_core = { add_core = ENL } }
 		inherit = FROM
 	}
 }

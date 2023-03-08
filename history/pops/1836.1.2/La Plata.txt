@@ -831,40 +831,7 @@
     }
 
 }
-#Corrientes Region (164000)
-#Under rule of Argentina 1836
-#Porlamar (16000/4000 POPS)
-2357 = {
-    aristocrats = {
-        culture = antillean
-        religion = catholic
-        size = 25
-    }
 
-    clergymen = {
-        culture = antillean
-        religion = catholic
-        size = 50
-    }
-
-    farmers = {
-        culture = antillean
-        religion = catholic
-        size = 2500
-    }
-
-    clergymen = {
-        culture = afro_antillean
-        religion = catholic
-        size = 50
-    }
-
-    farmers = {
-        culture = afro_antillean
-        religion = catholic
-        size = 1825
-    }
-}
 #Santo Tomas (28000/7000 POPS)
 2358 = {
     clergymen = {

@@ -27,19 +27,19 @@
     }
 
     artisans = {
-        culture = afro_antillean
+        culture = antillean
         religion = protestant
         size = 150
     }
 
     farmers = {
-        culture = afro_antillean
+        culture = antillean
         religion = protestant
         size = 350
     }
 
     slaves = {
-        culture = afro_antillean
+        culture = antillean
         religion = protestant
         size = 500
     }
