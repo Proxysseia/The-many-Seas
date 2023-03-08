@@ -38,7 +38,7 @@ political_decisions = {
 				}
 			}
 		}
-		effect {
+		effect = {
 			add_accepted_culture = janeiran
 			prestige = 20
 			inherit = IGU
@@ -85,7 +85,7 @@ political_decisions = {
 				}
 			}
 		}
-		effect {
+		effect = {
 			add_accepted_culture = janeiran
 			prestige = 20
 			inherit = IGU

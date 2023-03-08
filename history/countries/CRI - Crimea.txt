@@ -1,5 +1,5 @@
 capital = 967
-primary_culture = ukranian
+primary_culture = ukrainian
 religion = orthodox
 government = absolute_monarchy
 plurality = 0.2
@@ -27,7 +27,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = UKR_conservative
+ruling_party = AAA_conservative
 upper_house = {
 	fascist = 0
 	liberal = 25
@@ -38,7 +38,6 @@ upper_house = {
 	communist = 0
 }
 
-schools = traditional_tech_school
 
 # Technologies
 post_napoleonic_thought = 1

@@ -1,5 +1,5 @@
 capital = 354
-primary_culture = ukranian
+primary_culture = ukrainian
 religion = orthodox
 government = absolute_monarchy
 plurality = 0.2
@@ -37,8 +37,6 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-
-schools = traditional_tech_school
 
 # Technologies
 post_napoleonic_thought = 1
