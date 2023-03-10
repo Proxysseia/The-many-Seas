@@ -44,14 +44,6 @@
         religion = orthodox
         size = 4065
     }
-
-    ######Jews
-    farmers = {
-        culture = maghrebi
-        religion = jewish
-        size = 100
-    }
-    ########
 }
 851 = {
 	aristocrats = {
@@ -232,5 +224,37 @@
         culture = greek
         religion = orthodox
         size = 1799
+    }
+}
+#Debar
+1780 = {
+    clergymen = {
+        culture = albanian
+        religion = sunni
+        size = 125
+    }
+
+    artisans = {
+        culture = albanian
+        religion = sunni
+        size = 4000
+    }
+
+    soldiers = {
+        culture = albanian
+        religion = sunni
+        size = 4100
+    }
+
+    farmers = {
+        culture = albanian
+        religion = sunni
+        size = 52062
+    }
+
+    soldiers = {
+        culture = serb
+        religion = orthodox
+        size = 175
     }
 }

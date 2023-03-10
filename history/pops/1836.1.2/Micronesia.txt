@@ -280,6 +280,62 @@
         size = 4100
     }
 }
+#New Caledonia
+1097 = {
+    farmers = {
+        culture = malay
+        religion = animist
+        size = 5475
+    }
+}
+#Philipsburg
+2236 = {
+    farmers = {
+        culture = antillean
+        religion = catholic
+        size = 4000
+    }
+}
+#Christmas Island
+2244 = {
+    farmers = {
+        culture = malay
+        religion = sunni
+        size = 15
+    }
+}
+#Solomon Islands
+2534 = {
+    farmers = {
+        culture = malay
+        religion = animist
+        size = 10925
+    }
+}
+#Fiji
+2454 = {
+    farmers = {
+        culture = malay
+        religion = animist
+        size = 20025
+    }
+}
+#Lomaji
+2520 = {
+    farmers = {
+        culture = malay
+        religion = animist
+        size = 18000
+    }
+}
+#New Hebrides
+2535 = {
+    farmers = {
+        culture = malay
+        religion = animist
+        size = 15000
+    }
+}
 #Tuamotu Islands
 2553 = {
     aristocrats = {

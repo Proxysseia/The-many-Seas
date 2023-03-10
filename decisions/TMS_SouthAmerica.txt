@@ -1,5 +1,5 @@
 political_decisions = {
-	dugu_accept_janeiran_title = {
+	dugu_accept_janeiran = {
 		potential = {
 			tag = DUG
 			NOT = { has_country_flag = janeiran_accepted }
@@ -47,7 +47,7 @@ political_decisions = {
 			set_country_flag = janeiran_accepted
 		}
 	}
-	inca_accept_janeiran_title = {
+	inca_accept_janeiran = {
 		potential = {
 			tag = INC
 			NOT = { has_country_flag = janeiran_accepted }

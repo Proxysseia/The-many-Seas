@@ -2953,5 +2953,48 @@
         religion = catholic
         size = 20625
     }
+}
+#Belize
+2190 = {
+    aristocrats = {
+        culture = mexican
+        religion = catholic
+        size = 40
+    }
 
+    officers = {
+        culture = mexican
+        religion = catholic
+        size = 2
+    }
+
+    artisans = {
+        culture = english
+        religion = protestant
+        size = 25
+    }
+
+    clergymen = {
+        culture = mexican
+        religion = catholic
+        size = 15
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 10
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = protestant
+        size = 14000
+    }
 }

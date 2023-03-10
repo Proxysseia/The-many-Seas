@@ -4750,6 +4750,38 @@
         size = 13900
     }
 }
+#Bermuda
+203 = {
+	aristocrats = {
+		culture = rustic
+		religion = protestant
+		size = 2500
+	}
+
+	clergymen = {
+		culture = rustic
+		religion = protestant
+		size = 1000
+	}
+
+	artisans = {
+		culture = rustic
+		religion = protestant
+		size = 45000
+	}
+
+	soldiers = {
+		culture = rustic
+		religion = protestant
+		size = 1000
+	}
+
+	farmers = {
+		culture = rustic
+		religion = protestant
+		size = 78000
+	}
+}
 #Savannah (200000/50000 POPS)
 204 = {
     aristocrats = {

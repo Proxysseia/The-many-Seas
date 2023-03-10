@@ -1588,3 +1588,47 @@
         size = 3000
     }
 }
+#Valetta
+854 = {
+    bureaucrats = {
+        culture = south_italian
+        religion = catholic
+        size = 50
+    }
+
+    aristocrats = {
+        culture = south_italian
+        religion = catholic
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = south_italian
+        religion = catholic
+        size = 10
+    }
+
+    clergymen = {
+        culture = south_italian
+        religion = catholic
+        size = 275
+    }
+
+    artisans = {
+        culture = south_italian
+        religion = catholic
+        size = 5500
+    }
+
+    soldiers = {
+        culture = south_italian
+        religion = catholic
+        size = 340
+    }
+
+    farmers = {
+        culture = south_italian
+        religion = catholic
+        size = 20475
+    }
+}

@@ -1,3 +1,4 @@
+
 #Havana
 2209 = {
 
@@ -218,7 +219,44 @@
     }
 
 }
+#Saint Thomas
+2223 = {
+    aristocrats = {
+        culture = antillean
+        religion = protestant
+        size = 200
+    }
 
+    bureaucrats = {
+        culture = antillean
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = antillean
+        religion = protestant
+        size = 175
+    }
+
+    farmers = {
+        culture = antillean
+        religion = protestant
+        size = 2000
+    }
+
+    artisans = {
+        culture = antillean
+        religion = protestant
+        size = 150
+    }
+
+    slaves = {
+        culture = antillean
+        religion = protestant
+        size = 500
+    }
+}
 #Baker/Repulse Bay/ Echo Bay - Now Guantanamo Bay (5036/1259 POPS)
 44 = {
     aristocrats = {
@@ -256,6 +294,46 @@
         size = 28790
     }
 }
+#Jamaica
+2217 = {
+    aristocrats = { 
+        culture = antillean
+        religion = protestant
+        size = 1890
+    }
+
+    bureaucrats = {
+        culture = antillean
+        religion = protestant
+        size = 850
+    }
+
+    clergymen = {
+        culture = antillean
+        religion = protestant
+        size = 750
+    }
+
+    artisans = {
+        culture = antillean
+        religion = protestant
+        size = 9250
+    }
+
+    soldiers = {
+        culture = antillean
+        religion = protestant
+        size = 10000
+    }
+
+    farmers = {
+        culture = antillean
+        religion = protestant
+        size = 125000
+    }
+}
+
+
 #The Bahamas Region - 23000
 #Ruled by Britain 1836
 #The Bahamas (20000/5000 POPS)
