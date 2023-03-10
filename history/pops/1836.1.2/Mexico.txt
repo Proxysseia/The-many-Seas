@@ -2969,7 +2969,7 @@
     }
 
     artisans = {
-        culture = english
+        culture = mexican
         religion = protestant
         size = 25
     }
@@ -2981,7 +2981,7 @@
     }
 
     artisans = {
-        culture = amazonian
+        culture = mexican
         religion = protestant
         size = 100
     }
@@ -2993,7 +2993,7 @@
     }
 
     farmers = {
-        culture = amazonian
+        culture = mexican
         religion = protestant
         size = 14000
     }

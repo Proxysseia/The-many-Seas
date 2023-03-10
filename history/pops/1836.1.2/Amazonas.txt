@@ -20,17 +20,6 @@
 }
 #Tunja
 2249 = {
-    aristocrats = {
-        culture = quechua
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = catholic
-        size = 450
-    }
 
     artisans = {
         culture = quechua
@@ -47,7 +36,7 @@
 	farmers = {
         culture = amazonian
         religion = catholic
-        size = 8050
+        size = 12050
     }
 }
 #San Jose del Guaviare 
@@ -126,78 +115,48 @@
         size = 20
     }
 }
-#Casanare (60000/15000 POPS)
+#Casanare
 2262 = {
     aristocrats = {
-        culture = quechua
+        culture = amazonian
         religion = catholic
         size = 125
     }
 
     bureaucrats = {
-        culture = quechua
+        culture = amazonian
         religion = catholic
-        size = 25
+        size = 250
     }
 
     officers = {
-        culture = quechua
-        religion = catholic
-        size = 25
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = quechua
-        religion = catholic
-        size = 200
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = catholic
-        size = 50
-    }
-
-    farmers = {
-        culture = quechua
-        religion = catholic
-        size = 3500
-    }
-
-    aristocrats = {
         culture = amazonian
-        religion = animist
-        size = 125
+        religion = catholic
+        size = 250
     }
 
     clergymen = {
         culture = amazonian
-        religion = animist
-        size = 75
+        religion = catholic
+        size = 750
     }
 
     artisans = {
         culture = amazonian
-        religion = animist
-        size = 400
+        religion = catholic
+        size = 2000
     }
 
     soldiers = {
         culture = amazonian
-        religion = animist
-        size = 75
+        religion = catholic
+        size = 1550
     }
 
     farmers = {
         culture = amazonian
-        religion = animist
-        size = 4325
+        religion = catholic
+        size = 9500
     }
 }
 #El Encanto (12000/3000 POPS)
@@ -1649,11 +1608,6 @@
 }
 #Vila Bela
 2417 = {
-    clergymen = {
-        culture = nossogene
-        religion = catholic
-        size = 150
-    }
 
     artisans = {
         culture = amazonian
@@ -1665,12 +1619,6 @@
         culture = amazonian
         religion = catholic
         size = 25
-    }
-
-    farmers = {
-        culture = nossogene
-        religion = catholic
-        size = 3825
     }
 
     aristocrats = {
@@ -1700,63 +1648,39 @@
     farmers = {
         culture = amazonian
         religion = animist
-        size = 4575
+        size = 6000
     }
 }
-#Cuiaba (28000/7000 POPS)
+#Cuiaba
 2418 = {
-    clergymen = {
-        culture = quechua
-        religion = catholic
-        size = 25
-    }
-
-    artisans = {
-        culture = quechua
-        religion = catholic
-        size = 50
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = catholic
-        size = 25
-    }
-
-    farmers = {
-        culture = quechua
-        religion = catholic
-        size = 1200
-    }
-
     aristocrats = {
         culture = amazonian
         religion = animist
-        size = 10
+        size = 100
     }
 
     clergymen = {
         culture = amazonian
         religion = animist
-        size = 25
+        size = 250
     }
 
     artisans = {
         culture = amazonian
         religion = animist
-        size = 50
+        size = 500
     }
 
     soldiers = {
         culture = amazonian
         religion = animist
-        size = 15
+        size = 150
     }
 
     farmers = {
         culture = amazonian
         religion = animist
-        size = 1900
+        size = 2500
     }
 }
 #Tarauaca
@@ -1770,32 +1694,27 @@
     clergymen = {
         culture = amazonian
         religion = animist
-        size = 50
+        size = 500
     }
 
     artisans = {
         culture = amazonian
         religion = animist
-        size = 200
+        size = 2000
     }
 
     soldiers = {
         culture = amazonian
         religion = animist
-        size = 50
+        size = 500
     }
 
     farmers = {
         culture = amazonian
         religion = animist
-        size = 1225
+        size = 12250
     }
 
-    farmers = {
-        culture = nossogene
-        religion = catholic
-        size = 900
-    }
 }
 #Forte do Principe (16000/4000 POPS) #now part of Brazil - Rondonia State
 2550 = {
