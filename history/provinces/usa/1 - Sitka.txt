@@ -1,2 +1,6 @@
-trade_goods = timber
+owner = ENL
+controller = ENL
+add_core = ENL
+trade_goods = coal
 life_rating = 25
+colonial = 2
