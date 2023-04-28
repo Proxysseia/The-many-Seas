@@ -1,4 +1,3 @@
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 AIN;Ainu Clans;;;;;;;;;;;;;
 AIN_ADJ;Ainu;;;;;;;;;;;;;
 AKB;Akayby;;;;;;;;;;;;;
@@ -92,7 +91,7 @@ GCC_ADJ;Guachi;;;;;;;;;;;;;
 GEO;Georgia;;;;;;;;;;;;;
 GEO_ADJ;Georgian;;;;;;;;;;;;;
 GND;Gandharan Kingdom;;;;;;;;;;;;;
-GND_ADJGandharan;;;;;;;;;;;;;
+GND_ADJGandharan;;;;;;;;;;;;;;
 GOL;Goliz Khaganate;;;;;;;;;;;;;
 GOL_ADJ;Goliz;;;;;;;;;;;;;
 HAN;Hanseatic League;;;;;;;;;;;;;
@@ -242,7 +241,7 @@ TIB_ADJ;Tibetan;;;;;;;;;;;;;
 TNG;Tungus Horde;;;;;;;;;;;;;
 TNG_ADJ;Tungus;;;;;;;;;;;;;
 TRK;Turkestan;;;;;;;;;;;;;
-TRK_ADJ:Turkish;;;;;;;;;;;;;
+TRK_ADJ:Turkish;;;;;;;;;;;;;;
 TUR; Turkey;;;;;;;;;;;;;
 TUR_ADJ;Turkish;;;;;;;;;;;;;
 TUS;Tuscany;;;;;;;;;;;;;,,
@@ -275,3 +274,5 @@ ZIY;Ziyanid Emirate;;;;;;;;;;;;;
 ZIY_ADJ;Ziyanid;;;;;;;;;;;;;
 ZYY; Zayyanid Sultanate;;;;;;;;;;;;;
 ZYY_ADJ;Zayyanid;;;;;;;;;;;;;
+PES;Peschmark;;;;;;;;;;;;;
+PES_ADJ;Peschmarker;;;;;;;;;;;;;

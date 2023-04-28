@@ -1,5 +1,7 @@
-owner = LAT
-controller = LAT
+owner = SOR
+controller = SOR
 add_core = LAT
 trade_goods = grain
 life_rating = 35
+
+add_core = SOR

@@ -1,5 +1,7 @@
-owner = SAX
-controller = SAX
+owner = SOR
+controller = SOR
 add_core = SAX
 trade_goods = iron
 life_rating = 35
+
+add_core = SOR

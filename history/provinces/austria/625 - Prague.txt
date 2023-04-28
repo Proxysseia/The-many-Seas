@@ -1,6 +1,6 @@
-owner = BOH
-controller = BOH
-add_core = BOH
+owner = SOR
+controller = SOR
+
 trade_goods = coal
 life_rating = 35
 state_building = {
@@ -14,3 +14,6 @@ state_building = {
     upgrade = yes
 }
 railroad = 1
+
+
+add_core = BOH

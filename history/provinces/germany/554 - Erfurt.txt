@@ -1,5 +1,7 @@
-owner = THU
-controller = THU
+owner = SOR
+controller = SOR
 add_core = THU
 trade_goods = iron
 life_rating = 35
+
+add_core = SOR

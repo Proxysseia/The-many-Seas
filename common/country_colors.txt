@@ -49,6 +49,13 @@ BAD = {
     color3= { 119 151 122  }
 }
 
+# Peschmark
+PES = {
+    color1= { 122 85 192  }
+    color2= { 195 92 106  }
+    color3= { 159 151 122  }
+}
+
 # Alsace
 ALS = {
     color1= { 12 85 92  }

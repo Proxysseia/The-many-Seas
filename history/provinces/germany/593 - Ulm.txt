@@ -1,5 +1,8 @@
-owner = DAN
-controller = DAN
-add_core = DAN
+owner = SOR
+controller = SOR
+
 trade_goods = grain
 life_rating = 35
+
+add_core = SOR
+add_core = BAD

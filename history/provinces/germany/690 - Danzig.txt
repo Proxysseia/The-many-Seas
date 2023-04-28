@@ -1,6 +1,8 @@
-owner = LAT
-controller = LAT
-add_core = LAT
+owner = SOR
+controller = SOR
+
 trade_goods = fish
 life_rating = 35
 naval_base = 1
+
+add_core = SOR

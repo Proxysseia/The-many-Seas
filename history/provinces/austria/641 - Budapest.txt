@@ -1,6 +1,6 @@
-owner = DAN
-controller = DAN
-add_core = DAN
+owner = PES
+controller = PES
+
 trade_goods = cattle
 life_rating = 35
 fort = 1
@@ -9,3 +9,5 @@ state_building = {
     building = canned_food_factory
     upgrade = yes
 }
+
+add_core = PES
