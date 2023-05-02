@@ -1,6 +1,5 @@
-owner = AND
-controller = AND
-add_core = AND
+owner = FUL
+controller = FUL
+add_core = FUL
 trade_goods = fruit
 life_rating = 35
-naval_base = 1
