@@ -1,6 +1,8 @@
-owner = AND
-controller = AND
-add_core = AND
+owner = ENL
+controller = ENL
+add_core = ENL
 trade_goods = fish
-life_rating = 35
+life_rating = 30
 naval_base = 1
+colonial = 2
+

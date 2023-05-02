@@ -18,6 +18,38 @@
         size = 12800
     }
 }
+#Cabreibo
+2433 = {
+    aristocrats = {
+        culture = nossogene
+        religion = catholic
+        size = 425
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = catholic
+        size = 125
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = catholic
+        size = 325
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = catholic
+        size = 750
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = catholic
+        size = 17000
+    }
+}
 #Tunja
 2249 = {
 

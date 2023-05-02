@@ -1,2 +1,5 @@
+owner = LAT
+controller = LAT
 trade_goods = fish
-life_rating = 35
+life_rating = 20
+colonial = 2

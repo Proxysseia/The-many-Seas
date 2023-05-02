@@ -1,2 +1,5 @@
-trade_goods = fish
-life_rating = 10
+owner = LUB
+controller = LUB
+add_core = LUB
+trade_goods = wool
+life_rating = 35

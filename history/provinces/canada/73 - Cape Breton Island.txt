@@ -1,5 +1,5 @@
-owner = UNS
-controller = UNS
-add_core = UNS
+owner = SCA
+controller = SCA
 trade_goods = coal
-life_rating = 25
+life_rating = 20
+colonial = 2

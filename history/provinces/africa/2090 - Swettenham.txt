@@ -1,6 +1,5 @@
-owner = FRA
-controller = FRA
-add_core = FRA
-trade_goods = wool
-life_rating = 30
-naval_base = 1
+owner = LUB
+controller = LUB
+add_core = LUB
+trade_goods = coal
+life_rating = 35
