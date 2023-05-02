@@ -1,6 +1,5 @@
-owner = LAT
-controller = LAT
-add_core = LAT
+owner = KIT
+controller = KIT
+add_core = KIT
 trade_goods = wool
 life_rating = 30
-colonial = 2

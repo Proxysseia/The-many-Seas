@@ -1,6 +1,5 @@
-owner = UNS
-controller = UNS
-add_core = UNS
-trade_goods = tobacco
+owner = ETH
+controller = ETH
+add_core = ETH
+trade_goods = sulphur
 life_rating = 35
-colonial = 2

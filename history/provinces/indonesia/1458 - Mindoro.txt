@@ -1,6 +1,5 @@
-owner = UNS
-controller = UNS
-add_core = UNS
+owner = ETH
+controller = ETH
+add_core = ETH
 trade_goods = fish
 life_rating = 35
-colonial = 2
