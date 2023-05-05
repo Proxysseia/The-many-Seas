@@ -1,2 +1,3 @@
 trade_goods = iron
-life_rating = 35
+# Anything typed here will be added to all selected province history files
+life_rating = 20         

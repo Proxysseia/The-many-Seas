@@ -1,7 +1,6 @@
-owner = SOR
-controller = SOR
+owner = NET
+controller = NET
 add_core = NET
 trade_goods = coal
 life_rating = 35
 
-add_core = SOR
