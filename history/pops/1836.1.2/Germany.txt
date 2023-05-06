@@ -1519,7 +1519,7 @@
     }
 
     soldiers = {
-        culture = polish
+        culture = sorbian
         religion = ketronant
         size = 2100
     }
@@ -1531,7 +1531,7 @@
     }
 
     farmers = {
-        culture = polish
+        culture = sorbian
         religion = ketronant
         size = 12500
     }
@@ -1607,13 +1607,13 @@
     }
 
     soldiers = {
-        culture = polish
+        culture = sorbian
         religion = ketronant
         size = 1750
     }
 
     farmers = {
-        culture = polish
+        culture = sorbian
         religion = ketronant
         size = 20000
     }

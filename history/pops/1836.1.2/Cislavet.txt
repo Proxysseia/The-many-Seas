@@ -87,31 +87,31 @@
     }
 
     bureaucrats = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 1550
     }
 
     officers = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 800
     }
 
     clergymen = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 275
     }
 
     artisans = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 7700
     }
 
     craftsmen = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 300
     }
@@ -171,73 +171,73 @@
     }
 
     aristocrats = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 900
     }
 
     capitalists = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 13
     }
 
     bureaucrats = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 100
     }
 
     officers = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 63
     }
 
     clergymen = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 756
     }
 
     artisans = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 2250
     }
 
     craftsmen = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 75
     }
 
     artisans = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 2050
     }
 
     soldiers = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 750
     }
 
     soldiers = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 188
     }
 
     farmers = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 77500
     }
 
     farmers = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 32250
     }
@@ -371,19 +371,19 @@
     }
 
     craftsmen = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 100
     }
 
     soldiers = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 350
     }
 
     farmers = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 6700
     }
@@ -727,7 +727,7 @@
     }
 
     craftsmen = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 50
     }
@@ -739,7 +739,7 @@
     }
 
     soldiers = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 1100
     }
@@ -817,43 +817,43 @@
     }
 
     capitalists = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 20
     }
 
     aristocrats = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 840
     }
 
     clergymen = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 260
     }
 
     artisans = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 2460
     }
 
     craftsmen = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 40
     }
 
     soldiers = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 260
     }
 
     farmers = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 32340
     }
@@ -861,31 +861,31 @@
 #Budejovice (405600/101400 POPS)
 630 = {
     aristocrats = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 1000
     }
 
     clergymen = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 400
     }
 
     artisans = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 1250
     }
 
     craftsmen = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 300
     }
 
     soldiers = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 550
     }
@@ -897,7 +897,7 @@
     }
 
     farmers = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 7050
     }
@@ -981,49 +981,49 @@
     }
 
     bureaucrats = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 40
     }
 
     aristocrats = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 560
     }
 
     bureaucrats = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 40
     }
 
     clergymen = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 330
     }
 
     artisans = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 2200
     }
 
     craftsmen = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 40
     }
 
     soldiers = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 440
     }
 
     farmers = {
-        culture = austro_german
+        culture = sorbian
         religion = ketronant
         size = 28430
     }
@@ -1664,55 +1664,55 @@
     }
 
     farmers = {
-        culture = polish
+        culture = sorbian
         religion = prosperity
         size = 1680
     }
 
     bureaucrats = {
-        culture = polish
+        culture = sorbian
         religion = ketronant
         size = 90
     }
 
     officers = {
-        culture = polish
+        culture = sorbian
         religion = ketronant
         size = 30
     }
 
     clergymen = {
-        culture = polish
+        culture = sorbian
         religion = ketronant
         size = 105
     }
 
     artisans = {
-        culture = polish
+        culture = sorbian
         religion = ketronant
         size = 784
     }
 
     artisans = {
-        culture = polish
+        culture = sorbian
         religion = ketronant
         size = 784
     }
 
     craftsmen = {
-        culture = polish
+        culture = sorbian
         religion = ketronant
         size = 131
     }
 
     soldiers = {
-        culture = polish
+        culture = sorbian
         religion = ketronant
         size = 450
     }
 
     farmers = {
-        culture = polish
+        culture = sorbian
         religion = ketronant
         size = 7256
     }

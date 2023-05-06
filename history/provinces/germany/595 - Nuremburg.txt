@@ -1,9 +1,8 @@
-owner = SOR
-controller = SOR
+owner = NET
+controller = NET
 
 trade_goods = grain
 life_rating = 35
 railroad = 1
 
-add_core = SOR
 add_core = BAD
