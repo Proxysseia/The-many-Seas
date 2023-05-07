@@ -3,6 +3,8 @@
 #sloveneia Region (870000)
 #under the rule of Austria in 1836
 #Zagreb (224000/56000 POPS)
+######Jews
+########
 771 = {
     aristocrats = {
         culture = slovene
@@ -130,7 +132,6 @@
         size = 19500
     }
 
-    ######Jews
     aristocrats = {
         culture = maghrebi
         religion = jewish
@@ -166,9 +167,10 @@
         religion = jewish
         size = 500
     }
-    ########
 }
 #Sisak (116000/29000 POPS)
+######Jews
+########
 772 = {
     aristocrats = {
         culture = slovene
@@ -209,28 +211,27 @@
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 100
+        size = 30
     }
 
     artisans = {
         culture = serb
         religion = the_broken
-        size = 550
+        size = 165
     }
 
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 125
+        size = 37
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 10225
+        size = 3067
     }
 
-    ######Jews
     soldiers = {
         culture = maghrebi
         religion = jewish
@@ -254,7 +255,30 @@
         religion = jewish
         size = 100
     }
-    ########
+
+    clergymen = {
+        culture = slovene
+        religion = the_broken
+        size = 70
+    }
+
+    artisans = {
+        culture = slovene
+        religion = the_broken
+        size = 385
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = the_broken
+        size = 88
+    }
+
+    farmers = {
+        culture = slovene
+        religion = the_broken
+        size = 7158
+    }
 }
 #Karlovac (184000/46000 POPS)
 773 = {
@@ -353,28 +377,54 @@
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 100
+        size = 30
     }
 
     artisans = {
         culture = serb
         religion = the_broken
-        size = 550
+        size = 165
     }
 
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 125
+        size = 37
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 10225
+        size = 3067
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = the_broken
+        size = 70
+    }
+
+    artisans = {
+        culture = slovene
+        religion = the_broken
+        size = 385
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = the_broken
+        size = 88
+    }
+
+    farmers = {
+        culture = slovene
+        religion = the_broken
+        size = 7158
     }
 }
 #Varadzin (68000/17000 POPS)
+######Jews
+########
 775 = {
     aristocrats = {
         culture = slovene
@@ -412,8 +462,6 @@
         size = 5000
     }
 
-    ######Jews
-
     soldiers = {
         culture = maghrebi
         religion = jewish
@@ -437,9 +485,10 @@
         religion = jewish
         size = 100
     }
-    ########
 }
 #Bjelovar (52000/13000 POPS)
+######Jews
+########
 776 = {
     clergymen = {
         culture = slovene
@@ -468,25 +517,25 @@
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 100
+        size = 30
     }
 
     artisans = {
         culture = serb
         religion = the_broken
-        size = 250
+        size = 75
     }
 
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 100
+        size = 30
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 4625
+        size = 1387
     }
 
     clergymen = {
@@ -513,7 +562,6 @@
         size = 4650
     }
 
-    ######Jews
     soldiers = {
         culture = maghrebi
         religion = jewish
@@ -537,50 +585,115 @@
         religion = jewish
         size = 100
     }
-    ########
+
+    clergymen = {
+        culture = slovene
+        religion = the_broken
+        size = 70
+    }
+
+    artisans = {
+        culture = slovene
+        religion = the_broken
+        size = 175
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = the_broken
+        size = 70
+    }
+
+    farmers = {
+        culture = slovene
+        religion = the_broken
+        size = 3238
+    }
 }
 #Pozega (80000/20000 POPS)
 777 = {
     aristocrats = {
         culture = serb
         religion = ketronant
-        size = 225
+        size = 67
     }
 
     clergymen = {
         culture = serb
         religion = ketronant
-        size = 200
+        size = 60
     }
 
     artisans = {
         culture = serb
         religion = ketronant
-        size = 1100
+        size = 330
     }
 
     soldiers = {
         culture = serb
         religion = ketronant
-        size = 200
+        size = 60
     }
 
     farmers = {
         culture = serb
         religion = ketronant
-        size = 10275
+        size = 3082
     }
 
     farmers = {
         culture = serb
         religion = sunni
-        size = 100
+        size = 30
     }
 
     farmers = {
         culture = serb
         religion = ketronant
-        size = 8000
+        size = 2400
+    }
+
+    aristocrats = {
+        culture = slovene
+        religion = ketronant
+        size = 158
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = ketronant
+        size = 140
+    }
+
+    artisans = {
+        culture = slovene
+        religion = ketronant
+        size = 770
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = ketronant
+        size = 140
+    }
+
+    farmers = {
+        culture = slovene
+        religion = ketronant
+        size = 7193
+    }
+
+    farmers = {
+        culture = slovene
+        religion = sunni
+        size = 70
+    }
+
+    farmers = {
+        culture = slovene
+        religion = ketronant
+        size = 5600
     }
 }
 #Baranya Region (180000) #see Hungary.txt for balance of Region
@@ -590,25 +703,25 @@
     clergymen = {
         culture = serb
         religion = ketronant
-        size = 250
+        size = 75
     }
 
     artisans = {
         culture = serb
         religion = ketronant
-        size = 1300
+        size = 390
     }
 
     soldiers = {
         culture = serb
         religion = ketronant
-        size = 275
+        size = 82
     }
 
     farmers = {
         culture = serb
         religion = ketronant
-        size = 19775
+        size = 5932
     }
 
     farmers = {
@@ -620,25 +733,25 @@
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 100
+        size = 30
     }
 
     artisans = {
         culture = serb
         religion = the_broken
-        size = 350
+        size = 105
     }
 
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 100
+        size = 30
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 1500
+        size = 450
     }
 
     aristocrats = {
@@ -699,6 +812,54 @@
         culture = austro_german
         religion = ketronant
         size = 2300
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = ketronant
+        size = 175
+    }
+
+    artisans = {
+        culture = slovene
+        religion = ketronant
+        size = 910
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = ketronant
+        size = 193
+    }
+
+    farmers = {
+        culture = slovene
+        religion = ketronant
+        size = 13843
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = the_broken
+        size = 70
+    }
+
+    artisans = {
+        culture = slovene
+        religion = the_broken
+        size = 245
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = the_broken
+        size = 70
+    }
+
+    farmers = {
+        culture = slovene
+        religion = the_broken
+        size = 1050
     }
 }
 #Dalmatia Region (320000) #see Montenegro.txt for balance of region
@@ -966,7 +1127,6 @@
         religion = the_broken
         size = 1825
     }
-
 }
 #Banat-Bacska Region (104000) #See Serbia.txt and Romania.txt for balance of region
 #under the rule of Austria in 1836

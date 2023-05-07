@@ -735,31 +735,31 @@
     }
 
     aristocrats = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 950
     }
 
     clergymen = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 225
     }
 
     artisans = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 1250
     }
 
     soldiers = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 250
     }
 
     farmers = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 21325
     }
@@ -893,31 +893,31 @@
     }
 
     aristocrats = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 350
     }
 
     clergymen = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 2400
     }
 
     soldiers = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 6075
     }
@@ -1039,25 +1039,25 @@
     }
 
     clergymen = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 1775
     }
@@ -1179,31 +1179,31 @@
     }
 
     aristocrats = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 400
     }
 
     clergymen = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 425
     }
 
     soldiers = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 7025
     }
@@ -1325,31 +1325,31 @@
     }
 
     aristocrats = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 200
     }
 
     clergymen = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 350
     }
 
     soldiers = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = hungarian
+        culture = north_german
         religion = protestant
         size = 5350
     }

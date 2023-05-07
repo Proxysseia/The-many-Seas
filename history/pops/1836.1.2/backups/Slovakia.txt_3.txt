@@ -5,37 +5,37 @@
     craftsmen = {
         culture = slovak
         religion = catholic
-        size = 60
+        size = 100
     }
 
     clergymen = {
         culture = slovak
         religion = catholic
-        size = 660
+        size = 1100
     }
 
     artisans = {
         culture = slovak
         religion = catholic
-        size = 3720
+        size = 6200
     }
 
     soldiers = {
         culture = slovak
         religion = catholic
-        size = 1800
+        size = 3000
     }
 
     farmers = {
         culture = slovak
         religion = catholic
-        size = 11490
+        size = 19150
     }
 
     farmers = {
         culture = slovak
         religion = catholic
-        size = 55500
+        size = 92500
     }
 
     aristocrats = {
@@ -84,42 +84,6 @@
         culture = austro_german
         religion = catholic
         size = 3000
-    }
-
-    craftsmen = {
-        culture = austro_german
-        religion = catholic
-        size = 40
-    }
-
-    clergymen = {
-        culture = austro_german
-        religion = catholic
-        size = 440
-    }
-
-    artisans = {
-        culture = austro_german
-        religion = catholic
-        size = 2480
-    }
-
-    soldiers = {
-        culture = austro_german
-        religion = catholic
-        size = 1200
-    }
-
-    farmers = {
-        culture = austro_german
-        religion = catholic
-        size = 7660
-    }
-
-    farmers = {
-        culture = austro_german
-        religion = catholic
-        size = 37000
     }
 }
 #Trencin (342540/85635 POPS)
@@ -201,67 +165,67 @@
     bureaucrats = {
         culture = slovak
         religion = catholic
-        size = 900
+        size = 1500
     }
 
     capitalists = {
         culture = slovak
         religion = catholic
-        size = 30
+        size = 50
     }
 
     officers = {
         culture = slovak
         religion = catholic
-        size = 105
+        size = 175
     }
 
     clergymen = {
         culture = slovak
         religion = catholic
-        size = 1110
+        size = 1850
     }
 
     artisans = {
         culture = slovak
         religion = catholic
-        size = 4980
+        size = 8300
     }
 
     artisans = {
         culture = slovak
         religion = catholic
-        size = 2100
+        size = 3500
     }
 
     craftsmen = {
         culture = slovak
         religion = catholic
-        size = 4200
+        size = 7000
     }
 
     clerks = {
         culture = slovak
         religion = catholic
-        size = 600
+        size = 1000
     }
 
     soldiers = {
         culture = slovak
         religion = catholic
-        size = 5400
+        size = 9000
     }
 
     farmers = {
         culture = slovak
         religion = catholic
-        size = 36180
+        size = 60300
     }
 
     farmers = {
         culture = slovak
         religion = catholic
-        size = 61200
+        size = 102000
     }
 
     clergymen = {
@@ -292,72 +256,6 @@
         culture = austro_german
         religion = catholic
         size = 2650
-    }
-
-    bureaucrats = {
-        culture = austro_german
-        religion = catholic
-        size = 600
-    }
-
-    capitalists = {
-        culture = austro_german
-        religion = catholic
-        size = 20
-    }
-
-    officers = {
-        culture = austro_german
-        religion = catholic
-        size = 70
-    }
-
-    clergymen = {
-        culture = austro_german
-        religion = catholic
-        size = 740
-    }
-
-    artisans = {
-        culture = austro_german
-        religion = catholic
-        size = 3320
-    }
-
-    artisans = {
-        culture = austro_german
-        religion = catholic
-        size = 1400
-    }
-
-    craftsmen = {
-        culture = austro_german
-        religion = catholic
-        size = 2800
-    }
-
-    clerks = {
-        culture = austro_german
-        religion = catholic
-        size = 400
-    }
-
-    soldiers = {
-        culture = austro_german
-        religion = catholic
-        size = 3600
-    }
-
-    farmers = {
-        culture = austro_german
-        religion = catholic
-        size = 24120
-    }
-
-    farmers = {
-        culture = austro_german
-        religion = catholic
-        size = 40800
     }
 }
 #Banska Bystrica (340000/85000 POPS)

@@ -237,67 +237,37 @@
     aristocrats = {
         culture = serb
         religion = the_broken
-        size = 67
+        size = 225
     }
 
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 60
+        size = 200
     }
 
     artisans = {
         culture = serb
         religion = the_broken
-        size = 330
+        size = 1100
     }
 
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 60
+        size = 200
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 9082
+        size = 30275
     }
 
     farmers = {
         culture = croat
         religion = ketronant
         size = 18000
-    }
-
-    aristocrats = {
-        culture = slovene
-        religion = the_broken
-        size = 158
-    }
-
-    clergymen = {
-        culture = slovene
-        religion = the_broken
-        size = 140
-    }
-
-    artisans = {
-        culture = slovene
-        religion = the_broken
-        size = 770
-    }
-
-    soldiers = {
-        culture = slovene
-        religion = the_broken
-        size = 140
-    }
-
-    farmers = {
-        culture = slovene
-        religion = the_broken
-        size = 21193
     }
 }
 #Baranya Region (180000) #see Hungary.txt for balance of Region
@@ -331,25 +301,25 @@
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 30
+        size = 100
     }
 
     artisans = {
         culture = serb
         religion = the_broken
-        size = 105
+        size = 350
     }
 
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 30
+        size = 100
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 6450
+        size = 21500
     }
 
     farmers = {
@@ -362,30 +332,6 @@
         culture = austro_german
         religion = ketronant
         size = 2300
-    }
-
-    clergymen = {
-        culture = slovene
-        religion = the_broken
-        size = 70
-    }
-
-    artisans = {
-        culture = slovene
-        religion = the_broken
-        size = 245
-    }
-
-    soldiers = {
-        culture = slovene
-        religion = the_broken
-        size = 70
-    }
-
-    farmers = {
-        culture = slovene
-        religion = the_broken
-        size = 15050
     }
 }
 #Novi Sad (384000/96000 POPS) #part of Serbia today
@@ -948,79 +894,79 @@
     aristocrats = {
         culture = serb
         religion = the_broken
-        size = 195
+        size = 650
     }
 
     bureaucrats = {
         culture = serb
         religion = the_broken
-        size = 82
+        size = 275
     }
 
     officers = {
         culture = serb
         religion = the_broken
-        size = 67
+        size = 225
     }
 
     soldiers = {
-        culture = serb
-        religion = the_broken
-        size = 360
-    }
-
-    clergymen = {
-        culture = serb
-        religion = the_broken
-        size = 30
-    }
-
-    artisans = {
         culture = serb
         religion = the_broken
         size = 1200
     }
 
-    farmers = {
-        culture = serb
-        religion = the_broken
-        size = 12532
-    }
-
-    aristocrats = {
-        culture = serb
-        religion = the_broken
-        size = 30
-    }
-
-    officers = {
-        culture = serb
-        religion = the_broken
-        size = 30
-    }
-
-    soldiers = {
-        culture = serb
-        religion = the_broken
-        size = 75
-    }
-
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 30
+        size = 100
     }
 
     artisans = {
         culture = serb
         religion = the_broken
-        size = 465
+        size = 4000
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 2700
+        size = 41775
+    }
+
+    aristocrats = {
+        culture = serb
+        religion = the_broken
+        size = 100
+    }
+
+    officers = {
+        culture = serb
+        religion = the_broken
+        size = 100
+    }
+
+    soldiers = {
+        culture = serb
+        religion = the_broken
+        size = 250
+    }
+
+    clergymen = {
+        culture = serb
+        religion = the_broken
+        size = 100
+    }
+
+    artisans = {
+        culture = serb
+        religion = the_broken
+        size = 1550
+    }
+
+    farmers = {
+        culture = serb
+        religion = the_broken
+        size = 9000
     }
 
     aristocrats = {
@@ -1057,84 +1003,6 @@
         culture = croat
         religion = ketronant
         size = 13050
-    }
-
-    aristocrats = {
-        culture = slovene
-        religion = the_broken
-        size = 455
-    }
-
-    bureaucrats = {
-        culture = slovene
-        religion = the_broken
-        size = 193
-    }
-
-    officers = {
-        culture = slovene
-        religion = the_broken
-        size = 158
-    }
-
-    soldiers = {
-        culture = slovene
-        religion = the_broken
-        size = 840
-    }
-
-    clergymen = {
-        culture = slovene
-        religion = the_broken
-        size = 70
-    }
-
-    artisans = {
-        culture = slovene
-        religion = the_broken
-        size = 2800
-    }
-
-    farmers = {
-        culture = slovene
-        religion = the_broken
-        size = 29243
-    }
-
-    aristocrats = {
-        culture = slovene
-        religion = the_broken
-        size = 70
-    }
-
-    officers = {
-        culture = slovene
-        religion = the_broken
-        size = 70
-    }
-
-    soldiers = {
-        culture = slovene
-        religion = the_broken
-        size = 175
-    }
-
-    clergymen = {
-        culture = slovene
-        religion = the_broken
-        size = 70
-    }
-
-    artisans = {
-        culture = slovene
-        religion = the_broken
-        size = 1085
-    }
-
-    farmers = {
-        culture = slovene
-        religion = the_broken
-        size = 6300
     }
 }
 #Dubrovnik (52000/13000 POPS)
@@ -1204,55 +1072,55 @@
     aristocrats = {
         culture = serb
         religion = the_broken
-        size = 210
+        size = 700
     }
 
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 30
+        size = 100
     }
 
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 30
+        size = 100
     }
 
     artisans = {
         culture = serb
         religion = the_broken
-        size = 345
+        size = 1150
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 5992
+        size = 19975
     }
 
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 30
+        size = 100
     }
 
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 30
+        size = 100
     }
 
     artisans = {
         culture = serb
         religion = the_broken
-        size = 210
+        size = 700
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 8737
+        size = 29125
     }
 
     soldiers = {
@@ -1277,60 +1145,6 @@
         culture = croat
         religion = ketronant
         size = 14675
-    }
-
-    aristocrats = {
-        culture = slovene
-        religion = the_broken
-        size = 490
-    }
-
-    soldiers = {
-        culture = slovene
-        religion = the_broken
-        size = 70
-    }
-
-    clergymen = {
-        culture = slovene
-        religion = the_broken
-        size = 70
-    }
-
-    artisans = {
-        culture = slovene
-        religion = the_broken
-        size = 805
-    }
-
-    farmers = {
-        culture = slovene
-        religion = the_broken
-        size = 13983
-    }
-
-    soldiers = {
-        culture = slovene
-        religion = the_broken
-        size = 70
-    }
-
-    clergymen = {
-        culture = slovene
-        religion = the_broken
-        size = 70
-    }
-
-    artisans = {
-        culture = slovene
-        religion = the_broken
-        size = 490
-    }
-
-    farmers = {
-        culture = slovene
-        religion = the_broken
-        size = 20388
     }
 }
 #Foca (92000/23000 POPS)
