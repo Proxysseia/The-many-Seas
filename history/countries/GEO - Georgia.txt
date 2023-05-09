@@ -5,7 +5,6 @@ government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.04
-civilized = yes
 
 #GreaterPowers = prestige
 prestige = 20
@@ -56,6 +55,13 @@ enlightenment_thought = 1
 water_wheel_power = 1
 
 # Inventions
+
+# Unciv Reforms
+admin_reform = yes_admin_reform
+army_schools = yes_army_schools
+foreign_training = yes_foreign_training
+research_reform = yes_research_reform
+foreign_weapons = yes_foreign_weapons
 
 #Starting Consciousness
 consciousness = 2
