@@ -2817,3 +2817,8 @@ RGO_throughput = -0.10
 factory_output = -0.10
 icon = 26
 }
+
+cultural_integration = {
+	assimilation_rate = 125
+	icon = 19
+}

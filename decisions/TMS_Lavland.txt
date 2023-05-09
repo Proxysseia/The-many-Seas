@@ -1,0 +1,165 @@
+political_decisions = {
+	
+	Germanja_is_ours = {
+		
+		potential = {
+			tag = NET
+			BAD = { is_core = 601}
+		}
+		
+		allow = {
+			war = no
+			state_n_government = 1
+			BAD = { 
+				all_core = { 
+					OR = {
+						owned_by = THIS
+						owner = {
+								OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+								}
+						}
+					}
+				}
+			}
+		
+		}
+
+		effect = {
+			prestige = 20
+
+			BAD = { annex_to = THIS }
+
+			BAD = { all_core = { add_core =  NET } }
+
+			BAD = { all_core = { remove_core =  BAD } }
+			
+			add_accepted_culture = south_german
+			
+			
+		}
+	}
+	
+
+	Our_Northern_Brothers = {
+		
+		potential = {
+			tag = NET
+			HAN = { is_core = 528}
+		}
+		
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			528 = {
+				OR = {
+						owned_by = THIS
+						owner = {
+									vassal_of = THIS
+									substate_of = THIS
+						}
+					}
+				}
+			539 = {
+				OR = {
+						owned_by = THIS
+						owner = {
+								OR = {
+									vassal_of = THIS
+									substate_of = THIS
+								}
+						}
+					}
+				}
+			}
+
+		effect = {
+			prestige = 20
+
+			HAN = { annex_to = THIS }
+
+			HAN = { all_core = { add_core =  NET } }
+
+			HAN = { all_core = { remove_core =  HAN } }
+			
+			
+		}
+}
+
+Finish_northern_Integration = {
+				potential = {
+						tag = NET
+						NET = { is_core = 528 }
+					}
+				allow = { 
+					war = no
+					revolution_n_counterrevolution = 1
+					}
+				effect = {
+					add_accepted_culture = flanish
+					}
+				}
+
+
+
+Cleanse_Arlsas = {
+		
+		potential = {
+			tag = NET
+			ALS = { is_core = 413}
+		}
+		
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			ALS = { all_core = { owned_by = THIS }
+				}
+			}
+
+		
+
+		effect = {
+
+			ALS = { all_core = { remove_core =  ALS } }
+		
+			413 = {
+		add_province_modifier = {
+			name = cultural_integration
+			duration = 730
+			}
+		}
+			409 = {
+		add_province_modifier = {
+			name = cultural_integration
+			duration = 730
+			}
+		}
+			411 = {
+		add_province_modifier = {
+			name = cultural_integration
+			duration = 730
+			}
+		}
+			410 = {
+		add_province_modifier = {
+			name = cultural_integration
+			duration = 730
+			}
+		}
+			414 = {
+		add_province_modifier = {
+			name = cultural_integration
+			duration = 730
+			}
+		}
+			412 = {
+		add_province_modifier = {
+			name = cultural_integration
+			duration = 730
+			}
+		}
+			
+		}
+	}
+}
