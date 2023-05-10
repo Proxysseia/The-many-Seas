@@ -1,6 +1,5 @@
 #Aleppo
 897 = {
-
     aristocrats = {
         culture = kurdish
         religion = sunni
@@ -36,7 +35,6 @@
         religion = sunni
         size = 10000
     }
-
 
     aristocrats = {
         culture = turkish
@@ -752,12 +750,9 @@
         religion = sunni
         size = 8475
     }
-
 }
-
 #Hasakah - Former Arlit (16000/4000 POPS)
 1813 = {
-
     farmers = {
         culture = turkish
         religion = sunni
@@ -803,30 +798,30 @@
     aristocrats = {
         culture = kurdish
         religion = sunni
-        size = 75
+        size = 156
     }
 
     clergymen = {
         culture = kurdish
         religion = sunni
-        size = 63
+        size = 132
     }
 
     artisans = {
         culture = kurdish
         religion = sunni
-        size = 300
+        size = 630
     }
 
     soldiers = {
         culture = kurdish
         religion = sunni
-        size = 100
+        size = 210
     }
 
     farmers = {
         culture = kurdish
         religion = sunni
-        size = 6150
+        size = 12915
     }
 }

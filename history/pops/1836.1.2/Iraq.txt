@@ -1,6 +1,6 @@
 #Mosul
 923 = {
-	aristocrats = {
+    aristocrats = {
         culture = maghrebi
         religion = catholic
         size = 1000
@@ -38,7 +38,7 @@
 }
 #Gwadar
 2640 = {
-	clergymen = {
+    clergymen = {
         culture = maghrebi
         religion = catholic
         size = 200
@@ -76,79 +76,76 @@
 }
 #Arbil
 924 = {
-
     aristocrats = {
         culture = kurdish
         religion = sunni
-        size = 250
+        size = 525
     }
 
     clergymen = {
         culture = kurdish
         religion = sunni
-        size = 300
+        size = 630
     }
 
     artisans = {
         culture = kurdish
         religion = sunni
-        size = 1500
+        size = 3150
     }
 
     soldiers = {
         culture = kurdish
         religion = sunni
-        size = 1000
+        size = 2100
     }
 
     farmers = {
         culture = kurdish
         religion = sunni
-        size = 19000
+        size = 39900
     }
 }
 #Kirkuk
 925 = {
-
     aristocrats = {
         culture = kurdish
         religion = sunni
-        size = 325
+        size = 681
     }
 
     clergymen = {
         culture = kurdish
         religion = sunni
-        size = 200
+        size = 420
     }
 
     artisans = {
         culture = kurdish
         religion = sunni
-        size = 3000
+        size = 6300
     }
 
     soldiers = {
         culture = kurdish
         religion = sunni
-        size = 2500
+        size = 5250
     }
 
     farmers = {
         culture = kurdish
         religion = sunni
-        size = 30000
+        size = 63000
     }
 
     clergymen = {
         culture = kurdish
         religion = sunni
-        size = 75
+        size = 156
     }
 }
 #Baghdad
 926 = {
-
     aristocrats = {
         culture = maghrebi
         religion = shiite
@@ -172,13 +169,12 @@
         religion = sunni
         size = 1000
     }
-	
+
     farmers = {
         culture = maghrebi
         religion = shiite
         size = 16000
     }
-
 }
 #Samarra
 927 = {
@@ -247,33 +243,32 @@
     aristocrats = {
         culture = kurdish
         religion = sunni
-        size = 300
+        size = 630
     }
 
     clergymen = {
         culture = kurdish
         religion = sunni
-        size = 1000
+        size = 2100
     }
 
     artisans = {
         culture = kurdish
         religion = sunni
-        size = 600
+        size = 1260
     }
 
     soldiers = {
         culture = kurdish
         religion = sunni
-        size = 1000
+        size = 2100
     }
 
     farmers = {
         culture = kurdish
         religion = sunni
-        size = 17000
+        size = 35700
     }
-	
 }
 #Karbala
 929 = {
@@ -338,7 +333,6 @@
         religion = sunni
         size = 24000
     }
-	
 }
 #Rutbah
 931 = {
@@ -374,12 +368,12 @@
 }
 #Basra
 932 = {
-	aristocrats = {
+    aristocrats = {
         culture = maghrebi
         religion = sunni
         size = 300
     }
-	
+
     bureaucrats = {
         culture = maghrebi
         religion = sunni
@@ -409,7 +403,6 @@
         religion = sunni
         size = 35000
     }
-	
 }
 #Nasiriyya (152000/38000 POPS)
 933 = {
@@ -474,5 +467,4 @@
         religion = sunni
         size = 10000
     }
-
 }

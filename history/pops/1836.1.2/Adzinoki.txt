@@ -2,7 +2,6 @@
 #under the rule of Russia in 1836
 #Grodno (288000/72000 POPS)
 936 = {
-
     aristocrats = {
         culture = latvian
         religion = the_one
@@ -46,44 +45,44 @@
     }
 
     aristocrats = {
-        culture = polish
+        culture = latvian
         religion = prosperity
         size = 1750
     }
 
     officers = {
-        culture = polish
+        culture = latvian
         religion = prosperity
         size = 100
     }
 
     clergymen = {
-        culture = polish
+        culture = latvian
         religion = prosperity
         size = 100
     }
 
     artisans = {
-        culture = polish
+        culture = latvian
         religion = prosperity
         size = 1250
     }
 
     soldiers = {
-        culture = polish
+        culture = latvian
         religion = prosperity
         size = 100
     }
 
     farmers = {
-        culture = polish
+        culture = latvian
         religion = prosperity
         size = 35550
     }
 
     clergymen = {
         culture = latvian
-        religion = prosperity        
+        religion = prosperity
         size = 100
     }
 
@@ -138,43 +137,43 @@
     }
 
     aristocrats = {
-        culture = polish
+        culture = latvian
         religion = prosperity
         size = 1950
     }
 
     bureaucrats = {
-        culture = polish
+        culture = latvian
         religion = prosperity
         size = 450
     }
 
     officers = {
-        culture = polish
+        culture = latvian
         religion = prosperity
         size = 175
     }
 
     clergymen = {
-        culture = polish
+        culture = latvian
         religion = prosperity
         size = 150
     }
 
     artisans = {
-        culture = polish
+        culture = latvian
         religion = prosperity
         size = 2200
     }
 
     soldiers = {
-        culture = polish
+        culture = latvian
         religion = prosperity
         size = 100
     }
 
     farmers = {
-        culture = polish
+        culture = latvian
         religion = prosperity
         size = 34050
     }
@@ -199,7 +198,6 @@
 }
 #Pinsk (276000/69000 POPS)
 940 = {
-
     aristocrats = {
         culture = latvian
         religion = the_one
@@ -510,13 +508,12 @@
 }
 #Slutsk (204000/51000 POPS)
 941 = {
-    
     bureaucrats = {
         culture = latvian
         religion = the_one
         size = 3255
     }
-    
+
     officers = {
         culture = latvian
         religion = the_one

@@ -809,31 +809,61 @@
     aristocrats = {
         culture = polish
         religion = prosperity
-        size = 625
+        size = 250
     }
 
     clergymen = {
         culture = polish
         religion = prosperity
-        size = 1000
+        size = 400
     }
 
     artisans = {
         culture = polish
         religion = prosperity
-        size = 5450
+        size = 2180
     }
 
     soldiers = {
         culture = polish
         religion = prosperity
-        size = 3000
+        size = 1200
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 47475
+        size = 18990
+    }
+
+    aristocrats = {
+        culture = latvian
+        religion = prosperity
+        size = 375
+    }
+
+    clergymen = {
+        culture = latvian
+        religion = prosperity
+        size = 600
+    }
+
+    artisans = {
+        culture = latvian
+        religion = prosperity
+        size = 3270
+    }
+
+    soldiers = {
+        culture = latvian
+        religion = prosperity
+        size = 1800
+    }
+
+    farmers = {
+        culture = latvian
+        religion = prosperity
+        size = 28485
     }
 }
 #Torun (156000/44000 POPS)
@@ -841,31 +871,61 @@
     aristocrats = {
         culture = polish
         religion = prosperity
-        size = 2850
+        size = 1140
     }
 
     clergymen = {
         culture = polish
         religion = prosperity
-        size = 1225
+        size = 490
     }
 
     artisans = {
         culture = polish
         religion = prosperity
-        size = 5300
+        size = 2120
     }
 
     soldiers = {
         culture = polish
         religion = prosperity
-        size = 3250
+        size = 1300
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 54225
+        size = 21690
+    }
+
+    aristocrats = {
+        culture = latvian
+        religion = prosperity
+        size = 1710
+    }
+
+    clergymen = {
+        culture = latvian
+        religion = prosperity
+        size = 735
+    }
+
+    artisans = {
+        culture = latvian
+        religion = prosperity
+        size = 3180
+    }
+
+    soldiers = {
+        culture = latvian
+        religion = prosperity
+        size = 1950
+    }
+
+    farmers = {
+        culture = latvian
+        religion = prosperity
+        size = 32535
     }
 }
 #East Prussia Region (396000) #see Russia.txt and Lithuania.txt for balance of region
@@ -875,37 +935,37 @@
     aristocrats = {
         culture = polish
         religion = prosperity
-        size = 2000
+        size = 800
     }
 
     clergymen = {
         culture = polish
         religion = prosperity
-        size = 100
+        size = 40
     }
 
     artisans = {
         culture = polish
         religion = prosperity
-        size = 8250
+        size = 3300
     }
 
     artisans = {
         culture = polish
         religion = prosperity
-        size = 8250
+        size = 3300
     }
 
     soldiers = {
         culture = polish
         religion = prosperity
-        size = 3000
+        size = 1200
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 67625
+        size = 27050
     }
 
     farmers = {
@@ -913,49 +973,85 @@
         religion = prosperity
         size = 11800
     }
+
+    aristocrats = {
+        culture = latvian
+        religion = prosperity
+        size = 1200
+    }
+
+    clergymen = {
+        culture = latvian
+        religion = prosperity
+        size = 60
+    }
+
+    artisans = {
+        culture = latvian
+        religion = prosperity
+        size = 4950
+    }
+
+    artisans = {
+        culture = latvian
+        religion = prosperity
+        size = 4950
+    }
+
+    soldiers = {
+        culture = latvian
+        religion = prosperity
+        size = 1800
+    }
+
+    farmers = {
+        culture = latvian
+        religion = prosperity
+        size = 40575
+    }
 }
 #Konigsberg (484000/121000 POPS)
 695 = {
     aristocrats = {
         culture = polish
         religion = prosperity
-        size = 2250
+        size = 900
     }
 
     bureaucrats = {
         culture = polish
         religion = prosperity
-        size = 1300
+        size = 520
     }
 
     officers = {
         culture = polish
         religion = prosperity
-        size = 250
+        size = 100
     }
 
     clergymen = {
         culture = polish
         religion = prosperity
-        size = 1000
+        size = 400
     }
 
     artisans = {
         culture = polish
         religion = prosperity
-        size = 250
+        size = 100
     }
 
     soldiers = {
         culture = polish
         religion = prosperity
-        size = 9000
+        size = 3600
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 94625
+        size = 37850
     }
 
     clergymen = {
@@ -981,37 +1077,79 @@
         religion = prosperity
         size = 35650
     }
+
+    aristocrats = {
+        culture = latvian
+        religion = prosperity
+        size = 1350
+    }
+
+    bureaucrats = {
+        culture = latvian
+        religion = prosperity
+        size = 780
+    }
+
+    officers = {
+        culture = latvian
+        religion = prosperity
+        size = 150
+    }
+
+    clergymen = {
+        culture = latvian
+        religion = prosperity
+        size = 600
+    }
+
+    artisans = {
+        culture = latvian
+        religion = prosperity
+        size = 150
+    }
+
+    soldiers = {
+        culture = latvian
+        religion = prosperity
+        size = 5400
+    }
+
+    farmers = {
+        culture = latvian
+        religion = prosperity
+        size = 56775
+    }
 }
 #Gumbinnen (228000/57000 POPS) #now part of Russia
 697 = {
     aristocrats = {
         culture = polish
         religion = prosperity
-        size = 1100
+        size = 440
     }
 
     clergymen = {
         culture = polish
         religion = prosperity
-        size = 1250
+        size = 500
     }
 
     artisans = {
         culture = polish
         religion = prosperity
-        size = 9000
+        size = 3600
     }
 
     soldiers = {
         culture = polish
         religion = prosperity
-        size = 2500
+        size = 1000
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 48500
+        size = 19400
     }
 
     clergymen = {
@@ -1036,6 +1174,36 @@
         culture = latvian
         religion = prosperity
         size = 31800
+    }
+
+    aristocrats = {
+        culture = latvian
+        religion = prosperity
+        size = 660
+    }
+
+    clergymen = {
+        culture = latvian
+        religion = prosperity
+        size = 750
+    }
+
+    artisans = {
+        culture = latvian
+        religion = prosperity
+        size = 5400
+    }
+
+    soldiers = {
+        culture = latvian
+        religion = prosperity
+        size = 1500
+    }
+
+    farmers = {
+        culture = latvian
+        religion = prosperity
+        size = 29100
     }
 }
 #Posen-Wielkopolska Region (1704000)
@@ -1426,43 +1594,85 @@
     aristocrats = {
         culture = polish
         religion = prosperity
-        size = 2525
+        size = 1641
     }
 
     bureaucrats = {
         culture = polish
         religion = prosperity
-        size = 825
+        size = 536
     }
 
     soldiers = {
         culture = polish
         religion = prosperity
-        size = 100
+        size = 65
     }
 
     clergymen = {
         culture = polish
         religion = prosperity
-        size = 950
+        size = 617
     }
 
     artisans = {
         culture = polish
         religion = prosperity
-        size = 4900
+        size = 3185
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 68600
+        size = 44590
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 20000
+        size = 13000
+    }
+
+    aristocrats = {
+        culture = latvian
+        religion = prosperity
+        size = 884
+    }
+
+    bureaucrats = {
+        culture = latvian
+        religion = prosperity
+        size = 289
+    }
+
+    soldiers = {
+        culture = latvian
+        religion = prosperity
+        size = 35
+    }
+
+    clergymen = {
+        culture = latvian
+        religion = prosperity
+        size = 333
+    }
+
+    artisans = {
+        culture = latvian
+        religion = prosperity
+        size = 1715
+    }
+
+    farmers = {
+        culture = latvian
+        religion = prosperity
+        size = 24010
+    }
+
+    farmers = {
+        culture = latvian
+        religion = prosperity
+        size = 7000
     }
 }
 #Lublin (476000/119000 POPS)
@@ -1470,43 +1680,43 @@
     aristocrats = {
         culture = polish
         religion = prosperity
-        size = 2700
+        size = 1755
     }
 
     officers = {
         culture = polish
         religion = prosperity
-        size = 100
+        size = 65
     }
 
     soldiers = {
         culture = polish
         religion = prosperity
-        size = 100
+        size = 65
     }
 
     clergymen = {
         culture = polish
         religion = prosperity
-        size = 825
+        size = 536
     }
 
     artisans = {
         culture = polish
         religion = prosperity
-        size = 4200
+        size = 2730
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 56275
+        size = 36579
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 20000
+        size = 13000
     }
 
     aristocrats = {
@@ -1544,67 +1754,169 @@
         religion = orthodox
         size = 20700
     }
+
+    aristocrats = {
+        culture = latvian
+        religion = prosperity
+        size = 945
+    }
+
+    officers = {
+        culture = latvian
+        religion = prosperity
+        size = 35
+    }
+
+    soldiers = {
+        culture = latvian
+        religion = prosperity
+        size = 35
+    }
+
+    clergymen = {
+        culture = latvian
+        religion = prosperity
+        size = 289
+    }
+
+    artisans = {
+        culture = latvian
+        religion = prosperity
+        size = 1470
+    }
+
+    farmers = {
+        culture = latvian
+        religion = prosperity
+        size = 19696
+    }
+
+    farmers = {
+        culture = latvian
+        religion = prosperity
+        size = 7000
+    }
 }
 #Kielce (448000/112000 POPS)
 716 = {
     aristocrats = {
         culture = polish
         religion = prosperity
-        size = 2550
+        size = 1657
     }
 
     clergymen = {
         culture = polish
         religion = prosperity
-        size = 950
+        size = 617
     }
 
     soldiers = {
         culture = polish
         religion = prosperity
-        size = 125
+        size = 81
     }
 
     artisans = {
         culture = polish
         religion = prosperity
-        size = 4900
+        size = 3185
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 49600
+        size = 32240
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 40000
+        size = 26000
     }
 
     soldiers = {
         culture = polish
         religion = prosperity
-        size = 125
+        size = 81
     }
 
     clergymen = {
         culture = polish
         religion = prosperity
-        size = 100
+        size = 65
     }
 
     artisans = {
         culture = polish
         religion = prosperity
-        size = 400
+        size = 260
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 585
+        size = 380
+    }
+
+    aristocrats = {
+        culture = latvian
+        religion = prosperity
+        size = 893
+    }
+
+    clergymen = {
+        culture = latvian
+        religion = prosperity
+        size = 333
+    }
+
+    soldiers = {
+        culture = latvian
+        religion = prosperity
+        size = 44
+    }
+
+    artisans = {
+        culture = latvian
+        religion = prosperity
+        size = 1715
+    }
+
+    farmers = {
+        culture = latvian
+        religion = prosperity
+        size = 17360
+    }
+
+    farmers = {
+        culture = latvian
+        religion = prosperity
+        size = 14000
+    }
+
+    soldiers = {
+        culture = latvian
+        religion = prosperity
+        size = 44
+    }
+
+    clergymen = {
+        culture = latvian
+        religion = prosperity
+        size = 35
+    }
+
+    artisans = {
+        culture = latvian
+        religion = prosperity
+        size = 140
+    }
+
+    farmers = {
+        culture = latvian
+        religion = prosperity
+        size = 205
     }
 }
 #Galicia Region (596000) #see Ukraine.txt for balance of region
@@ -1638,37 +1950,73 @@
     aristocrats = {
         culture = polish
         religion = prosperity
-        size = 3400
+        size = 2210
     }
 
     clergymen = {
         culture = polish
         religion = prosperity
-        size = 1175
+        size = 764
     }
 
     artisans = {
         culture = polish
         religion = prosperity
-        size = 5750
+        size = 3737
     }
 
     soldiers = {
         culture = polish
         religion = prosperity
-        size = 12500
+        size = 8125
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 45000
+        size = 29250
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 50000
+        size = 32500
+    }
+
+    aristocrats = {
+        culture = latvian
+        religion = prosperity
+        size = 1190
+    }
+
+    clergymen = {
+        culture = latvian
+        religion = prosperity
+        size = 411
+    }
+
+    artisans = {
+        culture = latvian
+        religion = prosperity
+        size = 2013
+    }
+
+    soldiers = {
+        culture = latvian
+        religion = prosperity
+        size = 4375
+    }
+
+    farmers = {
+        culture = latvian
+        religion = prosperity
+        size = 15750
+    }
+
+    farmers = {
+        culture = latvian
+        religion = prosperity
+        size = 17500
     }
 }
 #Mazovia Region (2224000)
@@ -2030,37 +2378,73 @@
     aristocrats = {
         culture = polish
         religion = prosperity
-        size = 2700
+        size = 1755
     }
 
     soldiers = {
         culture = polish
         religion = prosperity
-        size = 3000
+        size = 1950
     }
 
     clergymen = {
         culture = polish
         religion = prosperity
-        size = 1100
+        size = 715
     }
 
     artisans = {
         culture = polish
         religion = prosperity
-        size = 5250
+        size = 3412
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 46050
+        size = 29932
     }
 
     farmers = {
         culture = polish
         religion = prosperity
-        size = 50000
+        size = 32500
+    }
+
+    aristocrats = {
+        culture = latvian
+        religion = prosperity
+        size = 945
+    }
+
+    soldiers = {
+        culture = latvian
+        religion = prosperity
+        size = 1050
+    }
+
+    clergymen = {
+        culture = latvian
+        religion = prosperity
+        size = 385
+    }
+
+    artisans = {
+        culture = latvian
+        religion = prosperity
+        size = 1838
+    }
+
+    farmers = {
+        culture = latvian
+        religion = prosperity
+        size = 16118
+    }
+
+    farmers = {
+        culture = latvian
+        religion = prosperity
+        size = 17500
     }
 }
 #Podlachia Region (320000)  #see Belarus.txt for balance of region
@@ -2092,31 +2476,31 @@
     }
 
     aristocrats = {
-        culture = polish
+        culture = latvian
         religion = prosperity
         size = 1900
     }
 
     clergymen = {
-        culture = polish
+        culture = latvian
         religion = prosperity
         size = 250
     }
 
     soldiers = {
-        culture = polish
+        culture = latvian
         religion = prosperity
         size = 100
     }
 
     artisans = {
-        culture = polish
+        culture = latvian
         religion = prosperity
         size = 1500
     }
 
     farmers = {
-        culture = polish
+        culture = latvian
         religion = prosperity
         size = 25500
     }
@@ -2146,13 +2530,13 @@
     }
 
     farmers = {
-        culture = polish
+        culture = latvian
         religion = orthodox
         size = 4525
     }
 
     artisans = {
-        culture = polish
+        culture = latvian
         religion = orthodox
         size = 250
     }

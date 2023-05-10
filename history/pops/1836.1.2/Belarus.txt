@@ -45,37 +45,37 @@
     }
 
     aristocrats = {
-        culture = polish
+        culture = latvian
         religion = catholic
         size = 1750
     }
 
     officers = {
-        culture = polish
+        culture = latvian
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = polish
+        culture = latvian
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = polish
+        culture = latvian
         religion = catholic
         size = 1250
     }
 
     soldiers = {
-        culture = polish
+        culture = latvian
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = polish
+        culture = latvian
         religion = catholic
         size = 15550
     }
@@ -167,43 +167,43 @@
     }
 
     aristocrats = {
-        culture = polish
+        culture = latvian
         religion = catholic
         size = 1950
     }
 
     bureaucrats = {
-        culture = polish
+        culture = latvian
         religion = catholic
         size = 450
     }
 
     officers = {
-        culture = polish
+        culture = latvian
         religion = catholic
         size = 175
     }
 
     clergymen = {
-        culture = polish
+        culture = latvian
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = polish
+        culture = latvian
         religion = catholic
         size = 2200
     }
 
     soldiers = {
-        culture = polish
+        culture = latvian
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = polish
+        culture = latvian
         religion = catholic
         size = 24050
     }
@@ -261,11 +261,9 @@
         religion = sunni
         size = 1500
     }
-
 }
 #Pinsk (276000/69000 POPS)
 940 = {
-
     aristocrats = {
         culture = latvian
         religion = the_one
@@ -520,13 +518,12 @@
 }
 #Slutsk (204000/51000 POPS)
 941 = {
-    
     bureaucrats = {
         culture = latvian
         religion = the_one
         size = 3255
     }
-    
+
     officers = {
         culture = latvian
         religion = the_one
@@ -607,7 +604,6 @@
         size = 150
     }
 }
-
 #Vitebsk
 945 = {
     clergymen = {
@@ -810,5 +806,5 @@
         culture = russian
         religion = the_one
         size = 3175
-	}
+    }
 }
