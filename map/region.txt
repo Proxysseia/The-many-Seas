@@ -4,7 +4,7 @@ USA_1 = { 1 2 4 5 2599 2630 2631 } #Alaska
 
 ENG_9 = { 7 11 18 2598 2629 } #Northwest Territories
 
-CAN_13 = { 13 14 20 21 15 19 16  17 } #Columbia
+CAN_13 = { 13 20 21 15 19 16  17 } #Columbia
 
 ENG_30 = {  31 32 35 27 26 22 23 24 25 28 2597 } #Saskatchewan
 
@@ -12,36 +12,36 @@ ENG_36 = { 42 36 40 41 157 118 30 33 34 } #Manitoba
 
 WIN_2596 = { 37 38 39  2595 2596  } #New Winnipeg
 
-CAN_46 = { 57 56 1490 1162 52 } #Southern Ontario
+CAN_46 = { 56 1490 52 } #Southern Ontario
 
 CAN_50 = { 50 51 48 3 1071 } #North Ontario
 
-CAN_57 = { 46 55 53 54 } #Toronto
+CAN_57 = { 46 54 } #Toronto
 
 CAN_49 = { 49 47 2594 158 } #Northern Ontario
 
-CAN_58 = { 58 64 6 1548} #Lower Quebec
+CAN_58 = { 64 6 1548} #Lower Quebec
 
-CAN_65 = { 65 45 1491 1087  } #Quebec Proper
+CAN_65 = { 1491 1087  } #Quebec Proper
 
 CAN_60 = { 63 9 59 2593 2626 2592 61 } #Upper Quebec
 
-ENG_68 = { 68 69 70 71 72 73 66 67 } #Maritimes
+ENG_68 = { 68 72 66 67 } #Maritimes
 
 ENG_74 = { 76 2625 62 } #Newfoundland
 
-QUE_75 = { 75 74 77 }#New-Kouderhagen
+QUE_75 = { 75 74 }#New-Kouderhagen
 
 
 ### United States
 
-USA_78 = { 78 79 80 81 728 } #Washengton
+USA_78 = { 78 79 80 728 } #Washengton
 
 USA_82 = { 82 92 114 } #Outer Washengton
 
-MEX_85 = { 84 85 86 104 107 83 3320 3322 2225 3319 } #North California
+MEX_85 = { 84 86 104 83 3320 3322 2225 3319 } #North California
 
-LOS_89 = { 89 87 88 90 2138 2139 3321 729 } #South Califorinia
+LOS_89 = { 89 87 88 90 2138 2139 729 } #South Califorinia
 
 USA_91 = { 91 113 116 115 112 111 } #Idaho
 
@@ -59,19 +59,17 @@ USA_118 = { 117 119 120 121 122 } #North Dakota
 
 TEX_132 = { 133 134 135 136 137 138 129 } #West Texas
 
-TEX_134 = { 132 141 43 130 131} #East Texas
+TEX_134 = { 141 43 130 131} #East Texas
 
-USA_139 = { 139 140 142 } #Louisiana
-
-USA_144 = { 143 193 187 189} #Arkansas
+USA_144 = { 193 187 189} #Arkansas
 
 USA_148 = { 146 147 149 150 144 145 } #Missouri
 
 USA_151 = { 151 152 153 154 155 156} #Iowa
 
-USA_162 = { 177 160 161 } #Wisconsin
+USA_162 = { 177 160 } #Wisconsin
 
-USA_168 = { 163 165 164 159 162 } #Inner Illinois
+USA_168 = { 165 164 162 } #Inner Illinois
 
 PAW_166 = { 148 166 167 168 } #Outer Illinois
 
@@ -81,31 +79,29 @@ USA_176 = { 173 174 175 176 180 } #Michigan
 
 USA_178 = { 179 178 183 182 181 218 227 228 } #Ohio
 
-USA_185 = { 184 185 186 } #Kentucky
+USA_185 = { 184 186 185 2110 2114 2113 2111 2100 2117 2118 2081 2121 2120 2122 2126 2098 2083 2084 2088 2087 2090 2091 } #Kentucky
 
 USA_188 = { 188 191 190 } #Tennessee
 
 USA_194 = { 194 192  } #Mississippi
 
-USA_196 = { 195 196 197 198 } #Alabama
+USA_196 = { 195 196 198 } #Alabama
 
-USA_201 = { 201 202 204 2555  200 199 } #Georgia
+USA_201 = { 201 202 204 2555 200 } #Georgia
 
-USA_2556 = { 2556 205 206 209 207 208 } #Carolingia Proper
+USA_2556 = { 2556 205 209 208 } #Carolingia Proper
 
-USA_211 = { 211 213 214 215 216 217} #Virginia
+USA_211 = { 211 215 216 217} #Virginia
 
-USA_219 = { 2146 220 212 } #Maryland
+USA_219 = { 2146 220 } #Maryland
 
-USA_223 = { 226 224 225 2627 221 229 } #Pennsylvania
+USA_223 = { 226 224 225 2627 221 } #Pennsylvania
 
-USA_231 = { 219 222 223 230 231 } #Philasey
+USA_231 = { 222 223 230 } #Philasey
 
-USA_232 = { 232 233 234 235 236 237 238 239 240 } #New York
+USA_232 = { 232 234 235 236 238 239 240 } #New York
 
-USA_243 = { } #Massachusets
-
-USA_247 = { 247 246 248 249 250 203 243 244 245 241 242 } #New England
+USA_247 = { 247 246 248 249 250 203 245 242 } #New England
 
 
 ### United Kingdom
@@ -232,7 +228,7 @@ SPA_492 = { 492 493 495 496 } #Varagóna
 
 SPA_498 = { 498 499 500 501 502 } #Catalonia
 
-SPA_512 = { 512 509 517 514 } #La Jardin
+SPA_512 = { 509 517 514 } #La Jardin
 
 SPA_513 = { 513 515 516 510 } #Granada
 
@@ -382,15 +378,15 @@ TUR_810 = { 809 810 812 816 817 } #Bulgaria
 
 TUR_823 = { 823 829 815 808 } #Eastern Macedonia
 
-GRE_826 = { 839 842 840 841 } #Peloponnese
+GRE_826 = { 839 842 840 } #Peloponnese
 
 GRE_837 = { 834 837 836 835 } #Attica - Central Greece
 
-EGY_843 = { 838 845 848 827 } #Aegean Islands
+EGY_843 = { 838 848 827 } #Aegean Islands
 
 TUR_853 = { 849 1780 853 852 851 824 826 } #Albania
 
-TUR_860 = { 860 828 858 859 843 830 } #Thrace
+TUR_860 = { 860 858 859 843 830 } #Thrace
 
 
 ### Middle East
@@ -455,7 +451,7 @@ DAG_1104 = { 1052 1104 1053 } #Dagestan
 
 AZB_1107 = { 1107 3357 3359 }
 
-RUS_1102 = { 1102 1103 3356 3358  } #Azerbaijan
+RUS_1102 = { 1103 3358  } #Azerbaijan
 
 AZB_1389 = { 1389 1100 1101 } #Central Azerbaijan
 
@@ -765,15 +761,15 @@ NET_1451 = { 1452 1453 1454 1560 } #Western New Guinea
 
 SPA_1455 = { 1455 1457 1458 3332 } #Luzón
 
-PHL_1456 = { 1456 3339 3340 } #North Luzon
+PHL_1456 = { 3339 3340 } #North Luzon
 
 PHL_3333 = { 3333 3334 3336 } #Central Luzon
 
-SPA_1459 = { 3337 3341 1461 2565 } #Visayas
+SPA_1459 = { 3341 1461 2565 } #Visayas
 
-PHL_1459 = { 1459 1460 3335 } #East Visayas
+PHL_1459 = { 1459 1460 } #East Visayas
 
-SPA_1463 = { 1463 1462 3338 3345 3350 } #Mindanao
+SPA_1463 = { 1462 } #Mindanao
 
 PHL_3346 = { 3346 3347 3348 3349 } #East Mindanao
 
@@ -826,7 +822,7 @@ CHI_1557 = { 1557 1558 1556 } #Kokonor/Qinghai
 
 CHI_1559 = { 1559 1561 1562 2062 } #Shaanxi
 
-CHI_1563 = { 1563 1564 1568 1571 1566 1567 } #West Shandong
+CHI_1563 = { 1563 1564 1568 1571 1567 } #West Shandong
 
 CHI_1565 = { 1565 1569 } #East Shandong
 
@@ -896,7 +892,7 @@ MOR_1693 = { 1690 1693 1691 2563 1692 1694 1699 1695 } #Morocco
 
 MOR_1686 = { 1685 1681 1682 1680 1683 1684 1697 1698  } #Fez
 
-MOR_1688 = { 1686 1688 1689 1687 2590 } #al Rif
+MOR_1688 = { 1688 1689 1687 } #al Rif
 
 MOR_1683 = { 1716 1717 1720 } #Taza
 
@@ -950,9 +946,7 @@ EGY_1834 = { 1834 1836 1833 1835 1837 1806 } #Dongola
 
 EGY_1838 = { 1839 1739 1842 1841 2564 } #Kordofan
 
-#EGY_1842 = { 1842 1841 1843 } #Darfur
-
-ENG_1844 = { 1844 1846 1847 } #Sudd
+ENG_1844 = { 53 161 1846 1997 } #Sudd
 
 
 ### East Africa
@@ -960,8 +954,6 @@ ENG_1844 = { 1844 1846 1847 } #Sudd
 ETH_1853 = { 1852 1853 1854 1855 1856 1857 1858 } #Tigray
 
 ETH_1859 = { 1859 1860 1861 1862 1863 1865 } #Shewa
-
-#ETH_1862 = {  } #Gibe
 
 ETH_1865 = { 1866 1867 1864 2031 } #Hararghe
 
@@ -971,15 +963,15 @@ SOM_1868 = { 1868 1869 1870 1871 1872 } #South Somaliland
 
 SOM_1872 = { 1873 1874 } #North Somaliland
 
-ENG_2024 = { 2024 2030 2032 2027 2029 2033 } #Kenya
+ENG_2024 = { 233 2032 2029 3335 3337 3338 3345 } #Kenya
 
-#ENG_2026 = { } #Rift Valley
+ENG_2036 = { 199 2030 2036 2048 2045 2037 3350 } #Zanzibar
 
-ENG_2036 = { 2036 2048 2045 2037 2047 } #Zanzibar
+ENG_2039 = { 197 219 231 244 2039 2040 2041 2038 } #Lindi
 
-ENG_2039 = { 2039 2040 2041 2038 } #Lindi
+ENG_2044 = { 69 214 2046 2042 } #Tanganyika
 
-ENG_2044 = { 2046 2042 } #Tanganyika
+WNG_2033 = { 55 143 243 2024 2033 2047 } #Wawa
 
 
 ### West Africa
@@ -1004,7 +996,7 @@ FRA_1907 = { 1901 1905 1906 1912 1913 1916 1918 } #Ghana
 
 FRA_1919 = { 1919 1920 1922 1921 1904 } #Dahomey
 
-FRA_1940 = { 1940 1948 2589 1938 1946 1923 1924 1925 1926 1927 } #Bida
+FRA_1940 = { 107 1940 1948 2589 1938 1946 1923 1924 1925 1926 1927 } #Bida
 
 FRA_1930 = { 1928 1929 1930 1931 } #Benin - Central Nigeria Coast
 
@@ -1032,11 +1024,7 @@ BEL_1984 = { 1984 1986 1994 1993 1995 } #Kasai
 
 BEL_1987 = { 1987 1988 1989 2017 } #Katanga
 
-#BEL_1992 = { 1992 } #Equateur
-
-#BEL_1996 = { 1996 1997 1998 } #Congo Orientale
-
-BEL_1990 = { 1996 1997 1998 } #Kivu
+BEL_1990 = { 1844 1996 1998 2026 2028 } #Kivu
 
 BEL_1991 = { 1991 1990 }
 
@@ -1044,9 +1032,11 @@ ENG_2014 = { 790 2012 2013 2014 2015 } #Zambia
 
 ENG_2016 = { 2016 2018 2067 } #Kazembe
 
-ENG_2019 = { 2019 2021 2022 2023 2028 2026 } #Uganda
+ENG_2019 = { 1456 1847 2019 2021 2022 2023 } #Uganda
 
-BEL_2034 = { 2034 2035 2044 2043 } #Ruanda-Urundi
+BEL_2034 = { 207 212 213 2034 2035 2044 2043 } #Ruanda-Urundi
+
+KIT_229 = { 159 163 229 1463 } #Southern Coast
 
 
 ### Southern Africa
@@ -1057,41 +1047,43 @@ POR_2003 = { 2003 2004 2005 2008 2006 } #South Angola
 
 POR_2006 = { 2007 2011 } #East Angola
 
-POR_2049 = { 2050 2051 2073 } #Lourenço Marques
+POR_2049 = { 2050 2051 } #Lourenço Marques
 
-POR_2053 = { 2059 2066 2065 } #Zambezia
+POR_2053 = { 132 2059 2066 2065 } #Zambezia
 
-POR_2054 = { 2057 2052 2058 2053 2070 } #Tete
+POR_2054 = { 828 1102 2057 2052 2058 2053 2070 2073 3356 } #Tete
 
-POR_2060 = { 2060 2061 2063 2064 2581 2123 } #Moçambique
-
-#ENG_2067 = { } #Nyasaland
+POR_2060 = { 139 140 142 2027 2060 2061 2063 2064 2581 2123 } #Moçambique
 
 ENG_2068 = { 2068 2055 2635 2054 2056 } #Mashonaland
 
 ENG_2071 = { 2071 2072 2069 } #Matabeleland
 
-ENG_2074 = { 2074 2574 2077 2094 2095 2108 } #Bechuanaland
+ENG_2074 = { 2074 2077 2107 2574 } #Bechuanaland
 
-ENG_2076 = { 2076 2075 2082 } #Nokaneng
+ENG_2076 = { 2076 2075 } #Nokaneng
 
-ENG_2078 = { 2078 2079 2080 } #Hereroland
+ENG_2078 = { 2079 } #Hereroland
 
-ENG_2083 = { 2083 2084 2085 2086 2088 2093 } #Namaqualand
+ENG_2083 = { 71 73 2085 2086 } #Namaqualand
 
-ENG_2087 = { 2087 2090 2089 2091 2092 } #Cape Colony
+ENG_2087 = { 14 85 206 237 2089 2092 } #Cape Colony
 
-ENG_2096 = { 2096 2097 2098 2099 } #Eastern Cape
+CAP_2097 = { 65 70 2097 2099 } # Dutch Cape
 
-ORA_2103 = { 2101 2103 2102 2104 2105 2106 2107 2558 } #Vrystaat
+CAP_2093 = { 2093 2094 2095 2103 2558 } # Namaqualand
 
-TRN_2108 = { 2110 2109 2114 } #Transvaal - originally Tky-Gariep
+ENG_2096 = { 45 77 2078 2080 2082 2096 } #Eastern Cape
 
-ZUL_2113 = { 2113 2112 2111 2100 } #Zululand - Natal
+ORA_2103 = { 2101 2102 2105 2106 2108 } #Vrystaat
 
-MAD_2117 = { 2117 2116 2118 2081 } #South Madagascar
+TRN_2108 = { 841 845 2109 } #Transvaal - originally Tky-Gariep
 
-MAD_2121 = { 2121 2115 2120 2122 2126 } #North Madagascar
+ZUL_2113 = { 81 241 2104 2112 3321 } #Zululand - Natal
+
+MAD_2117 = { 57 1162 2116 2362 2590 } #South Madagascar
+
+MAD_2121 = { 58 512 1566 1686 2115 2356 } #North Madagascar
 
 MAD_2119 = { 2119 2124 2125 } #Nosyfenoala
 
@@ -1212,9 +1204,9 @@ ARG_2355 = { 2355 2353 2354 2350 2351 2352 2349 2363 } #La Isla de La Plata
 
 ARG_2363 = { 2380 2360 2381 2385 2387 2388 2389 2491 2493 2494 2283 3249 2383 2379 2386 } #Santa Fe
 
-ARG_2377 = { 1714 1716 1717 1720 2364 2365 2366 2367 2372 2356 2368 2371 2369 2370 2315 1714 } #Chaco
+ARG_2377 = { 1714 1716 1717 1720 2364 2365 2366 2367 2372 2356 2368 2371 2369 2370 2315 } #Chaco
 
-ARG_2387 = { 2361 2362 2373 2374 2375 2376 2377 2378 } #Tucumán
+ARG_2387 = { 2361 2373 2374 2375 2376 2377 2378 } #Tucumán
 
 ARG_2391 = { 2392 2394 2396 2397 2391 2395 } #Patagonia Septentrional
 
