@@ -4,7 +4,7 @@ USA_1 = { 1 2 4 5 2599 2630 2631 } #Alaska
 
 ENG_9 = { 7 11 18 2598 2629 } #Northwest Territories
 
-CAN_13 = { 13 20 21 15 19 16  17 } #Columbia
+CAN_13 = { 20 21 15 19 16  17 } #Columbia
 
 ENG_30 = {  31 32 35 27 26 22 23 24 25 28 2597 } #Saskatchewan
 
@@ -79,7 +79,7 @@ USA_176 = { 174 176 180 } #Michigan
 
 USA_178 = { 179 178 218 227 } #Ohio
 
-USA_185 = { 185 2118 2121 2126 } #Kentucky
+USA_185 = { 185 } #Kentucky
 
 USA_188 = { 188 190 } #Tennessee
 
@@ -751,13 +751,13 @@ NET_1449 = { 1430 1431 1432 1435 1434 1433 1436 1437 } #Celebes
 
 NET_1451 = { 1452 1453 1454 1560 } #Western New Guinea
 
-SPA_1455 = { 1455 1457 1458 3332 } #Luzón
+SPA_1455 = { 1455 1457 3332 } #Luzón
 
-PHL_1456 = { 3339 3340 } #North Luzon
+PHL_1456 = { 3340 } #North Luzon
 
-PHL_3333 = { 3333 3334 3336 } #Central Luzon
+PHL_3333 = { 3334 3336 } #Central Luzon
 
-SPA_1459 = { 3341 1461 2565 } #Visayas
+SPA_1459 = { 1461 2565 } #Visayas
 
 PHL_1459 = { 1459 1460 } #East Visayas
 
@@ -888,6 +888,8 @@ MOR_1688 = { 1688 1689 1687 } #al Rif
 
 FRA_1700 = { 1700 1701 1702 } #Algiers
 
+SAH_1718 = { 125 140 172 1718 1719 } #Sahara Plains
+
 SAH_2225 = { 182 1716 1717 2225 2662 } #Western Sahara
 
 SAH_2146 = { 1710 1711 1712 1720 2146 } #Eastern Sahara
@@ -899,8 +901,6 @@ BNI_1722 = { 103 122 195 1722 } #Tamanrasset
 BNI_1741 = { 151 1721 1741 1744 }#Murzuk 
 
 ALD_1704 = { 1704 1705 1706 1707 1703 1713 1715 } #Oran
-
-ALD_1718 = { 125 140 172 1718 1719 } #Sahara Plains
 
 TUN_1726 = { 1725 1726 1727 1728 1708 1709 } #Tunisia
 
@@ -955,17 +955,19 @@ SUD_1836 = { 1833 1834 1836 2122 3320 } #Gaza
 
 ### East Africa
 
-ETH_1853 = { 1852 1853 1854 1855 1856 1857 1858 } #Tigray
+ETH_1853 = { 1848 1849 1850 1851 1852 1853 1854 1855 1856 1857 1858 } #Tigray
 
-ETH_1859 = { 1859 1860 1861 1862 1863 1865 } #Shewa
+ETH_1859 = { 1859 1860 1861 1863 1865 } #Shewa
 
-ETH_1865 = { 1866 1867 1864 2031 } #Hararghe
+ETH_1862 = { 1862 1864 2121 2126 } #Gambela
 
-ENG_1848 = { 1848 1849 1850 1851 } #Eritrea
+ETH_1868 = { 1868 1869 1871 3341 } #Somalia
 
-SOM_1868 = { 1868 1869 1870 1871 1872 } #South Somaliland
+ETH_1872 = { 13 1872 1873 1874 } #Somaliland
 
-SOM_1872 = { 1873 1874 } #North Somaliland
+ETH_3333 = { 1458 1870 2031 3333 3339 } #Uni Coast
+
+ETH_2119 = { 1866 1867 2118 2119 2124 } #Oromia
 
 ENG_2024 = { 233 2032 2029 3335 3337 3338 3345 } #Kenya
 
@@ -1095,7 +1097,6 @@ MAD_2117 = { 57 1162 2116 2362 2590 } #South Madagascar
 
 MAD_2121 = { 58 512 1566 1686 2115 2356 } #North Madagascar
 
-MAD_2119 = { 2119 2124 } #Nosyfenoala
 
 ### Mexico
 
