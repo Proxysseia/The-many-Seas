@@ -59,7 +59,7 @@ From;To;Type;Through;Data;Comment
 #;;;;;
 ;;;;;
 ;;;;;
-1755;1756;sea;2942;0;Suez strait
+1755;1756;land;2942;0;Suez strait
 ;;;;;
 ;;;;;
 #;;;;;
@@ -123,7 +123,7 @@ From;To;Type;Through;Data;Comment
 1205;686;sea;2780;0;
 1047;1046;sea;2779;0;
 431;429;sea;3326;0;
-441;440;sea;3326;0;
+441;440;land;3326;0;Tours-Blois Strait
 ;;;;;
 996;994;sea;3329;0;
 #;;;;;
