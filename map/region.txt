@@ -765,9 +765,7 @@ CHI_1465 = { 1466 1467 2207 } #Urga
 
 CHI_1468 = { 1468 2679 1599 } #Uliastai
 
-CHI_1470 = { } #South Anhui
-
-CHI_1479 = { 1479 1480 1554 1555 }  #Fengtian - South Manchuria
+CHI_1479 = { 1479 1554 1555 }  #Fengtian - South Manchuria
 
 CHI_1552 = { 1552 1002 1553 1533 } #Heilongjiang - North Manchuria
 
@@ -829,7 +827,7 @@ CHI_1610 = { 1611 1482 1483 } #South Zhejiang
 
 CHI_1612 = { 1612 1614 1615 1618 1542 1515 } #Baoding
 
-CHI_1616 = { 1616 1613 1617 } #Peking
+CHI_1616 = { 1480 1613 1616 1617} #Peking
 
 CHI_1540 = { 1543 2221 1605 1539 1475 } #Hei
 
@@ -846,11 +844,9 @@ RYU_1537 = { 1537 1518 } #Didi
 
 KOR_1619 = { 1619 1620 1623 1621 1622 } #Pyongyang
 
-KOR_1624 = { 1624 1630 1631 1636 1628 } #Seoul
+KOR_1627 = { 1627 1626 1625 1629 1624 1630 1628 } #Sariwon
 
-KOR_1627 = { 1627 1626 1625 1629 } #Sariwon
-
-KOR_1635 = { 1635 1633 1632 1634 1637 } #Busan
+KOR_1635 = { 1631 1635 1633 1632 1634 1636 1637 } #Busan
 
 JAP_1088 = { 1643 1642 1644 1086 1088 } #Ezo - Hokkaido
 

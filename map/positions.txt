@@ -127849,7 +127849,37 @@
 
 }
 
-# Southern Manchu River
+# Selenge
+3368 = {
+    text_position = {
+        x = 4538.015000
+        y = 1620.893333
+    }
+
+    text_scale = 3
+    unit = {
+        x = 4525.726667
+        y = 1621.136667
+    }
+
+}
+
+# Xiliao
+3369 = {
+    text_position = {
+        x = 4668.105000
+        y = 1574.695000
+    }
+
+    text_scale = 3
+    unit = {
+        x = 4669.470000
+        y = 1572.160000
+    }
+
+}
+
+# Liao
 3370 = {
     text_position = {
         x = 4732.533333
@@ -127864,17 +127894,3 @@
 
 }
 
-# Middle Manchu River
-3369 = {
-    text_position = {
-        x = 4668.105000
-        y = 1574.695000
-    }
-
-    text_scale = 3
-    unit = {
-        x = 4669.470000
-        y = 1572.160000
-    }
-
-}
