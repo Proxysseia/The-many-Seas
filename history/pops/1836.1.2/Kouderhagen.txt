@@ -618,7 +618,7 @@
     }
 
     clergymen = {
-        culture = north_german
+        culture = english
         religion = ketronant
         size = 250
     }

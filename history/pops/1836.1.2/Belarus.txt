@@ -251,13 +251,13 @@
     }
 
     soldiers = {
-        culture = tatar
+        culture = russian
         religion = sunni
         size = 300
     }
 
     farmers = {
-        culture = tatar
+        culture = russian
         religion = sunni
         size = 1500
     }

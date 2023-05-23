@@ -1874,15 +1874,9 @@
     }
 
     farmers = {
-        culture = north_german
+        culture = english
         religion = protestant
         size = 1050
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = jewish
-        size = 300
     }
 
     farmers = {

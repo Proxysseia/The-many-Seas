@@ -579,19 +579,19 @@
     }
 
     aristocrats = {
-        culture = tatar
+        culture = russian
         religion = animist
         size = 175
     }
 
     clergymen = {
-        culture = tatar
+        culture = russian
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = tatar
+        culture = russian
         religion = animist
         size = 25500
     }

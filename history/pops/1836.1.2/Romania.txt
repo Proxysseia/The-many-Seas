@@ -1,6 +1,5 @@
-#Partium Region (1288000) #See Hungary.txt for balance of region
-#under the rule of Austria in 1836
-#Oradea (444000/111000 POPS) #part of Romania today
+#Partium Region
+#Oradea
 647 = {
     clergymen = {
         culture = romanian
@@ -669,7 +668,7 @@
     }
 
     farmers = {
-        culture = gypsy
+        culture = serb
         religion = orthodox
         size = 2000
     }
@@ -827,7 +826,7 @@
     }
 
     farmers = {
-        culture = gypsy
+        culture = serb
         religion = orthodox
         size = 1000
     }
@@ -973,7 +972,7 @@
     }
 
     farmers = {
-        culture = gypsy
+        culture = serb
         religion = orthodox
         size = 1500
     }
@@ -1259,7 +1258,7 @@
     }
 
     farmers = {
-        culture = gypsy
+        culture = serb
         religion = orthodox
         size = 2000
     }
@@ -1557,7 +1556,7 @@
     }
 
     slaves = {
-        culture = gypsy
+        culture = serb
         religion = orthodox
         size = 6967
     }
@@ -1631,7 +1630,7 @@
     }
 
     slaves = {
-        culture = gypsy
+        culture = serb
         religion = orthodox
         size = 2000
     }
@@ -1669,7 +1668,7 @@
     }
 
     slaves = {
-        culture = gypsy
+        culture = serb
         religion = orthodox
         size = 5000
     }
@@ -1707,7 +1706,7 @@
     }
 
     slaves = {
-        culture = gypsy
+        culture = serb
         religion = orthodox
         size = 4000
     }
@@ -1776,7 +1775,7 @@
         size = 31250
     }
 }
-#Calarasi (140000/35000 POPS)
+#Calarasi
 669 = {
     aristocrats = {
         culture = romanian
@@ -1809,16 +1808,13 @@
     }
 
     slaves = {
-        culture = gypsy
+        culture = serb
         religion = orthodox
         size = 3000
     }
 }
-#Moldavia Region (1356000)
-#under the rule of Moldavia in 1836
-#Iasi (468000/117000 POPS)
-######Jews
-########
+#Moldavia Region
+#Iasi
 670 = {
     aristocrats = {
         culture = romanian
@@ -1869,49 +1865,7 @@
     }
 
     slaves = {
-        culture = tatar
-        religion = sunni
-        size = 8000
-    }
-
-    aristocrats = {
-        culture = maghrebi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = maghrebi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = maghrebi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = jewish
-        size = 600
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = jewish
-        size = 1000
-    }
-
-    slaves = {
-        culture = gypsy
+        culture = serb
         religion = orthodox
         size = 14750
     }
@@ -1949,7 +1903,7 @@
     }
 
     slaves = {
-        culture = gypsy
+        culture = serb
         religion = orthodox
         size = 4000
     }
@@ -1987,7 +1941,7 @@
     }
 
     slaves = {
-        culture = gypsy
+        culture = serb
         religion = orthodox
         size = 10000
     }
@@ -2025,7 +1979,7 @@
     }
 
     slaves = {
-        culture = gypsy
+        culture = serb
         religion = orthodox
         size = 6000
     }
@@ -2071,13 +2025,13 @@
     }
 
     farmers = {
-        culture = tatar
+        culture = russian
         religion = sunni
         size = 6000
     }
 
     slaves = {
-        culture = tatar
+        culture = russian
         religion = orthodox
         size = 2000
     }
@@ -2155,43 +2109,43 @@
     }
 
     aristocrats = {
-        culture = westturkish
+        culture = maghrebi
         religion = sunni
         size = 650
     }
 
     bureaucrats = {
-        culture = westturkish
+        culture = maghrebi
         religion = sunni
         size = 75
     }
 
     officers = {
-        culture = westturkish
+        culture = maghrebi
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = westturkish
+        culture = maghrebi
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = westturkish
+        culture = maghrebi
         religion = sunni
         size = 1100
     }
 
     soldiers = {
-        culture = westturkish
+        culture = maghrebi
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = westturkish
+        culture = maghrebi
         religion = sunni
         size = 4165
     }
@@ -2223,7 +2177,7 @@
     }
 
     slaves = {
-        culture = tatar
+        culture = russian
         religion = orthodox
         size = 1100
     }

@@ -89,31 +89,31 @@
     }
 
     officers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = catholic
         size = 7435
     }

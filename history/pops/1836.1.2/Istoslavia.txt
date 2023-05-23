@@ -4,25 +4,25 @@
 791 = {
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 150
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 750
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 250
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 15350
     }
 
@@ -33,25 +33,25 @@
     }
 
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 100
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 200
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 100
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 3675
     }
@@ -90,25 +90,25 @@
 792 = {
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 50
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 220
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 60
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 12665
     }
 
@@ -180,49 +180,49 @@
 
     clergymen = {
         culture = romanian
-        religion = orthodox
+        religion = ketronant
         size = 100
     }
 
     artisans = {
         culture = romanian
-        religion = orthodox
+        religion = ketronant
         size = 500
     }
 
     soldiers = {
         culture = romanian
-        religion = orthodox
+        religion = ketronant
         size = 100
     }
 
     farmers = {
         culture = romanian
-        religion = orthodox
+        religion = ketronant
         size = 4300
     }
 
     clergymen = {
         culture = hungarian
-        religion = orthodox
+        religion = ketronant
         size = 200
     }
 
     artisans = {
         culture = hungarian
-        religion = orthodox
+        religion = ketronant
         size = 880
     }
 
     soldiers = {
         culture = hungarian
-        religion = orthodox
+        religion = ketronant
         size = 240
     }
 
     farmers = {
         culture = hungarian
-        religion = orthodox
+        religion = ketronant
         size = 50660
     }
 
@@ -265,7 +265,7 @@
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 18000
     }
@@ -305,25 +305,25 @@
 #Osijek (180000/45000 POPS)
 779 = {
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 250
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 1300
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 275
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 11775
     }
@@ -388,35 +388,35 @@
         size = 15050
     }
 }
-#Novi Sad (384000/96000 POPS) #part of Serbia today
+#Novi Sad
 2538 = {
     officers = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 75
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 275
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 1250
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 300
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 34175
     }
 
@@ -457,25 +457,25 @@
     }
 
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 100
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 250
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 100
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 4625
     }
@@ -522,49 +522,49 @@
 794 = {
     aristocrats = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 2200
     }
 
     bureaucrats = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 100
     }
 
     officers = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 250
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 900
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 4000
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 2025
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 55925
     }
 
     farmers = {
-        culture = gypsy
-        religion = orthodox
+        culture = serb
+        religion = ketronant
         size = 4500
     }
 }
@@ -572,55 +572,55 @@
 795 = {
     aristocrats = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 500
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 150
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 2600
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 1600
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 33360
     }
 
     clergymen = {
         culture = romanian
-        religion = orthodox
+        religion = ketronant
         size = 100
     }
 
     artisans = {
         culture = romanian
-        religion = orthodox
+        religion = ketronant
         size = 500
     }
 
     soldiers = {
         culture = romanian
-        religion = orthodox
+        religion = ketronant
         size = 400
     }
 
     farmers = {
         culture = romanian
-        religion = orthodox
+        religion = ketronant
         size = 6000
     }
 }
@@ -628,31 +628,31 @@
 796 = {
     aristocrats = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 400
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 150
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 1200
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 1500
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 40200
     }
 }
@@ -660,31 +660,31 @@
 797 = {
     aristocrats = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 150
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 150
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 400
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 500
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 13000
     }
 }
@@ -749,7 +749,7 @@
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 24625
     }
@@ -789,7 +789,7 @@
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 13125
     }
@@ -799,13 +799,13 @@
 #Kotor (64000/16000 POPS)
 2582 = {
     farmers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 17625
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 4000
     }
@@ -862,30 +862,30 @@
 804 = {
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 2000
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 4000
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 53250
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = ketronant
         size = 2400
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 6925
     }
@@ -1024,37 +1024,37 @@
     }
 
     aristocrats = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 100
     }
 
     officers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 100
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 200
     }
 
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 100
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 475
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 13050
     }
@@ -1140,31 +1140,31 @@
 #Dubrovnik (52000/13000 POPS)
 782 = {
     aristocrats = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 100
     }
 
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 100
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 500
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 100
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 4125
     }
@@ -1256,25 +1256,25 @@
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 100
     }
 
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 100
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 250
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 14675
     }
@@ -1390,7 +1390,7 @@
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 8675
     }
@@ -1428,25 +1428,25 @@
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 100
     }
 
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 100
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 500
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 14375
     }
@@ -1478,31 +1478,31 @@
 #Vukovar (104000/26000 POPS) #part of Croatia today
 793 = {
     clergymen = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 150
     }
 
     artisans = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 800
     }
 
     soldiers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 175
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 10775
     }
 
     farmers = {
-        culture = croat
+        culture = slovene
         religion = ketronant
         size = 4000
     }

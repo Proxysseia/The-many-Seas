@@ -725,7 +725,7 @@
     }
 
     farmers = {
-        culture = gypsy
+        culture = serb
         religion = ketronant
         size = 400
     }
@@ -903,7 +903,7 @@
     }
 
     farmers = {
-        culture = gypsy
+        culture = serb
         religion = ketronant
         size = 1000
     }
