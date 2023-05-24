@@ -1,0 +1,133 @@
+#An Nuhud
+1739 = {
+    farmers = {
+        culture = mongo
+        religion = sunni
+        size = 7000
+    }
+	farmers = {
+        culture = somali
+        religion = sunni
+        size = 8500
+    }
+}
+#Nuhud
+1839 = {
+    farmers = {
+        culture = somali
+        religion = sunni
+        size = 5000
+    }
+}
+#Fasher
+1841 = {
+    aristocrats = {
+        culture = mongo
+        religion = sunni
+        size = 1200
+    }
+
+    bureaucrats = {
+        culture = mongo
+        religion = sunni
+        size = 100
+    }
+
+    officers = {
+        culture = mongo
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = mongo
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = mongo
+        religion = sunni
+        size = 2600
+    }
+
+    soldiers = {
+        culture = mongo
+        religion = sunni
+        size = 1250
+    }
+
+    farmers = {
+        culture = mongo
+        religion = sunni
+        size = 58600
+    }
+}
+#Junayah 
+1842 = {
+    aristocrats = {
+        culture = mongo
+        religion = sunni
+        size = 650
+    }
+
+    clergymen = {
+        culture = mongo
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = mongo
+        religion = sunni
+        size = 1500
+    }
+
+    soldiers = {
+        culture = mongo
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = mongo
+        religion = sunni
+        size = 32300
+    }
+
+    slaves = {
+        culture = mongo
+        religion = sunni
+        size = 10400
+    }
+
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 50
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 200
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 50
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 3650
+    }
+}

@@ -1,0 +1,881 @@
+#Bayuda
+1806 = {
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 25
+    }
+
+    clergymen = {
+        culture = somali
+        religion = coptic
+        size = 50
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 100
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 25
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 500
+    }
+}
+#Khartoum
+1827 = {
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 650
+    }
+
+    bureaucrats = {
+        culture = somali
+        religion = coptic
+        size = 40
+    }
+
+    officers = {
+        culture = somali
+        religion = coptic
+        size = 110
+    }
+
+    clergymen = {
+        culture = somali
+        religion = coptic
+        size = 125
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 2125
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 1000
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 38150
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = coptic
+        size = 300
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = coptic
+        size = 800
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = coptic
+        size = 125
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = coptic
+        size = 15650
+    }
+
+    slaves = {
+        culture = maghrebi
+        religion = coptic
+        size = 27000
+    }
+}
+#Wadi Madani
+1828 = {
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 375
+    }
+
+    clergymen = {
+        culture = somali
+        religion = coptic
+        size = 50
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 1150
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 1000
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 20425
+    }
+
+    slaves = {
+        culture = somali
+        religion = coptic
+        size = 11000
+    }
+}
+#Kassala
+1829 = {
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 400
+    }
+
+    clergymen = {
+        culture = somali
+        religion = coptic
+        size = 50
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 2500
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 1400
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 45000
+    }
+
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 675
+    }
+
+    slaves = {
+        culture = maghrebi
+        religion = coptic
+        size = 9000
+    }
+}
+#Sennar 
+1830 = {
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 475
+    }
+
+    clergymen = {
+        culture = somali
+        religion = coptic
+        size = 50
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 7350
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 7000
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 42125
+    }
+}
+#Rabak
+1831 = {
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 350
+    }
+
+    clergymen = {
+        culture = somali
+        religion = coptic
+        size = 50
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 4975
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 7000
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 27625
+    }
+}
+#Fashoda
+1832 = {
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = somali
+        religion = coptic
+        size = 25
+    }
+
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 125
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 1350
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 3400
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 36450
+    }
+
+	aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 275
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 750
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 150
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 13825
+    }
+}
+#Red Sea Region
+#Suakin
+1833 = {
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 75
+    }
+
+    bureaucrats = {
+        culture = somali
+        religion = coptic
+        size = 25
+    }
+
+    officers = {
+        culture = somali
+        religion = coptic
+        size = 25
+    }
+
+    clergymen = {
+        culture = somali
+        religion = coptic
+        size = 50
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 200
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 500
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 7575
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = coptic
+        size = 350
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = coptic
+        size = 75
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = coptic
+        size = 6375
+    }
+}
+#Halaib
+1834 = {
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 100
+    }
+
+    clergymen = {
+        culture = somali
+        religion = coptic
+        size = 50
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 300
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 75
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 8475
+    }
+
+    aristocrats = {
+        culture = maghrebi
+        religion = coptic
+        size = 50
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = coptic
+        size = 75
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = coptic
+        size = 150
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = coptic
+        size = 25
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = coptic
+        size = 3700
+    }
+}
+#Dongola
+1835 = {
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 300
+    }
+
+    bureaucrats = {
+        culture = somali
+        religion = coptic
+        size = 100
+    }
+
+    officers = {
+        culture = somali
+        religion = coptic
+        size = 40
+    }
+
+    clergymen = {
+        culture = somali
+        religion = coptic
+        size = 500
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 1500
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 750
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 26000
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = coptic
+        size = 150
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = coptic
+        size = 8000
+    }
+}
+#Hayya
+1836 = {
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 500
+    }
+
+    clergymen = {
+        culture = somali
+        religion = coptic
+        size = 500
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 2000
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 500
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 22000
+    }
+
+    aristocrats = {
+        culture = maghrebi
+        religion = coptic
+        size = 75
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = coptic
+        size = 200
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = coptic
+        size = 50
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = coptic
+        size = 6000
+    }
+}
+#Atbarah
+1837 = {
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 150
+    }
+
+    clergymen = {
+        culture = somali
+        religion = coptic
+        size = 250
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 500
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 100
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 7000
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = coptic
+        size = 300
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = coptic
+        size = 750
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = coptic
+        size = 4000
+    }
+}
+#Obeid 
+1838 = {
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 500
+    }
+
+    officers = {
+        culture = somali
+        religion = coptic
+        size = 100
+    }
+
+    clergymen = {
+        culture = somali
+        religion = coptic
+        size = 50
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 1100
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 450
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 23900
+    }
+
+    slaves = {
+        culture = somali
+        religion = coptic
+        size = 50000
+    }
+}
+#Kaduqli
+1840 = {
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 100
+    }
+
+    clergymen = {
+        culture = somali
+        religion = coptic
+        size = 100
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 200
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 200
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 30000
+    }
+}
+#Jinja
+2023 = {
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 275
+    }
+
+    clergymen = {
+        culture = somali
+        religion = coptic
+        size = 150
+    }
+
+    clergymen = {
+        culture = somali
+        religion = coptic
+        size = 375
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 2575
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 3750
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 62850
+    }
+}
+#Manjakazi
+2050 = {
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 700
+    }
+
+    clergymen = {
+        culture = somali
+        religion = coptic
+        size = 1350
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 3600
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 4000
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 53250
+    }
+}
+#Inhambane
+2051 = {
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 750
+    }
+
+    clergymen = {
+        culture = somali
+        religion = coptic
+        size = 625
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 6000
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 7500
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 65975
+    }
+}
+#Linyati
+2081 = {
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 400
+    }
+
+    clergymen = {
+        culture = somali
+        religion = coptic
+        size = 700
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 1500
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 1000
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 6700
+    }
+}
+#Toliara
+2122 = {
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 500
+    }
+
+    clergymen = {
+        culture = somali
+        religion = coptic
+        size = 775
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 4350
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 5100
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 55975
+    }
+}
+#Vairaatea
+3320 = {
+    aristocrats = {
+        culture = somali
+        religion = coptic
+        size = 250
+    }
+
+    clergymen = {
+        culture = somali
+        religion = coptic
+        size = 150
+    }
+
+    artisans = {
+        culture = somali
+        religion = coptic
+        size = 2000
+    }
+
+    soldiers = {
+        culture = somali
+        religion = coptic
+        size = 500
+    }
+
+    farmers = {
+        culture = somali
+        religion = coptic
+        size = 32000
+    }
+}

@@ -1,52 +1,45 @@
-#Uman Region (116000) #see Trucial States.txt for balance of region
-#under the rule of Oman in 1836
-#Muscat (32000/8000 POPS)
+#Uman Region
+#Muscat
 1166 = {
     aristocrats = {
-        culture = maghrebi
-        religion = ibadi
+        culture = somali
+        religion = sunni
         size = 150
     }
 
     bureaucrats = {
-        culture = maghrebi
-        religion = ibadi
+        culture = somali
+        religion = sunni
         size = 25
     }
 
     officers = {
-        culture = maghrebi
-        religion = ibadi
+        culture = somali
+        religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = maghrebi
-        religion = ibadi
+        culture = somali
+        religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = maghrebi
-        religion = ibadi
+        culture = somali
+        religion = sunni
         size = 400
     }
 
     soldiers = {
-        culture = maghrebi
-        religion = ibadi
-        size = 3000
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = ibadi
-        size = 1000
+        culture = somali
+        religion = sunni
+        size = 4000
     }
 
     farmers = {
-        culture = maghrebi
-        religion = ibadi
+        culture = somali
+        religion = sunni
         size = 2625
     }
 
@@ -71,119 +64,115 @@
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 3950
+        size = 5950
     }
-
-    artisans = {
-        culture = persian
+}
+#Dubai
+1168 = {
+    aristocrats = {
+        culture = somali
         religion = sunni
         size = 50
-    }
-
-    soldiers = {
-        culture = persian
-        religion = sunni
-        size = 25
-    }
-
-    farmers = {
-        culture = persian
-        religion = sunni
-        size = 925
     }
 
     clergymen = {
-        culture = persian
-        religion = shiite
-        size = 25
+        culture = somali
+        religion = sunni
+        size = 75
     }
 
     artisans = {
-        culture = persian
-        religion = shiite
-        size = 50
+        culture = maghrebi
+        religion = sunni
+        size = 200
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 1000
     }
 
     farmers = {
-        culture = persian
-        religion = shiite
-        size = 925
+        culture = maghrebi
+        religion = sunni
+        size = 3625
     }
 
-    slaves = {
-        culture = maghrebi
-        religion = animist
-        size = 2000
+    farmers = {
+        culture = somali
+        religion = shiite
+        size = 2300
     }
 }
-#Suhar (16000/4000 POPS)
+#Suhar
 1169 = {
     aristocrats = {
-        culture = maghrebi
-        religion = ibadi
+        culture = somali
+        religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = maghrebi
-        religion = ibadi
+        culture = somali
+        religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = maghrebi
-        religion = ibadi
+        culture = somali
+        religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = maghrebi
-        religion = ibadi
+        culture = somali
+        religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = maghrebi
-        religion = ibadi
+        culture = somali
+        religion = sunni
         size = 2000
     }
 
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 1625
+        size = 3625
     }
 }
-#Nizwa (24000/6000 POPS)
+#Nizwa
 1170 = {
     aristocrats = {
-        culture = maghrebi
-        religion = ibadi
+        culture = somali
+        religion = sunni
         size = 75
     }
 
     clergymen = {
-        culture = maghrebi
-        religion = ibadi
+        culture = somali
+        religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = maghrebi
-        religion = ibadi
-        size = 300
+        culture = somali
+        religion = sunni
+        size = 700
     }
 
     soldiers = {
-        culture = maghrebi
-        religion = ibadi
+        culture = somali
+        religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = maghrebi
-        religion = ibadi
-        size = 1575
+        culture = somali
+        religion = sunni
+        size = 2575
     }
 
     clergymen = {
@@ -207,182 +196,94 @@
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 3525
+        size = 4525
     }
 }
-#Sur (24000/6000 POPS)
+#Sur
 1171 = {
     aristocrats = {
-        culture = maghrebi
-        religion = ibadi
-        size = 25
-    }
-
-    clergymen = {
-        culture = maghrebi
-        religion = ibadi
-        size = 50
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = ibadi
-        size = 100
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = ibadi
-        size = 25
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = ibadi
-        size = 1800
-    }
-
-    clergymen = {
-        culture = maghrebi
+        culture = somali
         religion = sunni
         size = 25
     }
 
+    clergymen = {
+        culture = somali
+        religion = sunni
+        size = 50
+    }
+
     artisans = {
-        culture = maghrebi
+        culture = somali
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = somali
         religion = sunni
         size = 25
     }
 
     farmers = {
+        culture = somali
+        religion = sunni
+        size = 3800
+    }
+
+    clergymen = {
         culture = maghrebi
         religion = sunni
-        size = 1850
+        size = 25
     }
 
     artisans = {
-        culture = persian
+        culture = maghrebi
         religion = sunni
-        size = 50
+        size = 100
     }
 
     soldiers = {
-        culture = persian
+        culture = maghrebi
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = persian
-        religion = sunni
-        size = 925
-    }
-
-    slaves = {
         culture = maghrebi
-        religion = animist
-        size = 1100
+        religion = sunni
+        size = 4850
     }
 }
-#Duqm (20000/5000 POPS)
+#Duqm
 1172 = {
     aristocrats = {
-        culture = maghrebi
-        religion = ibadi
+        culture = somali
+        religion = sunni
         size = 75
     }
 
     clergymen = {
-        culture = maghrebi
-        religion = ibadi
+        culture = somali
+        religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = maghrebi
-        religion = ibadi
+        culture = somali
+        religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = maghrebi
-        religion = ibadi
-        size = 50
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = ibadi
-        size = 2000
-    }
-
-    clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 25
-    }
-
-    artisans = {
-        culture = maghrebi
+        culture = somali
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = maghrebi
+        culture = somali
         religion = sunni
-        size = 2825
-    }
-}
-#Hadramaut Region (36000) #see Yemen.txt for balance of region
-#under the rule of Oman in 1836
-#Salalah (20000/5000 POPS)
-1174 = {
-    aristocrats = {
-        culture = maghrebi
-        religion = ibadi
-        size = 65
-    }
-
-    bureaucrats = {
-        culture = maghrebi
-        religion = ibadi
-        size = 5
-    }
-
-    officers = {
-        culture = maghrebi
-        religion = ibadi
-        size = 5
-    }
-
-    clergymen = {
-        culture = maghrebi
-        religion = ibadi
-        size = 75
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = ibadi
-        size = 250
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = ibadi
-        size = 1000
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = ibadi
         size = 3000
     }
 
@@ -401,58 +302,156 @@
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 2025
+        size = 3825
     }
-
 }
-#Khasab - Former Oyotuni/Chokurdakh
-2664 = {
+#Hadramaut Region
+#Salalah
+1174 = {
     aristocrats = {
-        culture = maghrebi
-        religion = ibadi
-        size = 30
+        culture = somali
+        religion = sunni
+        size = 65
     }
 
     bureaucrats = {
-        culture = maghrebi
-        religion = ibadi
-        size = 5
+        culture = somali
+        religion = sunni
+        size = 50
+    }
+
+    officers = {
+        culture = somali
+        religion = sunni
+        size = 15
+    }
+
+    clergymen = {
+        culture = somali
+        religion = sunni
+        size = 75
+    }
+
+    artisans = {
+        culture = somali
+        religion = sunni
+        size = 250
+    }
+
+    soldiers = {
+        culture = somali
+        religion = sunni
+        size = 1000
+    }
+
+    farmers = {
+        culture = somali
+        religion = sunni
+        size = 5000
     }
 
     clergymen = {
         culture = maghrebi
-        religion = ibadi
-        size = 5
+        religion = sunni
+        size = 25
     }
 
     artisans = {
         culture = maghrebi
-        religion = ibadi
+        religion = sunni
+        size = 50
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 6025
+    }
+}
+#Khasa
+2664 = {
+    aristocrats = {
+        culture = somali
+        religion = sunni
+        size = 30
+    }
+
+    clergymen = {
+        culture = somali
+        religion = sunni
+        size = 5
+    }
+
+    artisans = {
+        culture = somali
+        religion = sunni
         size = 10
     }
 
     soldiers = {
-        culture = maghrebi
-        religion = ibadi
+        culture = somali
+        religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = maghrebi
-        religion = ibadi
-        size = 230
+        culture = somali
+        religion = sunni
+        size = 3230
     }
 
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 730
-    }
-
-    farmers = {
-        culture = persian
-        religion = sunni
-        size = 100
+        size = 3730
     }
 }
+#Lucena-Quezon
+3332 = {
+    aristocrats = {
+        culture = somali
+        religion = sunni
+        size = 250
+    }
 
+    bureaucrats = {
+        culture = somali
+        religion = sunni
+        size = 450
+    }
+
+    clergymen = {
+        culture = somali
+        religion = sunni
+        size = 750
+    }
+
+    artisans = {
+        culture = somali
+        religion = sunni
+        size = 2750
+    }
+    soldiers = {
+        culture = somali
+        religion = sunni
+        size = 9000
+    }
+	
+    farmers = {
+        culture = somali
+        religion = sunni
+        size = 6550
+    }
+	
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 1200
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 7800
+    }
+}

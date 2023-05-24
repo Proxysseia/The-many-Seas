@@ -156,45 +156,6 @@
         size = 2000
     }
 }
-#under the rule of Oman in 1836
-#Socotra (16000/4000 POPS)
-1177 = {
-    aristocrats = {
-        culture = maghrebi
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = sunni
-        size = 500
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 50
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 4775
-    }
-
-    slaves = {
-        culture = somali
-        religion = animist
-        size = 2800
-    }
-}
 #Yemen Region (224000)
 #under the rule of Yemen in 1836
 #Sana (124000/31000 POPS)

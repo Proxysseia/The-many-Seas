@@ -228,63 +228,6 @@
         size = 10450
     }
 }
-#Mindoro (224000/88029 POPS)
-1458 = {
-    aristocrats = {
-        culture = filipino
-        religion = catholic
-        size = 400
-    }
-
-    clergymen = {
-        culture = filipino
-        religion = catholic
-        size = 1750
-    }
-
-    artisans = {
-        culture = filipino
-        religion = catholic
-        size = 2100
-    }
-
-    soldiers = {
-        culture = filipino
-        religion = catholic
-        size = 4500
-    }
-
-    farmers = {
-        culture = filipino
-        religion = catholic
-        size = 58875
-    }
-
-    clergymen = {
-        culture = filipino
-        religion = catholic
-        size = 125
-    }
-
-    artisans = {
-        culture = filipino
-        religion = catholic
-        size = 750
-    }
-
-    soldiers = {
-        culture = filipino
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = filipino
-        religion = catholic
-        size = 21025
-    }
-
-}
 #Visayas Region (1044000 POPS)
 #under rule of Spain 1836
 #Palawan (58725 POPS)

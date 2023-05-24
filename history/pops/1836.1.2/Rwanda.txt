@@ -41,7 +41,6 @@
         religion = sunni
         size = 4000
     }
-
 }
 #Upper Nile Region (868000)
 #uncolonized in 1836
@@ -674,74 +673,6 @@
         culture = somali
         religion = sunni
         size = 3300
-    }
-}
-#Jinja (208000/52000 POPS)
-2023 = {
-    aristocrats = {
-        culture = nuer
-        religion = sunni
-        size = 275
-    }
-
-    clergymen = {
-        culture = nuer
-        religion = sunni
-        size = 150
-    }
-
-    aristocrats = {
-        culture = nuer
-        religion = sunni
-        size = 750
-    }
-
-    clergymen = {
-        culture = nuer
-        religion = sunni
-        size = 375
-    }
-
-    artisans = {
-        culture = nuer
-        religion = sunni
-        size = 575
-    }
-
-    soldiers = {
-        culture = nuer
-        religion = sunni
-        size = 150
-    }
-
-    soldiers = {
-        culture = nuer
-        religion = sunni
-        size = 375
-    }
-
-    farmers = {
-        culture = nuer
-        religion = sunni
-        size = 52850
-    }
-
-    farmers = {
-        culture = nuer
-        religion = sunni
-        size = 9000
-    }
-
-    artisans = {
-        culture = nuer
-        religion = sunni
-        size = 1900
-    }
-
-    farmers = {
-        culture = nuer
-        religion = sunni
-        size = 4400
     }
 }
 #Lodwar (36000/9000 POPS)
