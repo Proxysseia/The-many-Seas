@@ -1,0 +1,356 @@
+#De Aar
+2558 = {
+    aristocrats = {
+        culture = tswana
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = tswana
+        religion = protestant
+        size = 150
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = tswana
+        religion = protestant
+        size = 10700
+    }
+}
+#Kimberley
+2094 = {
+    aristocrats = {
+        culture = tswana
+        religion = protestant
+        size = 400
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = protestant
+        size = 400
+    }
+
+    artisans = {
+        culture = tswana
+        religion = protestant
+        size = 1600
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = protestant
+        size = 400
+    }
+
+    farmers = {
+        culture = tswana
+        religion = protestant
+        size = 36200
+    }
+}
+#Dikathong
+2095 = {
+    aristocrats = {
+        culture = tswana
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = tswana
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = tswana
+        religion = protestant
+        size = 4650
+    }
+}
+#Port Elizabeth
+2096 = {
+    aristocrats = {
+        culture = tswana
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = tswana
+        religion = protestant
+        size = 250
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = tswana
+        religion = protestant
+        size = 15450
+    }
+}
+#Bloemfontein
+2101 = {
+    aristocrats = {
+        culture = tswana
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = tswana
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = protestant
+        size = 1200
+    }
+
+    farmers = {
+        culture = tswana
+        religion = protestant
+        size = 55400
+    }
+}
+#Winburg 
+2102 = {
+    artisans = {
+        culture = tswana
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = tswana
+        religion = protestant
+        size = 25800
+    }
+}
+#Philippolis
+2103 = {
+
+    clergymen = {
+        culture = tswana
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = tswana
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = tswana
+        religion = protestant
+        size = 20690
+    }
+}
+#Thaba Bosiu
+2104 = {
+    aristocrats = {
+        culture = tswana
+        religion = protestant
+        size = 1250
+    }
+	
+    clergymen = {
+        culture = tswana
+        religion = protestant
+        size = 150
+    }
+
+    artisans = {
+        culture = tswana
+        religion = protestant
+        size = 3200
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = protestant
+        size = 1100
+    }
+
+    farmers = {
+        culture = tswana
+        religion = protestant
+        size = 58000
+    }
+
+    slaves = {
+        culture = tswana
+        religion = protestant
+        size = 1420
+    }
+}
+#Pretoria
+2105 = {
+    aristocrats = {
+        culture = tswana
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = protestant
+        size = 150
+    }
+
+    artisans = {
+        culture = tswana
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = tswana
+        religion = protestant
+        size = 28400
+    }
+}
+#Johannesburg
+2106 = {
+    artisans = {
+        culture = tswana
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = protestant
+        size = 400
+    }
+
+    farmers = {
+        culture = tswana
+        religion = protestant
+        size = 21200
+    }
+}
+#Klerksdorp
+2107 = {
+
+    clergymen = {
+        culture = tswana
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = tswana
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = protestant
+        size = 525
+    }
+
+    farmers = {
+        culture = tswana
+        religion = protestant
+        size = 25650
+    }
+}
+#Mosega
+2108 = {
+    artisans = {
+        culture = tswana
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = protestant
+        size = 9000
+    }
+
+    farmers = {
+        culture = tswana
+        religion = protestant
+        size = 100300
+    }
+}

@@ -1,0 +1,44 @@
+#Ulundi
+2113 = {
+    aristocrats = {
+        culture = tswana
+        religion = protestant
+        size = 1000
+    }
+
+    officers = {
+        culture = tswana
+        religion = protestant
+        size = 1000
+    }
+
+    bureaucrats = {
+        culture = tswana
+        religion = protestant
+        size = 1000
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = protestant
+        size = 1000
+    }
+
+    artisans = {
+        culture = tswana
+        religion = protestant
+        size = 10000
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = tswana
+        religion = protestant
+        size = 100000
+    }
+}

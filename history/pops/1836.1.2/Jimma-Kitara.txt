@@ -1,0 +1,88 @@
+#Dar es Salaam
+2036 = {
+    aristocrats = {
+        culture = nyasa
+        religion = sunni
+        size = 950
+    }
+
+    bureaucrats = {
+        culture = nyasa
+        religion = sunni
+        size = 750
+    }
+
+    officers = {
+        culture = nyasa
+        religion = sunni
+        size = 125
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = sunni
+        size = 525
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = sunni
+        size = 2000
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = sunni
+        size = 500
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = sunni
+        size = 50000
+    }
+
+    slaves = {
+        culture = nyasa
+        religion = animist
+        size = 14000
+    }
+}
+#Tanga
+2037 = {
+    aristocrats = {
+        culture = nyasa
+        religion = sunni
+        size = 325
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = sunni
+        size = 175
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = sunni
+        size = 725
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = sunni
+        size = 175
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = sunni
+        size = 14000
+    }
+
+    slaves = {
+        culture = nyasa
+        religion = animist
+        size = 6000
+    }
+}

@@ -823,44 +823,6 @@
         size = 15000
     }
 }
-#Baku
-1102 = {
-    bureaucrats = {
-        culture = circassian
-        religion = orthodox
-        size = 50
-    }
-
-    clergymen = {
-        culture = circassian
-        religion = orthodox
-        size = 750
-    }
-
-    artisans = {
-        culture = circassian
-        religion = orthodox
-        size = 1000
-    }
-
-    soldiers = {
-        culture = circassian
-        religion = orthodox
-        size = 750
-    }
-
-    aristocrats = {
-        culture = circassian
-        religion = orthodox
-        size = 125
-    }
-
-    farmers = {
-        culture = circassian
-        religion = orthodox
-        size = 15000
-    }
-}
 #Siyazen (56000/14000 POPS)
 1103 = {
     aristocrats = {
@@ -1396,38 +1358,6 @@
         culture = circassian
         religion = orthodox
         size = 15000
-    }
-}
-#Sumayquit (56000/14000 POPS)
-3356 = {
-    aristocrats = {
-        culture = circassian
-        religion = shiite
-        size = 225
-    }
-
-    clergymen = {
-        culture = circassian
-        religion = shiite
-        size = 125
-    }
-
-    artisans = {
-        culture = circassian
-        religion = shiite
-        size = 700
-    }
-
-    soldiers = {
-        culture = circassian
-        religion = shiite
-        size = 150
-    }
-
-    farmers = {
-        culture = circassian
-        religion = shiite
-        size = 12800
     }
 }
 #Azeri Shirvan (56000/14000 POPS)

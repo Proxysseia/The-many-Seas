@@ -1480,39 +1480,6 @@
         size = 38350
     }
 }
-#Hamilton (68000/17000 POPS)
-55 = {
-
-    aristocrats = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 1500
-    }
-
-    clergymen = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 200
-    }
-
-    artisans = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 2100
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 1000
-    }
-
-    farmers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 25700
-    }
-}
 #Kingston (72000/18000 POPS)
 56 = {
     clergymen = {
@@ -1629,43 +1596,6 @@
         religion = protestant
         size = 14660
     }
-}
-#Bathurst (64000/16000 POPS)
-69 = {
-
-    artisans = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 491
-    }
-    artisans = {
-        culture = anglo_canadian
-        religion = catholic
-        size = 563
-    }
-    clergymen = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 60
-
-    }
-    farmers = {
-        culture = anglo_canadian
-        religion = catholic
-        size = 14660
-    }
-    farmers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 1053
-
-    }
-    farmers = {
-        culture = rustic
-        religion = protestant
-        size = 5501
-    }
-
 }
 #ruled by the UK
 #Caribou (36000/9000 POPS)

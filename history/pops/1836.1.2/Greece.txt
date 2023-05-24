@@ -1359,32 +1359,6 @@
         size = 9100
     }
 }
-#Kalamai (68000/17000 POPS)
-841 = {
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 150
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 350
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 400
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 9000
-    }
-}
 #Patrai (40000/10000 POPS)
 842 = {
 
@@ -1428,71 +1402,6 @@
         culture = greek
         religion = orthodox
         size = 41000
-    }
-}
-#Aegean Islands Region (184000)
-#under the rule of Greece in 1836
-#Cyclades (40000/10000 POPS)
-845 = {
-    bureaucrats = {
-        culture = greek
-        religion = orthodox
-        size = 15
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 85
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 500
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 1100
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 8400
-    }
-
-    ### Catholics circa 2000
-    aristocrats = {
-        culture = north_italian
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = north_italian
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = north_italian
-        religion = catholic
-        size = 600
-    }
-
-    soldiers = {
-        culture = north_italian
-        religion = catholic
-        size = 200
-    }
-
-    farmers = {
-        culture = north_italian
-        religion = catholic
-        size = 1000
     }
 }
 #under the rule of Ottoman Empire in 1836

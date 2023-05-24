@@ -1,3 +1,571 @@
+#Hamilton
+55 = {
+    aristocrats = {
+        culture = nyasa
+        religion = animist
+        size = 1500
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 2100
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 1000
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 25700
+    }
+}
+#Bathurst
+69 = {
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 491
+    }
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 563
+    }
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 60
+
+    }
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 14660
+    }
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 1053
+
+    }
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 5501
+    }
+}
+#Louisiana Region
+#New Orleans
+139 = {
+    aristocrats = {
+        culture = nyasa
+        religion = animist
+        size = 2250
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 125
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 650
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 1250
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 164250
+    }
+}
+#Shreveport
+142 = {
+    aristocrats = {
+        culture = nyasa
+        religion = animist
+        size = 150
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 200
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 2525
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 24150
+    }
+}
+#Little Rock
+143 = {
+    aristocrats = {
+        culture = nyasa
+        religion = animist
+        size = 2000
+    }
+
+    bureaucrats = {
+        culture = nyasa
+        religion = animist
+        size = 175
+    }
+
+    officers = {
+        culture = nyasa
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 2750
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 4500
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 90600
+    }
+}
+#Mobile
+197 = {
+    aristocrats = {
+        culture = nyasa
+        religion = animist
+        size = 450
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 600
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 1325
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 53525
+    }
+}
+#St Augustine
+199 = {
+    aristocrats = {
+        culture = nyasa
+        religion = animist
+        size = 150
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 325
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 425
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 20500
+    }
+
+    slaves = {
+        culture = nyasa
+        religion = animist
+        size = 3900
+    }
+}
+#Greenville
+207 = {
+    aristocrats = {
+        culture = nyasa
+        religion = animist
+        size = 425
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 750
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 1275
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 14400
+    }
+
+    slaves = {
+        culture = nyasa
+        religion = animist
+        size = 12600
+    }
+}
+#Manassas
+212 = {
+    aristocrats = {
+        culture = nyasa
+        religion = animist
+        size = 200
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 250
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 1500
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 37350
+    }
+
+}
+#Fredericksburg
+213 = {
+    aristocrats = {
+        culture = nyasa
+        religion = animist
+        size = 425
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 125
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 600
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 2275
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 56575
+    }
+
+}
+#Norfolk
+214 = {
+    aristocrats = {
+        culture = nyasa
+        religion = animist
+        size = 125
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 175
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 1075
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 26650
+    }
+
+    slaves = {
+        culture = nyasa
+        religion = animist
+        size = 13225
+    }
+}
+#Baltimore 
+219 = {
+    aristocrats = {
+        culture = nyasa
+        religion = animist
+        size = 525
+    }
+
+    bureaucrats = {
+        culture = nyasa
+        religion = animist
+        size = 175
+    }
+
+    officers = {
+        culture = nyasa
+        religion = animist
+        size = 125
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 225
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 10000
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 700
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 3000
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 39250
+    }
+
+    slaves = {
+        culture = nyasa
+        religion = animist
+        size = 9600
+    }
+}
+#Atlantic City
+231 = {
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 1100
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 225
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 20525
+    }
+}
+#Long Island
+233 = {
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 175
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 2250
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 250
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 26325
+    }
+}
+#Boston
+243 = {
+
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 675
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 10000
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 10000
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 2500
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 38145
+    }
+}
+#New Bedford
+244 = {
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 225
+    }
+
+    clerks = {
+        culture = nyasa
+        religion = animist
+        size = 100
+    }
+
+    craftsmen = {
+        culture = nyasa
+        religion = animist
+        size = 300
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 4125
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 1000
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 45025
+    }
+}
 #Nairobi 
 2024 = {
     aristocrats = {
@@ -27,37 +595,7 @@
     farmers = {
         culture = nyasa
         religion = animist
-        size = 4500
-    }
-
-    aristocrats = {
-        culture = somali
-        religion = animist
-        size = 200
-    }
-
-    clergymen = {
-        culture = somali
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = somali
-        religion = sunni
-        size = 500
-    }
-
-    soldiers = {
-        culture = somali
-        religion = sunni
-        size = 200
-    }
-
-    farmers = {
-        culture = somali
-        religion = sunni
-        size = 10000
+        size = 1§4500
     }
 }
 #Nakuru (128000/32000 POPS)
@@ -89,43 +627,7 @@
     farmers = {
         culture = nyasa
         religion = animist
-        size = 20000
-    }
-
-    aristocrats = {
-        culture = somali
-        religion = animist
-        size = 150
-    }
-
-    clergymen = {
-        culture = somali
-        religion = animist
-        size = 75
-    }
-
-    artisans = {
-        culture = somali
-        religion = animist
-        size = 400
-    }
-
-    soldiers = {
-        culture = somali
-        religion = animist
-        size = 75
-    }
-
-    farmers = {
-        culture = somali
-        religion = animist
-        size = 7300
-    }
-
-    slaves = {
-        culture = somali
-        religion = animist
-        size = 3000
+        size = 24000
     }
 }
 #Mombasa
@@ -166,7 +668,7 @@
         size = 3000
     }
 }
-#Lamu (100000/25000 POPS)
+#Lamu
 2030 = {
     aristocrats = {
         culture = nyasa
@@ -189,28 +691,16 @@
     soldiers = {
         culture = nyasa
         religion = sunni
-        size = 125
+        size = 3250
     }
 
     farmers = {
         culture = nyasa
         religion = sunni
-        size = 10025
-    }
-
-    farmers = {
-        culture = somali
-        religion = animist
-        size = 10925
-    }
-
-    slaves = {
-        culture = somali
-        religion = animist
-        size = 2000
+        size = 24025
     }
 }
-#Garissa (172000/43000 POPS)
+#Garissa
 2032 = {
     aristocrats = {
         culture = nyasa
@@ -233,25 +723,13 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 350
+        size = 1250
     }
 
     farmers = {
         culture = nyasa
         religion = animist
-        size = 31875
-    }
-
-    soldiers = {
-        culture = somali
-        religion = sunni
-        size = 100
-    }
-
-    farmers = {
-        culture = somali
-        religion = sunni
-        size = 2700
+        size = 33875
     }
 }
 #Voi 
@@ -292,184 +770,7 @@
         size = 3000
     }
 }
-#Kigali (496000/124000 POPS)
-2034 = {
-    aristocrats = {
-        culture = nyasa
-        religion = animist
-        size = 2450
-    }
-
-    bureaucrats = {
-        culture = nyasa
-        religion = animist
-        size = 25
-    }
-
-    officers = {
-        culture = nyasa
-        religion = animist
-        size = 125
-    }
-
-    clergymen = {
-        culture = nyasa
-        religion = animist
-        size = 1750
-    }
-
-    artisans = {
-        culture = nyasa
-        religion = animist
-        size = 6200
-    }
-
-    soldiers = {
-        culture = nyasa
-        religion = animist
-        size = 1250
-    }
-
-    farmers = {
-        culture = nyasa
-        religion = animist
-        size = 113200
-    }
-}
-#Usumbura
-2035 = {
-    aristocrats = {
-        culture = nyasa
-        religion = animist
-        size = 2175
-    }
-
-    bureaucrats = {
-        culture = nyasa
-        religion = animist
-        size = 15
-    }
-
-    officers = {
-        culture = nyasa
-        religion = animist
-        size = 110
-    }
-
-    clergymen = {
-        culture = nyasa
-        religion = animist
-        size = 1125
-    }
-
-    artisans = {
-        culture = nyasa
-        religion = animist
-        size = 5600
-    }
-
-    soldiers = {
-        culture = nyasa
-        religion = animist
-        size = 1125
-    }
-
-    farmers = {
-        culture = nyasa
-        religion = animist
-        size = 101850
-    }
-}
-#Dar es Salaam
-2036 = {
-    aristocrats = {
-        culture = nyasa
-        religion = sunni
-        size = 950
-    }
-
-    bureaucrats = {
-        culture = nyasa
-        religion = sunni
-        size = 750
-    }
-
-    officers = {
-        culture = nyasa
-        religion = sunni
-        size = 125
-    }
-
-    clergymen = {
-        culture = nyasa
-        religion = sunni
-        size = 525
-    }
-
-    artisans = {
-        culture = nyasa
-        religion = sunni
-        size = 2000
-    }
-
-    soldiers = {
-        culture = nyasa
-        religion = sunni
-        size = 500
-    }
-
-    farmers = {
-        culture = nyasa
-        religion = sunni
-        size = 50000
-    }
-
-    slaves = {
-        culture = nyasa
-        religion = animist
-        size = 14000
-    }
-
-}
-#Tanga (88000/22000 POPS)
-2037 = {
-    aristocrats = {
-        culture = nyasa
-        religion = sunni
-        size = 325
-    }
-
-    clergymen = {
-        culture = nyasa
-        religion = sunni
-        size = 175
-    }
-
-    artisans = {
-        culture = nyasa
-        religion = sunni
-        size = 725
-    }
-
-    soldiers = {
-        culture = nyasa
-        religion = sunni
-        size = 175
-    }
-
-    farmers = {
-        culture = nyasa
-        religion = sunni
-        size = 14000
-    }
-
-    slaves = {
-        culture = nyasa
-        religion = animist
-        size = 6000
-    }
-}
-#Kilwa (188000/47000 POPS)
+#Kilwa
 2038 = {
     aristocrats = {
         culture = nyasa
@@ -507,7 +808,7 @@
         size = 10000
     }
 }
-#Lindi (64000/16000 POPS)
+#Lindi
 2039 = {
     aristocrats = {
         culture = nyasa
@@ -583,7 +884,7 @@
         size = 30000
     }
 }
-#Masasi (132000/33000 POPS)
+#Masasi
 2041 = {
     aristocrats = {
         culture = nyasa
@@ -616,7 +917,7 @@
     }
 
 }
-#Iringa (300000/75000 POPS)
+#Iringa
 2042 = {
     aristocrats = {
         culture = nyasa
@@ -692,7 +993,7 @@
         size = 6000
     }
 }
-#Mwanza (368000/92000 POPS)
+#Mwanza
 2044 = {
     aristocrats = {
         culture = nyasa
@@ -788,104 +1089,37 @@
         religion = animist
         size = 45000
     }
-
 }
-#Arusha (80000/20000 POPS)
+#Arusha
 2047 = {
     aristocrats = {
         culture = nyasa
         religion = animist
-        size = 100
+        size = 600
     }
 
     clergymen = {
         culture = nyasa
         religion = animist
-        size = 50
+        size = 450
     }
 
     artisans = {
         culture = nyasa
         religion = animist
-        size = 300
+        size = 2300
     }
 
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 75
+        size = 2575
     }
 
     farmers = {
         culture = nyasa
         religion = animist
-        size = 5475
-    }
-
-    aristocrats = {
-        culture = nyasa
-        religion = animist
-        size = 125
-    }
-
-    clergymen = {
-        culture = nyasa
-        religion = animist
-        size = 75
-    }
-
-    artisans = {
-        culture = nyasa
-        religion = animist
-        size = 400
-    }
-
-    soldiers = {
-        culture = nyasa
-        religion = animist
-        size = 100
-    }
-
-    farmers = {
-        culture = nyasa
-        religion = animist
-        size = 7275
-    }
-
-    aristocrats = {
-        culture = nyasa
-        religion = animist
-        size = 100
-    }
-
-    clergymen = {
-        culture = nyasa
-        religion = animist
-        size = 100
-    }
-
-    artisans = {
-        culture = nyasa
-        religion = animist
-        size = 300
-    }
-
-    soldiers = {
-        culture = nyasa
-        religion = animist
-        size = 75
-    }
-
-    farmers = {
-        culture = nyasa
-        religion = animist
-        size = 5475
-    }
-
-    slaves = {
-        culture = somali
-        religion = sunni
-        size = 2000
+        size = 19475
     }
 }
 #Zanzibar 
@@ -893,107 +1127,35 @@
     aristocrats = {
         culture = nyasa
         religion = sunni
-        size = 250
+        size = 1250
     }
 
     clergymen = {
         culture = nyasa
         religion = sunni
-        size = 125
+        size = 1125
     }
 
     artisans = {
         culture = nyasa
         religion = sunni
-        size = 525
+        size = 5525
     }
 
     soldiers = {
         culture = nyasa
         religion = sunni
-        size = 1100
+        size = 6100
     }
 
     farmers = {
         culture = nyasa
         religion = sunni
-        size = 7100
-    }
-
-    aristocrats = {
-        culture = nyasa
-        religion = ibadi
-        size = 150
-    }
-
-    bureaucrats = {
-        culture = nyasa
-        religion = ibadi
-        size = 75
-    }
-
-    officers = {
-        culture = nyasa
-        religion = ibadi
-        size = 75
-    }
-
-    clergymen = {
-        culture = nyasa
-        religion = ibadi
-        size = 50
-    }
-
-    artisans = {
-        culture = nyasa
-        religion = ibadi
-        size = 200
-    }
-
-    soldiers = {
-        culture = nyasa
-        religion = ibadi
-        size = 450
-    }
-
-    aristocrats = {
-        culture = nyasa
-        religion = sunni
-        size = 400
-    }
-
-    clergymen = {
-        culture = nyasa
-        religion = sunni
-        size = 200
-    }
-
-    artisans = {
-        culture = nyasa
-        religion = sunni
-        size = 1050
-    }
-
-    soldiers = {
-        culture = nyasa
-        religion = sunni
-        size = 225
-    }
-
-    farmers = {
-        culture = nyasa
-        religion = sunni
-        size = 19125
-    }
-
-    slaves = {
-        culture = nyasa
-        religion = animist
-        size = 8000
+        size = 34100
     }
 }
 
-#Mataka (224000/56000 POPS)
+#Chiconono
 2581 = {
     aristocrats = {
         culture = nyasa
@@ -1031,83 +1193,7 @@
         size = 15000
     }
 }
-#Mocambique
-2060 = {
-    aristocrats = {
-        culture = nyasa
-        religion = animist
-        size = 200
-    }
-
-    clergymen = {
-        culture = nyasa
-        religion = animist
-        size = 200
-    }
-
-    artisans = {
-        culture = nyasa
-        religion = animist
-        size = 1050
-    }
-
-    soldiers = {
-        culture = nyasa
-        religion = animist
-        size = 250
-    }
-
-    farmers = {
-        culture = nyasa
-        religion = animist
-        size = 13300
-    }
-
-    slaves = {
-        culture = nyasa
-        religion = animist
-        size = 6000
-    }
-}
-#Angoche 
-2061 = {
-    aristocrats = {
-        culture = nyasa
-        religion = animist
-        size = 1000
-    }
-
-    clergymen = {
-        culture = nyasa
-        religion = animist
-        size = 800
-    }
-
-    artisans = {
-        culture = nyasa
-        religion = animist
-        size = 3000
-    }
-
-    soldiers = {
-        culture = nyasa
-        religion = animist
-        size = 2000
-    }
-
-    farmers = {
-        culture = nyasa
-        religion = animist
-        size = 50000
-    }
-
-    slaves = {
-        culture = nyasa
-        religion = animist
-        size = 8000
-    }
-}
-#Ibo (208000/52000 POPS)
+#Ibo
 2063 = {
     aristocrats = {
         culture = nyasa
@@ -1145,7 +1231,7 @@
         size = 5000
     }
 }
-#Nampula (208000/52000 POPS)
+#Nampula
 2064 = {
     aristocrats = {
         culture = nyasa
@@ -1181,5 +1267,189 @@
         culture = nyasa
         religion = animist
         size = 1100
+    }
+}
+#Upper Bacolod
+3335 = {
+    aristocrats = {
+        culture = nyasa
+        religion = animist
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = nyasa
+        religion = animist
+        size = 450
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 7500
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 29000
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 15000
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 216550
+    }
+}
+#Bohol Island
+3337 = {
+    aristocrats = {
+        culture = nyasa
+        religion = animist
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = nyasa
+        religion = animist
+        size = 450
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 750
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 10000
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 5000
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 76550
+    }
+}
+#Lanaon
+3338 = {
+    aristocrats = {
+        culture = nyasa
+        religion = animist
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = nyasa
+        religion = animist
+        size = 450
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 750
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 1000
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 3550
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 69000
+    }
+}
+#Sarangani
+3345 = {
+    aristocrats = {
+        culture = nyasa
+        religion = animist
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = nyasa
+        religion = animist
+        size = 450
+    }
+
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 750
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 1000
+    }
+
+    soldiers = {
+        culture = nyasa
+        religion = animist
+        size = 3550
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 69000
+    }
+	
+	slaves = {
+        culture = nyasa
+        religion = animist
+        size = 40000
+    }
+}
+#Highland Zamboanga
+3350 = {
+	aristocrats = {
+        culture = nyasa
+        religion = animist
+        size = 125
+    }
+ 
+    clergymen = {
+        culture = nyasa
+        religion = animist
+        size = 377
+    }
+
+    artisans = {
+        culture = nyasa
+        religion = animist
+        size = 1500
+    }
+
+    farmers = {
+        culture = nyasa
+        religion = animist
+        size = 32550
     }
 }

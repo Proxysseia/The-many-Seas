@@ -1,6 +1,4 @@
-#South Atlantic Islands (4240/1060 POPS)
-#Ruled by Britain 1836
-#Saint Helena (4000/1000 POPS)
+#Saint
 2129 = {
     bureaucrats = {
         culture = english
@@ -33,13 +31,13 @@
     }
 
     farmers = {
-        culture = nanfaren
+        culture = english
         religion = mahayana
         size = 155
     }
 
     farmers = {
-        culture = amazonian
+        culture = scottish
         religion = protestant
         size = 500
     }
@@ -72,5 +70,4 @@
         religion = protestant
         size = 60
     }
-
 }

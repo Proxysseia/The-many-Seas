@@ -92,7 +92,7 @@
     farmers = {
         culture = mongo
         religion = sunni
-        size = 32300
+        size = 38300
     }
 
     slaves = {
@@ -100,34 +100,30 @@
         religion = sunni
         size = 10400
     }
-
-    aristocrats = {
-        culture = maghrebi
-        religion = sunni
-        size = 50
-    }
-
+}
+#Durban 
+2111 = {
     clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 50
+        culture = tswana
+        religion = protestant
+        size = 100
     }
 
     artisans = {
-        culture = maghrebi
-        religion = sunni
-        size = 200
+        culture = tswana
+        religion = protestant
+        size = 100
     }
 
     soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 50
+        culture = tswana
+        religion = protestant
+        size = 300
     }
 
     farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 3650
+        culture = tswana
+        religion = protestant
+        size = 21420
     }
 }
