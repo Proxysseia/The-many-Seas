@@ -4503,74 +4503,6 @@
         size = 25300
     }
 }
-#Columbia (340000/85000 POPS)
-206 = {
-    aristocrats = {
-        culture = dixie
-        religion = protestant
-        size = 1100
-    }
-
-    bureaucrats = {
-        culture = dixie
-        religion = protestant
-        size = 200
-    }
-
-    officers = {
-        culture = dixie
-        religion = protestant
-        size = 150
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = protestant
-        size = 300
-    }
-
-    artisans = {
-        culture = dixie
-        religion = protestant
-        size = 2400
-    }
-
-    soldiers = {
-        culture = dixie
-        religion = protestant
-        size = 4000
-    }
-
-    farmers = {
-        culture = dixie
-        religion = protestant
-        size = 64575
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = protestant
-        size = 25
-    }
-
-    artisans = {
-        culture = dixie
-        religion = protestant
-        size = 500
-    }
-
-    farmers = {
-        culture = dixie
-        religion = protestant
-        size = 250
-    }
-
-    slaves = {
-        culture = dixie
-        religion = protestant
-        size = 42450
-    }
-}
 #Raleigh (156000/39000 POPS)
 208 = {
     aristocrats = {
@@ -5983,32 +5915,6 @@
         size = 26875
     }
 }
-#Rochester (176000/44000 POPS)
-237 = {
-    clergymen = {
-        culture = rustic
-        religion = protestant
-        size = 325
-    }
-
-    artisans = {
-        culture = rustic
-        religion = protestant
-        size = 2200
-    }
-
-    soldiers = {
-        culture = rustic
-        religion = protestant
-        size = 450
-    }
-
-    farmers = {
-        culture = rustic
-        religion = protestant
-        size = 51025
-    }
-}
 #Syracuse (304000/76000 POPS)
 238 = {
     clergymen = {
@@ -6096,77 +6002,6 @@
         religion = protestant
         size = 27725
     }
-}
-#Connecticut Region (304000)
-#ruled by the USA
-#Hartford (304000/76000 POPS)
-241 = {
-    bureaucrats = {
-        culture = rustic
-        religion = protestant
-        size = 900
-    }
-
-    officers = {
-        culture = rustic
-        religion = protestant
-        size = 250
-    }
-
-    capitalists = {
-        culture = rustic
-        religion = protestant
-        size = 225
-    }
-
-    clergymen = {
-        culture = rustic
-        religion = protestant
-        size = 1100
-    }
-
-    clerks = {
-        culture = rustic
-        religion = protestant
-        size = 1825
-    }
-
-    craftsmen = {
-        culture = rustic
-        religion = protestant
-        size = 22250
-    }
-
-    artisans = {
-        culture = rustic
-        religion = protestant
-        size = 3050
-    }
-
-    artisans = {
-        culture = rustic
-        religion = protestant
-        size = 10000
-    }
-
-    soldiers = {
-        culture = rustic
-        religion = protestant
-        size = 3000
-    }
-
-    farmers = {
-        culture = rustic
-        religion = protestant
-        size = 80000
-    }
-
-    farmers = {
-        culture = rustic
-        religion = catholic
-        size = 52250
-    }
-
 }
 #Rhode Island Region (104000)
 #ruled by the USA

@@ -1,6 +1,4 @@
-#antillean Antilles (319200)
-#Ruled by France 1836
-#Martinique (190800/27450 POPS)
+#Martinique
 2228 = {
     aristocrats = {
         culture = antillean
@@ -128,47 +126,6 @@
         culture = antillean
         religion = catholic
         size = 24000
-    }
-
-}
-
-#Saguenay (4000/1000 POPS)
-45 = {
-
-   aristocrats = {
-        culture = anglo_canadian
-        religion = catholic
-        size = 250
-    }
-
-    officers = {
-        culture = anglo_canadian
-        religion = catholic
-        size = 125
-    }
-
-    clergymen = {
-        culture = anglo_canadian
-        religion = catholic
-        size = 100
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = catholic
-        size = 1125
-    }
-
-    artisans = {
-        culture = anglo_canadian
-        religion = catholic
-        size = 555
-    }
-
-    farmers = {
-        culture = anglo_canadian
-        religion = catholic
-        size = 15500
     }
 
 }

@@ -1,43 +1,1207 @@
-#Kigali
-2034 = {
+#Kitwe
+790 = {
     aristocrats = {
-        culture = nyasa
+        culture = tswana
         religion = animist
-        size = 2450
+        size = 250
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 650
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 2000
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 21750
+    }
+}
+#Kinshasa 
+1982 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 6175
     }
 
     bureaucrats = {
-        culture = nyasa
+        culture = tswana
         religion = animist
-        size = 25
+        size = 700
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 3575
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 10000
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 4025
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 3000
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 575
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 146950
+    }
+
+    slaves = {
+        culture = tswana
+        religion = animist
+        size = 77000
+    }
+}
+#Kananga 
+1984 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 275
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 180
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 730
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 550
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 58875
+    }
+}
+#Kumbana (1364000/341000 POPS)
+1985 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 1100
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 550
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 2380
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 1925
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 86660
+    }
+}
+#Lusambo 
+1986 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 1100
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 550
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 2380
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 1925
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 161990
+    }
+}
+#Bunkeya 
+1987 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 7150
+    }
+
+    bureaucrats = {
+        culture = tswana
+        religion = animist
+        size = 575
     }
 
     officers = {
-        culture = nyasa
+        culture = tswana
+        religion = animist
+        size = 290
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 3575
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 10000
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 3000
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 1030
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 307180
+    }
+}
+#Mussumba 
+1988 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 1100
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 640
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 2475
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 1925
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 65475
+    }
+}
+#Munza 
+1989 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 4030
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 1830
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 7520
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 2775
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 43070
+    }
+
+    slaves = {
+        culture = tswana
+        religion = animist
+        size = 17670
+    }
+}
+#Nyangwe 
+1990 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 825
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 460
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 1925
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 1375
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 49330
+    }
+}
+#Uvira
+1991 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 1375
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 730
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 2840
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 2200
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 149320
+    }
+}
+#Irebu
+1993 = {
+    aristocrats = {
+        culture = mongo
+        religion = animist
+        size = 1100
+    }
+
+    clergymen = {
+        culture = mongo
+        religion = animist
+        size = 550
+    }
+
+    artisans = {
+        culture = mongo
+        religion = animist
+        size = 2200
+    }
+
+    soldiers = {
+        culture = mongo
+        religion = animist
+        size = 1650
+    }
+
+    farmers = {
+        culture = mongo
+        religion = animist
+        size = 69690
+    }
+
+    slaves = {
+        culture = maghrebi
+        religion = animist
+        size = 10000
+    }
+}
+#Nsheng
+1994 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 1100
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 550
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 2200
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 1650
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 169690
+    }
+
+    slaves = {
+        culture = tswana
+        religion = animist
+        size = 10000
+    }
+}
+#Gemena
+1995 = {
+    aristocrats = {
+        culture = mongo
+        religion = animist
+        size = 2000
+    }
+
+    clergymen = {
+        culture = mongo
+        religion = animist
+        size = 1100
+    }
+
+    artisans = {
+        culture = mongo
+        religion = animist
+        size = 4125
+    }
+
+    soldiers = {
+        culture = mongo
+        religion = animist
+        size = 1100
+    }
+
+    farmers = {
+        culture = mongo
+        religion = animist
+        size = 149750
+    }
+
+    slaves = {
+        culture = mongo
+        religion = animist
+        size = 14670
+    }
+}
+
+#Luanda 
+1999 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 500
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 1500
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 13000
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 8250
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 61550
+    }
+}
+#Mbanza
+2001 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 1000
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 500
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 2400
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 5100
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 30350
+    }
+}
+#Quibala
+2002 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 300
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 1200
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 300
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 21950
+    }
+
+    slaves = {
+        culture = tswana
+        religion = animist
+        size = 6000
+    }
+}
+#Benguela 
+2003 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 1300
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 900
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 2500
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 5300
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 70800
+    }
+
+    slaves = {
+        culture = tswana
+        religion = animist
+        size = 5800
+    }
+}
+#Mocamedes
+2004 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 300
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 600
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 2750
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 5300
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 81250
+    }
+
+    slaves = {
+        culture = tswana
+        religion = animist
+        size = 7800
+    }
+}
+#Huambo
+2005 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 600
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 550
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 2600
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 600
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 66650
+    }
+
+    slaves = {
+        culture = tswana
+        religion = animist
+        size = 10000
+    }
+
+}
+#Kuito
+2006 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 350
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 350
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 1800
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 400
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 86700
+    }
+
+    slaves = {
+        culture = tswana
+        religion = animist
+        size = 11500
+    }
+}
+#Mavinga
+2007 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 500
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 750
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 750
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 500
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 12400
+    }
+}
+#Ondjiva
+2008 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 230
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 160
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 575
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 300
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 12205
+    }
+}
+#Malanje
+2009 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 250
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 9350
+    }
+
+    slaves = {
+        culture = tswana
+        religion = animist
+        size = 3200
+    }
+}
+#Saurimo
+2010 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 250
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 1250
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 250
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 15000
+    }
+
+    slaves = {
+        culture = tswana
+        religion = animist
+        size = 9000
+    }
+}
+#Kubanda
+2011 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 150
+    }
+
+    clergymen = {
+        culture = tswana
         religion = animist
         size = 125
     }
 
-    clergymen = {
-        culture = nyasa
-        religion = animist
-        size = 1750
-    }
-
     artisans = {
-        culture = nyasa
+        culture = tswana
         religion = animist
-        size = 6200
+        size = 750
     }
 
     soldiers = {
-        culture = nyasa
+        culture = tswana
+        religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 14125
+    }
+
+    slaves = {
+        culture = tswana
+        religion = animist
+        size = 5700
+    }
+}
+#Kabwe
+2012 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 675
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 650
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 5200
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 5500
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 56575
+    }
+}
+#Senanga
+2013 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 225
+    }
+
+    bureaucrats = {
+        culture = tswana
+        religion = animist
+        size = 100
+    }
+
+    officers = {
+        culture = tswana
+        religion = animist
+        size = 65
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 125
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 1500
+    }
+
+    soldiers = {
+        culture = tswana
         religion = animist
         size = 1250
     }
 
     farmers = {
-        culture = nyasa
+        culture = tswana
+        religion = animist
+        size = 112950
+    }
+}
+#Kasempa
+2014 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 6150
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 575
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 1325
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 2100
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 9350
+    }
+}
+#Monzo
+2015 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 1475
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 1250
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 6100
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 4500
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 67025
+    }
+}
+#Kazembe
+2016 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = tswana
+        religion = animist
+        size = 300
+    }
+
+    officers = {
+        culture = tswana
+        religion = animist
+        size = 120
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 1100
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 5150
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 35000
+    }
+}
+#Kasema
+2017 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 200
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 2500
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 4150
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 33050
+    }
+}
+#Chipata
+2018 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 600
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 3250
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 4275
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 22525
+    }
+}
+#Kigali
+2034 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 2450
+    }
+
+    bureaucrats = {
+        culture = tswana
+        religion = animist
+        size = 25
+    }
+
+    officers = {
+        culture = tswana
+        religion = animist
+        size = 125
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 1750
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 6200
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 1250
+    }
+
+    farmers = {
+        culture = tswana
         religion = animist
         size = 113200
     }
@@ -45,43 +1209,43 @@
 #Usumbura
 2035 = {
     aristocrats = {
-        culture = nyasa
+        culture = tswana
         religion = animist
         size = 2175
     }
 
     bureaucrats = {
-        culture = nyasa
+        culture = tswana
         religion = animist
         size = 15
     }
 
     officers = {
-        culture = nyasa
+        culture = tswana
         religion = animist
         size = 110
     }
 
     clergymen = {
-        culture = nyasa
+        culture = tswana
         religion = animist
         size = 1125
     }
 
     artisans = {
-        culture = nyasa
+        culture = tswana
         religion = animist
         size = 5600
     }
 
     soldiers = {
-        culture = nyasa
+        culture = tswana
         religion = animist
         size = 1125
     }
 
     farmers = {
-        culture = nyasa
+        culture = tswana
         religion = animist
         size = 101850
     }
@@ -103,7 +1267,7 @@
     artisans = {
         culture = tswana
         religion = animist
-        size = 4000
+        size = 8000
     }
 
     soldiers = {
@@ -115,7 +1279,7 @@
     farmers = {
         culture = tswana
         religion = animist
-        size = 57800
+        size = 67800
     }
 
     slaves = {
@@ -159,37 +1323,37 @@
 #Mocambique
 2060 = {
     aristocrats = {
-        culture = nyasa
+        culture = tswana
         religion = animist
         size = 200
     }
 
     clergymen = {
-        culture = nyasa
+        culture = tswana
         religion = animist
         size = 200
     }
 
     artisans = {
-        culture = nyasa
+        culture = tswana
         religion = animist
         size = 1050
     }
 
     soldiers = {
-        culture = nyasa
+        culture = tswana
         religion = animist
         size = 250
     }
 
     farmers = {
-        culture = nyasa
+        culture = tswana
         religion = animist
         size = 13300
     }
 
     slaves = {
-        culture = nyasa
+        culture = tswana
         religion = animist
         size = 6000
     }
@@ -197,37 +1361,37 @@
 #Angoche 
 2061 = {
     aristocrats = {
-        culture = nyasa
+        culture = tswana
         religion = animist
         size = 1000
     }
 
     clergymen = {
-        culture = nyasa
+        culture = tswana
         religion = animist
         size = 800
     }
 
     artisans = {
-        culture = nyasa
+        culture = tswana
         religion = animist
         size = 3000
     }
 
     soldiers = {
-        culture = nyasa
+        culture = tswana
         religion = animist
         size = 2000
     }
 
     farmers = {
-        culture = nyasa
+        culture = tswana
         religion = animist
         size = 50000
     }
 
     slaves = {
-        culture = nyasa
+        culture = tswana
         religion = animist
         size = 8000
     }
@@ -236,63 +1400,153 @@
 2067 = {
     aristocrats = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 350
     }
 
     clergymen = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 200
     }
 
     artisans = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 950
     }
 
     soldiers = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 2000
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 31300
+    }
+}
+#Swakopmund
+2079 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 150
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 450
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 62200
+    }
+}
+#Walvis Bay
+2083 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 15
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 1925
+    }
+}
+#Angra Pequena
+2084 = {
+    aristocrats = {
+        culture = tswana
+        religion = animist
+        size = 125
+    }
+
+    clergymen = {
+        culture = tswana
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = tswana
+        religion = animist
+        size = 350
+    }
+
+    soldiers = {
+        culture = tswana
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = tswana
+        religion = animist
+        size = 106375
     }
 }
 #Cape Town 
 2087 = {
     aristocrats = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     clergymen = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 2750
     }
 
     soldiers = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 3500
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 41050
     }
 }
@@ -300,83 +1554,83 @@
 2088 = {
     aristocrats = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 25
     }
 
     clergymen = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     soldiers = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 25
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
-        size = 2750
+        religion = animist
+        size = 102750
     }
 }
 #Swettenham
 2090 = {
     clergymen = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 200
     }
 
     soldiers = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 1000
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
-        size = 16525
+        religion = animist
+        size = 66525
     }
 }
 #Mossel Bay
 2091 = {
     clergymen = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 100
     }
 
     soldiers = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 300
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 10775
     }
 }
@@ -384,31 +1638,31 @@
 2098 = {
     aristocrats = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 200
     }
 
     clergymen = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 1100
     }
 
     soldiers = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 1200
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 18500
     }
 }
@@ -416,43 +1670,43 @@
 2100 = {
     aristocrats = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 400
     }
 
     bureaucrats = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 200
     }
 
     clergymen = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 400
     }
 
     artisans = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 1800
     }
 
     soldiers = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 1400
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 32000
     }
 
     slaves = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 1350
     }
 }
@@ -460,25 +1714,25 @@
 2110 = {
     artisans = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 1000
     }
 
     clergymen = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 100
     }
 
     soldiers = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 1000
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 25000
     }
 }
@@ -486,31 +1740,31 @@
 2114 = {
     aristocrats = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 250
     }
 
     clergymen = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 1500
     }
 
     artisans = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 3700
     }
 
     soldiers = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 1500
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = animist
         size = 41750
     }
 }
