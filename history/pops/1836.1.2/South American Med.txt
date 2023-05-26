@@ -156,82 +156,6 @@
         size = 9500
     }
 }
-#Biloka
-1979 = {
-    aristocrats = {
-        culture = nossogene
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = nossogene
-        religion = catholic
-        size = 250
-    }
-
-    artisans = {
-        culture = nossogene
-        religion = catholic
-        size = 500
-    }
-
-    soldiers = {
-        culture = nossogene
-        religion = catholic
-        size = 150
-    }
-
-    farmers = {
-        culture = nossogene
-        religion = catholic
-        size = 9000
-    }
-}
-#Turks & Caicos Islands
-2220 = {
-    aristocrats = {
-        culture = nossogene
-        religion = catholic
-        size = 1000
-    }
-
-    bureaucrats = {
-        culture = nossogene
-        religion = catholic
-        size = 600
-    }
-
-    soldiers = {
-        culture = nossogene
-        religion = catholic
-        size = 1500
-    }
-
-    artisans = {
-        culture = nossogene
-        religion = catholic
-        size = 1750
-    }
-
-    clergymen = {
-        culture = nossogene
-        religion = catholic
-        size = 1500
-    }
-
-    farmers = {
-        culture = nossogene
-        religion = catholic
-        size = 26000
-    }
-
-    slaves = {
-        culture = amazonian
-        religion = catholic
-        size = 4900
-    }
-}
 #Antigua
 2224 = {
     aristocrats = {
@@ -659,38 +583,7 @@
         size = 4000
     }
 }
-#Maripasoula
-2246 = {
-    aristocrats = {
-        culture = nossogene
-        religion = animist
-        size = 10
-    }
 
-    clergymen = {
-        culture = nossogene
-        religion = animist
-        size = 150
-    }
-
-    artisans = {
-        culture = nossogene
-        religion = animist
-        size = 1500
-    }
-
-    soldiers = {
-        culture = nossogene
-        religion = animist
-        size = 1000
-    }
-
-    farmers = {
-        culture = nossogene
-        religion = animist
-        size = 5800
-    }
-}
 #San Fernando de Atabapo
 2278 = {
     aristocrats = {
@@ -1059,32 +952,6 @@
         culture = nossogene
         religion = catholic
         size = 21000
-    }
-}
-#Obidos
-2412 = {
-    clergymen = {
-        culture = nossogene
-        religion = catholic
-        size = 250
-    }
-
-    artisans = {
-        culture = nossogene
-        religion = catholic
-        size = 4500
-    }
-
-    soldiers = {
-        culture = nossogene
-        religion = catholic
-        size = 2500
-    }
-
-    farmers = {
-        culture = nossogene
-        religion = catholic
-        size = 37000
     }
 }
 #Macapa

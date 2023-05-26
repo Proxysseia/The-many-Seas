@@ -206,45 +206,6 @@
         size = 31375
     }
 }
-#Cadiz (336000/84000 POPS)
-512 = {
-    aristocrats = {
-        culture = berber
-        religion = sunni
-        size = 1100
-    }
-
-    clergymen = {
-        culture = berber
-        religion = sunni
-        size = 850
-    }
-
-    artisans = {
-        culture = berber
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = berber
-        religion = sunni
-        size = 6500
-    }
-
-    soldiers = {
-        culture = berber
-        religion = sunni
-        size = 1100
-    }
-
-    farmers = {
-        culture = berber
-        religion = sunni
-        size = 64650
-    }
-
-}
 #Granada
 513 = {
     aristocrats = {

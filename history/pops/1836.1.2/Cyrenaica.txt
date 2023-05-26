@@ -1,0 +1,108 @@
+#Benghaz
+1735 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 275
+    }
+
+    bureaucrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 25
+    }
+
+    officers = {
+        culture = maghrebi
+        religion = sunni
+        size = 25
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 735
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 24025
+    }
+}
+#Darnah (60000/15000 POPS)
+1736 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 175
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 1250
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 1250
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 17575
+    }
+}
+#Tobruk
+1737 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 25
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 1150
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 1225
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 12700
+    }
+}

@@ -1,88 +1,891 @@
-#Dar es Salaam
-2036 = {
-    aristocrats = {
-        culture = nyasa
+#Barrie
+53 = {
+    clergymen = {
+        culture = nuer
         religion = sunni
-        size = 950
+        size = 125
     }
 
-    bureaucrats = {
-        culture = nyasa
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 1250
+    }
+
+    soldiers = {
+        culture = nuer
         religion = sunni
         size = 750
     }
 
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 23250
+    }
+}
+#Milwaukee
+159 = {
+    clergymen = {
+        culture = nuer
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 200
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 50
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 3700
+    }
+}
+#Green Bay
+161 = {
+    clergymen = {
+        culture = nuer
+        religion = sunni
+        size = 400
+    }
+
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 5000
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 3000
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 17910
+    }
+}
+#Madison
+162 = {
+    bureaucrats = {
+        culture = nuer
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = nuer
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 4000
+    }
+	
+	artisans = {
+        culture = nuer
+        religion = sunni
+        size = 6000
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 2500
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 45835
+    }
+}
+#Chicago
+163 = {
+    aristocrats = {
+        culture = nuer
+        religion = sunni
+        size = 5000
+    }
+
+    bureaucrats = {
+        culture = nuer
+        religion = sunni
+        size = 1400
+    }
+
     officers = {
-        culture = nyasa
+        culture = nuer
+        religion = sunni
+        size = 75
+    }
+
+    capitalists = {
+        culture = nuer
+        religion = sunni
+        size = 50
+    }
+
+    clerks = {
+        culture = nuer
+        religion = sunni
+        size = 200
+    }
+
+    craftsmen = {
+        culture = nuer
+        religion = sunni
+        size = 8000
+    }
+
+    clergymen = {
+        culture = nuer
+        religion = sunni
+        size = 800
+    }
+
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 2150
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 8000
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 91125
+    }
+}
+#Newark
+229 = {
+    clergymen = {
+        culture = nuer
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 1550
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 325
+    }
+
+    craftsmen = {
+        culture = nuer
+        religion = sunni
+        size = 1200
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 47925
+    }
+}
+#Vigan
+1456 = {
+    aristocrats = {
+        culture = nuer
+        religion = sunni
+        size = 1100
+    }
+
+    clergymen = {
+        culture = nuer
+        religion = sunni
+        size = 625
+    }
+
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 7350
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 4500
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 144525
+    }
+}
+#Cagayan De Orio
+1463 = {
+    bureaucrats = {
+        culture = nuer
+        religion = sunni
+        size = 75
+    }
+
+    clergymen = {
+        culture = nuer
+        religion = sunni
+        size = 50
+    }
+
+    aristocrats = {
+        culture = nuer
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 1850
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 3100
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 29800
+    }
+}
+#Waw
+1843 = {
+    aristocrats = {
+        culture = nuer
         religion = sunni
         size = 125
     }
 
     clergymen = {
-        culture = nyasa
+        culture = nuer
         religion = sunni
-        size = 525
+        size = 300
     }
 
     artisans = {
-        culture = nyasa
+        culture = nuer
+        religion = sunni
+        size = 300
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 750
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 12000
+    }
+
+    slaves = {
+        culture = nuer
+        religion = sunni
+        size = 4000
+    }
+}
+#Bor
+1844 = {
+    aristocrats = {
+        culture = nuer
+        religion = sunni
+        size = 1000
+    }
+	
+	clergymen = {
+        culture = nuer
+        religion = sunni
+        size = 500
+    }
+
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 2750
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 400
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 70000
+    }
+
+    slaves = {
+        culture = nuer
+        religion = sunni
+        size = 10000
+    }
+}
+#Yambio
+1845 = {
+    aristocrats = {
+        culture = nuer
+        religion = sunni
+        size = 750
+    }
+
+    clergymen = {
+        culture = nuer
+        religion = sunni
+        size = 500
+    }
+
+    artisans = {
+        culture = nuer
         religion = sunni
         size = 2000
     }
 
     soldiers = {
-        culture = nyasa
+        culture = nuer
+        religion = sunni
+        size = 2500
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 36500
+    }
+}
+#Lado
+1846 = {
+    aristocrats = {
+        culture = nuer
+        religion = sunni
+        size = 1450
+    }
+
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 4200
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 2500
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 52100
+    }
+}
+#Kapoeta
+1847 = {
+    aristocrats = {
+        culture = nuer
+        religion = sunni
+        size = 925
+    }
+
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 2400
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 3000
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 35800
+    }
+}
+#Zemio 
+1969 = {
+    aristocrats = {
+        culture = nuer
+        religion = sunni
+        size = 300
+    }
+
+    clergymen = {
+        culture = nuer
+        religion = sunni
+        size = 400
+    }
+
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 1000
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 2500
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 20000
+    }
+}
+#Kisangani 
+1996 = {
+    aristocrats = {
+        culture = nuer
+        religion = sunni
+        size = 3000
+    }
+
+    clergymen = {
+        culture = nuer
+        religion = sunni
+        size = 1500
+    }
+
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 5750
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 1500
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 80000
+    }
+
+    slaves = {
+        culture = nuer
+        religion = sunni
+        size = 30000
+    }
+}
+#Mungbane
+1997 = {
+    aristocrats = {
+        culture = nuer
+        religion = sunni
+        size = 1000
+    }
+
+    clergymen = {
+        culture = nuer
+        religion = sunni
+        size = 600
+    }
+
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 2100
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 200000
+    }
+
+    slaves = {
+        culture = nuer
+        religion = sunni
+        size = 30000
+    }
+}
+#Baramo
+1998 = {
+    aristocrats = {
+        culture = nuer
+        religion = sunni
+        size = 1925
+    }
+
+    clergymen = {
+        culture = nuer
+        religion = sunni
+        size = 1100
+    }
+
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 4950
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 190110
+    }
+}
+
+#Entebbe 
+2019 = {
+    aristocrats = {
+        culture = nuer
+        religion = sunni
+        size = 1000
+    }
+
+    bureaucrats = {
+        culture = nuer
+        religion = sunni
+        size = 50
+    }
+
+    officers = {
+        culture = nuer
+        religion = sunni
+        size = 50
+    }
+
+    clergymen = {
+        culture = nuer
+        religion = sunni
+        size = 725
+    }
+
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 2800
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 2000
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 62025
+    }
+}
+#Masindi
+2021 = {
+    aristocrats = {
+        culture = nuer
+        religion = sunni
+        size = 550
+    }
+
+    clergymen = {
+        culture = nuer
+        religion = sunni
+        size = 300
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 3400
+    }
+
+	artisans = {
+        culture = nuer
+        religion = sunni
+        size = 2450
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 47000
+    }
+}
+#Kitgum
+2022 = {
+    aristocrats = {
+        culture = nuer
+        religion = sunni
+        size = 375
+    }
+
+    clergymen = {
+        culture = nuer
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 775
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 34450
+    }
+
+    slaves = {
+        culture = nuer
+        religion = sunni
+        size = 3300
+    }
+}
+#Lodwar
+2026 = {
+    aristocrats = {
+        culture = nuer
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = nuer
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 250
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 75
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 9625
+    }
+
+    slaves = {
+        culture = nuer
+        religion = sunni
+        size = 1100
+    }
+}
+#Kisumu
+2028 = {
+    aristocrats = {
+        culture = nuer
+        religion = sunni
+        size = 375
+    }
+
+    clergymen = {
+        culture = nuer
+        religion = sunni
+        size = 600
+    }
+
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 775
+    }
+
+    soldiers = {
+        culture = nuer
+        religion = sunni
+        size = 1300
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 50350
+    }
+}
+#Dar es Salaam
+2036 = {
+    aristocrats = {
+        culture = nuer
+        religion = sunni
+        size = 950
+    }
+
+    bureaucrats = {
+        culture = nuer
+        religion = sunni
+        size = 750
+    }
+
+    officers = {
+        culture = nuer
+        religion = sunni
+        size = 125
+    }
+
+    clergymen = {
+        culture = nuer
+        religion = sunni
+        size = 525
+    }
+
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 2000
+    }
+
+    soldiers = {
+        culture = nuer
         religion = sunni
         size = 500
     }
 
     farmers = {
-        culture = nyasa
+        culture = nuer
         religion = sunni
         size = 50000
     }
 
     slaves = {
-        culture = nyasa
-        religion = animist
+        culture = nuer
+        religion = sunni
         size = 14000
     }
 }
 #Tanga
 2037 = {
     aristocrats = {
-        culture = nyasa
+        culture = nuer
         religion = sunni
         size = 325
     }
 
     clergymen = {
-        culture = nyasa
+        culture = nuer
         religion = sunni
         size = 175
     }
 
     artisans = {
-        culture = nyasa
+        culture = nuer
         religion = sunni
         size = 725
     }
 
     soldiers = {
-        culture = nyasa
+        culture = nuer
         religion = sunni
         size = 175
     }
 
     farmers = {
-        culture = nyasa
+        culture = nuer
         religion = sunni
         size = 14000
     }
 
     slaves = {
-        culture = nyasa
-        religion = animist
+        culture = nuer
+        religion = sunni
         size = 6000
+    }
+}
+#West Agusan
+3349 = {
+	aristocrats = {
+        culture = nuer
+        religion = sunni
+        size = 250
+    }
+ 
+    clergymen = {
+        culture = nuer
+        religion = sunni
+        size = 750
+    }
+
+    artisans = {
+        culture = nuer
+        religion = sunni
+        size = 3500
+    }
+
+    soldiers = {
+		culture = nuer
+        religion = sunni
+        size = 6000
+    }
+
+    farmers = {
+        culture = nuer
+        religion = sunni
+        size = 104550
     }
 }

@@ -1,0 +1,76 @@
+#Murzuk
+1741 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 15
+    }
+
+    bureaucrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 20
+    }
+
+    officers = {
+        culture = maghrebi
+        religion = sunni
+        size = 15
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 25
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 50
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 10
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 5880
+    }
+}
+#Ghadamis
+1744 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 65
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 75
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 200
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 7650
+    }
+}

@@ -1013,98 +1013,6 @@
     }
 
 }
-#Aosta (156000/39000 POPS)
-721 = {
-    aristocrats = {
-        culture = north_italian
-        religion = vitalic
-        size = 175
-    }
-
-    clergymen = {
-        culture = north_italian
-        religion = vitalic
-        size = 150
-    }
-
-    artisans = {
-        culture = north_italian
-        religion = vitalic
-        size = 775
-    }
-
-    soldiers = {
-        culture = north_italian
-        religion = vitalic
-        size = 150
-    }
-
-    farmers = {
-        culture = north_italian
-        religion = vitalic
-        size = 14250
-    }
-
-    aristocrats = {
-        culture = swiss
-        religion = vitalic
-        size = 475
-    }
-
-    clergymen = {
-        culture = swiss
-        religion = vitalic
-        size = 150
-    }
-
-    artisans = {
-        culture = swiss
-        religion = vitalic
-        size = 1775
-    }
-
-    soldiers = {
-        culture = swiss
-        religion = vitalic
-        size = 550
-    }
-
-    farmers = {
-        culture = swiss
-        religion = vitalic
-        size = 34250
-    }
-
-    aristocrats = {
-        culture = swiss
-        religion = vitalic
-        size = 275
-    }
-
-    clergymen = {
-        culture = swiss
-        religion = vitalic
-        size = 225
-    }
-
-    artisans = {
-        culture = swiss
-        religion = vitalic
-        size = 1175
-    }
-
-    soldiers = {
-        culture = swiss
-        religion = vitalic
-        size = 225
-    }
-
-    farmers = {
-        culture = swiss
-        religion = vitalic
-        size = 11600
-    }
-}
 #Novara (212000/53000 POPS)
 722 = {
     aristocrats = {
@@ -1530,42 +1438,7 @@
         size = 43325
     }
 }
-
-#Sondrio - former Amga (6000/1500 POPS)
-2669 = {
-    clergymen = {
-        culture = swiss
-        religion = vitalic
-        size = 100
-    }
-
-    artisans = {
-        culture = swiss
-        religion = vitalic
-        size = 1500
-    }
-
-    soldiers = {
-        culture = swiss
-        religion = vitalic
-        size = 500
-    }
-
-    farmers = {
-        culture = swiss
-        religion = vitalic
-        size = 23325
-    }
-
-    farmers = {
-        culture = north_italian
-        religion = vitalic
-        size = 10000
-    }
-
-}
-
-#Elba - Former Impfondo (32000/8000 POPS)
+#Elba
 1981 = {
 
     clergymen = {

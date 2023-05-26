@@ -1,12 +1,38 @@
+#Dayton
+181 = {
+    clergymen = {
+        culture = greek
+        religion = sunni
+        size = 525
+    }
+
+    artisans = {
+        culture = greek
+        religion = sunni
+        size = 2450
+    }
+
+    soldiers = {
+        culture = greek
+        religion = sunni
+        size = 500
+    }
+
+    farmers = {
+        culture = greek
+        religion = sunni
+        size = 35725
+    }
+}
 #An Nuhud
 1739 = {
     farmers = {
-        culture = mongo
+        culture = greek
         religion = sunni
         size = 7000
     }
 	farmers = {
-        culture = somali
+        culture = greek
         religion = sunni
         size = 8500
     }
@@ -14,7 +40,7 @@
 #Nuhud
 1839 = {
     farmers = {
-        culture = somali
+        culture = greek
         religion = sunni
         size = 5000
     }
@@ -22,43 +48,43 @@
 #Fasher
 1841 = {
     aristocrats = {
-        culture = mongo
+        culture = greek
         religion = sunni
         size = 1200
     }
 
     bureaucrats = {
-        culture = mongo
+        culture = greek
         religion = sunni
         size = 100
     }
 
     officers = {
-        culture = mongo
+        culture = greek
         religion = sunni
         size = 200
     }
 
     clergymen = {
-        culture = mongo
+        culture = greek
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = mongo
+        culture = greek
         religion = sunni
         size = 2600
     }
 
     soldiers = {
-        culture = mongo
+        culture = greek
         religion = sunni
         size = 1250
     }
 
     farmers = {
-        culture = mongo
+        culture = greek
         religion = sunni
         size = 58600
     }
@@ -66,37 +92,37 @@
 #Junayah 
 1842 = {
     aristocrats = {
-        culture = mongo
+        culture = greek
         religion = sunni
         size = 650
     }
 
     clergymen = {
-        culture = mongo
+        culture = greek
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = mongo
+        culture = greek
         religion = sunni
         size = 1500
     }
 
     soldiers = {
-        culture = mongo
+        culture = greek
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = mongo
+        culture = greek
         religion = sunni
         size = 38300
     }
 
     slaves = {
-        culture = mongo
+        culture = greek
         religion = sunni
         size = 10400
     }
@@ -104,26 +130,192 @@
 #Durban 
 2111 = {
     clergymen = {
-        culture = tswana
-        religion = protestant
+        culture = greek
+        religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = tswana
-        religion = protestant
+        culture = greek
+        religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = tswana
-        religion = protestant
+        culture = greek
+        religion = sunni
         size = 300
     }
 
     farmers = {
-        culture = tswana
-        religion = protestant
+        culture = greek
+        religion = sunni
         size = 21420
+    }
+}
+#Antsiranana
+2120 = {
+    aristocrats = {
+        culture = greek
+        religion = sunni
+        size = 775
+    }
+
+    clergymen = {
+        culture = greek
+        religion = sunni
+        size = 450
+    }
+
+    artisans = {
+        culture = greek
+        religion = sunni
+        size = 1800
+    }
+
+    soldiers = {
+        culture = greek
+        religion = sunni
+        size = 1750
+    }
+
+    farmers = {
+        culture = greek
+        religion = sunni
+        size = 24600
+    }
+}
+#Comoro Islands
+2123 = {
+    aristocrats = {
+        culture = greek
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = greek
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = greek
+        religion = sunni
+        size = 325
+    }
+
+    soldiers = {
+        culture = greek
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = greek
+        religion = sunni
+        size = 13425
+    }
+}
+#Turks & Caicos Islands
+2220 = {
+    aristocrats = {
+        culture = greek
+        religion = sunni
+        size = 1000
+    }
+
+    bureaucrats = {
+        culture = greek
+        religion = sunni
+        size = 600
+    }
+
+    soldiers = {
+        culture = greek
+        religion = sunni
+        size = 1500
+    }
+
+    artisans = {
+        culture = greek
+        religion = sunni
+        size = 1750
+    }
+
+    clergymen = {
+        culture = greek
+        religion = sunni
+        size = 1500
+    }
+
+    farmers = {
+        culture = greek
+        religion = sunni
+        size = 26000
+    }
+
+    slaves = {
+        culture = greek
+        religion = sunni
+        size = 4900
+    }
+}
+#Saint Thomas
+2223 = {
+    aristocrats = {
+        culture = greek
+        religion = sunni
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = greek
+        religion = sunni
+        size = 25
+    }
+
+    artisans = {
+        culture = greek
+        religion = sunni
+        size = 175
+    }
+
+    farmers = {
+        culture = greek
+        religion = sunni
+        size = 25000
+    }
+
+    slaves = {
+        culture = greek
+        religion = sunni
+        size = 500
+    }
+}
+#Obidos
+2412 = {
+    clergymen = {
+        culture = greek
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = greek
+        religion = sunni
+        size = 4500
+    }
+
+    soldiers = {
+        culture = greek
+        religion = sunni
+        size = 2500
+    }
+
+    farmers = {
+        culture = greek
+        religion = sunni
+        size = 37000
     }
 }

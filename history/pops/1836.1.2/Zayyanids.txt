@@ -1,0 +1,405 @@
+#Oskaloosa
+152 = {
+    clergymen = {
+        culture = parish
+        religion = sunni
+        size = 25
+    }
+
+    artisans = {
+        culture = parish
+        religion = sunni
+        size = 100
+    }
+
+    soldiers = {
+        culture = parish
+        religion = sunni
+        size = 525
+    }
+
+    farmers = {
+        culture = parish
+        religion = sunni
+        size = 4850
+    }
+}
+#Marietta
+183 = {
+    clergymen = {
+        culture = parish
+        religion = sunni
+        size = 325
+    }
+
+    artisans = {
+        culture = parish
+        religion = sunni
+        size = 1950
+    }
+
+    soldiers = {
+        culture = parish
+        religion = sunni
+        size = 1000
+    }
+
+    farmers = {
+        culture = parish
+        religion = sunni
+        size = 46425
+    }
+}
+#Jackson
+192 = {
+    aristocrats = {
+        culture = parish
+        religion = sunni
+        size = 525
+    }
+
+    bureaucrats = {
+        culture = parish
+        religion = sunni
+        size = 125
+    }
+
+    officers = {
+        culture = parish
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = parish
+        religion = sunni
+        size = 175
+    }
+
+    artisans = {
+        culture = parish
+        religion = sunni
+        size = 1650
+    }
+
+    soldiers = {
+        culture = parish
+        religion = sunni
+        size = 1400
+    }
+
+    farmers = {
+        culture = parish
+        religion = sunni
+        size = 31050
+    }
+}
+#Aosta
+721 = {
+    aristocrats = {
+        culture = parish
+        religion = sunni
+        size = 775
+    }
+
+    clergymen = {
+        culture = parish
+        religion = sunni
+        size = 650
+    }
+
+    artisans = {
+        culture = parish
+        religion = sunni
+        size = 2775
+    }
+
+    soldiers = {
+        culture = parish
+        religion = sunni
+        size = 5150
+    }
+
+    farmers = {
+        culture = parish
+        religion = sunni
+        size = 42500
+    }
+}
+#Sabha
+1742 = {
+    aristocrats = {
+        culture = parish
+        religion = sunni
+        size = 15
+    }
+
+    clergymen = {
+        culture = parish
+        religion = sunni
+        size = 25
+    }
+
+    artisans = {
+        culture = parish
+        religion = sunni
+        size = 50
+    }
+
+    soldiers = {
+        culture = parish
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = parish
+        religion = sunni
+        size = 5900
+    }
+}
+#Farafra
+1758 = {
+    aristocrats = {
+        culture = parish
+        religion = sunni
+        size = 25
+    }
+
+    clergymen = {
+        culture = parish
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = parish
+        religion = sunni
+        size = 100
+    }
+
+    soldiers = {
+        culture = parish
+        religion = sunni
+        size = 25
+    }
+
+    farmers = {
+        culture = parish
+        religion = sunni
+        size = 1800
+    }
+}
+#Biloka
+1979 = {
+    aristocrats = {
+        culture = parish
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = parish
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = parish
+        religion = sunni
+        size = 500
+    }
+
+    soldiers = {
+        culture = parish
+        religion = sunni
+        size = 150
+    }
+
+    farmers = {
+        culture = parish
+        religion = sunni
+        size = 9000
+    }
+}
+#Ampanihy
+2117 = {
+    aristocrats = {
+        culture = parish
+        religion = sunni
+        size = 625
+    }
+
+    clergymen = {
+        culture = parish
+        religion = sunni
+        size = 325
+    }
+
+    artisans = {
+        culture = parish
+        religion = sunni
+        size = 1600
+    }
+
+    soldiers = {
+        culture = parish
+        religion = sunni
+        size = 3100
+    }
+
+    farmers = {
+        culture = parish
+        religion = sunni
+        size = 68450
+    }
+}
+#Tortola
+2226 = {
+    aristocrats = {
+        culture = parish
+        religion = sunni
+        size = 750
+    }
+
+    clergymen = {
+        culture = parish
+        religion = sunni
+        size = 110
+    }
+
+    artisans = {
+        culture = parish
+        religion = sunni
+        size = 2140
+    }
+
+    farmers = {
+        culture = parish
+        religion = sunni
+        size = 9640
+    }
+}
+#Maripasoula
+2246 = {
+    aristocrats = {
+        culture = parish
+        religion = sunni
+        size = 10
+    }
+
+    clergymen = {
+        culture = parish
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = parish
+        religion = sunni
+        size = 1500
+    }
+
+    soldiers = {
+        culture = parish
+        religion = sunni
+        size = 1000
+    }
+
+    farmers = {
+        culture = parish
+        religion = sunni
+        size = 5800
+    }
+}
+#Salima
+2564 = {
+    aristocrats = {
+        culture = parish
+        religion = sunni
+        size = 25
+    }
+
+    clergymen = {
+        culture = parish
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = parish
+        religion = sunni
+        size = 100
+    }
+
+    soldiers = {
+        culture = parish
+        religion = sunni
+        size = 25
+    }
+
+    farmers = {
+        culture = parish
+        religion = sunni
+        size = 1100
+    }
+}
+#Matan al Sarah
+2585 = {
+    aristocrats = {
+        culture = parish
+        religion = sunni
+        size = 25
+    }
+
+    clergymen = {
+        culture = parish
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = parish
+        religion = sunni
+        size = 150
+    }
+
+    soldiers = {
+        culture = parish
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = parish
+        religion = sunni
+        size = 12650
+    }
+}
+
+#Sondrio
+2669 = {
+    clergymen = {
+        culture = parish
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = parish
+        religion = sunni
+        size = 1500
+    }
+
+    soldiers = {
+        culture = parish
+        religion = sunni
+        size = 500
+    }
+
+    farmers = {
+        culture = parish
+        religion = sunni
+        size = 33325
+    }
+}

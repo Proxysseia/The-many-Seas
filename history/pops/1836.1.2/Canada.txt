@@ -58,44 +58,6 @@
         size = 14025
     }
 }
-#Bahrain (20000/5000 POPS) #now part of Bahrain
-1162 = {
-    aristocrats = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 500
-    }
-
-    officers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 50
-    }
-
-    clergymen = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 150
-    }
-
-    artisans = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 750
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 1050
-    }
-
-    farmers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 30500
-    }
-}
 #Dawson (4000/1000 POPS)
 7 = {
     aristocrats = {
@@ -1329,33 +1291,6 @@
     }
 
 }
-#Barrie (4000/1000 POPS)
-53 = {
-    clergymen = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 125
-    }
-
-    artisans = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 1250
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 750
-    }
-
-    farmers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 23250
-    }
-
-}
 #Pickle Lake (1200/3000 POPS)
 2594 = {
 
@@ -1512,54 +1447,7 @@
         size = 5700
     }
 }
-#Ottawa (44000/11000 POPS)
-57 = {
-    clergymen = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 500
-    }
-
-    artisans = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 8000
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 3000
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 3000
-    }
-
-    farmers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 120550
-    }
-
-    craftsmen = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 4000
-    }
-
-    farmers = {
-        culture = anglo_canadian
-        religion = catholic
-        size = 6000
-    }
-
-}
-#New Brunswick Region : 148000
-#Ruled by Britain 1836
-#Fredericton (84000/21000 POPS)
+#Fredericton
 68 = {
     bureaucrats = {
         culture = anglo_canadian

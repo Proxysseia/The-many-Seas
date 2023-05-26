@@ -28,7 +28,6 @@
 }
 #La Serena
 2323 = {
-
     soldiers = {
         culture = janeiran
         religion = catholic
@@ -55,7 +54,6 @@
 }
 #Santiago 
 2324 = {
-
     soldiers = {
         culture = janeiran
         religion = catholic
@@ -68,9 +66,8 @@
         size = 30000
     }
 }
-#Valparaiso (128000/32000 POPS)
+#Valparaiso
 2325 = {
-
     soldiers = {
         culture = janeiran
         religion = catholic
@@ -1197,77 +1194,6 @@
         culture = janeiran
         religion = catholic
         size = 13600
-    }
-}
-#Reconquista (56000/14000 POPS)
-2362 = {
-    aristocrats = {
-        culture = janeiran
-        religion = catholic
-        size = 550
-    }
-
-    clergymen = {
-        culture = janeiran
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = janeiran
-        religion = catholic
-        size = 250
-    }
-
-    soldiers = {
-        culture = janeiran
-        religion = catholic
-        size = 300
-    }
-
-    farmers = {
-        culture = janeiran
-        religion = catholic
-        size = 8700
-    }
-
-    slaves = {
-        culture = amazonian
-        religion = catholic
-        size = 2000
-    }
-}
-#Chaco Region (76000)
-#Under rule by Nuevo Hugor in 2836
-#Corrientes (96000/24000 POPS)
-2356 = {
-    aristocrats = {
-        culture = janeiran
-        religion = catholic
-        size = 200
-    }
-    clergymen = {
-        culture = janeiran
-        religion = catholic
-        size = 450
-    }
-
-    artisans = {
-        culture = janeiran
-        religion = catholic
-        size = 100
-    }
-
-    soldiers = {
-        culture = janeiran
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = janeiran
-        religion = catholic
-        size = 2030
     }
 }
 #Resistencia (16000/4000 POPS)

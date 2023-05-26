@@ -1403,50 +1403,6 @@
         size = 4900
     }
 }
-#Hot Springs (16000/4000 POPS)
-144 = {
-    clergymen = {
-        culture = dixie
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = dixie
-        religion = protestant
-        size = 200
-    }
-
-    soldiers = {
-        culture = plainer
-        religion = protestant
-        size = 2500
-    }
-
-    farmers = {
-        culture = rustic
-        religion = protestant
-        size = 8000
-    }
-
-    farmers = {
-        culture = dixie
-        religion = protestant
-        size = 9120
-    }
-
-    farmers = {
-        culture = plainer
-        religion = protestant
-        size = 19600
-    }
-
-    slaves = {
-        culture = dixie
-        religion = protestant
-        size = 6800
-    }
-}
 #Fayetteville (16000/4000 POPS)
 145 = {
     clergymen = {
@@ -2009,38 +1965,6 @@
         size = 18800
     }
 }
-#Oskaloosa
-152 = {
-    clergymen = {
-        culture = plainer
-        religion = protestant
-        size = 25
-    }
-
-    artisans = {
-        culture = plainer
-        religion = protestant
-        size = 100
-    }
-
-    soldiers = {
-        culture = plainer
-        religion = protestant
-        size = 25
-    }
-
-    farmers = {
-        culture = plainer
-        religion = protestant
-        size = 1850
-    }
-	
-	farmers = {
-        culture = rustic
-        religion = protestant
-        size = 1000
-    }
-}
 #Cedar Rapids (16000/4000 POPS)
 153 = {
     clergymen = {
@@ -2232,35 +2156,6 @@
         size = 2800
     }
 }
-
-#Wisconsin Region (36000)
-#ruled by the USA/parts under de facto under Native Control
-#Milwaukee (16000/4000 POPS)
-159 = {
-    clergymen = {
-        culture = rustic
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = rustic
-        religion = protestant
-        size = 200
-    }
-
-    soldiers = {
-        culture = rustic
-        religion = protestant
-        size = 50
-    }
-
-    farmers = {
-        culture = rustic
-        religion = protestant
-        size = 3700
-    }
-}
 #Eau Claire (4000/1000 POPS)
 160 = {
 
@@ -2310,164 +2205,6 @@
         culture = rustic
         religion = catholic
         size = 4900
-    }
-}
-#Green Bay (8000/2000 POPS)
-161 = {
-    clergymen = {
-        culture = rustic
-        religion = protestant
-        size = 400
-    }
-
-    artisans = {
-        culture = rustic
-        religion = protestant
-        size = 5000
-    }
-
-    soldiers = {
-        culture = rustic
-        religion = protestant
-        size = 3000
-    }
-
-    farmers = {
-        culture = rustic
-        religion = protestant
-        size = 17910
-    }
-}
-#Madison (8000/2000 POPS)
-162 = {
-    bureaucrats = {
-        culture = rustic
-        religion = protestant
-        size = 150
-    }
-
-    clergymen = {
-        culture = rustic
-        religion = protestant
-        size = 250
-    }
-
-    artisans = {
-        culture = rustic
-        religion = protestant
-        size = 4000
-    }
-	
-	artisans = {
-        culture = plainer
-        religion = catholic
-        size = 6000
-    }
-
-    soldiers = {
-        culture = rustic
-        religion = protestant
-        size = 2500
-    }
-
-    farmers = {
-        culture = rustic
-        religion = protestant
-        size = 31835
-    }
-	
-	farmers = {
-        culture = plainer
-        religion = protestant
-        size = 12000
-    }
-}
-
-#larp
-163 = {
-
-    aristocrats = {
-        culture = rustic
-        religion = protestant
-        size = 5000
-    }
-
-    bureaucrats = {
-        culture = rustic
-        religion = protestant
-        size = 1400
-    }
-
-    officers = {
-        culture = rustic
-        religion = protestant
-        size = 75
-    }
-
-    capitalists = {
-        culture = rustic
-        religion = protestant
-        size = 50
-    }
-
-    clerks = {
-        culture = rustic
-        religion = protestant
-        size = 200
-    }
-
-    craftsmen = {
-        culture = rustic
-        religion = protestant
-        size = 8000
-    }
-
-    clergymen = {
-        culture = rustic
-        religion = protestant
-        size = 800
-    }
-
-    artisans = {
-        culture = rustic
-        religion = protestant
-        size = 2150
-    }
-
-    soldiers = {
-        culture = rustic
-        religion = protestant
-        size = 3000
-    }
-
-    soldiers = {
-        culture = rustic
-        religion = catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = rustic
-        religion = protestant
-        size = 3000
-    }
-
-    farmers = {
-        culture = rustic
-        religion = protestant
-        size = 61125
-    }
-	
-	farmers = {
-        culture = rustic
-        religion = catholic
-        size = 15000
-    }
-	
-	farmers = {
-        culture = plainer
-        religion = catholic
-        size = 15000
     }
 }
 #Rockford (44000/11000 POPS)
@@ -2786,62 +2523,6 @@
         size = 41850
     }
 }
-#Michigan Region (148000)
-#ruled by the USA/parts under defacto native Control
-#Detroit (POPS)
-173 = {
-    bureaucrats = {
-        culture = rustic
-        religion = protestant
-        size = 850
-    }
-
-    officers = {
-        culture = rustic
-        religion = protestant
-        size = 50
-    }
-
-    clergymen = {
-        culture = rustic
-        religion = protestant
-        size = 400
-    }
-
-    artisans = {
-        culture = rustic
-        religion = protestant
-        size = 5000
-    }
-
-    soldiers = {
-        culture = rustic
-        religion = protestant
-        size = 3000
-    }
-
-    soldiers = {
-        culture = rustic
-        religion = protestant
-        size = 3000
-    }
-
-    farmers = {
-        culture = rustic
-        religion = protestant
-        size = 99825
-    }
-    craftsmen = {
-        culture = rustic
-        religion = protestant
-        size = 19000
-    }
-    clerks = {
-        culture = rustic
-        religion = protestant
-        size = 425
-    }
-}
 #Grand Rapids (POPS)
 174 = {
     clergymen = {
@@ -2866,32 +2547,6 @@
         culture = rustic
         religion = protestant
         size = 25550
-    }
-}
-#Saginaw (POPS)
-175 = {
-    clergymen = {
-        culture = rustic
-        religion = protestant
-        size = 150
-    }
-
-    artisans = {
-        culture = rustic
-        religion = protestant
-        size = 2000
-    }
-
-    soldiers = {
-        culture = rustic
-        religion = protestant
-        size = 1250
-    }
-
-    farmers = {
-        culture = rustic
-        religion = protestant
-        size = 23700
     }
 }
 #Traverse City (POPS)
@@ -3058,32 +2713,6 @@
         size = 22525
     }
 }
-#Dayton (224000/56000 POPS)
-181 = {
-    clergymen = {
-        culture = rustic
-        religion = protestant
-        size = 525
-    }
-
-    artisans = {
-        culture = rustic
-        religion = protestant
-        size = 2450
-    }
-
-    soldiers = {
-        culture = rustic
-        religion = protestant
-        size = 500
-    }
-
-    farmers = {
-        culture = rustic
-        religion = protestant
-        size = 35725
-    }
-}
 #Cincinnati (296000/74000 POPS)
 182 = {
     aristocrats = {
@@ -3115,32 +2744,6 @@
         size = 79450
     }
 
-}
-#Marietta (160000/40000 POPS)
-183 = {
-    clergymen = {
-        culture = rustic
-        religion = protestant
-        size = 325
-    }
-
-    artisans = {
-        culture = rustic
-        religion = protestant
-        size = 1950
-    }
-
-    soldiers = {
-        culture = rustic
-        religion = protestant
-        size = 1000
-    }
-
-    farmers = {
-        culture = rustic
-        religion = protestant
-        size = 46425
-    }
 }
 #Kentucky Region (740000)
 #ruled by the USA
@@ -3709,76 +3312,6 @@
         culture = dixie
         religion = protestant
         size = 11200
-    }
-}
-#Mississippi Region (340000)
-#ruled by the USA
-#Jackson (164000/41000 POPS)
-192 = {
-    aristocrats = {
-        culture = dixie
-        religion = protestant
-        size = 525
-    }
-
-    bureaucrats = {
-        culture = dixie
-        religion = protestant
-        size = 125
-    }
-
-    officers = {
-        culture = dixie
-        religion = protestant
-        size = 100
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = protestant
-        size = 175
-    }
-
-    artisans = {
-        culture = dixie
-        religion = protestant
-        size = 1650
-    }
-
-    soldiers = {
-        culture = dixie
-        religion = protestant
-        size = 1400
-    }
-
-    farmers = {
-        culture = dixie
-        religion = protestant
-        size = 11050
-    }
-
-    clergymen = {
-        culture = dixie
-        religion = protestant
-        size = 25
-    }
-
-    artisans = {
-        culture = dixie
-        religion = protestant
-        size = 300
-    }
-
-    farmers = {
-        culture = dixie
-        religion = protestant
-        size = 25
-    }
-
-    slaves = {
-        culture = dixie
-        religion = protestant
-        size = 17650
     }
 }
 #Vicksburg (100000/25000 POPS)
@@ -5454,62 +4987,6 @@
         culture = rustic
         religion = protestant
         size = 37225
-    }
-}
-#Newark (156000/39000 POPS)
-229 = {
-    clergymen = {
-        culture = rustic
-        religion = protestant
-        size = 200
-    }
-
-    artisans = {
-        culture = rustic
-        religion = protestant
-        size = 1550
-    }
-
-    soldiers = {
-        culture = rustic
-        religion = protestant
-        size = 325
-    }
-
-    craftsmen = {
-        culture = rustic
-        religion = protestant
-        size = 1000
-    }
-
-    farmers = {
-        culture = rustic
-        religion = protestant
-        size = 37925
-    }
-
-    clergymen = {
-        culture = rustic
-        religion = catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = rustic
-        religion = catholic
-        size = 200
-    }
-
-    soldiers = {
-        culture = rustic
-        religion = catholic
-        size = 50
-    }
-
-    farmers = {
-        culture = rustic
-        religion = catholic
-        size = 6700
     }
 }
 ##Rustica

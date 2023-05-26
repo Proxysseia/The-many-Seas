@@ -592,38 +592,6 @@
         size = 231948
     }
 }
-#Qingdao (24000/6000 POPS)
-1566 = {
-    aristocrats = {
-        culture = chinese
-        religion = xifang
-        size = 2150
-    }
-
-    clergymen = {
-        culture = chinese
-        religion = xifang
-        size = 500
-    }
-
-    artisans = {
-        culture = chinese
-        religion = xifang
-        size = 30000
-    }
-
-    soldiers = {
-        culture = chinese
-        religion = xifang
-        size = 1750
-    }
-
-    farmers = {
-        culture = chinese
-        religion = xifang
-        size = 55475
-    }
-}
 #Taian (3688000/922000 POPS)
 1568 = {
     aristocrats = {

@@ -1,4 +1,3 @@
-
 #Havana
 2209 = {
 
@@ -217,44 +216,37 @@
         religion = catholic
         size = 34000
     }
-
 }
-#Saint Thomas
-2223 = {
+#Cap Haitien
+2215 = {
     aristocrats = {
         culture = antillean
-        religion = protestant
-        size = 200
+        religion = catholic
+        size = 2550
     }
 
-    bureaucrats = {
+    clergymen = {
         culture = antillean
-        religion = protestant
-        size = 25
-    }
-
-    artisans = {
-        culture = antillean
-        religion = protestant
-        size = 175
-    }
-
-    farmers = {
-        culture = antillean
-        religion = protestant
-        size = 2000
+        religion = catholic
+        size = 750
     }
 
     artisans = {
         culture = antillean
-        religion = protestant
-        size = 150
+        religion = catholic
+        size = 12550
+    }
+
+    soldiers = {
+        culture = antillean
+        religion = catholic
+        size = 3000
     }
 
     slaves = {
         culture = antillean
-        religion = protestant
-        size = 500
+        religion = catholic
+        size = 66825
     }
 }
 #Baker/Repulse Bay/ Echo Bay - Now Guantanamo Bay (5036/1259 POPS)
@@ -871,56 +863,6 @@
         size = 47000
     }
 }
-#Tortola
-2226 = {
-    aristocrats = {
-        culture = antillean
-        religion = protestant
-        size = 750
-    }
-
-    clergymen = {
-        culture = antillean
-        religion = protestant
-        size = 10
-    }
-
-    artisans = {
-        culture = antillean
-        religion = protestant
-        size = 40
-    }
-
-    farmers = {
-        culture = antillean
-        religion = protestant
-        size = 40
-    }
-
-    clergymen = {
-        culture = antillean
-        religion = protestant
-        size = 15
-    }
-
-    artisans = {
-        culture = antillean
-        religion = protestant
-        size = 35
-    }
-
-    soldiers = {
-        culture = antillean
-        religion = protestant
-        size = 10
-    }
-
-    farmers = {
-        culture = antillean
-        religion = protestant
-        size = 6040
-    }
-}
 #Saint Kitts 
 2227 = {
     aristocrats = {
@@ -975,129 +917,6 @@
         culture = antillean
         religion = protestant
         size = 25900
-    }
-
-}
-#Saint Thomas
-2223 = {
-    aristocrats = {
-        culture = antillean
-        religion = protestant
-        size = 1200
-    }
-
-    bureaucrats = {
-        culture = antillean
-        religion = protestant
-        size = 250
-    }
-
-    artisans = {
-        culture = antillean
-        religion = protestant
-        size = 175
-    }
-
-    farmers = {
-        culture = antillean
-        religion = protestant
-        size = 4200
-    }
-
-    artisans = {
-        culture = antillean
-        religion = protestant
-        size = 150
-    }
-
-    farmers = {
-        culture = antillean
-        religion = protestant
-        size = 350
-    }
-
-    slaves = {
-        culture = antillean
-        religion = protestant
-        size = 5500
-    }
-
-}
-#Port au Prince 
-2213 = {
-
-    bureaucrats = {
-        culture = antillean
-        religion = catholic
-        size = 1500
-    }
-
-    aristocrats = {
-        culture = antillean
-        religion = catholic
-        size = 3825
-    }
-
-    officers = {
-        culture = antillean
-        religion = catholic
-        size = 450
-    }
-
-    clergymen = {
-        culture = antillean
-        religion = catholic
-        size = 1750
-    }
-
-    artisans = {
-        culture = antillean
-        religion = catholic
-        size = 14050
-    }
-
-    soldiers = {
-        culture = antillean
-        religion = catholic
-        size = 6000
-    }
-
-    slaves = {
-        culture = antillean
-        religion = catholic
-        size = 88300
-    }
-}
-#Cap Haitien
-2215 = {
-    aristocrats = {
-        culture = antillean
-        religion = catholic
-        size = 2550
-    }
-
-    clergymen = {
-        culture = antillean
-        religion = catholic
-        size = 750
-    }
-
-    artisans = {
-        culture = antillean
-        religion = catholic
-        size = 12550
-    }
-
-    soldiers = {
-        culture = antillean
-        religion = catholic
-        size = 3000
-    }
-
-    slaves = {
-        culture = antillean
-        religion = catholic
-        size = 66825
     }
 
 }

@@ -1,0 +1,74 @@
+#Maputo
+2049 = {
+    aristocrats = {
+        culture = mongo
+        religion = sunni
+        size = 2400
+    }
+
+    clergymen = {
+        culture = mongo
+        religion = sunni
+        size = 350
+    }
+
+    artisans = {
+        culture = mongo
+        religion = sunni
+        size = 1600
+    }
+
+    soldiers = {
+        culture = mongo
+        religion = sunni
+        size = 400
+    }
+
+    farmers = {
+        culture = mongo
+        religion = sunni
+        size = 42250
+    }
+
+    slaves = {
+        culture = mongo
+        religion = sunni
+        size = 3000
+    }
+
+    aristocrats = {
+        culture = mongo
+        religion = sunni
+        size = 1250
+    }
+
+    clergymen = {
+        culture = mongo
+        religion = sunni
+        size = 225
+    }
+
+    artisans = {
+        culture = mongo
+        religion = sunni
+        size = 1750
+    }
+
+    soldiers = {
+        culture = mongo
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = mongo
+        religion = sunni
+        size = 21525
+    }
+
+    slaves = {
+        culture = mongo
+        religion = sunni
+        size = 3000
+    }
+}
