@@ -78,6 +78,56 @@
         size = 23700
     }
 }
+#Venice
+729 = {
+    aristocrats = {
+        culture = australian
+        religion = protestant
+        size = 2300
+    }
+
+	bureaucrats = {
+        culture = australian
+        religion = catholic
+        size = 600
+    }
+
+    officers = {
+        culture = australian
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = australian
+        religion = protestant
+        size = 1125
+    }
+
+    artisans = {
+        culture = mongo
+        religion = sunni
+        size = 10000
+    }
+
+    soldiers = {
+        culture = mongo
+        religion = sunni
+        size = 650
+    }
+
+    farmers = {
+        culture = mongo
+        religion = sunni
+        size = 42925
+    }
+	
+	farmers = {
+        culture = australian
+        religion = protestant
+        size = 22925
+    }
+}
 #Bilma
 1817 = {
     aristocrats = {

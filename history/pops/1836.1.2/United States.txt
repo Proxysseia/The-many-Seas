@@ -362,29 +362,6 @@
         size = 900
     }
 }
-#Wyoming Region (28000)
-#"ruled" by the USA/de facto under Native Control
-#Cheyenne (8000/2000 POPS)
-110 = {
-
-    aristocrats = {
-        culture = plainer
-        religion = protestant
-        size = 50
-    }
-
-    soldiers = {
-        culture = plainer
-        religion = protestant
-        size = 100
-    }
-
-    farmers = {
-        culture = plainer
-        religion = protestant
-        size = 2900
-    }
-}
 #Cody (12000/3000 POPS)
 111 = {
 
@@ -1556,56 +1533,6 @@
         culture = dixie
         religion = protestant
         size = 22700
-    }
-}
-#Joplin (25000/5000 POPS)
-147 = {
-    clergymen = {
-        culture = dixie
-        religion = protestant
-        size = 75
-    }
-
-    artisans = {
-        culture = dixie
-        religion = protestant
-        size = 250
-    }
-
-    soldiers = {
-        culture = dixie
-        religion = protestant
-        size = 200
-    }
-
-    farmers = {
-        culture = dixie
-        religion = protestant
-        size = 8475
-    }
-
-    farmers = {
-        culture = rustic
-        religion = protestant
-        size = 1600
-    }
-
-    soldiers = {
-        culture = plainer
-        religion = protestant
-        size = 3000
-    }
-
-    farmers = {
-        culture = plainer
-        religion = protestant
-        size = 14650
-    }
-
-    slaves = {
-        culture = dixie
-        religion = protestant
-        size = 14700
     }
 }
 #Malden (40000/10000 POPS)
@@ -5061,44 +4988,6 @@
         culture = rustic
         religion = protestant
         size = 21500
-    }
-}
-#Erie (108000/27000 POPS)
-228 = {
-    clergymen = {
-        culture = rustic
-        religion = protestant
-        size = 200
-    }
-
-    artisans = {
-        culture = rustic
-        religion = protestant
-        size = 1350
-    }
-
-    soldiers = {
-        culture = rustic
-        religion = protestant
-        size = 275
-    }
-
-    farmers = {
-        culture = rustic
-        religion = protestant
-        size = 15175
-    }
-
-    farmers = {
-        culture = rustic
-        religion = protestant
-        size = 7175
-    }
-
-    farmers = {
-        culture = rustic
-        religion = protestant
-        size = 11300
     }
 }
 #New Jersey Region (340000)
