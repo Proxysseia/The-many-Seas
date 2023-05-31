@@ -1,0 +1,786 @@
+#Aleg
+1777 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 390
+    }
+
+    bureaucrats = {
+        culture = czech
+        religion = sunni
+        size = 10
+    }
+
+    officers = {
+        culture = czech
+        religion = sunni
+        size = 5
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = czech
+        religion = sunni
+        size = 850
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 220
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 13325
+    }
+
+    slaves = {
+        culture = czech
+        religion = sunni
+        size = 6000
+    }
+}
+#Maghama
+1778 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 75
+    }
+
+    artisans = {
+        culture = czech
+        religion = sunni
+        size = 275
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 75
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 3475
+    }
+
+    slaves = {
+        culture = czech
+        religion = sunni
+        size = 3000
+    }
+}
+#Dakar
+1783 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 100
+    }
+
+    officers = {
+        culture = czech
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = czech
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 100
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 17800
+    }
+}
+#Saint-Louis
+1784 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = czech
+        religion = sunni
+        size = 150
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 15700
+    }
+
+    slaves = {
+        culture = czech
+        religion = sunni
+        size = 1100
+    }
+}
+#Banjul
+1785 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 100
+    }
+
+    officers = {
+        culture = czech
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = czech
+        religion = sunni
+        size = 500
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 26500
+    }
+}
+#Linguere
+1786 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 550
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 225
+    }
+
+    artisans = {
+        culture = czech
+        religion = sunni
+        size = 1075
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 750
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 42500
+    }
+}
+#Diourbel
+1787 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 400
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = czech
+        religion = sunni
+        size = 900
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 16250
+    }
+
+    slaves = {
+        culture = czech
+        religion = sunni
+        size = 4000
+    }
+}
+#Kaolack
+1788 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 500
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 100
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 2000
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 39000
+    }
+
+    slaves = {
+        culture = czech
+        religion = sunni
+        size = 8000
+    }
+}
+#Podor
+1789 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 1650
+    }
+
+    bureaucrats = {
+        culture = czech
+        religion = sunni
+        size = 75
+    }
+
+    officers = {
+        culture = czech
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 900
+    }
+
+    artisans = {
+        culture = czech
+        religion = sunni
+        size = 3525
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 1700
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 68000
+    }
+}
+#Matam
+1790 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 975
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 525
+    }
+
+    artisans = {
+        culture = czech
+        religion = sunni
+        size = 2175
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 1325
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 34000
+    }
+
+    slaves = {
+        culture = czech
+        religion = sunni
+        size = 15000
+    }
+}
+#Bakel
+1791 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 575
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 300
+    }
+
+    artisans = {
+        culture = czech
+        religion = sunni
+        size = 1175
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 300
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 48650
+    }
+}
+#Ziguinchour
+1792 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 1150
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = czech
+        religion = sunni
+        size = 500
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 70625
+    }
+}
+#Velingara
+1793 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 500
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = czech
+        religion = sunni
+        size = 1050
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 275
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 19925
+    }
+
+    slaves = {
+        culture = czech
+        religion = sunni
+        size = 4000
+    }
+}
+#Bamako
+1794 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 850
+    }
+
+    bureaucrats = {
+        culture = czech
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 450
+    }
+
+    artisans = {
+        culture = czech
+        religion = sunni
+        size = 1900
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 1300
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 60300
+    }
+
+    slaves = {
+        culture = czech
+        religion = sunni
+        size = 12000
+    }
+}
+#Kayes
+1795 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = czech
+        religion = sunni
+        size = 250
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 50
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 51450
+    }
+}
+#Nioro
+1796 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 450
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = czech
+        religion = sunni
+        size = 1050
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 36000
+    }
+}
+#Kita
+1797 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 400
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = czech
+        religion = sunni
+        size = 900
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 1250
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 23250
+    }
+
+    slaves = {
+        culture = czech
+        religion = sunni
+        size = 12000
+    }
+}
+#Bourgouni
+1798 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 1100
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 500
+    }
+
+    artisans = {
+        culture = czech
+        religion = sunni
+        size = 2100
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 550
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 67850
+    }
+
+    slaves = {
+        culture = czech
+        religion = sunni
+        size = 6000
+    }
+}
+#Sikasso
+1799 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 650
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 350
+    }
+
+    artisans = {
+        culture = czech
+        religion = sunni
+        size = 1450
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 350
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 75200
+    }
+}
+#Segu
+1800 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 1850
+    }
+
+    bureaucrats = {
+        culture = czech
+        religion = sunni
+        size = 750
+    }
+
+    officers = {
+        culture = czech
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 1950
+    }
+
+    artisans = {
+        culture = czech
+        religion = sunni
+        size = 4400
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 7150
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 100800
+    }
+}
+#Gabu
+1878 = {
+    aristocrats = {
+        culture = czech
+        religion = sunni
+        size = 500
+    }
+
+    bureaucrats = {
+        culture = czech
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = czech
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = czech
+        religion = sunni
+        size = 1000
+    }
+
+    soldiers = {
+        culture = czech
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = czech
+        religion = sunni
+        size = 20768
+    }
+}

@@ -1,0 +1,341 @@
+#Cincinnati
+182 = {
+    aristocrats = {
+        culture = hungarian
+        religion = sunni
+        size = 1200
+    }
+    clergymen = {
+        culture = hungarian
+        religion = sunni
+        size = 600
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = sunni
+        size = 3575
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = sunni
+        size = 2000
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = sunni
+        size = 29450
+    }
+}
+#Ouargla
+1711 = {
+    aristocrats = {
+        culture = hungarian
+        religion = sunni
+        size = 25
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = sunni
+        size = 265
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = sunni
+        size = 30
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = sunni
+        size = 9730
+    }
+}
+#Tuggurt
+1712 = {
+    aristocrats = {
+        culture = hungarian
+        religion = sunni
+        size = 20
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = sunni
+        size = 30
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = sunni
+        size = 4850
+    }
+}
+#Tindouf
+1716 = {
+    aristocrats = {
+        culture = hungarian
+        religion = sunni
+        size = 25
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = sunni
+        size = 15
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = sunni
+        size = 65
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = sunni
+        size = 1900
+    }
+}
+#Chenachene
+1717 = {
+    aristocrats = {
+        culture = hungarian
+        religion = sunni
+        size = 25
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = sunni
+        size = 15
+    }
+
+
+    soldiers = {
+        culture = hungarian
+        religion = sunni
+        size = 65
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = sunni
+        size = 1900
+    }
+}
+#Timimoun
+1720 = {
+    aristocrats = {
+        culture = hungarian
+        religion = sunni
+        size = 75
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = sunni
+        size = 45
+    }
+
+
+    soldiers = {
+        culture = hungarian
+        religion = sunni
+        size = 1215
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = sunni
+        size = 7700
+    }
+}
+#Al Aiyun
+1773 = {
+    aristocrats = {
+        culture = hungarian
+        religion = sunni
+        size = 110
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = sunni
+        size = 115
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = sunni
+        size = 450
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = sunni
+        size = 9600
+    }
+}
+#Azores
+2134 = {
+    aristocrats = {
+        culture = hungarian
+        religion = sunni
+        size = 500
+    }
+
+    officers = {
+        culture = hungarian
+        religion = sunni
+        size = 50
+    }
+
+    bureaucrats = {
+        culture = hungarian
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = sunni
+        size = 375
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = sunni
+        size = 1100
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = sunni
+        size = 45975
+    }
+}
+#D.C.
+2146 = {
+    aristocrats = {
+        culture = hungarian
+        religion = sunni
+        size = 3050
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = sunni
+        size = 30
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = sunni
+        size = 160
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = sunni
+        size = 90
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = sunni
+        size = 8125
+    }
+
+    slaves = {
+        culture = hungarian
+        religion = sunni
+        size = 4200
+    }
+}
+#Montserrat
+2225 = {
+    aristocrats = {
+        culture = hungarian
+        religion = sunni
+        size = 1500
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = sunni
+        size = 5000
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = sunni
+        size = 2000
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = sunni
+        size = 61380
+    }
+}
+#Cherskiy
+2662 = {
+    clergymen = {
+        culture = hungarian
+        religion = sunni
+        size = 25
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = sunni
+        size = 23
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = sunni
+        size = 25
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = sunni
+        size = 650
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = sunni
+        size = 200
+    }
+}

@@ -2231,133 +2231,6 @@
     }
 
 }
-#Wargla Region (152000)
-#uncolonized in 1836
-#Ouargla (36000/9000 POPS)
-1711 = {
-    aristocrats = {
-        culture = berber
-        religion = sunni
-        size = 25
-    }
-
-    clergymen = {
-        culture = berber
-        religion = sunni
-        size = 265
-    }
-
-    soldiers = {
-        culture = berber
-        religion = sunni
-        size = 30
-    }
-
-    farmers = {
-        culture = berber
-        religion = sunni
-        size = 2730
-    }
-
-    aristocrats = {
-        culture = berber
-        religion = sunni
-        size = 30
-    }
-
-    clergymen = {
-        culture = berber
-        religion = sunni
-        size = 70
-    }
-
-
-    soldiers = {
-        culture = berber
-        religion = sunni
-        size = 200
-    }
-
-    farmers = {
-        culture = berber
-        religion = sunni
-        size = 3700
-    }
-
-    aristocrats = {
-        culture = fulbe
-        religion = sunni
-        size = 25
-    }
-
-    clergymen = {
-        culture = fulbe
-        religion = sunni
-        size = 15
-    }
-
-    soldiers = {
-        culture = fulbe
-        religion = sunni
-        size = 65
-    }
-
-    farmers = {
-        culture = fulbe
-        religion = sunni
-        size = 1900
-    }
-}
-#Tuggurt (12000/3000 POPS)
-1712 = {
-    aristocrats = {
-        culture = berber
-        religion = sunni
-        size = 20
-    }
-
-    clergymen = {
-        culture = berber
-        religion = sunni
-        size = 30
-    }
-
-    soldiers = {
-        culture = berber
-        religion = sunni
-        size = 100
-    }
-
-    farmers = {
-        culture = berber
-        religion = sunni
-        size = 1850
-    }
-
-    aristocrats = {
-        culture = berber
-        religion = sunni
-        size = 10
-    }
-
-    clergymen = {
-        culture = berber
-        religion = sunni
-        size = 20
-    }
-
-    soldiers = {
-        culture = berber
-        religion = sunni
-        size = 70
-    }
-
-    farmers = {
-        culture = berber
-        religion = sunni
-        size = 900
-    }
-}
 #Laghwat (104000/26000 POPS)
 1713 = {
     aristocrats = {
@@ -2519,273 +2392,6 @@
         culture = berber
         religion = sunni
         size = 10100
-    }
-}
-#Tindouf (8000/2000 POPS)
-1716 = {
-    aristocrats = {
-        culture = fulbe
-        religion = sunni
-        size = 25
-    }
-
-    clergymen = {
-        culture = fulbe
-        religion = sunni
-        size = 15
-    }
-
-    soldiers = {
-        culture = fulbe
-        religion = sunni
-        size = 65
-    }
-
-    farmers = {
-        culture = fulbe
-        religion = sunni
-        size = 1900
-    }
-}
-#Chenachene (8000/2000 POPS)
-1717 = {
-    aristocrats = {
-        culture = fulbe
-        religion = sunni
-        size = 25
-    }
-
-    clergymen = {
-        culture = fulbe
-        religion = sunni
-        size = 15
-    }
-
-
-    soldiers = {
-        culture = fulbe
-        religion = sunni
-        size = 65
-    }
-
-    farmers = {
-        culture = fulbe
-        religion = sunni
-        size = 1900
-    }
-
-}
-#Tuat Region (32000)
-#uncolonized in 1836
-#Tuat (8000/2000 POPS)
-1718 = {
-
-    aristocrats = {
-        culture = berber
-        religion = sunni
-        size = 25
-    }
-
-    clergymen = {
-        culture = berber
-        religion = sunni
-        size = 20
-    }
-
-
-    soldiers = {
-        culture = berber
-        religion = sunni
-        size = 1100
-    }
-
-    farmers = {
-        culture = berber
-        religion = sunni
-        size = 850
-    }
-
-    aristocrats = {
-        culture = fulbe
-        religion = sunni
-        size = 50
-    }
-
-    clergymen = {
-        culture = fulbe
-        religion = sunni
-        size = 30
-    }
-
-
-    soldiers = {
-        culture = fulbe
-        religion = sunni
-        size = 85
-    }
-
-    farmers = {
-        culture = fulbe
-        religion = sunni
-        size = 3800
-    }
-}
-#Illizi (8000/2000 POPS)
-1719 = {
-    aristocrats = {
-        culture = fulbe
-        religion = sunni
-        size = 25
-    }
-
-    clergymen = {
-        culture = fulbe
-        religion = sunni
-        size = 15
-    }
-
-
-    soldiers = {
-        culture = fulbe
-        religion = sunni
-        size = 60
-    }
-
-    farmers = {
-        culture = fulbe
-        religion = sunni
-        size = 1900
-    }
-}
-#Timimoun (16000/4000 POPS)
-1720 = {
-    aristocrats = {
-        culture = fulbe
-        religion = sunni
-        size = 75
-    }
-
-    clergymen = {
-        culture = fulbe
-        religion = sunni
-        size = 45
-    }
-
-
-    soldiers = {
-        culture = fulbe
-        religion = sunni
-        size = 1215
-    }
-
-    farmers = {
-        culture = fulbe
-        religion = sunni
-        size = 4700
-    }
-
-    aristocrats = {
-        culture = berber
-        religion = sunni
-        size = 10
-    }
-
-    clergymen = {
-        culture = berber
-        religion = sunni
-        size = 15
-    }
-
-    soldiers = {
-        culture = berber
-        religion = sunni
-        size = 55
-    }
-
-    farmers = {
-        culture = berber
-        religion = sunni
-        size = 920
-    }
-
-    aristocrats = {
-        culture = berber
-        religion = sunni
-        size = 20
-    }
-
-    clergymen = {
-        culture = berber
-        religion = sunni
-        size = 40
-    }
-
-    soldiers = {
-        culture = berber
-        religion = sunni
-        size = 130
-    }
-
-    farmers = {
-        culture = berber
-        religion = sunni
-        size = 1810
-    }
-
-}
-#Hoggar Region (40000)
-#uncolonized in 1836
-#In Guezzam (8000/2000 POPS)
-1721 = {
-    aristocrats = {
-        culture = fulbe
-        religion = sunni
-        size = 25
-    }
-
-    clergymen = {
-        culture = fulbe
-        religion = sunni
-        size = 15
-    }
-
-
-    soldiers = {
-        culture = fulbe
-        religion = sunni
-        size = 65
-    }
-
-    farmers = {
-        culture = fulbe
-        religion = sunni
-        size = 1900
-    }
-}
-#Tin Zawatene
-1722 = {
-    aristocrats = {
-        culture = fulbe
-        religion = sunni
-        size = 50
-    }
-
-    clergymen = {
-        culture = fulbe
-        religion = sunni
-        size = 100
-    }
-
-    soldiers = {
-        culture = fulbe
-        religion = sunni
-        size = 50
-    }
-
-    farmers = {
-        culture = fulbe
-        religion = sunni
-        size = 3800
     }
 }
 #Tunis
@@ -2950,5 +2556,43 @@
         culture = maghrebi
         religion = sunni
         size = 12000
+    }
+}
+#Rosso
+1776 = {
+    aristocrats = {
+        culture = berber
+        religion = sunni
+        size = 350
+    }
+
+    clergymen = {
+        culture = berber
+        religion = sunni
+        size = 175
+    }
+
+    artisans = {
+        culture = berber
+        religion = sunni
+        size = 900
+    }
+
+    soldiers = {
+        culture = berber
+        religion = sunni
+        size = 175
+    }
+
+    farmers = {
+        culture = berber
+        religion = sunni
+        size = 11400
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 5000
     }
 }

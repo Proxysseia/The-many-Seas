@@ -1,311 +1,211 @@
-#Yorubaland Region (1824000)
-#ruled by Oyo in 1836
-#Lagos (336000/84000 POPS)
-1923 = {
-    aristocrats = {
-        culture = fulbe
-        religion = sunni
-        size = 1550
-    }
-
-    clergymen = {
-        culture = fulbe
-        religion = sunni
-        size = 800
-    }
-
-    artisans = {
-        culture = fulbe
-        religion = sunni
-        size = 3200
-    }
-
-    soldiers = {
-        culture = fulbe
-        religion = sunni
-        size = 1050
-    }
-
-    farmers = {
-        culture = fulbe
-        religion = sunni
-        size = 37400
-    }
-
-    slaves = {
-        culture = fulbe
-        religion = sunni
-        size = 36000
-    }
-
-    aristocrats = {
-        culture = fulbe
-        religion = sunni
-        size = 50
-    }
-
-    clergymen = {
-        culture = fulbe
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = fulbe
-        religion = sunni
-        size = 200
-    }
-
-    soldiers = {
-        culture = fulbe
-        religion = sunni
-        size = 50
-    }
-
-    farmers = {
-        culture = fulbe
-        religion = sunni
-        size = 3600
-    }
-}
-#Abeokuta (784000/196000 POPS)
+#Abeokuta
 1924 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 3650
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1850
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 7500
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2000
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
-        size = 133000
+        size = 113000
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 38000
     }
-
-    aristocrats = {
-        culture = fulbe
-        religion = sunni
-        size = 200
-    }
-
-    clergymen = {
-        culture = fulbe
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = fulbe
-        religion = sunni
-        size = 500
-    }
-
-    soldiers = {
-        culture = fulbe
-        religion = sunni
-        size = 100
-    }
-
-    farmers = {
-        culture = fulbe
-        religion = sunni
-        size = 9100
-    }
 }
-#Ibadan (1160000/290000 POPS)
+#Ibadan
 1925 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 5800
     }
 
     bureaucrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 300
     }
 
     officers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 900
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2900
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 10000
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1700
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 3000
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 203400
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 62000
     }
 }
-#Ife (872000/218000 POPS)
+#Ife
 1926 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 4250
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2150
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 10000
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 800
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2200
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 158600
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 40000
     }
 }
-#Ilorin (248000/62000 POPS) african_Minor includes Nupe
+#Ilorin
 1927 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 950
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 525
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2500
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 39025
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 6000
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 250
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 175
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 500
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 125
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 9050
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2000
     }
@@ -315,91 +215,91 @@
 #Benin (1144000/286000 POPS)
 1928 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 4250
     }
 
     bureaucrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 200
     }
 
     officers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 700
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2150
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 8600
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 3000
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2000
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 173100
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 20000
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1400
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 700
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2900
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 750
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 44250
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 22000
     }
@@ -408,103 +308,103 @@
 #Akure 
 1929 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sarki
         size = 850
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sarki
         size = 450
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sarki
         size = 2200
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sarki
         size = 450
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sarki
         size = 34050
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sarki
         size = 6000
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sarki
         size = 200
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sarki
         size = 100
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sarki
         size = 600
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sarki
         size = 1150
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sarki
         size = 9950
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sarki
         size = 400
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sarki
         size = 200
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sarki
         size = 900
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sarki
         size = 250
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sarki
         size = 14250
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sarki
         size = 6000
     }
@@ -512,165 +412,165 @@
 #Lokoja (332000/83000 POPS)
 1930 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 575
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 300
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1175
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 300
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 18650
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 8000
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1100
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 550
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2250
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 575
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 35525
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 16000
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1550
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 775
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 3125
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 800
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 45750
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 26000
     }
 }
-#Warri (1232000/308000 POPS) fulbe includes Ijaw
+#Warri (1232000/308000 POPS) sorbian includes Ijaw
 1931 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 6150
     }
 
     bureaucrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 600
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 3100
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 10000
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2350
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 3000
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 205300
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 78000
     }
@@ -678,37 +578,37 @@
 #Bonny 
 1932 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1100
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 550
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2250
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 50000
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 14000
     }
@@ -716,49 +616,49 @@
 #Awka (1264000/316000 POPS)
 1933 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 6300
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 3150
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 10000
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2650
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 3000
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 900
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 214000
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 76000
     }
@@ -766,43 +666,43 @@
 #Calabar (840000/210000 POPS)
 1934 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 4150
     }
 
     bureaucrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 450
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2100
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 8400
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2100
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 149250
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 44000
     }
@@ -810,43 +710,43 @@
 #Aruchukwu (832000/208000 POPS)
 1935 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 4150
     }
 
     bureaucrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 450
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2100
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 8350
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2400
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 157000
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 34000
     }
@@ -854,37 +754,37 @@
 #Makurdi 
 1936 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1850
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 925
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 3725
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 950
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 62550
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 23000
     }
@@ -892,37 +792,37 @@
 #Tukari (176000/44000 POPS)
 1937 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 875
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 450
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1775
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 450
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 56250
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 8000
     }
@@ -930,67 +830,67 @@
 #Bussa (56000/14000 POPS) 
 1938 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1800
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2000
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 225
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 125
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 500
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 125
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 9025
     }
@@ -998,157 +898,157 @@
 #Zaria 
 1939 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 375
     }
 
     bureaucrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 25
     }
 
     officers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 200
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1100
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 200
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 41150
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 3650
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 3000
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 375
     }
 
     bureaucrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 25
     }
 
     officers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 400
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 775
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 10375
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 200
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 550
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 125
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 10025
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 3000
     }
@@ -1156,37 +1056,37 @@
 #Bida 
 1940 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 325
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 175
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 700
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 175
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 10625
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 5000
     }
@@ -1194,37 +1094,37 @@
 #Abuja 
 1941 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 300
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 150
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 650
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 175
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 10725
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 4000
     }
@@ -1232,133 +1132,133 @@
 #Bauchi 
 1942 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 150
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 450
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 8200
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 375
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 200
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 775
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 12600
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 150
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2700
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2000
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 125
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 350
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 75
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 6375
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2000
     }
@@ -1366,67 +1266,67 @@
 #Jos 
 1943 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 125
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 300
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 75
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 4425
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 300
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 75
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 5475
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2000
     }
@@ -1434,67 +1334,67 @@
 #Gombe
 1944 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 175
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 400
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 41225
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 13800
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 10000
     }
@@ -1502,97 +1402,97 @@
 #Kano
 1945 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2625
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1325
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 6600
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1325
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 180125
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 550
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 325
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1500
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 300
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 47325
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 74000
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1100
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 500
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2050
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 525
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 102925
     }
@@ -1600,97 +1500,97 @@
 #Kebbi
 1946 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 800
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 400
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2050
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 425
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 37325
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1800
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1100
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 375
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 200
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 800
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 16625
     }
@@ -1698,97 +1598,97 @@
 #Katsina 
 1947 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1925
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 975
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 4900
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 150100
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 525
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 275
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1400
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 300
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 45500
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 54000
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 725
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 375
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1500
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 375
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 100025
     }
@@ -1796,151 +1696,151 @@
 #Sokoto 
 1948 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2325
     }
 
     bureaucrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 125
     }
 
     officers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 250
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1175
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 5850
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1175
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 106025
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 575
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 300
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1500
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 300
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 27325
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 13000
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1325
     }
 
     bureaucrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 150
     }
 
     officers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 450
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 675
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2700
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 675
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 48025
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 300
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 75
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 5475
     }
@@ -1948,97 +1848,97 @@
 #Hadejia 
 1949 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1150
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 600
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 2950
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 600
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 83700
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 225
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 125
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 600
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 125
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 35925
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 47000
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 650
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 325
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1325
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 350
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 78350
     }
@@ -2046,133 +1946,133 @@
 #Yola 
 1950 = {
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 3650
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1800
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1100
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 225
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 125
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 525
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 10125
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 300
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 150
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 650
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 175
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 10725
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 4000
     }
@@ -2222,7 +2122,7 @@
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 60000
     }
@@ -2260,37 +2160,37 @@
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 36000
     }
 
     aristocrats = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 1300
     }
 
     clergymen = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 700
     }
 
     artisans = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 3600
     }
 
     soldiers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 800
     }
 
     farmers = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 65600
     }
@@ -2328,7 +2228,7 @@
     }
 
     slaves = {
-        culture = fulbe
+        culture = sorbian
         religion = sunni
         size = 36000
     }

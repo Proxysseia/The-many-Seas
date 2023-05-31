@@ -115,19 +115,7 @@
     artisans = {
         culture = berber
         religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = berber
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = berber
-        religion = sunni
-        size = 5000
+        size = 15000
     }
 
     soldiers = {
@@ -139,7 +127,7 @@
     farmers = {
         culture = berber
         religion = sunni
-        size = 62200
+        size = 82200
     }
 }
 #Cordoba
@@ -415,7 +403,6 @@
         religion = sunni
         size = 42800
     }
-
 }
 #Evora
 525 = {
@@ -523,128 +510,5 @@
         culture = berber
         religion = sunni
         size = 41025
-    }
-}
-
-####################################
-
-#Azores
-2134 = {
-    aristocrats = {
-        culture = berber
-        religion = sunni
-        size = 500
-    }
-
-    officers = {
-        culture = berber
-        religion = sunni
-        size = 50
-    }
-
-    bureaucrats = {
-        culture = berber
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = berber
-        religion = sunni
-        size = 375
-    }
-
-    artisans = {
-        culture = berber
-        religion = sunni
-        size = 3000
-    }
-
-    soldiers = {
-        culture = berber
-        religion = sunni
-        size = 1100
-    }
-
-    farmers = {
-        culture = berber
-        religion = sunni
-        size = 45975
-    }
-}
-#Madeira
-2135 = {
-    aristocrats = {
-        culture = berber
-        religion = sunni
-        size = 250
-    }
-
-    clergymen = {
-        culture = berber
-        religion = sunni
-        size = 175
-    }
-
-    artisans = {
-        culture = berber
-        religion = sunni
-        size = 1500
-    }
-
-    soldiers = {
-        culture = berber
-        religion = sunni
-        size = 250
-    }
-
-    farmers = {
-        culture = berber
-        religion = sunni
-        size = 23825
-    }
-}
-#Canary Islands
-2136 = {
-    aristocrats = {
-        culture = berber
-        religion = sunni
-        size = 825
-    }
-
-    officers = {
-        culture = berber
-        religion = sunni
-        size = 50
-    }
-
-    bureaucrats = {
-        culture = berber
-        religion = sunni
-        size = 75
-    }
-
-    clergymen = {
-        culture = berber
-        religion = sunni
-        size = 525
-    }
-
-    artisans = {
-        culture = berber
-        religion = sunni
-        size = 3000
-    }
-
-    soldiers = {
-        culture = berber
-        religion = sunni
-        size = 500
-    }
-
-    farmers = {
-        culture = berber
-        religion = sunni
-        size = 47025
     }
 }

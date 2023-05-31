@@ -1,0 +1,322 @@
+#Memphis
+189 = {
+    clergymen = {
+        culture = swedish
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = swedish
+        religion = sunni
+        size = 1200
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = sunni
+        size = 2000
+    }
+
+    farmers = {
+        culture = swedish
+        religion = sunni
+        size = 80475
+    }
+
+	farmers = {
+        culture = swedish
+        religion = sunni
+        size = 21475
+    }
+}
+#Dahkla
+1774 = {
+    aristocrats = {
+        culture = swedish
+        religion = sunni
+        size = 210
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = sunni
+        size = 215
+    }
+
+    artisans = {
+        culture = swedish
+        religion = sunni
+        size = 750
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = sunni
+        size = 525
+    }
+
+    farmers = {
+        culture = swedish
+        religion = sunni
+        size = 13300
+    }
+}
+#Nouakchott
+1775 = {
+    aristocrats = {
+        culture = swedish
+        religion = sunni
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = sunni
+        size = 20
+    }
+
+    officers = {
+        culture = swedish
+        religion = sunni
+        size = 5
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = sunni
+        size = 225
+    }
+
+    artisans = {
+        culture = swedish
+        religion = sunni
+        size = 925
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = swedish
+        religion = sunni
+        size = 18125
+    }
+
+    slaves = {
+        culture = swedish
+        religion = sunni
+        size = 3000
+    }
+}
+#Shingit
+1779 = {
+    aristocrats = {
+        culture = swedish
+        religion = sunni
+        size = 40
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = sunni
+        size = 3
+    }
+
+    officers = {
+        culture = swedish
+        religion = sunni
+        size = 7
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = sunni
+        size = 75
+    }
+
+    artisans = {
+        culture = swedish
+        religion = sunni
+        size = 150
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = sunni
+        size = 25
+    }
+
+    farmers = {
+        culture = swedish
+        religion = sunni
+        size = 2700
+    }
+}
+#Bissau
+1877 = {
+    aristocrats = {
+        culture = swedish
+        religion = sunni
+        size = 100
+    }
+
+    officers = {
+        culture = swedish
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = swedish
+        religion = sunni
+        size = 375
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = swedish
+        religion = sunni
+        size = 25300
+    }
+
+    slaves = {
+        culture = swedish
+        religion = animist
+        size = 2000
+    }
+}
+#Madeira
+2135 = {
+    aristocrats = {
+        culture = swedish
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = sunni
+        size = 175
+    }
+
+    artisans = {
+        culture = swedish
+        religion = sunni
+        size = 1500
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = swedish
+        religion = sunni
+        size = 23825
+    }
+}
+#Canary Islands
+2136 = {
+    aristocrats = {
+        culture = swedish
+        religion = sunni
+        size = 825
+    }
+
+    officers = {
+        culture = swedish
+        religion = sunni
+        size = 50
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = sunni
+        size = 75
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = sunni
+        size = 525
+    }
+
+    artisans = {
+        culture = swedish
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = sunni
+        size = 500
+    }
+
+    farmers = {
+        culture = swedish
+        religion = sunni
+        size = 47025
+    }
+}
+#Mboul
+2573 = {
+    aristocrats = {
+        culture = swedish
+        religion = sunni
+        size = 650
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = sunni
+        size = 50
+    }
+
+    officers = {
+        culture = swedish
+        religion = sunni
+        size = 100
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = sunni
+        size = 350
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = sunni
+        size = 1400
+    }
+
+    farmers = {
+        culture = swedish
+        religion = sunni
+        size = 41300
+    }
+
+    slaves = {
+        culture = swedish
+        religion = sunni
+        size = 7000
+    }
+}

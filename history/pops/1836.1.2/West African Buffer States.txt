@@ -1,0 +1,179 @@
+#Mourdiah
+1801 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 500
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = sunni
+        size = 35100
+    }
+}
+#Jenne
+1802 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 850
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 1450
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 4200
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 5450
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = sunni
+        size = 85050
+    }
+
+}
+#Timbuktu
+1803 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 1200
+    }
+
+    bureaucrats = {
+        culture = fulbe
+        religion = sunni
+        size = 200
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 600
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 2500
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 650
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = sunni
+        size = 90050
+    }
+}
+#Bandiagara
+1804 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = fulbe
+        religion = sunni
+        size = 400
+    }
+
+    officers = {
+        culture = fulbe
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 700
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 1150
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 5700
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = sunni
+        size = 80550
+    }
+}
+#Gao
+1805 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 350
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 750
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 400
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = sunni
+        size = 63000
+    }
+}
