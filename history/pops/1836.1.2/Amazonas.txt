@@ -21,31 +21,31 @@
 #Cabreibo
 2433 = {
     aristocrats = {
-        culture = nossogene
+        culture = amazonian
         religion = catholic
         size = 425
     }
 
     clergymen = {
-        culture = nossogene
+        culture = amazonian
         religion = catholic
         size = 125
     }
 
     artisans = {
-        culture = nossogene
+        culture = amazonian
         religion = catholic
         size = 325
     }
 
     soldiers = {
-        culture = nossogene
+        culture = amazonian
         religion = catholic
         size = 750
     }
 
     farmers = {
-        culture = nossogene
+        culture = amazonian
         religion = catholic
         size = 17000
     }
