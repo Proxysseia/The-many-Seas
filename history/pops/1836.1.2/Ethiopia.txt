@@ -1,42 +1,42 @@
 #Vancouver
 13 = {
     bureaucrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 250
     }
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1000
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 5100
     }
 
     officers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 200
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 3000
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 122000
     }
 	
 	farmers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = coptic
         size = 12000
     }
@@ -44,37 +44,37 @@
 #Socotra (16000/4000 POPS)
 1177 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 100
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 100
     }
 
     artisans = {
-        culture = maghrebi
+        culture = mashriqi
         religion = coptic
         size = 500
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = coptic
         size = 50
     }
 
     farmers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = coptic
         size = 4775
     }
 
     slaves = {
-        culture = maghrebi
+        culture = mashriqi
         religion = coptic
         size = 2800
     }
@@ -82,31 +82,31 @@
 #Mindoro
 1458 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 400
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1750
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 12100
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 9500
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 78875
     }
@@ -115,43 +115,43 @@
 #Asmara
 1848 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 225
     }
 
     bureaucrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 150
     }
 
     officers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 25
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 125
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 600
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1250
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 19825
 	}
@@ -159,43 +159,43 @@
 #Massawa
 1849 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 50
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 75
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 150
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 25
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 2700
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 200
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 3600
     }
@@ -203,43 +203,43 @@
 #Akordat
 1850 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 125
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 75
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 350
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 75
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 6375
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 500
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 500
     }
@@ -247,31 +247,31 @@
 #Assab
 1851 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 125
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 75
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 350
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 75
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 10375
     }
@@ -280,49 +280,49 @@
 #Gonder
 1852 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 2100
     }
 
     bureaucrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 2355
     }
 
     officers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 420
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1155
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 9650
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 10020
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 130000
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 11200
     }
@@ -330,43 +330,43 @@
 #Debre Tabor
 1853 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1400
     }
 
     bureaucrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 2355
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 700
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 2900
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 12000
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 153500
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 10000
     }
@@ -374,43 +374,43 @@
 #Matamma
 1854 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1425
     }
 
     bureaucrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 2555
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 735
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 3000
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 7240
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 140000
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 15600
     }
@@ -418,43 +418,43 @@
 #Debre Markos
 1855 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1450
     }
 
     bureaucrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 3855
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 3560
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 13050
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 11740
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 214500
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 17000
     }
@@ -463,49 +463,49 @@
 #Aksum
 1856 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 800
     }
 
     bureaucrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 750
     }
 
     officers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 270
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1420
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 5750
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 6400
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 66485
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 7000
     }
@@ -513,43 +513,43 @@
 #Antalo
 1857 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 700
     }
 
     bureaucrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 255
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 350
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1500
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 7400
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 54550
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 12000
     }
@@ -557,37 +557,37 @@
 #Awsa
 1858 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 315
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 175
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 700
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 175
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 12635
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 3000
     }
@@ -596,49 +596,49 @@
 #Ankober
 1859 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 11175
     }
 
     bureaucrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1665
     }
 
     officers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 660
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 5700
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 32000
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 12000
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 202400
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 31600
     }
@@ -646,31 +646,31 @@
 #Awasa
 1860 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1325
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 675
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 2725
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 93300
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 10000
     }
@@ -678,37 +678,37 @@
 #Aselia
 1861 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1250
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 150
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 2650
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 450
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 75500
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 12010
     }
@@ -716,31 +716,31 @@
 #Bonga
 1862 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 840
     }
 
     officers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 900
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 11100
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 12000
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 217000
     }
@@ -748,30 +748,30 @@
 #Asosa
 1863 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 200
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 310
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 11200
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 6100
     }
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 120850
     }
@@ -779,37 +779,37 @@
 #Negele
 1864 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 875
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1450
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 5850
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 5450
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 49375
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 27000
     }
@@ -817,43 +817,43 @@
 #Harer
 1865 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 910
     }
 
     bureaucrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 625
     }
 
     officers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 125
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1285
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 11900
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 11100
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 79215
     }
@@ -861,37 +861,37 @@
 #Bale
 1866 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 625
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 325
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1600
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1050
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 38500
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 5000
     }
@@ -899,37 +899,37 @@
 #Werder
 1867 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1575
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 900
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 6150
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 3425
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 66625
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 2000
     }
@@ -937,49 +937,49 @@
 #Mogadishu
 1868 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1050
     }
 
     bureaucrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 100
     }
 
     officers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 75
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 550
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 2175
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1125
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 58000
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 6000
     }
@@ -987,31 +987,31 @@
 #Baidoa
 1869 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 450
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 225
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1150
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1175
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 20000
     }
@@ -1019,31 +1019,31 @@
 #Kismayo
 1870 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 275
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 150
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 650
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1150
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 18775
     }
@@ -1052,37 +1052,37 @@
 #Hobye
 1871 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 350
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 175
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 775
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 200
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 15500
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 2000
     }
@@ -1090,49 +1090,49 @@
 #Busaso
 1872 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 540
     }
 
     bureaucrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 50
     }
 
     officers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 50
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 275
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1175
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1000
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 20950
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 5000
     }
@@ -1141,49 +1141,49 @@
 #Berbera
 1873 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 890
     }
 
     bureaucrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 10
     }
 
     officers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 50
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 450
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1850
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1750
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 35000
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 7000
     }
@@ -1191,31 +1191,31 @@
 #Zayla
 1874 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 150
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 75
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 400
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 75
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 7300
     }
@@ -1223,31 +1223,31 @@
 #Wajir 
 2031 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 400
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 200
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 850
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 225
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 27000
     }
@@ -1255,37 +1255,37 @@
 #Tolanaro
 2118 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 475
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 250
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1100
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 250
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 45025
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 8000
     }
@@ -1293,43 +1293,43 @@
 #Toamasina
 2119 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1250
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1150
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1700
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 3500
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 19750
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 25
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 50
     }
@@ -1337,31 +1337,31 @@
 #Mahajanga
 2121 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 375
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 200
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 6100
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 2200
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 54225
     }
@@ -1369,37 +1369,37 @@
 #Mayotte
 2124 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 15
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 25
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 50
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 10
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 500
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 250
     }
@@ -1407,31 +1407,31 @@
 #Reunion 
 2126 = {
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 125
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 850
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 200
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1825
     }
 
     slaves = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 14000
     }
@@ -1439,37 +1439,37 @@
 #New Antipolo
 3333 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 225
     }
 
     bureaucrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1450
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1750
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1000
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1200
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 12550
     }
@@ -1477,37 +1477,37 @@
 #Aparri
 3339 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1250
     }
 
     bureaucrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1050
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 7500
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 39000
     }
 	
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 15000
     }
 
 	farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 180000
     }
@@ -1515,37 +1515,37 @@
 #Palo Leyte
 3341 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 1250
     }
 
     bureaucrats = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 450
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 750
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 10000
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 4000
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = coptic
         size = 91550
     }

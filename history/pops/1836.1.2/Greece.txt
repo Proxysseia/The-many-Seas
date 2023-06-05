@@ -123,25 +123,25 @@
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 150
     }
 
     artisans = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 10000
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 1100
     }
 
     farmers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 3850
     }
@@ -565,25 +565,25 @@
 
     ######Jews
     soldiers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 300
     }
 
     farmers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
@@ -638,31 +638,31 @@
 
     ######Jews #1250 pops
     aristocrats = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 150
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 150
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 600
     }
 
     farmers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 250
     }
@@ -1019,31 +1019,31 @@
 
     ######Jews
     aristocrats = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     farmers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
@@ -1152,31 +1152,31 @@
 
     ######Jews #1250 pops
     aristocrats = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     farmers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }

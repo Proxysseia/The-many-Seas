@@ -1,6 +1,5 @@
 #Havana
 2209 = {
-
     aristocrats = {
         culture = antillean
         religion = catholic
@@ -461,6 +460,51 @@
         size = 10000
     }
 
+}
+#Port au Prince 
+2213 = {
+
+    bureaucrats = {
+        culture = antillean
+        religion = sunni
+        size = 1500
+    }
+
+    aristocrats = {
+        culture = antillean
+        religion = sunni
+        size = 3825
+    }
+
+    officers = {
+        culture = antillean
+        religion = sunni
+        size = 450
+    }
+
+    clergymen = {
+        culture = antillean
+        religion = sunni
+        size = 1750
+    }
+
+    artisans = {
+        culture = antillean
+        religion = sunni
+        size = 14050
+    }
+
+    soldiers = {
+        culture = antillean
+        religion = sunni
+        size = 6000
+    }
+
+    slaves = {
+        culture = antillean
+        religion = sunni
+        size = 88300
+    }
 }
 #Jamaica 
 2217 = {

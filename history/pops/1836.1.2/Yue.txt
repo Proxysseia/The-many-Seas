@@ -839,7 +839,7 @@
     }
     farmers = {
         culture = chinese
-        religion = xifang
+        religion = mahayana
         size = 152250
     }
 }
@@ -883,7 +883,7 @@
     }
     farmers = {
         culture = chinese
-        religion = xifang
+        religion = mahayana
         size = 89250
     }
 
@@ -987,7 +987,7 @@
     }
     farmers = {
         culture = chinese
-        religion = xifang
+        religion = mahayana
         size = 193750
     }
 }
@@ -1053,7 +1053,7 @@
     }
     farmers = {
         culture = chinese
-        religion = xifang
+        religion = mahayana
         size = 184250
     }
 }
@@ -1143,7 +1143,7 @@
     }
     farmers = {
         culture = chinese
-        religion = xifang
+        religion = mahayana
         size = 264250
     }
 }
@@ -1199,7 +1199,7 @@
 
     farmers = {
         culture = chinese
-        religion = xifang
+        religion = mahayana
         size = 116250
     }
      farmers = {
@@ -1325,7 +1325,7 @@
     }
     farmers = {
         culture = chinese
-        religion = xifang
+        religion = mahayana
         size = 191250
     }
 }
@@ -1373,7 +1373,7 @@
     }
     farmers = {
         culture = chinese
-        religion = xifang
+        religion = mahayana
         size = 233750
     }
 }

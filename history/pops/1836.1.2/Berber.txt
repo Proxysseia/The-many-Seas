@@ -395,13 +395,13 @@
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 120
     }
@@ -745,13 +745,13 @@
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 10
     }
 
     artisans = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 490
     }
@@ -825,13 +825,13 @@
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 5
     }
 
     artisans = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 120
     }
@@ -1651,41 +1651,41 @@
 
 }
 #Oranais Region (577600)
-#parish in 1836 :
+#french in 1836 :
 #Oran (108000/27000 POPS)
 1704 = {
     aristocrats = {
-        culture = parish
+        culture = french
         religion = catholic
         size = 50
     }
 
     bureaucrats = {
-        culture = parish
+        culture = french
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = parish
+        culture = french
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = parish
+        culture = french
         religion = catholic
         size = 800
     }
 
     soldiers = {
-        culture = parish
+        culture = french
         religion = catholic
         size = 875
     }
 
     farmers = {
-        culture = parish
+        culture = french
         religion = catholic
         size = 200
     }
@@ -1734,37 +1734,37 @@
 
     ######Jews
     aristocrats = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     officers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 380
     }
 
     farmers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 480
     }
@@ -1855,25 +1855,25 @@
     ######Jews
 
     soldiers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     farmers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
@@ -2439,7 +2439,7 @@
     }
 
     slaves = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 5000
     }
@@ -2477,7 +2477,7 @@
     }
 
     slaves = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 2000
     }
@@ -2515,7 +2515,7 @@
     }
 
     slaves = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 3000
     }
@@ -2553,7 +2553,7 @@
     }
 
     slaves = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 12000
     }

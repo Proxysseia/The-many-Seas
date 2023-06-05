@@ -1,160 +1,160 @@
 #Babbangabas
 12 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1250
     }
 
     bureaucrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 500
     }
 
     officers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 400
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2000
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 13000
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 6000
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 60000
+        size = 20000
     }
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 50000
+        size = 5200
     }
 }
 #San Jose
 107 = {
     officers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 7500
     }
 
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2500
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 600
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1500
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 42500
+        size = 142500
     }
 }
 #Etorofu
 1089 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 650
     }
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1400
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 4450
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3000
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 50000
+        size = 40000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 51250
+        size = 1250
     }
 }
 #Moundou
 1819 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1150
     }
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 800
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3450
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2500
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 23225
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 22000
     }
@@ -162,37 +162,37 @@
 #Abeokuta
 1924 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3650
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1850
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 7500
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2000
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 113000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 38000
     }
@@ -200,137 +200,137 @@
 #Ibadan
 1925 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 5800
     }
 
     bureaucrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 300
     }
 
     officers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 900
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2900
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1700
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3000
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 203400
+        size = 113400
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 62000
+        size = 42000
     }
 }
 #Ife
 1926 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 4250
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2150
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 800
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2200
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 158600
+        size = 108600
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 40000
+        size = 20000
     }
 }
 #Ilorin
 1927 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 950
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 525
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2500
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 39025
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 6000
     }
@@ -338,49 +338,49 @@
 #Benin
 1928 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 4250
     }
 
     bureaucrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 200
     }
 
     officers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 700
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2150
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 8600
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3000
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2000
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 173100
     }
@@ -389,37 +389,37 @@
 #Akure 
 1929 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 850
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 450
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2200
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1450
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 50000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 16000
     }
@@ -427,37 +427,37 @@
 #Lokoja 
 1930 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 570
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 300
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 4000
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 6200
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 160000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 26000
     }
@@ -465,55 +465,55 @@
 #Warri
 1931 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 6150
     }
 
     bureaucrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 600
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3100
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2350
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3000
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 205300
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 78000
     }
@@ -521,37 +521,37 @@
 #Bonny 
 1932 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1100
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 550
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2250
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 50000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 14000
     }
@@ -559,49 +559,49 @@
 #Awka
 1933 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 6300
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3150
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2650
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3000
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 900
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 214000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 76000
     }
@@ -609,43 +609,43 @@
 #Calabar
 1934 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 4150
     }
 
     bureaucrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 450
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2100
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 8400
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2100
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 149250
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 44000
     }
@@ -653,43 +653,43 @@
 #Aruchukwu
 1935 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 4150
     }
 
     bureaucrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 450
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2100
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 8350
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2400
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 157000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 34000
     }
@@ -697,37 +697,37 @@
 #Makurdi 
 1936 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1850
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 925
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3725
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 950
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 62550
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 23000
     }
@@ -735,37 +735,37 @@
 #Tukari
 1937 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 875
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 450
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1775
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 450
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 56250
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 8000
     }
@@ -773,37 +773,37 @@
 #Bussa 
 1938 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 250
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 18000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 4000
     }
@@ -811,49 +811,49 @@
 #Zaria 
 1939 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 375
     }
 
     bureaucrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 250
     }
 
     officers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 200
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3100
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 85000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 13000
     }
@@ -861,37 +861,37 @@
 #Bida 
 1940 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 325
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 175
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 700
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 175
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 10625
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 5000
     }
@@ -899,37 +899,37 @@
 #Abuja 
 1941 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 300
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 650
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 175
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 10725
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 4000
     }
@@ -937,31 +937,31 @@
 #Bauchi 
 1942 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 375
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 200
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 775
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 32600
     }
@@ -969,37 +969,37 @@
 #Jos 
 1943 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 125
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 300
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 750
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 10000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2000
     }
@@ -1007,37 +1007,37 @@
 #Gombe
 1944 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 250
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 400
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1000
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 54000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 10000
     }
@@ -1045,31 +1045,31 @@
 #Kano
 1945 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2625
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1325
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 6600
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 4000
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 210000
     }
@@ -1077,31 +1077,31 @@
 #Kebbi
 1946 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 800
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 400
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2050
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1500
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 45000
     }
@@ -1109,37 +1109,37 @@
 #Katsina 
 1947 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1925
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 975
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 4900
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 150100
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 54000
     }
@@ -1147,49 +1147,49 @@
 #Sokoto 
 1948 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2325
     }
 
     bureaucrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 525
     }
 
     officers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 250
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1175
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 5850
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1175
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 120000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 13000
     }
@@ -1197,37 +1197,37 @@
 #Hadejia 
 1949 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1150
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 600
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2950
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 600
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 110000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 47000
     }
@@ -1236,37 +1236,37 @@
 1950 = {
 
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 225
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 125
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 525
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 10125
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 4000
     }
@@ -1274,163 +1274,163 @@
 #Kuka 
 1951 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 4600
     }
 
     bureaucrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 800
     }
 
     officers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 700
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2500
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 9600
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2400
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 160000
+        size = 100000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 60000
+        size = 20000
     }
 }
 #Nguru
 1952 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2200
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1300
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 4800
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1200
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 74500
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 36000
+        size = 26000
     }
 }
 #Dikoa 
 1953 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3900
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2000
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 7900
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2000
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 144200
+        size = 104200
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 36000
+        size = 26000
     }
 }
 #Fernando Po
 1955 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 200
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 125
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 7175
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3700
     }
@@ -1438,43 +1438,43 @@
 #Douala
 1956 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1675
     }
 
     officers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 150
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 825
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3300
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 825
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 62000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 14000
     }
@@ -1482,37 +1482,37 @@
 #Buea
 1957 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1075
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 550
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2250
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3550
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 60000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 42000
     }
@@ -1520,37 +1520,37 @@
 #Kribi
 1958 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 500
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 250
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1050
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1500
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 58000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 23000
     }
@@ -1558,37 +1558,37 @@
 #Yaounde
 1959 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 525
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 275
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1125
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 275
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 51800
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 24000
     }
@@ -1596,37 +1596,37 @@
 #Bafoussam
 1960 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1375
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 700
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2775
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 700
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 44450
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 19000
     }
@@ -1634,147 +1634,147 @@
 #Bamenda
 1961 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1250
     }
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 700
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3450
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3000
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 13225
+        size = 43225
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 36850
+        size = 6850
     }
 }
 #Bertoua
 1962 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1650
     }
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 400
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 8450
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3600
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 63225
+        size = 33225
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 42850
+        size = 12850
     }
 }
 #Ngaoundere
 1963 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 650
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 750
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 7000
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3000
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 109000
+        size = 39000
     }
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 44000
+        size = 14000
     }
 }
 #Maroua
 1964 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1650
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1250
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 22000
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 4000
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 41315
     }
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 42820
     }
@@ -1782,36 +1782,36 @@
 #Bangui
 1965 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2250
     }
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1500
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 7450
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1500
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 23225
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 46850
     }
@@ -1819,36 +1819,36 @@
 #Nola
 1966 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1250
     }
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 700
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 6450
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1000
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 33225
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 13850
     }
@@ -1856,36 +1856,36 @@
 #Bouar
 1967 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2250
     }
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1200
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 9450
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2000
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 33225
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 46850
     }
@@ -1893,36 +1893,36 @@
 #Bossangoa
 1968 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1750
     }
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1200
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 7450
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3000
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 43225
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 32850
     }
@@ -1930,383 +1930,381 @@
 #Libreville
 1972 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2200
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 450
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1000
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1500
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 75000
     }
 	
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 74000
+        size = 17000
     }
 }
 #Bata 
 1973 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 200
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 450
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1000
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 500
     }
 
     farmers = {
-        culture = sorbian
-        religion = animist
-        size = 15175
-    }
-
-    slaves = {
-        culture = sorbian
-        religion = animist
-        size = 34000
-    }
-}
-#Mayumbe
-1974 = {
-    aristocrats = {
-        culture = sorbian
-        religion = animist
-        size = 500
-    }
-
-    clergymen = {
-        culture = sorbian
-        religion = animist
-        size = 450
-    }
-
-    artisans = {
-        culture = sorbian
-        religion = animist
-        size = 3000
-    }
-
-    soldiers = {
-        culture = sorbian
-        religion = animist
-        size = 1200
-    }
-
-    farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 35175
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 24000
+        size = 14000
+    }
+}
+#Mayumbe
+1974 = {
+    aristocrats = {
+        culture = fang
+        religion = animist
+        size = 500
+    }
+
+    clergymen = {
+        culture = fang
+        religion = animist
+        size = 450
+    }
+
+    artisans = {
+        culture = fang
+        religion = animist
+        size = 3000
+    }
+
+    soldiers = {
+        culture = fang
+        religion = animist
+        size = 1200
+    }
+
+    farmers = {
+        culture = fang
+        religion = animist
+        size = 45175
+    }
+
+    slaves = {
+        culture = fang
+        religion = animist
+        size = 14000
     }
 }
 #Moanda
 1975 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 75
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 500
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 12175
+        size = 32000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 24000
+        size = 14000
     }
 }
 #Makokou
 1976 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 400
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 200
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 26800
+        size = 56800
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 59000
+        size = 19000
     }
 }
-
 #Nkuna
 1977 = {
 
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1500
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 750
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 4000
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 4250
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 80575
+        size = 90575
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 50000
+        size = 40000
     }
 }
 #Madingou
 1978 = {
-    
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 250
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 750
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 4000
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1250
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 45000
+        size = 55000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 30000
+        size = 20000
     }
 }
 #Djambala
 1980 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 500
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1450
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2000
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1000
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 30000
+        size = 40000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 19000
+        size = 9000
     }
 }
 #Boma
 1983 = {
 
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2025
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1080
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3000
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3050
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 100575
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
-        size = 80000
+        size = 40000
     }
 }
 #Basoko
 1992 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1400
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 650
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1700
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1000
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 45000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 41000
     }
@@ -2314,49 +2312,49 @@
 #Tipsbyen
 2000 = {
     officers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1350
     }
 
     bureaucrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3125
     }
 
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 4425
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 3225
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 9000
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 6250
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 185575
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 15000
     }
@@ -2364,37 +2362,37 @@
 #Tsushima 
 2589 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1025
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 475
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 10700
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1750
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 72625
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 21000
     }
@@ -2402,37 +2400,37 @@
 #Loango
 2624 = {
     aristocrats = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 2500
     }
 
     clergymen = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 450
     }
 
     artisans = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 6000
     }
 
     soldiers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 1250
     }
 
     farmers = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 44000
     }
 
     slaves = {
-        culture = sorbian
+        culture = fang
         religion = animist
         size = 20000
     }

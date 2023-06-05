@@ -1,25 +1,25 @@
 #San Diego
 90 = {
     aristocrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 2000
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 250
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 80000
     }
@@ -27,31 +27,31 @@
 #Santa Fe
 103 = {
     aristocrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 10
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 25
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 50
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 15
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 2900
     }
@@ -59,25 +59,25 @@
 #Rapid City
 122 = {
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 300
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 2500
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 1900
     }
@@ -85,19 +85,19 @@
 #North Platte
 125 = {
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 1030
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 200
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 2800
     }
@@ -105,43 +105,43 @@
 #Baton Rouge
 140 = {
     aristocrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 150
     }
 
     bureaucrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 50
     }
 
     officers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 45
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 175
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 47330
     }
@@ -149,43 +149,43 @@
 #Des Moines
 151 = {
     aristocrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 25
     }
 
     officers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 5
     }
 
     bureaucrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 10
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 15
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 50
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 2500
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 25900
     }
@@ -193,25 +193,25 @@
 #Carbondale
 168 = {
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 800
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 175
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 49925
     }
@@ -219,25 +219,25 @@
 #Fort Wayne
 172 = {
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 400
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 2500
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 41850
     }
@@ -245,25 +245,25 @@
 #Louisville
 184 = {
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 200
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 700
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 750
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 47050
     }
@@ -271,37 +271,37 @@
 #Bowling Green
 186 = {
     bureaucrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 125
     }
 
     officers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 75
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 350
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 2350
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 5475
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 63725
     }
@@ -309,25 +309,25 @@
 #Paducah
 187 = {
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 715
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 1250
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 5150
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 34625
     }
@@ -335,25 +335,25 @@
 #Chattanooga
 191 = {
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 150
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 2400
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 2175
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 31475
     }
@@ -361,49 +361,49 @@
 #Montgomery
 195 = {
     aristocrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 750
     }
 
     bureaucrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 250
     }
 
     officers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 175
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 275
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 1650
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 3100
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 54850
     }
 
     slaves = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 13500
     }
@@ -411,31 +411,31 @@
 #Annapolis
 220 = {
     aristocrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 500
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 120
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 640
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 1500
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 36000
     }
@@ -443,31 +443,31 @@
 #Hagerstown 
 221 = {
     aristocrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 150
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 325
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 150
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 31325
     }
@@ -475,37 +475,37 @@
 #Dover
 222 = {
     aristocrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 100
     }
 
     bureaucrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 50
     }
 
     officers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 50
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 125
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 26400
     }
 
     slaves = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 500
     }
@@ -513,49 +513,49 @@
 #Philadelphia
 223 = {
     bureaucrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 100
     }
 
     officers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 100
     }
 
     capitalists = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 50
     }
 
     clerks = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 60
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 5000
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 2000
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 56950
     }
@@ -563,25 +563,25 @@
 #Tuat
 1718 = {
     aristocrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 20
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 7800
     }
@@ -589,26 +589,26 @@
 #Illizi
 1719 = {
     aristocrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 15
     }
 
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 60
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 1900
     }
@@ -616,26 +616,26 @@
 #In Guezzam
 1721 = {
     aristocrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 15
     }
 
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 65
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 1900
     }
@@ -643,25 +643,25 @@
 #Tin Zawatene
 1722 = {
     aristocrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 3800
     }
@@ -669,43 +669,43 @@
 #Murzuk
 1741 = {
     aristocrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 15
     }
 
     bureaucrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 20
     }
 
     officers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 15
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 25
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 50
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 10
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 5880
     }
@@ -713,31 +713,31 @@
 #Ghadamis
 1744 = {
     aristocrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 65
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 7650
     }
@@ -745,31 +745,31 @@
 #Walata
 1781 = {
     aristocrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 150
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 300
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 500
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 10400
     }
@@ -777,31 +777,31 @@
 #Bir Maghrein
 1782 = {
     aristocrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 110
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 115
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 150
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 125
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 11900
     }
@@ -809,31 +809,31 @@
 #Lagos
 1923 = {
     aristocrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 1550
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 800
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 3200
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 1050
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 47400
     }
@@ -841,31 +841,31 @@
 #Araouane
 2609 = {
     aristocrats = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 175
     }
 
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 1250
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 13500
     }
@@ -873,25 +873,25 @@
 #Coudersport
 2627 = {
     clergymen = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 1000
     }
 
     soldiers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 5150
     }
 
     farmers = {
-        culture = catalan
+        culture = maghrebi
         religion = sunni
         size = 38000
     }

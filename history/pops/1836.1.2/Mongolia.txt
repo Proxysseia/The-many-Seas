@@ -149,31 +149,31 @@
     }
 
     aristocrats = {
-        culture = yakut
+        culture = mongol
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = yakut
+        culture = mongol
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = yakut
+        culture = mongol
         religion = animist
         size = 125
     }
 
     soldiers = {
-        culture = yakut
+        culture = mongol
         religion = animist
         size = 25
     }
 
     slaves = {
-        culture = yakut
+        culture = mongol
         religion = animist
         size = 3000
     }

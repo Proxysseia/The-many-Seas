@@ -438,49 +438,49 @@
     ####
     ######Jews
     aristocrats = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     capitalists = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     officers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     craftsmen = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 200
     }
 
     artisans = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 200
     }
 
     farmers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
@@ -1342,13 +1342,13 @@
 
     ######Jews
     artisans = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }
 
     farmers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = jewish
         size = 100
     }

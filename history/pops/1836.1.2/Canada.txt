@@ -3,31 +3,31 @@
 #Ranfray (3592000/898000 POPS)
 1490 = {
     aristocrats = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 2350
     }
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 700
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5450
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 2700
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 53800
     }
@@ -35,25 +35,25 @@
 #Bytantaysk (2000/500 POPS)
 1071 = {
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 1250
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 14025
     }
@@ -61,31 +61,31 @@
 #Dawson (4000/1000 POPS)
 7 = {
     aristocrats = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 20
     }
 
     clergymen = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 30
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 1800
     }
@@ -97,37 +97,37 @@
 #Echo Bay (4000/1000 POPS)
 11 = {
     aristocrats = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = inuit
+        culture = native_american_minor
         religion = protestant
         size = 150
     }
@@ -136,31 +136,31 @@
 #Fort Resolution (2000/500 POPS)
 2596 = {
     aristocrats = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 600
     }
 
     soldiers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 150
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 1500
     }
@@ -168,31 +168,31 @@
 #Fort Liard (1600/400 POPS)
 2598 = {
     aristocrats = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 1525
     }
@@ -202,37 +202,37 @@
 2595 = {
 
     aristocrats = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 3
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 3
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 3
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 250
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 1250
     }
@@ -244,43 +244,43 @@
 22 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 1950
     }
@@ -288,31 +288,31 @@
 #Athabaska Landing (4800/1200 POPS)
 23 = {
     aristocrats = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 20
     }
 
     clergymen = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 60
     }
 
     soldiers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 1080
     }
@@ -321,31 +321,31 @@
 24 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 1500
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 8250
     }
@@ -355,37 +355,37 @@
 25 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 1500
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 380
     }
@@ -394,37 +394,37 @@
 26 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 580
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 1030
     }
@@ -433,55 +433,55 @@
 27 = {
 
     aristocrats = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 200
     }
 
     aristocrats = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 500
     }
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     officers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 2015
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 6710
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 3185
     }
@@ -490,37 +490,37 @@
 28 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 665
     }
@@ -529,31 +529,31 @@
 #Fort Vermillion (3200/800 POPS)
 2597 = {
     aristocrats = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 15
     }
 
     clergymen = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 20
     }
 
     artisans = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 40
     }
 
     soldiers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 1025
     }
@@ -564,55 +564,55 @@
 30 = {
 
     aristocrats = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 20
     }
 
     aristocrats = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 50
     }
 
     aristocrats = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 200
     }
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     officers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 5250
     }
@@ -620,31 +620,31 @@
 #Stanley (4000/1000 POPS)
 31 = {
     aristocrats = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 900
     }
@@ -652,55 +652,55 @@
 #Prince Albert (8000/2000 POPS)
 32 = {
     clergymen = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 15
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 910
     }
 
     aristocrats = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 900
     }
@@ -709,37 +709,37 @@
 33 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 1000
     }
@@ -748,37 +748,37 @@
 34 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 1000
     }
@@ -787,37 +787,37 @@
 35 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 950
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 655
     }
@@ -826,30 +826,30 @@
 #Winnipeg (12000/3000 POPS)
 36 = {
     bureaucrats = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 250
     }
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 150
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 1200
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 31015
     }
@@ -859,32 +859,32 @@
 37 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 30
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 30
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 750
     }
 
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 2550
     }
@@ -892,37 +892,37 @@
 #Indian Lakes (4000/1000 POPS)
 38 = {
     aristocrats = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = catholic
         size = 10
     }
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = catholic
         size = 15
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = catholic
         size = 800
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 1200
     }
@@ -930,31 +930,31 @@
 #Norway House (8000/2000 POPS)
 39 = {
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 1250
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 4250
     }
@@ -963,31 +963,31 @@
 40 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 18250
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 10000
     }
@@ -996,31 +996,31 @@
 41 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 26500
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 13000
     }
@@ -1029,49 +1029,49 @@
 42 = {
 
     aristocrats = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     aristocrats = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 250
     }
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 250
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 2500
     }
 
     officers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 125
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 2000
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 65215
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 14000
     }
@@ -1083,31 +1083,31 @@
 47 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 3
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 3
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 3
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 10
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 700
     }
@@ -1116,31 +1116,31 @@
 48 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 30
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 30
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 30
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 3000
     }
@@ -1150,55 +1150,55 @@
 49 = {
 
     aristocrats = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 2
     }
 
     aristocrats = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 5
     }
 
     aristocrats = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 20
     }
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 2
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 1950
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = catholic
         size = 1000
     }
@@ -1207,31 +1207,31 @@
 50 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 3500
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 3000
     }
@@ -1240,25 +1240,25 @@
 51 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 15
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 1050
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 23000
     }
@@ -1267,25 +1267,25 @@
 52 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 8050
     }
@@ -1295,31 +1295,31 @@
 2594 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 10
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
@@ -1330,54 +1330,54 @@
 #Toronto (172000/43000 POPS)
 46 = {
     aristocrats = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = catholic
         size = 750
     }
 
     aristocrats = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 2000
     }
 
     bureaucrats = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 400
     }
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 250
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 7000
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 5000
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 130250
     }
     craftsmen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 1000
     }
@@ -1386,31 +1386,31 @@
 54 = {
 
     aristocrats = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 2500
     }
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 200
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 2000
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 1500
     }
 
     labourers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 38350
     }
@@ -1418,31 +1418,31 @@
 #Kingston (72000/18000 POPS)
 56 = {
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 250
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 4500
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 62925
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = catholic
         size = 5700
     }
@@ -1450,37 +1450,37 @@
 #Fredericton
 68 = {
     bureaucrats = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = catholic
         size = 600
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = catholic
         size = 31650
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 14660
     }
@@ -1489,55 +1489,55 @@
 #Caribou (36000/9000 POPS)
 250 = {
     clergymen = {
-        culture = rustic
+        culture = native_american_minor
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = rustic
+        culture = native_american_minor
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = rustic
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = rustic
+        culture = native_american_minor
         religion = protestant
         size = 7625
     }
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 1525
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 6725
     }
@@ -1545,31 +1545,31 @@
 #Truro (44000/11000 POPS)
 72 = {
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 750
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 125
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 14075
     }
 
     labourers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = catholic
         size = 5100
     }
@@ -1578,25 +1578,25 @@
 3 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 750
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 125
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 3075
     }
@@ -1604,37 +1604,37 @@
 #Moorhead (8000/2000 POPS)
 157 = {
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 750
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 125
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 3220
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 5000
     }
 
     farmers = {
-        culture = rustic
+        culture = native_american_minor
         religion = protestant
         size = 4250
     }
@@ -1642,37 +1642,37 @@
 #Duluth (8000/2000 POPS)
 158 = {
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 125
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 1000
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 250
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 7220
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 12500
     }
 
     farmers = {
-        culture = rustic
+        culture = native_american_minor
         religion = protestant
         size = 7250
     }
@@ -1680,37 +1680,37 @@
 #Minot (8000/2000 POPS)
 118 = {
     clergymen = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = native_american_minor
         religion = protestant
         size = 1220
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 4500
     }
 
     farmers = {
-        culture = rustic
+        culture = native_american_minor
         religion = protestant
         size = 2250
     }

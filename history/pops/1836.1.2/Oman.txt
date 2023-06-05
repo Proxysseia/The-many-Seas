@@ -2,67 +2,67 @@
 #Muscat
 1166 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 150
     }
 
     bureaucrats = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 25
     }
 
     officers = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 400
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 4000
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 2625
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 5950
     }
@@ -70,37 +70,37 @@
 #Dubai
 1168 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 3625
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = shiite
         size = 2300
     }
@@ -108,37 +108,37 @@
 #Suhar
 1169 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 2000
     }
 
     farmers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 3625
     }
@@ -146,55 +146,55 @@
 #Nizwa
 1170 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 75
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 700
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 2575
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 50
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 4525
     }
@@ -202,55 +202,55 @@
 #Sur
 1171 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 3800
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 25
     }
 
     artisans = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 4850
     }
@@ -258,49 +258,49 @@
 #Duqm
 1172 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 75
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 3000
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 25
     }
 
     artisans = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 3825
     }
@@ -309,61 +309,61 @@
 #Salalah
 1174 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 65
     }
 
     bureaucrats = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 50
     }
 
     officers = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 15
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 250
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 5000
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 25
     }
 
     artisans = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 6025
     }
@@ -371,37 +371,37 @@
 #Khasa
 2664 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 30
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 5
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 10
     }
 
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 3230
     }
 
     farmers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 3730
     }
@@ -409,48 +409,48 @@
 #Lucena-Quezon
 3332 = {
     aristocrats = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 250
     }
 
     bureaucrats = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 450
     }
 
     clergymen = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 750
     }
 
     artisans = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 2750
     }
     soldiers = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 9000
     }
 	
     farmers = {
-        culture = somali
+        culture = amhara
         religion = sunni
         size = 6550
     }
 	
     artisans = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 1200
     }
 
     farmers = {
-        culture = maghrebi
+        culture = mashriqi
         religion = sunni
         size = 7800
     }

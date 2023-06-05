@@ -2,31 +2,31 @@
 #Vancouver Island
 14 = {
     aristocrats = {
-        culture = parish
+        culture = french
         religion = protestant
         size = 2100
     }
 
     clergymen = {
-        culture = parish
+        culture = french
         religion = protestant
         size = 750
     }
 
     artisans = {
-        culture = parish
+        culture = french
         religion = protestant
         size = 1100
     }
 
     soldiers = {
-        culture = parish
+        culture = french
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = parish
+        culture = french
         religion = protestant
         size = 5550
     }
@@ -40,25 +40,25 @@
 #Rochester
 237 = {
     clergymen = {
-        culture = parish
+        culture = french
         religion = protestant
         size = 325
     }
 
     artisans = {
-        culture = parish
+        culture = french
         religion = protestant
         size = 2200
     }
 
     soldiers = {
-        culture = parish
+        culture = french
         religion = protestant
         size = 450
     }
 
     farmers = {
-        culture = parish
+        culture = french
         religion = protestant
         size = 15025
     }
@@ -72,25 +72,25 @@
 #Worcester
 2089 = {
     aristocrats = {
-        culture = parish
+        culture = french
         religion = catholic
         size = 250
     }
 	
     clergymen = {
-        culture = parish
+        culture = french
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = parish
+        culture = french
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = parish
+        culture = french
         religion = catholic
         size = 250
     }
@@ -105,31 +105,31 @@
 2092 = {
 
     aristocrats = {
-        culture = parish
+        culture = french
         religion = catholic
         size = 10
     }
 
     bureaucrats = {
-        culture = parish
+        culture = french
         religion = catholic
         size = 40
     }
 
     clergymen = {
-        culture = parish
+        culture = french
         religion = catholic
         size = 55
     }
 
     artisans = {
-        culture = parish
+        culture = french
         religion = catholic
         size = 150
     }
 
     soldiers = {
-        culture = parish
+        culture = french
         religion = catholic
         size = 250
     }

@@ -58,13 +58,13 @@
 
     soldiers = {
         culture = chinese
-        religion = xifang
+        religion = mahayana
         size = 2300
     }
 
     farmers = {
         culture = chinese
-        religion = xifang
+        religion = mahayana
         size = 41950
     }
 }
@@ -282,13 +282,13 @@
 
     soldiers = {
         culture = chinese
-        religion = xifang
+        religion = mahayana
         size = 300
     }
 
     farmers = {
         culture = chinese
-        religion = xifang
+        religion = mahayana
         size = 94250
     }
 }
@@ -338,7 +338,7 @@
 
     farmers = {
         culture = chinese
-        religion = xifang
+        religion = mahayana
         size = 27000
     }
 }
@@ -563,7 +563,7 @@
 
     farmers = {
         culture = chinese
-        religion = xifang
+        religion = mahayana
         size = 179175
     }
 }

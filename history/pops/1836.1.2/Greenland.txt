@@ -1,47 +1,47 @@
 #Fort Jamieson
 93 = {
 clergymen = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 200
     }
     artisans = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 200
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 6400
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 9525
     }
     aristocrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 650
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 500
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 1200
     }
     aristocrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 550
     }
     soldiers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 500
     }
@@ -49,42 +49,42 @@ clergymen = {
 #Nordauch
 251 = {
     clergymen = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = protestant
         size = 500
     }
     artisans = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = protestant
         size = 500
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = protestant
         size = 1400
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 12525
     }
     aristocrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 1250
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 1200
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 3200
     }
     aristocrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 250
     }
@@ -92,32 +92,32 @@ clergymen = {
 #Sutherland
 252 = {
     bureaucrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 75
     }
     clergymen = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 100
     }
     artisans = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 750
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 5125
     }
     artisans = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 1250
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 24250
     }
@@ -125,72 +125,72 @@ clergymen = {
 #Green Harbor 
 1498 = {
     aristocrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 1000
     }
     officers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 100
     }
     clergymen = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 100
     }
     artisans = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 100
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 110
     }
     aristocrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 250
     }
     officers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 200
     }
     clergymen = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 500
     }
     artisans = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 1935
     }
     soldiers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 500
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 38250
     }
     aristocrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 100
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 5700
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 3700
     }
@@ -198,77 +198,77 @@ clergymen = {
 #New Stirling City (5520000/1380000 POPS)
 1541 = {
     bureaucrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 750
     }
     aristocrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 1500
     }
     officers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 50
     }
     clergymen = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 50
     }
     artisans = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 250
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 8000
     }
     aristocrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 1525
     }
     officers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 400
     }
     clergymen = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 1000
     }
     artisans = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 7500
     }
     soldiers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 1000
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 58500
     }
     aristocrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 250
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 12200
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 800
     }
@@ -276,77 +276,77 @@ clergymen = {
 #Raleen (344000/86000 POPS)
 1606 = {
     aristocrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 500
     }
     officers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 50
     }
     clergymen = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 50
     }
     artisans = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 250
     }
     soldiers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 1000
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 2000
     }
     aristocrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 750
     }
     officers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 200
     }
     clergymen = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 500
     }
     artisans = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 935
     }
     soldiers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 200
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 18500
     }
     aristocrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 50
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 2200
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 6400
     }
@@ -355,57 +355,57 @@ clergymen = {
 #Lecreftville (816/204 POPS)
 2636 = {
     bureaucrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = protestant
         size = 1250
     }
     aristocrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 2500
     }
     officers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 500
     }
     clergymen = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 500
     }
     artisans = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 6000
     }
     soldiers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 2000
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 62525
     }
     aristocrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 1250
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 3200
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 15200
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = protestant
         size = 5050
     }
@@ -413,57 +413,57 @@ clergymen = {
 #Bord de Colin (3696000/924000 POPS)
 1570 = {
     bureaucrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = protestant
         size = 50
     }
     aristocrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 1750
     }
     officers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 100
     }
     clergymen = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 250
     }
     artisans = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 2555
     }
     soldiers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 450
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 28575
     }
     aristocrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 250
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 1200
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 2200
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = protestant
         size = 550
     }
@@ -471,52 +471,52 @@ clergymen = {
 #Petitport (344000/86000 POPS)
 1330 = {
     aristocrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 2050
     }
     officers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 100
     }
     clergymen = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 750
     }
     artisans = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 5555
     }
     soldiers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 1050
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 33120
     }
     aristocrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 300
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 5200
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 6200
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = protestant
         size = 1250
     }
@@ -524,42 +524,42 @@ clergymen = {
 #Nyverden 
 1652 = {
     bureaucrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = protestant
         size = 50
     }
     clergymen = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = protestant
         size = 50
     }
     artisans = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = protestant
         size = 500
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = protestant
         size = 2400
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = catholic
         size = 1525
     }
     aristocrats = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = protestant
         size = 25
     }
     farmers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = protestant
         size = 8500
     }
     soldiers = {
-        culture = scottish_greenlander
+        culture = icelandic
         religion = protestant
         size = 500
     }

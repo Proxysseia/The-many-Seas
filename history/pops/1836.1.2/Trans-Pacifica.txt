@@ -3,61 +3,61 @@
 #Sacramento (9600/2400 POPS)
 84 = {
     bureaucrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = catholic
         size = 3050
     }
 
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = catholic
         size = 3000
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = catholic
         size = 12350
     }
 
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     artisans = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 5000
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 85800
     }
@@ -65,30 +65,30 @@
 #Sacramento (12000/3000 POPS)
 86 = {
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 1000
     }
 
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 400
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 24500
     }
     craftsmen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 1000
     }
@@ -96,55 +96,55 @@
 #Monterey (6400/1600 POPS)
 87 = {
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = catholic
         size = 3600
     }
 
     bureaucrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = catholic
         size = 500
     }
 
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 1000
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 16000
     }
@@ -158,25 +158,25 @@
 #Mojave (8000/2000 POPS)
 88 = {
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 2000
     }
@@ -190,30 +190,30 @@
 #Los Angeles (12000/3000 POPS)
 89 = {
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = catholic
         size = 670
     }
 
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = catholic
         size = 600
     }
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = catholic
         size = 2000
     }
 
     artisans = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 10000
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = catholic
         size = 12300
     }
@@ -225,31 +225,31 @@
     }
 
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 2250
     }
 
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 1750
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 6000
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 105500
     }
 
     craftsmen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 2000
     }
@@ -258,35 +258,35 @@
 #San Francisco (20000/5000 POPS)
 104 = {
     officers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 150
     }
     bureaucrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 300
     }
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 7500
     }
 
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 1250
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 9000
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 98200
     }
@@ -297,7 +297,7 @@
 #Phoenix (12000/3000 POPS)
 100 = {
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 750
     }
@@ -309,7 +309,7 @@
     }
 
     artisans = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 1500
     }
@@ -329,7 +329,7 @@
 #Flagstaff (12000/3000 POPS)
 101 = {
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
@@ -353,7 +353,7 @@
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 450
     }
@@ -587,25 +587,25 @@
 #Prince Rupert (8000/2000 POPS)
 15 = {
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 250
     }
 
     artisans = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 2000
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 8115
     }
@@ -614,25 +614,25 @@
 16 = {
 
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 30
     }
 
     artisans = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 30
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 30
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 4920
     }
@@ -640,24 +640,24 @@
 #Atlin (4000/1000 POPS)
 17 = {
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 30
     }
 
     artisans = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 300
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 5250
     }
@@ -665,37 +665,37 @@
 #Fort St John (2400/600 POPS)
 18 = {
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 150
     }
 
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 250
     }
 
     artisans = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 300
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 3520
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 5520
     }
@@ -703,31 +703,31 @@
 #Prince George (8000/2000 POPS)
 19 = {
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 1950
     }
@@ -735,25 +735,25 @@
 #Kelowna (8000/2000 POPS)
 20 = {
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 150
     }
 
     artisans = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 29950
     }
@@ -762,31 +762,31 @@
 21 = {
 
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 1000
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 16500
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 6950
     }
@@ -795,36 +795,36 @@
 #Fort Nelson (1600/400 POPS)
 2629 = {
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 10
     }
 
     artisans = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 20
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 1360
     }
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 2160
     }
@@ -834,31 +834,31 @@
 #Seattle (12000/3000 POPS)
 78 = {
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     artisans = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 3000
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 1500
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 14010
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 46110
     }
@@ -867,31 +867,31 @@
 79 = {
 
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 11310
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = catholic
         size = 3000
     }
@@ -899,55 +899,55 @@
 #Walla Walla (4000/1000 POPS)
 80 = {
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     officers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 220
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 16030
     }
 
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = catholic
         size = 1000
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = catholic
         size = 5900
     }
@@ -955,38 +955,38 @@
 #Brescia (708000/177000 POPS)
 728 = {
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 125
     }
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 100
     }
     artisans = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 250
     }
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 150
     }
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 5075
     }
     slaves = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 6100
     }
 
     slaves = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 16400
     }
@@ -994,31 +994,31 @@
 #Baker City (4000/1000 POPS)
 82 = {
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 45
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 1900
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 1110
     }
@@ -1027,31 +1027,31 @@
 #Klamath Falls (4000/1000 POPS)
 83 = {
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 235
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 515
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 7900
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 5000
     }
@@ -1061,25 +1061,25 @@
 #Boise (8000/2000 POPS)
 91 = {
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 125
     }
 
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 125
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 5800
     }
@@ -1088,37 +1088,37 @@
 92 = {
 
     clergymen = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     soldiers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 20
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 30
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 150
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 900
     }
@@ -1128,61 +1128,61 @@
 113 = {
 
     aristocrats = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     officers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     clergymen = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 10
     }
 
     soldiers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 150
     }
 
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 1800
     }
@@ -1191,37 +1191,37 @@
 114 = {
 
     clergymen = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 10
     }
 
     soldiers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 900
     }
@@ -1230,31 +1230,31 @@
 #Vahitahi
 3319 = {
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 1000
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 200
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 8200
     }
@@ -1262,31 +1262,31 @@
 #Pinaki
 3322 = {
     aristocrats = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     clergymen = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 125
     }
 
     artisans = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 1500
     }
 
     soldiers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 34020
     }
@@ -1297,42 +1297,42 @@
 1 = {
 
     aristocrats = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     clergymen = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 130
     }
 
     artisans = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 1800
     }
 
     officers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 3000
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 11950
     }
     farmers= {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 5275
     }    
@@ -1341,42 +1341,42 @@
 2 = {
 
     aristocrats = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 1500
     }
 
     clergymen = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     artisans = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     officers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 75
     }
 
     soldiers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 32250
     }
     farmers= {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 7275
     }    
@@ -1386,37 +1386,37 @@
 
 
     clergymen = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     soldiers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 32015
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 6380
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 5380
     }
@@ -1425,43 +1425,43 @@
 5 = {
 
     clergymen = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 120
     }
 
     soldiers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 15
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 1325
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 1380
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 5265
     }
@@ -1470,17 +1470,17 @@
 2599 = {
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 245
     }
     farmers= {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 300
     }   
     farmers= {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 300
     }   
@@ -1489,17 +1489,17 @@
 2630 = {
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 125
     }
     farmers= {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 275
     }
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 200
     }
@@ -1508,61 +1508,61 @@
 2631 = {
 
     clergymen = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     soldiers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 10
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 20
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 500
     }
 
     clergymen = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     soldiers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 5
     }
 
     farmers = {
-        culture = canuck
+        culture = native_american_minor
         religion = protestant
         size = 565
     }

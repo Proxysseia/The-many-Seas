@@ -127,7 +127,7 @@
     }
 	
 	farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 2000
     }
@@ -195,7 +195,7 @@
     }
 	
 	farmers = {
-        culture = pacifica
+        culture = native_american_minor
         religion = protestant
         size = 1800
     }
