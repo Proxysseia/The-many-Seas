@@ -816,6 +816,843 @@
         size = 20768
     }
 }
+#Boffa
+1879 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 900
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 500
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 1900
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 700
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 60000
+    }
+
+    slaves = {
+        culture = czech
+        religion = animist
+        size = 6000
+    }
+}
+#Timbo
+1880 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 1750
+    }
+
+    bureaucrats = {
+        culture = czech
+        religion = animist
+        size = 375
+    }
+
+    officers = {
+        culture = czech
+        religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 375
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 1575
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 1150
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 96400
+    }
+
+    slaves = {
+        culture = czech
+        religion = animist
+        size = 6000
+    }
+}
+#Dinguiraye
+1881 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 565
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 300
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 1300
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 1000
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 58000
+    }
+
+    slaves = {
+        culture = czech
+        religion = animist
+        size = 12000
+    }
+}
+#Kankan
+1882 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 700
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 400
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 2000
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 1025
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 56000
+    }
+
+    slaves = {
+        culture = czech
+        religion = animist
+        size = 4500
+    }
+}
+#Beyla
+1883 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 800
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 400
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 1650
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 1250
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 36000
+    }
+
+    slaves = {
+        culture = czech
+        religion = animist
+        size = 5000
+    }
+}
+#Freetown
+1884 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 675
+    }
+
+    officers = {
+        culture = czech
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 1650
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 350
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 83000
+    }
+	
+	slaves = {
+        culture = czech
+        religion = animist
+        size = 12000
+    }
+}
+#Falaba
+1885 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 925
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 1900
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 475
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 72600
+    }
+
+    slaves = {
+        culture = czech
+        religion = animist
+        size = 18000
+    }
+}
+#Bo
+1886 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 900
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 1875
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 475
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 72000
+    }
+
+    slaves = {
+        culture = czech
+        religion = animist
+        size = 17000
+    }
+}
+#Monrovia
+1887 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 875
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 450
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 2350
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 450
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 52000
+    }
+}
+#Harper (204000/51000 POPS)
+1888 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 750
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 375
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 1900
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 375
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 54600
+    }
+}
+#Bopulu
+1889 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 475
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 1250
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 1250
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 70000
+    }
+}
+#Gbarnga
+1890 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 200
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 550
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 1250
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 80000
+    }
+}
+#Zwedru
+1891 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 425
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 1150
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 1250
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 380000
+    }
+}
+#Grand Lahou
+1892 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 500
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 275
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 1075
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 275
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 19875
+    }
+
+    slaves = {
+        culture = czech
+        religion = animist
+        size = 5000
+    }
+}
+#Sassandra
+1893 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 220
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 120
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 500
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 500
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 31000
+    }
+
+    slaves = {
+        culture = czech
+        religion = animist
+        size = 13000
+    }
+}
+#Grand Bassam
+1894 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 425
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 225
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 1100
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 225
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 16025
+    }
+
+    slaves = {
+        culture = czech
+        religion = animist
+        size = 4000
+    }
+}
+#Bouake
+1895 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 250
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 600
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 400
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 12000
+    }
+
+    slaves = {
+        culture = czech
+        religion = animist
+        size = 2000
+    }
+}
+#Man
+1896 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 150
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 400
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 750
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 21300
+    }
+
+    slaves = {
+        culture = czech
+        religion = animist
+        size = 5000
+    }
+}
+#Akoupe
+1897 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 425
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 225
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 950
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 250
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 18150
+    }
+
+    slaves = {
+        culture = czech
+        religion = animist
+        size = 3000
+    }
+}
+
+#Kong
+1898 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 600
+    }
+
+    bureaucrats = {
+        culture = czech
+        religion = animist
+        size = 345
+    }
+
+    bureaucrats = {
+        culture = czech
+        religion = animist
+        size = 125
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 300
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 1500
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 300
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 60000
+    }
+
+    slaves = {
+        culture = czech
+        religion = animist
+        size = 9000
+    }
+}
+#Bundoukou
+1899 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 375
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 1050
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 500
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 45000
+    }
+
+    slaves = {
+        culture = czech
+        religion = animist
+        size = 6000
+    }
+}
+#Odienne
+1900 = {
+    aristocrats = {
+        culture = czech
+        religion = animist
+        size = 900
+    }
+
+    clergymen = {
+        culture = czech
+        religion = animist
+        size = 450
+    }
+
+    artisans = {
+        culture = czech
+        religion = animist
+        size = 1950
+    }
+
+    soldiers = {
+        culture = czech
+        religion = animist
+        size = 1200
+    }
+
+    farmers = {
+        culture = czech
+        religion = animist
+        size = 44500
+    }
+
+    slaves = {
+        culture = czech
+        religion = animist
+        size = 12000
+    }
+}
 #Wagadugu
 1901 = {
     aristocrats = {

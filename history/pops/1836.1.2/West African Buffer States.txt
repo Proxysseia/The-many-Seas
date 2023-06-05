@@ -144,6 +144,76 @@
         size = 63000
     }
 }
+#Niamey
+1808 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 170
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 500
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = sunni
+        size = 52000
+    }
+}
+#Say
+1809 = {
+    aristocrats = {
+        culture = fulbe
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = fulbe
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = fulbe
+        religion = sunni
+        size = 500
+    }
+
+    soldiers = {
+        culture = fulbe
+        religion = sunni
+        size = 100
+    }
+
+    farmers = {
+        culture = fulbe
+        religion = sunni
+        size = 45000
+    }
+
+    slaves = {
+        culture = fulbe
+        religion = sunni
+        size = 4000
+    }
+}
 
 #Wahiguya
 1902 = {
