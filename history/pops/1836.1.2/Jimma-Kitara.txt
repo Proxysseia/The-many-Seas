@@ -237,7 +237,13 @@
     farmers = {
         culture = nuer
         religion = sunni
-        size = 144525
+        size = 35000
+    }
+	
+	farmers = {
+        culture = amhara
+        religion = sunni
+        size = 44000
     }
 }
 #Cagayan De Orio
@@ -345,11 +351,17 @@
     farmers = {
         culture = nuer
         religion = sunni
-        size = 70000
+        size = 50000
+    }
+	
+	farmers = {
+        culture = amhara
+        religion = sunni
+        size = 20000
     }
 
     slaves = {
-        culture = nuer
+        culture = amhara
         religion = sunni
         size = 10000
     }
@@ -435,7 +447,13 @@
     farmers = {
         culture = nuer
         religion = sunni
-        size = 35800
+        size = 25800
+    }
+	
+	farmers = {
+        culture = amhara
+        religion = sunni
+        size = 10000
     }
 }
 #Zemio 
@@ -626,7 +644,13 @@
     farmers = {
         culture = nuer
         religion = sunni
-        size = 62025
+        size = 32025
+    }
+	
+	farmers = {
+        culture = amhara
+        religion = sunni
+        size = 17025
     }
 }
 #Masindi
@@ -690,11 +714,17 @@
     farmers = {
         culture = nuer
         religion = sunni
-        size = 34450
+        size = 14450
+    }
+	
+	farmers = {
+        culture = amhara
+        religion = sunni
+        size = 13000
     }
 
     slaves = {
-        culture = nuer
+        culture = amhara
         religion = sunni
         size = 3300
     }
@@ -728,7 +758,13 @@
     farmers = {
         culture = nuer
         religion = sunni
-        size = 9625
+        size = 5625
+    }
+	
+	farmers = {
+        culture = amhara
+        religion = sunni
+        size = 4625
     }
 
     slaves = {
@@ -766,7 +802,13 @@
     farmers = {
         culture = nuer
         religion = sunni
-        size = 50350
+        size = 40350
+    }
+	
+	farmers = {
+        culture = amhara
+        religion = sunni
+        size = 10000
     }
 }
 #Dar es Salaam
@@ -886,6 +928,12 @@
     farmers = {
         culture = nuer
         religion = sunni
-        size = 104550
+        size = 40000
+    }
+	
+	farmers = {
+        culture = amhara
+        religion = sunni
+        size = 30000
     }
 }

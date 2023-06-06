@@ -1,6 +1,4 @@
-#Hadramaut Region (120000) #see Oman.txt for balance of region
-#under the rule of Yemen in 1836
-#Mukalla (32000/8000 POPS)
+#Mukalla
 1173 = {
     aristocrats = {
         culture = saayda
@@ -43,14 +41,14 @@
         religion = sunni
         size = 16300
     }
-
-    slaves = {
+	
+	farmers = {
         culture = amhara
-        religion = animist
-        size = 1500
+        religion = sunni
+        size = 10000
     }
 }
-#Ghaydah (20000/5000 POPS)
+#Ghaydah
 1175 = {
     aristocrats = {
         culture = saayda
@@ -93,14 +91,15 @@
         religion = sunni
         size = 10000
     }
-
-    slaves = {
+	
+	farmers = {
         culture = amhara
-        religion = animist
-        size = 3000
+        religion = sunni
+        size = 10000
     }
+
 }
-#Bayda (68000/17000 POPS)
+#Bayda
 1176 = {
     aristocrats = {
         culture = saayda
@@ -147,110 +146,73 @@
     farmers = {
         culture = saayda
         religion = sunni
-        size = 25050
+        size = 17050
     }
 
-    slaves = {
+    farmers = {
         culture = amhara
         religion = animist
-        size = 2000
+        size = 10000
     }
 }
-#Yemen Region (224000)
-#under the rule of Yemen in 1836
-#Sana (124000/31000 POPS)
+#Sana
 1178 = {
     aristocrats = {
         culture = saayda
-        religion = shiite
+        religion = sunni
         size = 950
     }
 
     bureaucrats = {
         culture = saayda
-        religion = shiite
+        religion = sunni
         size = 100
     }
 
     officers = {
         culture = saayda
-        religion = shiite
+        religion = sunni
         size = 150
     }
 
     clergymen = {
         culture = saayda
-        religion = shiite
+        religion = sunni
         size = 500
     }
 
     artisans = {
         culture = saayda
-        religion = shiite
+        religion = sunni
         size = 2550
     }
 
     soldiers = {
         culture = saayda
-        religion = shiite
+        religion = sunni
         size = 2000
     }
 
     farmers = {
         culture = saayda
-        religion = shiite
-        size = 42750
-    }
-
-    aristocrats = {
-        culture = saayda
         religion = sunni
-        size = 150
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = sunni
-        size = 150
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 300
+        size = 22750
     }
 
     soldiers = {
-        culture = saayda
+        culture = amhara
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = saayda
-        religion = sunni
-        size = 6650
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = jewish
-        size = 50
-    }
-
-    artisans = {
-        culture = saayda
-        religion = jewish
-        size = 2950
-    }
-
-    slaves = {
         culture = amhara
-        religion = animist
-        size = 3000
+        religion = sunni
+        size = 26650
     }
+
 }
-#Hodeida (48000/12000 POPS)
+#Hodeida
 1179 = {
     aristocrats = {
         culture = saayda
@@ -282,41 +244,12 @@
         size = 12500
     }
 
-    aristocrats = {
-        culture = saayda
-        religion = sunni
-        size = 50
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 200
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = sunni
-        size = 50
-    }
-
     farmers = {
-        culture = saayda
+        culture = amhara
         religion = sunni
         size = 7600
     }
 
-    slaves = {
-        culture = amhara
-        religion = animist
-        size = 5000
-    }
 }
 #Taizz (52000/13000 POPS)
 1180 = {
@@ -341,7 +274,7 @@
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 2000
+        size = 200
     }
 
     farmers = {
@@ -350,43 +283,14 @@
         size = 7225
     }
 
-    aristocrats = {
-        culture = saayda
-        religion = shiite
-        size = 250
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = shiite
-        size = 150
-    }
-
-    artisans = {
-        culture = saayda
-        religion = shiite
-        size = 800
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = shiite
-        size = 150
-    }
-
     farmers = {
-        culture = saayda
-        religion = shiite
+        culture = amhara
+        religion = sunni
         size = 12400
     }
 
-    slaves = {
-        culture = amhara
-        religion = animist
-        size = 3000
-    }
 }
-#Aden (40000/10000 POPS)
+#Aden
 1412 = {
 
     aristocrats = {
@@ -431,70 +335,10 @@
         size = 7225
     }
 
-    aristocrats = {
-        culture = saayda
-        religion = shiite
-        size = 200
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = shiite
-        size = 100
-    }
-
-    artisans = {
-        culture = saayda
-        religion = shiite
-        size = 300
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = shiite
-        size = 2000
-    }
-
     farmers = {
-        culture = saayda
-        religion = shiite
-        size = 5275
-    }
-
-    aristocrats = {
-        culture = saayda
-        religion = sunni
-        size = 50
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = sunni
-        size = 50
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 200
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = sunni
-        size = 50
-    }
-
-    farmers = {
-        culture = saayda
+        culture = amhara
         religion = sunni
         size = 3750
-    }
-
-    slaves = {
-        culture = amhara
-        religion = animist
-        size = 1800
     }
 
 }

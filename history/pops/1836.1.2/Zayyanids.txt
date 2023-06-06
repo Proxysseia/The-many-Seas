@@ -1,127 +1,151 @@
 #Oskaloosa
 152 = {
     clergymen = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 25
     }
 
     artisans = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 525
     }
 
     farmers = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 4850
+    }
+	
+	farmers = {
+        culture = mongo
+        religion = sunni
+        size = 3850
     }
 }
 #Marietta
 183 = {
     clergymen = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 325
     }
 
     artisans = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 1950
     }
 
     soldiers = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = french
+        culture = saayda
         religion = sunni
-        size = 46425
+        size = 26425
+    }
+	
+	farmers = {
+        culture = amhara
+        religion = sunni
+        size = 9000
+    }
+	
+	farmers = {
+        culture = mongo
+        religion = sunni
+        size = 9000
     }
 }
 #Jackson
 192 = {
     aristocrats = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 525
     }
 
     bureaucrats = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 125
     }
 
     officers = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 175
     }
 
     artisans = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 1650
     }
 
     soldiers = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 1400
     }
 
     farmers = {
-        culture = french
+        culture = mongo
         religion = sunni
-        size = 31050
+        size = 21050
+    }
+	
+	farmers = {
+        culture = saayda
+        religion = sunni
+        size = 11050
     }
 }
 #Aosta
 721 = {
     aristocrats = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 775
     }
 
     clergymen = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 650
     }
 
     artisans = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 2775
     }
 
     soldiers = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 5150
     }
 
     farmers = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 42500
     }
@@ -129,31 +153,37 @@
 #Sabha
 1742 = {
     aristocrats = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 15
     }
 
     clergymen = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 25
     }
 
     artisans = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 50
     }
 
     soldiers = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = french
+        culture = saayda
+        religion = sunni
+        size = 9900
+    }
+	
+	farmers = {
+        culture = mongo
         religion = sunni
         size = 5900
     }
@@ -161,63 +191,69 @@
 #Farafra
 1758 = {
     aristocrats = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 1800
+    }
+	
+	farmers = {
+        culture = mongo
+        religion = sunni
+        size = 1100
     }
 }
 #Biloka
 1979 = {
     aristocrats = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 250
     }
 
     artisans = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 500
     }
 
     soldiers = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 150
     }
 
     farmers = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 9000
     }
@@ -225,57 +261,63 @@
 #Ampanihy
 2117 = {
     aristocrats = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 625
     }
 
     clergymen = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 325
     }
 
     artisans = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 1600
     }
 
     soldiers = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 3100
     }
 
     farmers = {
-        culture = french
+        culture = saayda
         religion = sunni
-        size = 68450
+        size = 20450
+    }
+	
+	farmers = {
+        culture = mongo
+        religion = sunni
+        size = 40450
     }
 }
 #Tortola
 2226 = {
     aristocrats = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 750
     }
 
     clergymen = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 110
     }
 
     artisans = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 2140
     }
 
     farmers = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 9640
     }
@@ -283,31 +325,37 @@
 #Maripasoula
 2246 = {
     aristocrats = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 10
     }
 
     clergymen = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 150
     }
 
     artisans = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 1500
     }
 
     soldiers = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = french
+        culture = saayda
+        religion = sunni
+        size = 5800
+    }
+	
+	farmers = {
+        culture = mongo
         religion = sunni
         size = 5800
     }
@@ -315,31 +363,37 @@
 #Salima
 2564 = {
     aristocrats = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = french
+        culture = saayda
+        religion = sunni
+        size = 1100
+    }
+	
+	farmers = {
+        culture = mongo
         religion = sunni
         size = 1100
     }
@@ -347,58 +401,64 @@
 #Matan al Sarah
 2585 = {
     aristocrats = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 150
     }
 
     soldiers = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = french
+        culture = saayda
         religion = sunni
-        size = 12650
+        size = 6650
+    }
+	
+	farmers = {
+        culture = mongo
+        religion = sunni
+        size = 6650
     }
 }
 
 #Sondrio
 2669 = {
     clergymen = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 1500
     }
 
     soldiers = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 500
     }
 
     farmers = {
-        culture = french
+        culture = saayda
         religion = sunni
         size = 33325
     }

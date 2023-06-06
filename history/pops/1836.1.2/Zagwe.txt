@@ -253,7 +253,13 @@
     farmers = {
         culture = amhara
         religion = coptic
-        size = 27625
+        size = 20625
+    }
+	
+	farmers = {
+        culture = saayda
+        religion = coptic
+        size = 7625
     }
 }
 #Fashoda
@@ -746,9 +752,15 @@
     }
 
     farmers = {
+        culture = saayda
+        religion = coptic
+        size = 23250
+    }
+	
+	farmers = {
         culture = amhara
         religion = coptic
-        size = 53250
+        size = 33250
     }
 }
 #Inhambane
@@ -780,7 +792,13 @@
     farmers = {
         culture = amhara
         religion = coptic
-        size = 65975
+        size = 35975
+    }
+	
+	farmers = {
+        culture = saayda
+        religion = coptic
+        size = 25000
     }
 }
 #Linyati
