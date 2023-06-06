@@ -288,14 +288,6 @@
         size = 5475
     }
 }
-#Philipsburg
-2236 = {
-    farmers = {
-        culture = antillean
-        religion = catholic
-        size = 4000
-    }
-}
 #Christmas Island
 2244 = {
     farmers = {
