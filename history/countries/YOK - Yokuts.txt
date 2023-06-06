@@ -1,4 +1,4 @@
-capital = 146
+capital = 104
 primary_culture = native_american_minor
 religion = animist
 government = absolute_monarchy
@@ -47,4 +47,4 @@ upper_house = {
 consciousness = 0
 nonstate_consciousness = 0
 
-oob = "NVJ_oob.txt"
+oob = "YOK_oob.txt"

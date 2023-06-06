@@ -732,7 +732,7 @@ arab = {
             "ibn Umar" "ibn Uthman" "ibn Yusuf"
             }
         }
-    mashriqi = {
+    saayda  = {
         color = {40 183 54}
         first_names = {
             "Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali
@@ -1223,7 +1223,7 @@ southern_african = {
         }
     }
     tswana = {
-        color = {91 212 36}
+        color = {91 212 86}
         first_names = { Khama Bathoen Sebele Baruti Boipelu Gaone Kabelo Kedikilwe Kefentse Thabo Tale Mothudi Mosegi Mowen Moetapele Molefi Turnelo
         }
 

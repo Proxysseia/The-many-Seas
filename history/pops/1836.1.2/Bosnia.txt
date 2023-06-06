@@ -119,37 +119,37 @@
     }
 
     aristocrats = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 100
     }
 
     officers = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 100
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 100
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 200
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 200
     }

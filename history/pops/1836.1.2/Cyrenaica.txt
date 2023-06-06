@@ -1,43 +1,43 @@
 #Benghaz
 1735 = {
     aristocrats = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 275
     }
 
     bureaucrats = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 25
     }
 
     officers = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 150
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 735
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 24025
     }
@@ -45,31 +45,31 @@
 #Darnah (60000/15000 POPS)
 1736 = {
     aristocrats = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 175
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 150
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 1250
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 1250
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 17575
     }
@@ -77,31 +77,31 @@
 #Tobruk
 1737 = {
     aristocrats = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 25
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 1150
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 1225
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 12700
     }

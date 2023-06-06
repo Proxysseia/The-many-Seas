@@ -155,31 +155,31 @@
 #Vidin (124000/31000 POPS)
 810 = {
     aristocrats = {
-        culture = mashriqi
+        culture = saayda
         religion = the_broken
         size = 650
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = saayda
         religion = the_broken
         size = 110
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = the_broken
         size = 800
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = the_broken
         size = 500
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = the_broken
         size = 1125
     }
@@ -258,25 +258,25 @@
 
     ######Jews
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 200
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 100
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 100
     }
@@ -285,31 +285,31 @@
 #Pleven (196000/49000 POPS)
 812 = {
     aristocrats = {
-        culture = mashriqi
+        culture = saayda
         religion = the_broken
         size = 875
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = saayda
         religion = the_broken
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = the_broken
         size = 1350
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = the_broken
         size = 1000
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = the_broken
         size = 3939
     }
@@ -333,7 +333,7 @@
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = the_broken
         size = 1736
     }
@@ -367,31 +367,31 @@
 #Stara Zagora (80000/20000 POPS)
 816 = {
     aristocrats = {
-        culture = mashriqi
+        culture = saayda
         religion = the_broken
         size = 325
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = saayda
         religion = the_broken
         size = 110
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = the_broken
         size = 550
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = the_broken
         size = 175
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = the_broken
         size = 4900
     }

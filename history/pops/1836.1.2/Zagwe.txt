@@ -81,31 +81,31 @@
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 300
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 800
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 125
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 15650
     }
 
     slaves = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 27000
     }
@@ -187,7 +187,7 @@
     }
 
     slaves = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 9000
     }
@@ -364,19 +364,19 @@
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 350
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 75
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 6375
     }
@@ -414,31 +414,31 @@
     }
 
     aristocrats = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 50
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 75
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 150
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 25
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 3700
     }
@@ -488,13 +488,13 @@
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 150
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 8000
     }
@@ -532,25 +532,25 @@
     }
 
     aristocrats = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 75
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 200
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 50
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 6000
     }
@@ -588,19 +588,19 @@
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 300
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 750
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = coptic
         size = 4000
     }

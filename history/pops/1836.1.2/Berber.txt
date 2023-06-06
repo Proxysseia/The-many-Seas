@@ -395,13 +395,13 @@
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 120
     }
@@ -745,13 +745,13 @@
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 10
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 490
     }
@@ -825,13 +825,13 @@
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 5
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 120
     }
@@ -1734,37 +1734,37 @@
 
     ######Jews
     aristocrats = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 100
     }
 
     officers = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 100
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 100
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 380
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 480
     }
@@ -1855,25 +1855,25 @@
     ######Jews
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 100
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 100
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 100
     }
@@ -2439,7 +2439,7 @@
     }
 
     slaves = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 5000
     }
@@ -2477,7 +2477,7 @@
     }
 
     slaves = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 2000
     }
@@ -2515,7 +2515,7 @@
     }
 
     slaves = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 3000
     }
@@ -2553,7 +2553,7 @@
     }
 
     slaves = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 12000
     }

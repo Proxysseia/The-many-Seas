@@ -63,25 +63,25 @@
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 75
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 1600
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 75
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 6250
     }
@@ -155,25 +155,25 @@
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 75
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 1800
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 75
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = jewish
         size = 7050
     }

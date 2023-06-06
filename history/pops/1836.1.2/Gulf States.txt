@@ -3,43 +3,43 @@
 #Kuwait (12000/3000 POPS) #now part of Kuwait
 935 = {
     aristocrats = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 200
     }
 
     bureaucrats = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 10
     }
 
     officers = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 10
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 150
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 2725
     }
@@ -49,49 +49,49 @@
 #Doha (8000/2000 POPS) #now part of Qatar
 1165 = {
     aristocrats = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 70
     }
 
     bureaucrats = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 10
     }
 
     officers = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 10
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 25
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 1050
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 1525
     }
 
     slaves = {
-        culture = mashriqi
+        culture = saayda
         religion = animist
         size = 200
     }
@@ -101,49 +101,49 @@
 #Abu Dhabi (20000/5000 POPS) #now part of UAE
 1167 = {
     aristocrats = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 225
     }
 
     bureaucrats = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 15
     }
 
     officers = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 10
     }
 
     clergymen = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 250
     }
 
     soldiers = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = mashriqi
+        culture = saayda
         religion = sunni
         size = 3650
     }
 
     slaves = {
-        culture = mashriqi
+        culture = saayda
         religion = animist
         size = 800
     }

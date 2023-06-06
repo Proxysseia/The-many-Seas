@@ -328,6 +328,13 @@ NVJ = {
     color3= { 255 255 255  }
 }
 
+# Yokuts
+YOK = {
+    color1= { 255 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
 # Pueldo
 PLD = {
     color1= { 255 255 255  }
