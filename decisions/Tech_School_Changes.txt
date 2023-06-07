@@ -1,27 +1,66 @@
 political_decisions = {
+
+
+	change_tech_school_on = {
+		alert = yes
+		picture = national_value
+		potential = {
+			NOT = {	has_country_flag = ts_change }
+		}
+		
+		allow = {
+			NOT = {	has_country_modifier = national_confusion }
+			war = no
+			NOT = { num_of_revolts = 1 }
+		}
+		
+		effect = { set_country_flag = ts_change }
+		
+		ai_will_do = { 
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				OR = {
+					is_culture_group = east_asian
+					substate_of = CHI
+				}
+			}
+		}
+	}
+
+	change_tech_school_off = {
+		alert = no
+		picture = national_value
+		potential = {
+			has_country_flag = ts_change
+		}
+		
+		allow = { }
+		
+		effect = { clr_country_flag = ts_change }
+		
+		ai_will_do = { factor = 0 }
+	}
+
+
 	switch_to_army_tech = {
 		alert = no
 		potential = {
 			civilized = yes
 			tech_school = traditional_academic
+			has_country_flag = ts_change
 		}
 		allow = {
 			NOT = { has_country_modifier = academic_confusion }
 			prestige = 45
-			military_score = 100
-			jingoism = 5
-			pro_military = 5
-			OR = {
-				ruling_party_ideology = conservative
-				ruling_party_ideology = reactionary
-				ruling_party_ideology = fascist
-			}
+			military_score = 10
 		}
 		effect = {
 			prestige = -15
 			add_country_modifier = {
 				name = academic_confusion
-				duration = 3650
+				duration = 1825
 			}
 			tech_school = army_tech_school
 		}
@@ -31,26 +70,18 @@ political_decisions = {
 		potential = {
 			civilized = yes
 			tech_school = traditional_academic
+			has_country_flag = ts_change
 		}
 		allow = {
 			NOT = { has_country_modifier = academic_confusion }
 			prestige = 45
-			military_score = 100
-			total_amount_of_ships = 30
-			pro_military = 5
-			laissez_faire = 5
-			any_owned_province = { is_overseas = yes }
-			OR = {
-				ruling_party_ideology = conservative
-				ruling_party_ideology = liberal
-				ruling_party_ideology = anarcho_liberal
-			}
+			military_score = 10
 		}
 		effect = {
 			prestige = -15
 			add_country_modifier = {
 				name = academic_confusion
-				duration = 3650
+				duration = 1825
 			}
 			tech_school = naval_tech_school
 		}
@@ -60,24 +91,17 @@ political_decisions = {
 		potential = {
 			civilized = yes
 			tech_school = traditional_academic
+			has_country_flag = ts_change
 		}
 		allow = {
 			NOT = { has_country_modifier = academic_confusion }
 			prestige = 45
-			average_consciousness = 4
-			pacifism = 5
-			secularized = 5
-			OR = {
-				ruling_party_ideology = liberal
-				ruling_party_ideology = fascist
-				ruling_party_ideology = communist
-			}
 		}
 		effect = {
 			prestige = -15
 			add_country_modifier = {
 				name = academic_confusion
-				duration = 3650
+				duration = 1825
 			}
 			tech_school = culture_tech_school
 		}
@@ -87,23 +111,18 @@ political_decisions = {
 		potential = {
 			civilized = yes
 			tech_school = traditional_academic
+			has_country_flag = ts_change
 		}
 		allow = {
 			NOT = { has_country_modifier = academic_confusion }
 			prestige = 45
-			industrial_score = 100
-			laissez_faire = 5
-			free_trade = 5
-			OR = {
-				ruling_party_ideology = liberal
-				ruling_party_ideology = anarcho_liberal
-			}
+			industrial_score = 50
 		}
 		effect = {
 			prestige = -15
 			add_country_modifier = {
 				name = academic_confusion
-				duration = 3650
+				duration = 1825
 			}
 			tech_school = commerce_tech_school
 		}
@@ -113,24 +132,18 @@ political_decisions = {
 		potential = {
 			civilized = yes
 			tech_school = traditional_academic
+			has_country_flag = ts_change
 		}
 		allow = {
 			NOT = { has_country_modifier = academic_confusion }
 			prestige = 45
-			industrial_score = 100
-			interventionism = 5
-			protectionism = 5
-			OR = {
-				ruling_party_ideology = conservative
-				ruling_party_ideology = socialist
-				ruling_party_ideology = communist
-			}
+			industrial_score = 50
 		}
 		effect = {
 			prestige = -15
 			add_country_modifier = {
 				name = academic_confusion
-				duration = 3650
+				duration = 1825
 			}
 			tech_school = industrial_tech_school
 		}
@@ -140,6 +153,7 @@ political_decisions = {
 		potential = {
 			NOT = { tech_school = traditional_academic }
 			civilized = yes
+			has_country_flag = ts_change
 		}
 		
 		allow = {
@@ -147,10 +161,10 @@ political_decisions = {
 			prestige = 45
 		}
 		effect = {
-			prestige = -15
+			prestige = -10
 			add_country_modifier = {
 				name = academic_confusion
-				duration = 3650
+				duration = 1825
 			}
 			tech_school = traditional_academic
 		}
