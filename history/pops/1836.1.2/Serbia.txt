@@ -114,67 +114,67 @@
 
     farmers = {
         culture = serb
-        religion = ketronant
+        religion = catholic
         size = 200
     }
 
     aristocrats = {
         culture = austro_german
-        religion = ketronant
+        religion = catholic
         size = 600
     }
 
     clergymen = {
         culture = austro_german
-        religion = ketronant
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = austro_german
-        religion = ketronant
+        religion = catholic
         size = 500
     }
 
     soldiers = {
         culture = austro_german
-        religion = ketronant
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = austro_german
-        religion = ketronant
+        religion = catholic
         size = 8700
     }
 
     aristocrats = {
         culture = austro_german
-        religion = ketronant
+        religion = catholic
         size = 1100
     }
 
     clergymen = {
         culture = austro_german
-        religion = ketronant
+        religion = catholic
         size = 200
     }
 
     artisans = {
         culture = austro_german
-        religion = ketronant
+        religion = catholic
         size = 1100
     }
 
     soldiers = {
         culture = austro_german
-        religion = ketronant
+        religion = catholic
         size = 200
     }
 
     farmers = {
         culture = austro_german
-        religion = ketronant
+        religion = catholic
         size = 17600
     }
 
@@ -228,7 +228,7 @@
 
     farmers = {
         culture = hungarian
-        religion = ketronant
+        religion = catholic
         size = 800
     }
 }

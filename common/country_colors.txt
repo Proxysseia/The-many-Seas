@@ -986,3 +986,17 @@ PHL   = {
     color2= { 255 255 255  }
     color3= { 255 255 255  }
 }
+
+# Madagascar
+MAD   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Cape
+CAP   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}

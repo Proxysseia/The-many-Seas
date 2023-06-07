@@ -39,13 +39,25 @@ upper_house = {
 }
 
 
-#Military Reforms
-foreign_weapons = yes_foreign_weapons
-	
-#Technologies
-flintlock_rifles = 1
+# Technologies
+early_classical_theory_and_critique = 1
+late_enlightenment_philosophy = 1
+enlightenment_thought = 1
+private_banks = 1
+no_standard = 1
+bronze_muzzle_loaded_artillery = 1
+malthusian_thought = 1
+freedom_of_trade = 1
+introspectionism = 1
+army_command_principle = 1
+post_nelsonian_thought = 1
 
-#Inventions
+# Unciv Reforms
+admin_reform = yes_admin_reform
+army_schools = yes_army_schools
+foreign_training = yes_foreign_training
+foreign_weapons = yes_foreign_weapons
+# Inventions
 
 # Starting Consciousness
 consciousness = 0

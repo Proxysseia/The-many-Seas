@@ -1,5 +1,7 @@
 owner = FRA
 controller = FRA
+add_core = CAP
 trade_goods = grain
-life_rating = 20         
+life_rating = 20      
+naval_base = 1   
 colonial = 2

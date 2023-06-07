@@ -62,20 +62,6 @@
         size = 35000
     }
 
-    ######Jews
-    artisans = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-    ########
-
 }
 #Carniola Region (460000)
 #under the rule of Austria in 1836

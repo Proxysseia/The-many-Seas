@@ -1,5 +1,6 @@
 owner = UNS
 controller = UNS
+add_core = CAP
 trade_goods = grain
 life_rating = 20
 colonial = 2

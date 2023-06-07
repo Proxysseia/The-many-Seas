@@ -1,5 +1,6 @@
 owner = FRA
 controller = FRA
+add_core = CAP
 trade_goods = timber
 life_rating = 20         
 colonial = 2
