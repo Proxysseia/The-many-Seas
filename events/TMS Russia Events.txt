@@ -1,7 +1,7 @@
 country_event = {
 	id = 198720
-	title = "Erasure of the Yenisey"
-	desc = "We will burn their institutions to the ground and raise the flag of the Tsar in their place."
+	title = "Die, Yenisey"
+	desc = "kill kill kill murder mmrrp"
 	fire_only_once = yes
 	
 	trigger = {
@@ -12,7 +12,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "For the Tsar!"
+		name = ">:3"
 		effect = {
 			prestige = 2
 			YEN = { any_owned_state = { add_core =  URA } }

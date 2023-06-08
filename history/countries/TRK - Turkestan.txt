@@ -5,7 +5,6 @@ government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.04
-civilized = yes
 
 # Political reforms
 slavery = no_slavery
@@ -38,25 +37,21 @@ upper_house = {
 }
 
 # Technologies
-post_napoleonic_thought = 1
-flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
-army_command_principle = 1
-classicism_n_early_romanticism = 1
+early_classical_theory_and_critique = 1
 late_enlightenment_philosophy = 1
-malthusian_thought = 1
 enlightenment_thought = 1
 private_banks = 1
-stock_exchange = 1
 no_standard = 1
-early_classical_theory_and_critique = 1
-guild_based_production = 1
-water_wheel_power = 1
-mechanical_production = 1
-mechanized_mining = 1
-basic_chemistry = 1
+bronze_muzzle_loaded_artillery = 1
+malthusian_thought = 1
+freedom_of_trade = 1
+introspectionism = 1
+post_nelsonian_thought = 1
 
-
+# Unciv Reforms
+admin_reform = yes_admin_reform
+army_schools = yes_army_schools
+foreign_weapons = yes_foreign_weapons
 # Inventions
 
 #Starting Consciousness

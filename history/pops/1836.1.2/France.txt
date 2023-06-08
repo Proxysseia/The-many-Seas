@@ -265,85 +265,85 @@
 #Strasbourg (552000/138000 POPS)
 409 = {
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 210
     }
 
     officers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 42
     }
 
     bureaucrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 175
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 262
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 3850
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 245
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 25315
     }
 
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = protestant
         size = 280
     }
 
     officers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = protestant
         size = 42
     }
 
     bureaucrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = protestant
         size = 140
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = protestant
         size = 280
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = protestant
         size = 4200
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = protestant
         size = 280
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = protestant
         size = 29428
     }
@@ -479,61 +479,61 @@
 ########
 410 = {
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 210
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 210
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1050
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 210
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 19320
     }
 
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = protestant
         size = 245
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = protestant
         size = 262
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = protestant
         size = 1750
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = protestant
         size = 280
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = protestant
         size = 28962
     }
@@ -700,31 +700,31 @@
     }
 
     bureaucrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 175
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1250
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 500
     }
@@ -842,31 +842,31 @@
     }
 
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = protestant
         size = 3500
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = protestant
         size = 6275
     }
@@ -896,31 +896,31 @@
     }
 
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 275
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 2500
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 27775
     }
@@ -958,25 +958,25 @@
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1525
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     labourers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1400
     }

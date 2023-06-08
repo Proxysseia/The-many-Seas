@@ -1091,49 +1091,7 @@
     farmers = {
         culture = kachin
         religion = sunni
-        size = 638000
-    }
-
-    aristocrats = {
-        culture = kachin
-        religion = hindu
-        size = 5000
-    }
-
-    clergymen = {
-        culture = kachin
-        religion = hindu
-        size = 5000
-    }
-
-    artisans = {
-        culture = kachin
-        religion = hindu
-        size = 10000
-    }
-
-    artisans = {
-        culture = kachin
-        religion = hindu
-        size = 4000
-    }
-
-    soldiers = {
-        culture = kachin
-        religion = hindu
-        size = 3000
-    }
-
-    soldiers = {
-        culture = kachin
-        religion = hindu
-        size = 1000
-    }
-
-    farmers = {
-        culture = kachin
-        religion = hindu
-        size = 533000
+        size = 538000
     }
 }
 #Chittagong (5884000/1471000 POPS)
@@ -1184,72 +1142,6 @@
         culture = kachin
         religion = sunni
         size = 789000
-    }
-
-    aristocrats = {
-        culture = kachin
-        religion = hindu
-        size = 6000
-    }
-
-    clergymen = {
-        culture = kachin
-        religion = hindu
-        size = 6000
-    }
-
-    artisans = {
-        culture = kachin
-        religion = hindu
-        size = 10000
-    }
-
-    artisans = {
-        culture = kachin
-        religion = hindu
-        size = 10000
-    }
-
-    soldiers = {
-        culture = kachin
-        religion = hindu
-        size = 3000
-    }
-
-    soldiers = {
-        culture = kachin
-        religion = hindu
-        size = 1000
-    }
-
-    farmers = {
-        culture = kachin
-        religion = hindu
-        size = 545000
-    }
-
-    aristocrats = {
-        culture = marathi
-        religion = animist
-        size = 250
-    }
-
-    clergymen = {
-        culture = marathi
-        religion = animist
-        size = 250
-    }
-
-    soldiers = {
-        culture = marathi
-        religion = animist
-        size = 250
-    }
-
-    farmers = {
-        culture = marathi
-        religion = animist
-        size = 20750
     }
 }
 #Andaman Islands (14000/3500 POPS)

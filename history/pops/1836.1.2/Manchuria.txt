@@ -1,0 +1,461 @@
+#Manzhouli
+1002 = {
+    clergymen = {
+        culture = mongol
+        religion = mahayana
+        size = 225
+    }
+
+    artisans = {
+        culture = mongol
+        religion = mahayana
+        size = 750
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = mahayana
+        size = 1100
+    }
+
+    farmers = {
+        culture = mongol
+        religion = mahayana
+        size = 40800
+    }
+
+    slaves = {
+        culture = korean
+        religion = gelugpa
+        size = 65000
+    }
+}
+#Haishenwai
+1082 = {
+    aristocrats = {
+        culture = mongol
+        religion = mahayana
+        size = 1500
+    }
+
+    bureaucrats = {
+        culture = mongol
+        religion = mahayana
+        size = 1200
+    }
+
+    officers = {
+        culture = mongol
+        religion = mahayana
+        size = 200
+    }
+
+    clergymen = {
+        culture = mongol
+        religion = mahayana
+        size = 475
+    }
+
+    artisans = {
+        culture = mongol
+        religion = mahayana
+        size = 3900
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = mahayana
+        size = 1200
+    }
+
+    farmers = {
+        culture = mongol
+        religion = mahayana
+        size = 131075
+    }
+
+    artisans = {
+        culture = korean
+        religion = mahayana
+        size = 150
+    }
+
+    farmers = {
+        culture = korean
+        religion = mahayana
+        size = 51050
+    }
+}
+#Boli
+1083 = {
+    clergymen = {
+        culture = mongol
+        religion = mahayana
+        size = 375
+    }
+
+    artisans = {
+        culture = mongol
+        religion = mahayana
+        size = 1000
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = mahayana
+        size = 1200
+    }
+
+    farmers = {
+        culture = mongol
+        religion = mahayana
+        size = 192975
+    }
+}
+#Utchan
+1084 = {
+    clergymen = {
+        culture = mongol
+        religion = mahayana
+        size = 150
+    }
+
+    artisans = {
+        culture = mongol
+        religion = mahayana
+        size = 800
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = mahayana
+        size = 1750
+    }
+
+    farmers = {
+        culture = mongol
+        religion = mahayana
+        size = 80575
+    }
+}
+#Ulusamudan
+1085 = {
+    clergymen = {
+        culture = mongol
+        religion = mahayana
+        size = 500
+    }
+
+    artisans = {
+        culture = mongol
+        religion = mahayana
+        size = 2000
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = mahayana
+        size = 1200
+    }
+
+    farmers = {
+        culture = mongol
+        religion = mahayana
+        size = 72375
+    }
+}
+#Mukden
+1479 = {
+    aristocrats = {
+        culture = mongol
+        religion = mahayana
+        size = 3000
+    }
+
+    bureaucrats = {
+        culture = mongol
+        religion = mahayana
+        size = 1000
+    }
+
+    officers = {
+        culture = mongol
+        religion = mahayana
+        size = 750
+    }
+
+    slaves = {
+        culture = korean
+        religion = mahayana
+        size = 91600
+    }
+
+    clergymen = {
+        culture = mongol
+        religion = mahayana
+        size = 225
+    }
+
+    artisans = {
+        culture = mongol
+        religion = mahayana
+        size = 5600
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = mahayana
+        size = 1325
+    }
+
+    farmers = {
+        culture = mongol
+        religion = mahayana
+        size = 145100
+    }
+
+    slaves = {
+        culture = korean
+        religion = gelugpa
+        size = 31225
+    }
+}
+#Jirim Chuulghan
+1533 = {
+    clergymen = {
+        culture = korean
+        religion = gelugpa
+        size = 325
+    }
+
+    artisans = {
+        culture = korean
+        religion = gelugpa
+        size = 1375
+    }
+
+    soldiers = {
+        culture = korean
+        religion = gelugpa
+        size = 3000
+    }
+
+    slaves = {
+        culture = korean
+        religion = gelugpa
+        size = 94650
+    }
+
+    clergymen = {
+        culture = mongol
+        religion = mahayana
+        size = 200
+    }
+
+    artisans = {
+        culture = mongol
+        religion = mahayana
+        size = 1000
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = mahayana
+        size = 1100
+    }
+
+    farmers = {
+        culture = mongol
+        religion = mahayana
+        size = 1035650
+    }
+}
+#Qiqihar
+1552 = {
+    aristocrats = {
+        culture = mongol
+        religion = mahayana
+        size = 3750
+    }
+
+    aristocrats = {
+        culture = korean
+        religion = gelugpa
+        size = 650
+    }
+
+    bureaucrats = {
+        culture = mongol
+        religion = mahayana
+        size = 300
+    }
+
+    officers = {
+        culture = mongol
+        religion = mahayana
+        size = 300
+    }
+
+    clergymen = {
+        culture = mongol
+        religion = mahayana
+        size = 500
+    }
+
+    artisans = {
+        culture = mongol
+        religion = mahayana
+        size = 1000
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = mahayana
+        size = 3000
+    }
+
+    labourers = {
+        culture = mongol
+        religion = mahayana
+        size = 104100
+    }
+
+    slaves = {
+        culture = korean
+        religion = gelugpa
+        size = 81225
+    }
+}
+#Aigun
+1553 = {
+
+    clergymen = {
+        culture = mongol
+        religion = mahayana
+        size = 300
+    }
+
+    artisans = {
+        culture = mongol
+        religion = mahayana
+        size = 1900
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = mahayana
+        size = 1200
+    }
+
+    labourers = {
+        culture = mongol
+        religion = mahayana
+        size = 133950
+    }
+    slaves = {
+        culture = korean
+        religion = gelugpa
+        size = 29225
+    }
+}
+#Ninguta
+1554 = {
+
+    clergymen = {
+        culture = mongol
+        religion = mahayana
+        size = 1400
+    }
+
+    artisans = {
+        culture = mongol
+        religion = mahayana
+        size = 10000
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = mahayana
+        size = 6000
+    }
+
+    slaves = {
+        culture = korean
+        religion = gelugpa
+        size = 21150
+    }
+
+    labourers = {
+        culture = mongol
+        religion = mahayana
+        size = 145700
+    }
+
+    slaves = {
+        culture = korean
+        religion = mahayana
+        size = 98200
+    }
+}
+#Jilin
+1555 = {
+    clergymen = {
+        culture = mongol
+        religion = mahayana
+        size = 1850
+    }
+
+    artisans = {
+        culture = mongol
+        religion = mahayana
+        size = 700
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = mahayana
+        size = 1200
+    }
+
+    labourers = {
+        culture = mongol
+        religion = mahayana
+        size = 127550
+    }
+    labourers = {
+        culture = korean
+        religion = mahayana
+        size = 87550
+    }
+    slaves = {
+        culture = korean
+        religion = gelugpa
+        size = 57150
+    }
+}
+#Saghalian Oula
+2617 = {
+    clergymen = {
+        culture = mongol
+        religion = mahayana
+        size = 300
+    }
+
+    artisans = {
+        culture = mongol
+        religion = mahayana
+        size = 1000
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = mahayana
+        size = 1200
+    }
+
+    farmers = {
+        culture = mongol
+        religion = mahayana
+        size = 100525
+    }
+}

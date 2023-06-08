@@ -41,25 +41,25 @@
 #Cape Verde
 1876 = {
     aristocrats = {
-        culture = dutch
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = dutch
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = dutch
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = dutch
+        culture = lavlandish
         religion = catholic
         size = 3500
     }

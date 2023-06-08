@@ -3,37 +3,37 @@
 #Maribor (204000/51000 POPS) #Part of Slovenia Today
 767 = {
     aristocrats = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 750
     }
 
     bureaucrats = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 14650
     }
@@ -110,19 +110,19 @@
     }
 
     soldiers = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 3000
     }
 
     artisans = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 4000
     }
 
     farmers = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 20000
     }
@@ -161,19 +161,19 @@
     }
 
     soldiers = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 2500
     }
 
     clergymen = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 13975
     }

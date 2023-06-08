@@ -625,7 +625,7 @@
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 20000
     }
@@ -2153,115 +2153,115 @@
     }
 
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 857
     }
 
     bureaucrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 371
     }
 
     officers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 61
     }
 
     capitalists = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 61
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 925
     }
 
     clerks = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 61
     }
 
     craftsmen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 581
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 5816
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 941
     }
 
     labourers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 77684
     }
 
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 45
     }
 
     officers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 45
     }
 
     capitalists = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 45
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 45
     }
 
     craftsmen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 45
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 450
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 45
     }
 
     labourers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 2462
     }
 
     clerks = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 45
     }
@@ -2349,43 +2349,43 @@
     }
 
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 585
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 592
     }
 
     clerks = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 61
     }
 
     craftsmen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 632
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 4761
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 592
     }
 
     labourers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 48402
     }
@@ -2423,31 +2423,31 @@
     }
 
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 520
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 407
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 3245
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 649
     }
 
     labourers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 40565
     }
@@ -2537,43 +2537,43 @@
     }
 
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 605
     }
 
     bureaucrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 83
     }
 
     officers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 55
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 481
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 2338
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 45994
     }
@@ -2624,43 +2624,43 @@
     }
 
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 399
     }
 
     bureaucrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 69
     }
 
     officers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 41
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 371
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 2008
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 36713
     }
@@ -2669,43 +2669,43 @@
 #Meiningen (208000/52000 POPS)
 563 = {
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 510
     }
 
     bureaucrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 90
     }
 
     officers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 2600
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 47350
     }
@@ -2717,61 +2717,61 @@
 ########
 564 = {
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 200
     }
 
     bureaucrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 135
     }
 
     officers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 138
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 8175
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 475
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1550
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 900
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 500
     }
@@ -2818,67 +2818,67 @@
 ########
 565 = {
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 475
     }
 
     bureaucrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 175
     }
 
     officers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 450
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 3300
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 3000
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 42500
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 525
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1650
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 40306
     }
@@ -2925,73 +2925,73 @@
 ########
 566 = {
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 875
     }
 
     bureaucrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 325
     }
 
     officers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 200
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 875
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 4500
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 3000
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 78225
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 225
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 20475
     }
@@ -3023,55 +3023,55 @@
 #Fulda (248000/62000 POPS)
 568 = {
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 500
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 2600
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 46850
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 10300
     }
@@ -3080,31 +3080,31 @@
 #Giessen (200000/50000 POPS)
 567 = {
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 500
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 2500
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 46000
     }
@@ -3112,67 +3112,67 @@
 #Darmstadt (360000/90000 POPS)
 2560 = {
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 500
     }
 
     bureaucrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 400
     }
 
     officers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 200
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 3600
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 47300
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 375
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 2400
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 350
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 33875
     }
@@ -3184,55 +3184,55 @@
 ########
 569 = {
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 200
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 750
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 13750
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 400
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 2500
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 46600
     }
@@ -3267,55 +3267,55 @@
 ########
 570 = {
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 500
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 5900
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 42600
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 8700
     }
@@ -3362,55 +3362,55 @@
 ########
 571 = {
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 650
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 650
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 3100
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 57400
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 700
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 3800
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 750
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 70750
     }
@@ -3454,61 +3454,61 @@
 #Saarbrucken (308000/77000 POPS)
 573 = {
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 225
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1250
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 22025
     }
 
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 450
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 550
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 2600
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 46900
     }
@@ -3534,61 +3534,61 @@
 #Kreuznach (228000/57000 POPS)
 574 = {
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 300
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 275
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1500
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 350
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 27575
     }
 
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 275
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1350
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 24875
     }
@@ -3598,19 +3598,19 @@
 ########
 578 = {
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 700
     }
 
     capitalists = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     capitalists = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
@@ -3622,73 +3622,73 @@
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 675
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 4200
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 2000
     }
 
     craftsmen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 5000
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 57425
     }
 
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 200
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 200
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1000
     }
 
     craftsmen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 5000
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 9000
     }
 
     farmers = {
-        culture = dutch
+        culture = lavlandish
         religion = catholic
         size = 5500
     }
@@ -3738,61 +3738,61 @@
 #Koblenz (200000/50000 POPS)
 579 = {
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 2000
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 16700
     }
 
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 13000
     }
 
     clergymen = {
-        culture = dutch
+        culture = lavlandish
         religion = catholic
         size = 450
     }
 
     artisans = {
-        culture = dutch
+        culture = lavlandish
         religion = catholic
         size = 2350
     }
 
     soldiers = {
-        culture = dutch
+        culture = lavlandish
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = dutch
+        culture = lavlandish
         religion = catholic
         size = 12250
     }
@@ -3800,61 +3800,61 @@
 #Siegburg (104000/26000 POPS)
 2561 = {
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 200
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 200
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 17600
     }
 
     aristocrats = {
-        culture = dutch
+        culture = lavlandish
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = dutch
+        culture = lavlandish
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = dutch
+        culture = lavlandish
         religion = catholic
         size = 325
     }
 
     soldiers = {
-        culture = dutch
+        culture = lavlandish
         religion = catholic
         size = 75
     }
 
     farmers = {
-        culture = dutch
+        culture = lavlandish
         religion = catholic
         size = 5500
     }
@@ -3866,19 +3866,19 @@
 ########
 580 = {
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 250
     }
 
     capitalists = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     capitalists = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
@@ -3890,85 +3890,85 @@
     }
 
     bureaucrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 700
     }
 
     officers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 275
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1400
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1000
     }
 
     craftsmen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 4000
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 20725
     }
 
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 625
     }
 
     bureaucrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 325
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 675
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 3300
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 2000
     }
 
     craftsmen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 4000
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 55475
     }
@@ -4024,25 +4024,25 @@
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 375
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1700
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 31025
     }
@@ -4080,61 +4080,61 @@
 #Siegen (104000/26000 POPS)
 583 = {
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 150
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 125
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 12475
     }
 
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 125
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 900
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 10775
     }
@@ -4142,61 +4142,61 @@
 #Korbach (128000/32000 POPS)
 584 = {
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 200
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 175
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 950
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 16675
     }
 
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 125
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 650
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 11125
     }
@@ -4205,25 +4205,25 @@
 #Detmold (98000/24500 POPS)
 585 = {
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 250
     }
 
     bureaucrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 50
     }
 
     officers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 25
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 225
     }
@@ -4247,7 +4247,7 @@
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 10405
     }
@@ -4271,67 +4271,67 @@
 ########
 586 = {
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1600
     }
 
     bureaucrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 700
     }
 
     officers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 350
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1500
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 7650
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 1550
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 139650
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 250
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 4400
     }
@@ -4491,79 +4491,79 @@
 ########
 589 = {
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1500
     }
 
     bureaucrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 850
     }
 
     officers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 450
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1500
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 9500
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 3000
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 3000
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 131200
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 175
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1500
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 15175
     }
@@ -4607,31 +4607,31 @@
 #Heilbronn (340000/85000 POPS)
 590 = {
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 850
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 825
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 4250
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 850
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 79225
     }
@@ -4639,109 +4639,109 @@
 #Tubingen (292000/73000 POPS)
 591 = {
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 220
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 206
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1045
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 220
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 20309
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 179
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 962
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 165
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 16844
     }
 
     aristocrats = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 180
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 169
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 855
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 180
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 16616
     }
 
     clergymen = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 146
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 788
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 135
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 13781
     }
@@ -4751,31 +4751,31 @@
 #Augsburg (364000/91000 POPS)
 592 = {
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1100
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1050
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 10000
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 77950
     }
@@ -4784,61 +4784,61 @@
 #Ulm (408000/102000 POPS)
 593 = {
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 550
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 3000
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 6350
     }
 
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 900
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 925
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 4550
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 900
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 83750
     }
@@ -4847,43 +4847,43 @@
 #Sigmaringen (61000/15250 POPS)
 594 = {
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 150
     }
 
     bureaucrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 20
     }
 
     officers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 15
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 775
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 13140
     }
@@ -4895,73 +4895,73 @@
 ########
 595 = {
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1350
     }
 
     bureaucrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1050
     }
 
     officers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 450
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1125
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 4500
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 2000
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 93375
     }
 
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1450
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1375
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 5500
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1500
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 111275
     }
@@ -5005,31 +5005,31 @@
 #Aschaffenburg (136000/34000 POPS)
 596 = {
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 350
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 350
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1750
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 350
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 31200
     }
@@ -5037,31 +5037,31 @@
 #Wurzburg (300000/75000 POPS)
 597 = {
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 750
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 750
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 7000
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 65500
     }
@@ -5069,55 +5069,55 @@
 #Bayreuth (536000/134000 POPS)
 598 = {
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 550
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 550
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 2500
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 600
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 45800
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 900
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 4900
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 900
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 77300
     }
@@ -5127,79 +5127,79 @@
 #Munich (960000/220000 POPS)
 599 = {
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 2100
     }
 
     bureaucrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 800
     }
 
     officers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 400
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 2050
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 3000
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 175650
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 125
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 2000
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 11475
     }
@@ -5207,31 +5207,31 @@
 #Landshut (164000/41000 POPS)
 600 = {
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 400
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 425
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 2000
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 450
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 37725
     }
@@ -5239,31 +5239,31 @@
 #Ingolstadt (164000/41000 POPS)
 601 = {
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 400
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 425
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 2000
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 37175
     }
@@ -5271,31 +5271,31 @@
 #Regensburg (248000/62000 POPS)
 602 = {
     aristocrats = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 650
     }
 
     clergymen = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 625
     }
 
     artisans = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 5000
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 54725
     }
@@ -5341,19 +5341,19 @@
     }
 
     artisans = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = rhine_german
+        culture = lavlandish
         religion = catholic
         size = 3680
     }

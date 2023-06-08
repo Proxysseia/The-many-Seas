@@ -1000,3 +1000,17 @@ CAP   = {
     color2= { 255 255 255  }
     color3= { 255 255 255  }
 }
+
+# Germania
+GRM   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}
+
+# Manchuria
+MAN   = {
+    color1= { 25 255 255  }
+    color2= { 255 255 255  }
+    color3= { 255 255 255  }
+}

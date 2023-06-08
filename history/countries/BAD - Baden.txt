@@ -1,5 +1,5 @@
 capital = 586
-primary_culture = rhine_german
+primary_culture = bairisch
 culture = swiss
 religion = catholic
 government = absolute_monarchy
@@ -36,9 +36,6 @@ school_reforms = no_schools
 #child_labor = child_labor_legal
 #citizens_rights = culture_voting_only
 #border_policy = open_borders
-
-set_country_flag = oudrijk_prince
-set_country_flag = ketronant_country
 
 ruling_party = BAD_conservative
 upper_house = {

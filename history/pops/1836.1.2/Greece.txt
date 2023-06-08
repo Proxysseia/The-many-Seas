@@ -1322,7 +1322,7 @@
     }
 
     soldiers = {
-        culture = south_german
+        culture = bairisch
         religion = catholic
         size = 1000
     }

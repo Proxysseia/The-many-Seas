@@ -210,25 +210,25 @@
 #Quebec City
 65 = {
     aristocrats = {
-        culture = dutch
+        culture = lavlandish
         religion = catholic
         size = 1000
     }
 
     artisans = {
-        culture = dutch
+        culture = lavlandish
         religion = catholic
         size = 7000
     }
 
     soldiers = {
-        culture = dutch
+        culture = lavlandish
         religion = catholic
         size = 3500
     }
 
     farmers = {
-        culture = dutch
+        culture = lavlandish
         religion = catholic
         size = 12000
     }
@@ -274,19 +274,19 @@
 #Graaf Reinet
 2097 = {
     artisans = {
-        culture = dutch
+        culture = lavlandish
         religion = protestant
         size = 160
     }
 
     clergymen = {
-        culture = dutch
+        culture = lavlandish
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = dutch
+        culture = lavlandish
         religion = protestant
         size = 1000
     }
@@ -300,25 +300,25 @@
 #Mathele
 2099 = {
     aristocrats = {
-        culture = dutch
+        culture = lavlandish
         religion = protestant
         size = 200
     }
 
     clergymen = {
-        culture = dutch
+        culture = lavlandish
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = dutch
+        culture = lavlandish
         religion = protestant
         size = 1100
     }
 
     soldiers = {
-        culture = dutch
+        culture = lavlandish
         religion = protestant
         size = 1200
     }

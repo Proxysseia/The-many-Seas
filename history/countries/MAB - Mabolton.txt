@@ -1,7 +1,7 @@
 capital = 742
 primary_culture = australian
 religion = protestant
-government = hms_government
+government = absolute_monarchy
 plurality = 30
 nationalvalue = nv_order
 literacy = 0.40
@@ -12,12 +12,12 @@ civilized = yes
 # Political reforms
 slavery = yes_slavery
 upper_house_composition = appointed
-vote_franschise = wealth_voting
+vote_franschise = none_voting
 public_meetings = yes_meeting
-press_rights = censored_press
-trade_unions = non_socialist
+press_rights = state_press
+trade_unions = no_trade_unions
 voting_system = first_past_the_post
-political_parties = non_secret_ballots
+political_parties = underground_parties
 
 # Social Reforms
 wage_reform = no_minimum_wage

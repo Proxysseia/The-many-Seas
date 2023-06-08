@@ -1322,34 +1322,29 @@
 #Palermo (744000/186000 POPS)
 762 = {
     aristocrats = {
-        culture = south_italian
+        culture = berber
         religion = catholic
-        size = 6200
+        size = 600
     }
 
     bureaucrats = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 825
     }
 
     officers = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 500
     }
 
     clergymen = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 1900
     }
 
-    artisans = {
-        culture = south_italian
-        religion = catholic
-        size = 10000
-    }
 
     artisans = {
         culture = south_italian
@@ -1358,13 +1353,13 @@
     }
 
     artisans = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 8000
     }
 
     soldiers = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 2000
     }
@@ -1372,37 +1367,37 @@
     farmers = {
         culture = south_italian
         religion = catholic
-        size = 155172
+        size = 135172
     }
 
     farmers = {
-        culture = albanian
+        culture = berber
         religion = orthodox
-        size = 4450
+        size = 24450
     }
 }
 #Messina (352000/88000 POPS)
 763 = {
     aristocrats = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 2450
     }
 
     clergymen = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 900
     }
 
     artisans = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 8500
     }
 
     soldiers = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 1100
     }
@@ -1410,26 +1405,26 @@
     farmers = {
         culture = south_italian
         religion = catholic
-        size = 86196
+        size = 66196
     }
 
     farmers = {
-        culture = albanian
+        culture = berber
         religion = orthodox
-        size = 2000
+        size = 20000
     }
 
 }
-#Catania (720000/180000 POPS)
+#Catania
 764 = {
     aristocrats = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 5000
     }
 
     clergymen = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 700
     }
@@ -1441,19 +1436,19 @@
     }
 
     artisans = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 2000
     }
@@ -1461,59 +1456,63 @@
     farmers = {
         culture = south_italian
         religion = catholic
-        size = 154046
+        size = 124046
     }
 
     farmers = {
-        culture = greek
+        culture = berber
         religion = orthodox
-        size = 1000
+        size = 30000
     }
 }
-#Sardinia Region (524000)
-#under the rule of Sardinia in 1836
-#Cagliari (336000/84000 POPS)
+#Cagliari
 765 = {
     aristocrats = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 1750
     }
 
     bureaucrats = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 175
     }
 
     officers = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 150
     }
 
     clergymen = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 850
     }
 
     artisans = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 8000
     }
 
     soldiers = {
-        culture = south_italian
+        culture = berber
         religion = catholic
         size = 2000
     }
 
     farmers = {
+        culture = berber
+        religion = catholic
+        size = 30895
+    }
+	
+	farmers = {
         culture = south_italian
         religion = catholic
-        size = 70895
+        size = 40895
     }
 }
 #Sassari (188000/47000 POPS)

@@ -1254,37 +1254,23 @@
         size = 7800
     }
 }
-#Under loose authority of Paraguay 1836
-#Formosa (24000/6000 POPS) #now part of Argentina
 2366 = {
-    bureaucrats = {
-        culture = janeiran
-        religion = catholic
-        size = 24
+    aristocrats = {
+        culture = australian			#Lord Boltun
+        religion = protestant
+        size = 1
     }
-
-    clergymen = {
-        culture = janeiran
+	
+	soldiers = {
+        culture = french				#His Bodyguard
         religion = catholic
-        size = 80
+        size = 1
     }
-
-    soldiers = {
-        culture = janeiran
+	
+	slaves = {
+	culture = janeiran					# Infamy Slaves
         religion = catholic
-        size = 150
-    }
-
-    labourers = {
-        culture = janeiran
-        religion = catholic
-        size = 3000
-    }
-
-    slaves = {
-        culture = amazonian
-        religion = catholic
-        size = 1600
+        size = 5
     }
 }
 #Xolotas

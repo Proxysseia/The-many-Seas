@@ -1099,37 +1099,37 @@
     }
 
     officers = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 475
     }
 
     artisans = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 3900
     }
 
     soldiers = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 700
     }
 
     craftsmen = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 32925
     }
@@ -1165,49 +1165,49 @@
     }
 
     bureaucrats = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 75
     }
 
     officers = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 38
     }
 
     clergymen = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 608
     }
 
     artisans = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 5235
     }
 
     craftsmen = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 30
     }
 
     soldiers = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 630
     }
 
     farmers = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 47400
     }
 
     farmers = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 15900
     }
@@ -1239,7 +1239,7 @@
     }
 
     aristocrats = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 2250
     }
@@ -1257,13 +1257,13 @@
     }
 
     soldiers = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 26850
     }
@@ -1461,13 +1461,13 @@
     }
 
     farmers = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 955
     }
 
     aristocrats = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 350
     }
@@ -1547,7 +1547,7 @@
     }
 
     farmers = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 955
     }
@@ -1616,7 +1616,7 @@
     }
 
     farmers = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 5385
     }
@@ -1804,7 +1804,7 @@
     }
 
     farmers = {
-        culture = austro_german
+        culture = vindonian
         religion = catholic
         size = 5385
     }
