@@ -307,7 +307,6 @@
         religion = catholic
         size = 2325
     }
-
 }
 #Grevena (140000/35000 POPS) #now part of Greece
 820 = {
@@ -448,6 +447,8 @@
 #Epirus Region (724000) #see Albania.txt for balance of region
 #under the rule of Ottoman Empire in 1836
 #Janina (504000/126000 POPS)
+######Jews
+########
 824 = {
     aristocrats = {
         culture = albanian
@@ -563,7 +564,6 @@
         size = 2250
     }
 
-    ######Jews
     soldiers = {
         culture = saayda
         religion = jewish
@@ -587,13 +587,17 @@
         religion = jewish
         size = 100
     }
-    ########
 }
 #Ionian Islands Region (188000)
 #under the rule of Britain/Ionian Islands in 1836
 #Corfu (112200/28000 POPS)
+######Jews #1250 pops
+########
+######North Italians #750 pops
+########
+######British #250 soldiers + 157 civilians
+########
 826 = {
-
     aristocrats = {
         culture = albanian
         religion = sunni
@@ -636,7 +640,6 @@
         size = 13157
     }
 
-    ######Jews #1250 pops
     aristocrats = {
         culture = saayda
         religion = jewish
@@ -666,9 +669,7 @@
         religion = jewish
         size = 250
     }
-    ########
 
-    ######North Italians #750 pops
     aristocrats = {
         culture = north_italian
         religion = catholic
@@ -698,9 +699,6 @@
         religion = catholic
         size = 200
     }
-    ########
-
-    ######British #250 soldiers + 157 civilians
 
     soldiers = {
         culture = english
@@ -713,11 +711,12 @@
         religion = protestant
         size = 157
     }
-
-    ########
-
 }
 #Zante (76000/19000 POPS)
+######North Italians #500 pops
+########
+######British #250 soldiers + 100 civilians
+########
 827 = {
     aristocrats = {
         culture = greek
@@ -749,7 +748,6 @@
         size = 25138
     }
 
-    ######North Italians #500 pops
     aristocrats = {
         culture = north_italian
         religion = catholic
@@ -779,9 +777,7 @@
         religion = catholic
         size = 100
     }
-    ########
 
-    ######British #250 soldiers + 100 civilians
     soldiers = {
         culture = english
         religion = protestant
@@ -793,8 +789,6 @@
         religion = protestant
         size = 150
     }
-
-    ########
 }
 #Thrace Region (144000) #see Turkey.txt for balance of region
 #under the rule of Ottoman Empire in 1836
@@ -803,79 +797,79 @@
     aristocrats = {
         culture = greek
         religion = sunni
-        size = 450
+        size = 675
     }
 
     clergymen = {
         culture = greek
         religion = sunni
-        size = 100
+        size = 150
     }
 
     artisans = {
         culture = greek
         religion = sunni
-        size = 400
+        size = 600
     }
 
     soldiers = {
         culture = greek
         religion = sunni
-        size = 175
+        size = 262
     }
 
     farmers = {
         culture = greek
         religion = sunni
-        size = 9900
+        size = 14850
     }
 
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 500
+        size = 750
     }
 
     clergymen = {
         culture = greek
         religion = orthodox
-        size = 200
+        size = 300
     }
 
     artisans = {
         culture = greek
         religion = orthodox
-        size = 450
+        size = 675
     }
 
     farmers = {
         culture = greek
         religion = orthodox
-        size = 27450
+        size = 41175
     }
 
     soldiers = {
         culture = romanian
         religion = orthodox
-        size = 400
+        size = 600
     }
 
     clergymen = {
-        culture = romanian
-        religion = orthodox
-        size = 200
-    }
-
-    artisans = {
         culture = romanian
         religion = orthodox
         size = 300
     }
 
+    artisans = {
+        culture = romanian
+        religion = orthodox
+        size = 450
+    }
+
     farmers = {
         culture = romanian
         religion = orthodox
-        size = 3625
+        size = 5437
     }
 }
 #Thessaly Region (408000)
@@ -947,9 +941,10 @@
         religion = orthodox
         size = 38000
     }
-
 }
 #Volos (224000/56000 POPS)
+######Jews
+########
 832 = {
     aristocrats = {
         culture = greek
@@ -1017,7 +1012,6 @@
         size = 800
     }
 
-    ######Jews
     aristocrats = {
         culture = saayda
         religion = jewish
@@ -1047,7 +1041,6 @@
         religion = jewish
         size = 100
     }
-    ########
 }
 #Trikala (44000/11000 POPS)
 833 = {
@@ -1108,12 +1101,15 @@
 #Hellas Region (510000)
 #under the rule of Greece in 1836
 #Athens (308000/77000 POPS)
+######Jews #1250 pops
+########
 834 = {
     aristocrats = {
         culture = greek
         religion = orthodox
         size = 500
     }
+
     bureaucrats = {
         culture = greek
         religion = orthodox
@@ -1150,7 +1146,6 @@
         size = 40175
     }
 
-    ######Jews #1250 pops
     aristocrats = {
         culture = saayda
         religion = jewish
@@ -1180,7 +1175,6 @@
         religion = jewish
         size = 100
     }
-    ########
 }
 #Amfissa (76000/19000 POPS)
 835 = {
@@ -1302,7 +1296,6 @@
 #under the rule of Greece in 1836
 #Nafplion (72000/18000 POPS)
 839 = {
-
     clergymen = {
         culture = greek
         religion = orthodox
@@ -1361,7 +1354,6 @@
 }
 #Patrai (40000/10000 POPS)
 842 = {
-
     aristocrats = {
         culture = greek
         religion = orthodox
@@ -1410,79 +1402,79 @@
     aristocrats = {
         culture = greek
         religion = sunni
-        size = 150
+        size = 225
     }
 
     bureaucrats = {
         culture = greek
         religion = sunni
-        size = 50
+        size = 75
     }
 
     officers = {
         culture = greek
         religion = sunni
-        size = 50
+        size = 75
     }
 
     clergymen = {
         culture = greek
         religion = sunni
-        size = 100
+        size = 150
     }
 
     artisans = {
         culture = greek
         religion = sunni
-        size = 600
+        size = 900
     }
 
     soldiers = {
         culture = greek
         religion = sunni
-        size = 175
+        size = 262
     }
 
     farmers = {
         culture = greek
         religion = sunni
-        size = 700
+        size = 1050
     }
 
     aristocrats = {
         culture = greek
         religion = sunni
-        size = 120
+        size = 180
     }
 
     officers = {
         culture = greek
         religion = sunni
-        size = 120
+        size = 180
     }
 
     soldiers = {
         culture = greek
         religion = sunni
-        size = 300
+        size = 450
     }
 
     clergymen = {
         culture = greek
         religion = sunni
-        size = 100
+        size = 150
     }
 
     artisans = {
         culture = greek
         religion = sunni
-        size = 2400
+        size = 3600
     }
 
     farmers = {
         culture = greek
         religion = sunni
-        size = 12450
+        size = 18675
     }
 }
 #Crete Region (140000)
@@ -1524,5 +1516,4 @@
         religion = orthodox
         size = 15325
     }
-
 }

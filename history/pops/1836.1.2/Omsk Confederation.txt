@@ -1,7 +1,6 @@
 ##Omsk Oblast
 #Omsk (223500/55878 POPS)
 1064 = {
-
     aristocrats = {
         culture = novosibiryaki
         religion = orthodox
@@ -52,7 +51,6 @@
 }
 #Kokshetau (96000/24000 POPS)
 1184 = {
-
     clergymen = {
         culture = novosibiryaki
         religion = orthodox
@@ -114,33 +112,32 @@
     aristocrats = {
         culture = novosibiryaki
         religion = orthodox
-        size = 1050
+        size = 2100
     }
 
     clergymen = {
         culture = novosibiryaki
         religion = orthodox
-        size = 200
+        size = 400
     }
 
     artisans = {
         culture = novosibiryaki
         religion = orthodox
-        size = 4650
+        size = 9300
     }
 
     soldiers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 3000
+        size = 6000
     }
 
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 54000
+        size = 108000
     }
-
 }
 #Eindhoven (230000/57500 POPS)
 379 = {
@@ -149,26 +146,31 @@
         religion = orthodox
         size = 1425
     }
+
     clergymen = {
         culture = novosibiryaki
         religion = orthodox
         size = 125
     }
+
     artisans = {
         culture = novosibiryaki
         religion = orthodox
         size = 4500
     }
+
     soldiers = {
         culture = novosibiryaki
         religion = orthodox
         size = 5000
     }
+
     soldiers = {
         culture = novosibiryaki
         religion = orthodox
         size = 4000
     }
+
     farmers = {
         culture = novosibiryaki
         religion = orthodox
@@ -206,7 +208,6 @@
         religion = orthodox
         size = 59800
     }
-
 }
 #Ishim (22000/5500 POPS) => Kainsk
 2686 = {
@@ -239,11 +240,9 @@
         religion = orthodox
         size = 32000
     }
-
 }
 #Tobolsk (10800/2700 POPS)
 1066 = {
-
     aristocrats = {
         culture = novosibiryaki
         religion = orthodox
@@ -273,11 +272,10 @@
         religion = orthodox
         size = 76050
     }
-
 }
 #Kokand (300000/75000 POPS)
 1202 = {
-   aristocrats = {
+    aristocrats = {
         culture = novosibiryaki
         religion = orthodox
         size = 1050
@@ -309,12 +307,12 @@
 }
 #Tyumen (54000/13500 POPS)
 1061 = {
-
     aristocrats = {
         culture = novosibiryaki
         religion = orthodox
         size = 150
     }
+
     clergymen = {
         culture = novosibiryaki
         religion = orthodox
@@ -338,7 +336,6 @@
         religion = orthodox
         size = 92175
     }
-
 }
 #Kheta (1000/250 POPS)
 2658 = {
@@ -376,7 +373,6 @@
 #under the rule of Russia in 1836
 #Tomsk (814000/203500 POPS)
 1063 = {
-
     aristocrats = {
         culture = novosibiryaki
         religion = orthodox
@@ -571,7 +567,6 @@
         religion = orthodox
         size = 56850
     }
-
 }
 #Qaraganda (56000/14000 POPS)
 1181 = {

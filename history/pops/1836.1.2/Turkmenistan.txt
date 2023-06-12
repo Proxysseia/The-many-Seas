@@ -3,55 +3,55 @@
     aristocrats = {
         culture = kazak
         religion = sunni
-        size = 500
+        size = 250
     }
 
     clergymen = {
         culture = kazak
         religion = sunni
-        size = 275
+        size = 137
     }
 
     artisans = {
         culture = kazak
         religion = sunni
-        size = 1250
+        size = 625
     }
 
     soldiers = {
         culture = kazak
         religion = sunni
-        size = 300
+        size = 150
     }
 
     farmers = {
         culture = kazak
         religion = sunni
-        size = 25675
+        size = 12837
     }
 
     clergymen = {
         culture = persian
         religion = shiite
-        size = 25
+        size = 12
     }
 
     artisans = {
         culture = persian
         religion = shiite
-        size = 200
+        size = 100
     }
 
     soldiers = {
         culture = persian
         religion = shiite
-        size = 25
+        size = 12
     }
 
     farmers = {
         culture = persian
         religion = shiite
-        size = 3750
+        size = 1875
     }
 }
 #under the rule of Bukhara in 1836
@@ -60,123 +60,122 @@
     aristocrats = {
         culture = kazak
         religion = sunni
-        size = 25
+        size = 12
     }
 
     clergymen = {
         culture = kazak
         religion = sunni
-        size = 25
+        size = 12
     }
 
     artisans = {
         culture = kazak
         religion = sunni
-        size = 100
+        size = 50
     }
 
     soldiers = {
         culture = kazak
         religion = sunni
-        size = 25
+        size = 12
     }
 
     farmers = {
         culture = kazak
         religion = sunni
-        size = 1825
+        size = 912
     }
 
     aristocrats = {
         culture = kazak
         religion = sunni
-        size = 400
+        size = 200
     }
 
     clergymen = {
         culture = kazak
         religion = sunni
-        size = 225
+        size = 112
     }
 
     artisans = {
         culture = kazak
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     soldiers = {
         culture = kazak
         religion = sunni
-        size = 250
+        size = 125
     }
 
     farmers = {
         culture = kazak
         religion = sunni
-        size = 21025
+        size = 10512
     }
 }
-
 #Merv - Former Line Islands (?/? POPS)
 686 = {
     aristocrats = {
         culture = kazak
         religion = sunni
-        size = 100
+        size = 50
     }
 
     clergymen = {
         culture = kazak
         religion = sunni
-        size = 200
+        size = 100
     }
 
     artisans = {
         culture = kazak
         religion = sunni
-        size = 200
+        size = 100
     }
 
     soldiers = {
         culture = kazak
         religion = sunni
-        size = 250
+        size = 125
     }
 
     farmers = {
         culture = kazak
         religion = sunni
-        size = 5000
+        size = 2500
     }
 
     aristocrats = {
         culture = persian
         religion = shiite
-        size = 50
+        size = 25
     }
 
     clergymen = {
         culture = persian
         religion = shiite
-        size = 50
+        size = 25
     }
 
     artisans = {
         culture = persian
         religion = shiite
-        size = 400
+        size = 200
     }
 
     soldiers = {
         culture = persian
         religion = shiite
-        size = 75
+        size = 37
     }
 
     farmers = {
         culture = persian
         religion = shiite
-        size = 2425
+        size = 1212
     }
 }

@@ -7,115 +7,115 @@
     aristocrats = {
         culture = hungarian
         religion = catholic
-        size = 650
+        size = 455
     }
 
     bureaucrats = {
         culture = hungarian
         religion = catholic
-        size = 100
+        size = 70
     }
 
     officers = {
         culture = hungarian
         religion = catholic
-        size = 80
+        size = 56
     }
 
     clergymen = {
         culture = hungarian
-        religion = catholic
-        size = 250
-    }
-
-    artisans = {
-        culture = hungarian
-        religion = catholic
-        size = 1250
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = catholic
-        size = 1100
-    }
-
-    farmers = {
-        culture = hungarian
-        religion = catholic
-        size = 18670
-    }
-
-    aristocrats = {
-        culture = vindonian
-        religion = catholic
-        size = 500
-    }
-
-    bureaucrats = {
-        culture = vindonian
-        religion = catholic
-        size = 75
-    }
-
-    officers = {
-        culture = vindonian
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = vindonian
         religion = catholic
         size = 175
     }
 
     artisans = {
+        culture = hungarian
+        religion = catholic
+        size = 875
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = catholic
+        size = 770
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = catholic
+        size = 13069
+    }
+
+    aristocrats = {
         culture = vindonian
         religion = catholic
-        size = 1100
+        size = 350
+    }
+
+    bureaucrats = {
+        culture = vindonian
+        religion = catholic
+        size = 52
+    }
+
+    officers = {
+        culture = vindonian
+        religion = catholic
+        size = 70
+    }
+
+    clergymen = {
+        culture = vindonian
+        religion = catholic
+        size = 122
+    }
+
+    artisans = {
+        culture = vindonian
+        religion = catholic
+        size = 770
     }
 
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 250
+        size = 175
     }
 
     farmers = {
         culture = vindonian
         religion = catholic
-        size = 38545
+        size = 26981
     }
 
     officers = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 70
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 70
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 400
+        size = 280
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 70
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 7435
+        size = 5204
     }
 }
 #Dunautul Region (1892000)
@@ -125,131 +125,129 @@
     capitalists = {
         culture = vindonian
         religion = catholic
-        size = 25
+        size = 17
     }
 
     aristocrats = {
         culture = vindonian
         religion = catholic
-        size = 1800
+        size = 1260
     }
 
     bureaucrats = {
         culture = vindonian
         religion = catholic
-        size = 1500
+        size = 1050
     }
 
     officers = {
         culture = vindonian
         religion = catholic
-        size = 250
+        size = 175
     }
 
     clergymen = {
         culture = vindonian
         religion = catholic
-        size = 2250
+        size = 1575
     }
 
     artisans = {
         culture = vindonian
         religion = catholic
-        size = 7500
+        size = 5250
     }
 
     artisans = {
         culture = vindonian
         religion = catholic
-        size = 4500
+        size = 3150
     }
 
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 4000
+        size = 2800
     }
 
     craftsmen = {
         culture = vindonian
         religion = catholic
-        size = 100
+        size = 70
     }
 
     farmers = {
         culture = vindonian
         religion = catholic
-        size = 115410
+        size = 80787
     }
 
     aristocrats = {
         culture = hungarian
         religion = catholic
-        size = 350
+        size = 245
     }
 
     soldiers = {
         culture = hungarian
         religion = catholic
-        size = 3000
+        size = 2100
     }
 
     farmers = {
         culture = hungarian
         religion = catholic
-        size =  37250
+        size = 26075
     }
-
-
 }
 #Gyor (384000/96000 POPS)
 642 = {
     aristocrats = {
         culture = vindonian
         religion = catholic
-        size = 2250
+        size = 1575
     }
 
     clergymen = {
         culture = vindonian
         religion = catholic
-        size = 575
+        size = 402
     }
 
     artisans = {
         culture = vindonian
         religion = catholic
-        size = 2750
+        size = 1925
     }
 
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 3000
+        size = 2100
     }
 
     craftsmen = {
         culture = vindonian
         religion = catholic
-        size = 100
+        size = 70
     }
 
     farmers = {
         culture = vindonian
         religion = catholic
-        size = 55325
+        size = 38727
     }
 
     farmers = {
         culture = hungarian
         religion = catholic
-        size = 14525
+        size = 10167
     }
 
     farmers = {
         culture = vindonian
         religion = catholic
-        size = 11800
+        size = 8260
     }
 }
 #Szekesfehervar (364000/91000 POPS)
@@ -257,55 +255,55 @@
     aristocrats = {
         culture = vindonian
         religion = catholic
-        size = 4100
+        size = 2870
     }
 
     clergymen = {
         culture = vindonian
         religion = catholic
-        size = 3000
+        size = 2100
     }
 
     artisans = {
         culture = vindonian
         religion = catholic
-        size = 2250
+        size = 1575
     }
 
     craftsmen = {
         culture = vindonian
         religion = catholic
-        size = 100
+        size = 70
     }
 
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 2000
+        size = 1400
     }
 
     farmers = {
         culture = vindonian
         religion = catholic
-        size =  78277
+        size = 54793
     }
 
     farmers = {
         culture = hungarian
         religion = catholic
-        size = 19275
+        size = 13492
     }
 
     aristocrats = {
         culture = vindonian
         religion = protestant
-        size = 275
+        size = 192
     }
 
     farmers = {
         culture = vindonian
         religion = catholic
-        size = 13900
+        size = 9730
     }
 }
 #Kaposvar (392000/98000 POPS)
@@ -313,43 +311,43 @@
     aristocrats = {
         culture = vindonian
         religion = catholic
-        size = 3000
+        size = 2100
     }
 
     clergymen = {
         culture = vindonian
         religion = catholic
-        size = 750
+        size = 525
     }
 
     artisans = {
         culture = vindonian
         religion = catholic
-        size = 3700
+        size = 2590
     }
 
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 1100
+        size = 770
     }
 
     farmers = {
         culture = vindonian
         religion = catholic
-        size = 71750
+        size = 50225
     }
 
     farmers = {
         culture = hungarian
         religion = catholic
-        size = 5125
+        size = 3587
     }
 
     farmers = {
         culture = vindonian
         religion = catholic
-        size = 2525
+        size = 1767
     }
 }
 #Kecskemet (108000/27000 POPS)
@@ -357,43 +355,43 @@
     aristocrats = {
         culture = vindonian
         religion = catholic
-        size = 400
+        size = 280
     }
 
     clergymen = {
         culture = vindonian
         religion = catholic
-        size = 125
+        size = 87
     }
 
     artisans = {
         culture = vindonian
         religion = catholic
-        size = 3200
+        size = 2240
     }
 
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 150
+        size = 105
     }
 
     farmers = {
         culture = vindonian
         religion = catholic
-        size = 19125
+        size = 13387
     }
 
     farmers = {
         culture = hungarian
         religion = catholic
-        size = 9550
+        size = 6685
     }
 
     farmers = {
         culture = vindonian
         religion = catholic
-        size = 1800
+        size = 1260
     }
 }
 #Felvidek Region (320000) #see Slovakia.txt and Ukraine.txt for balance of Region
@@ -403,49 +401,49 @@
     aristocrats = {
         culture = vindonian
         religion = catholic
-        size = 1750
+        size = 1225
     }
 
     clergymen = {
         culture = vindonian
         religion = catholic
-        size = 425
+        size = 297
     }
 
     bureaucrats = {
         culture = vindonian
         religion = catholic
-        size = 700
+        size = 490
     }
 
     artisans = {
         culture = vindonian
         religion = catholic
-        size = 3750
+        size = 2625
     }
 
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 450
+        size = 315
     }
 
     craftsmen = {
         culture = vindonian
         religion = catholic
-        size = 100
+        size = 70
     }
 
     farmers = {
         culture = vindonian
         religion = catholic
-        size = 61525
+        size = 43067
     }
 
     farmers = {
         culture = hungarian
         religion = catholic
-        size = 42125
+        size = 29487
     }
 }
 #Partium Region (1112000) #See Romania.txt for balance of region

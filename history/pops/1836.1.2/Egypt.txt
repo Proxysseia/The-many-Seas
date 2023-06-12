@@ -39,115 +39,115 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 2600
+        size = 3900
     }
 
     bureaucrats = {
         culture = saayda
         religion = sunni
-        size = 125
+        size = 187
     }
 
     officers = {
         culture = saayda
         religion = sunni
-        size = 200
+        size = 300
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 325
+        size = 487
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 10000
+        size = 15000
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 10000
+        size = 15000
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 10000
+        size = 15000
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 10000
+        size = 15000
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 10000
+        size = 15000
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 500
+        size = 750
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 3000
+        size = 4500
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 3000
+        size = 4500
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 4000
+        size = 6000
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 146000
+        size = 219000
     }
 
     bureaucrats = {
         culture = saayda
         religion = coptic
-        size = 25
+        size = 37
     }
 
     clergymen = {
         culture = saayda
         religion = coptic
-        size = 175
+        size = 262
     }
 
     artisans = {
         culture = saayda
         religion = coptic
-        size = 10000
+        size = 15000
     }
 
     artisans = {
         culture = saayda
         religion = coptic
-        size = 8000
+        size = 12000
     }
 
     farmers = {
         culture = saayda
         religion = coptic
-        size = 26800
+        size = 40200
     }
 
     clergymen = {
@@ -165,13 +165,13 @@
     clergymen = {
         culture = saayda
         religion = jewish
-        size = 25
+        size = 37
     }
 
     artisans = {
         culture = saayda
         religion = jewish
-        size = 1225
+        size = 1837
     }
 
     slaves = {
@@ -191,25 +191,25 @@
     aristocrats = {
         culture = australian
         religion = sunni
-        size = 500
+        size = 375
     }
 
     artisans = {
         culture = australian
         religion = sunni
-        size = 10000
+        size = 7500
     }
 
     artisans = {
         culture = australian
         religion = sunni
-        size = 5575
+        size = 4181
     }
 
     soldiers = {
         culture = australian
         religion = sunni
-        size = 75
+        size = 56
     }
 
     aristocrats = {
@@ -290,37 +290,37 @@
     artisans = {
         culture = saayda
         religion = sunni
-        size = 10000
+        size = 15000
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 500
+        size = 750
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 3000
+        size = 4500
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 3000
+        size = 4500
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 4000
+        size = 6000
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 146000
+        size = 219000
     }
 }
 #Tanta (341600/85400 POPS)
@@ -328,55 +328,55 @@
     aristocrats = {
         culture = saayda
         religion = coptic
-        size = 1600
+        size = 2400
     }
 
     artisans = {
         culture = saayda
         religion = coptic
-        size = 5575
+        size = 8362
     }
 
     soldiers = {
         culture = saayda
         religion = coptic
-        size = 1175
+        size = 1762
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 425
+        size = 637
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 4100
+        size = 6150
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 65625
+        size = 98437
     }
 
     clergymen = {
         culture = saayda
         religion = coptic
-        size = 25
+        size = 37
     }
 
     artisans = {
         culture = saayda
         religion = coptic
-        size = 100
+        size = 150
     }
 
     farmers = {
         culture = saayda
         religion = coptic
-        size = 11875
+        size = 17812
     }
 }
 #Mansura (256200/64050 POPS)
@@ -402,61 +402,61 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 700
+        size = 1050
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 300
+        size = 450
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 3050
+        size = 4575
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 2100
+        size = 3150
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 54700
+        size = 82050
     }
 
     clergymen = {
         culture = saayda
         religion = coptic
-        size = 25
+        size = 37
     }
 
     artisans = {
         culture = saayda
         religion = coptic
-        size = 100
+        size = 150
     }
 
     farmers = {
         culture = saayda
         religion = coptic
-        size = 1875
+        size = 2812
     }
 
     clergymen = {
         culture = saayda
         religion = jewish
-        size = 5
+        size = 7
     }
 
     artisans = {
         culture = saayda
         religion = jewish
-        size = 245
+        size = 367
     }
 }
 #Ziqaziq (272600/68150 POPS)
@@ -482,93 +482,37 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 700
+        size = 1050
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 325
+        size = 487
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 5250
+        size = 7875
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 2100
+        size = 3150
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 49625
+        size = 74437
     }
 
     clergymen = {
         culture = saayda
         religion = coptic
-        size = 50
-    }
-
-    artisans = {
-        culture = saayda
-        religion = coptic
-        size = 100
-    }
-
-    farmers = {
-        culture = saayda
-        religion = coptic
-        size = 1850
-    }
-}
-#Giza (386400/96600 POPS)
-1750 = {
-    aristocrats = {
-        culture = saayda
-        religion = coptic
-        size = 2050
-    }
-
-    artisans = {
-        culture = saayda
-        religion = coptic
-        size = 550
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = coptic
-        size = 1200
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = sunni
-        size = 400
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 4050
-    }
-
-    farmers = {
-        culture = saayda
-        religion = sunni
-        size = 64820
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = coptic
-        size = 50
+        size = 75
     }
 
     artisans = {
@@ -580,7 +524,63 @@
     farmers = {
         culture = saayda
         religion = coptic
-        size = 12800
+        size = 2775
+    }
+}
+#Giza (386400/96600 POPS)
+1750 = {
+    aristocrats = {
+        culture = saayda
+        religion = coptic
+        size = 3075
+    }
+
+    artisans = {
+        culture = saayda
+        religion = coptic
+        size = 825
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = coptic
+        size = 1800
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = sunni
+        size = 600
+    }
+
+    artisans = {
+        culture = saayda
+        religion = sunni
+        size = 6075
+    }
+
+    farmers = {
+        culture = saayda
+        religion = sunni
+        size = 97230
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = coptic
+        size = 75
+    }
+
+    artisans = {
+        culture = saayda
+        religion = coptic
+        size = 225
+    }
+
+    farmers = {
+        culture = saayda
+        religion = coptic
+        size = 19200
     }
 }
 #Alexandria Region (736000)
@@ -590,115 +590,115 @@
     aristocrats = {
         culture = saayda
         religion = coptic
-        size = 2750
+        size = 4125
     }
 
     bureaucrats = {
         culture = saayda
         religion = coptic
-        size = 1150
+        size = 1725
     }
 
     officers = {
         culture = saayda
         religion = coptic
-        size = 200
+        size = 300
     }
 
     clergymen = {
         culture = saayda
         religion = coptic
-        size = 425
+        size = 637
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 10000
+        size = 15000
     }
 
     artisans = {
         culture = saayda
         religion = coptic
-        size = 750
+        size = 1125
     }
 
     soldiers = {
         culture = saayda
         religion = coptic
-        size = 3000
+        size = 4500
     }
 
     soldiers = {
         culture = saayda
         religion = coptic
-        size = 3000
+        size = 4500
     }
 
     soldiers = {
         culture = saayda
         religion = coptic
-        size = 3000
+        size = 4500
     }
 
     soldiers = {
         culture = saayda
         religion = coptic
-        size = 1000
+        size = 1500
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 116725
+        size = 175087
     }
 
     bureaucrats = {
         culture = saayda
         religion = coptic
-        size = 25
+        size = 37
     }
 
     clergymen = {
         culture = saayda
         religion = coptic
-        size = 125
+        size = 187
     }
 
     artisans = {
         culture = saayda
         religion = coptic
-        size = 750
+        size = 1125
     }
 
     farmers = {
         culture = saayda
         religion = coptic
-        size = 12125
+        size = 18187
     }
 
     clergymen = {
         culture = saayda
         religion = jewish
-        size = 10
+        size = 15
     }
 
     artisans = {
         culture = saayda
         religion = jewish
-        size = 990
+        size = 1485
     }
 
     clergymen = {
         culture = saayda
         religion = coptic
-        size = 50
+        size = 75
     }
 
     artisans = {
         culture = saayda
         religion = coptic
-        size = 1950
+        size = 2925
     }
 
     slaves = {
@@ -712,61 +712,61 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 225
+        size = 337
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 125
+        size = 187
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 600
+        size = 900
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 1100
+        size = 1650
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 10150
+        size = 15225
     }
 
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 50
+        size = 75
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 75
+        size = 112
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 150
+        size = 225
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 25
+        size = 37
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 2700
+        size = 4050
     }
 }
 #Sidi Barrani (20000/5000 POPS)
@@ -774,31 +774,31 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 75
+        size = 112
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 50
+        size = 75
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 250
+        size = 375
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 50
+        size = 75
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 4575
+        size = 6862
     }
 }
 #Siwa (16000/4000 POPS)
@@ -806,31 +806,31 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 50
+        size = 75
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 50
+        size = 75
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 200
+        size = 300
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 50
+        size = 75
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 3650
+        size = 5475
     }
 }
 #Sinai Region (100000)
@@ -840,43 +840,43 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 350
+        size = 525
     }
 
     bureaucrats = {
         culture = saayda
         religion = sunni
-        size = 10
+        size = 15
     }
 
     officers = {
         culture = saayda
         religion = sunni
-        size = 25
+        size = 37
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 175
+        size = 262
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 1900
+        size = 2850
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 200
+        size = 300
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 16340
+        size = 24510
     }
 }
 #Al Arish (16000/4000 POPS)
@@ -884,131 +884,37 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 25
+        size = 37
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 50
+        size = 75
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 1100
+        size = 1650
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 25
+        size = 37
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 1800
+        size = 2700
     }
 
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 25
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = sunni
-        size = 50
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 100
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = sunni
-        size = 25
-    }
-
-    farmers = {
-        culture = saayda
-        religion = sunni
-        size = 1800
-    }
-}
-#Sharm al Shaykh (12000/3000 POPS)
-1757 = {
-    aristocrats = {
-        culture = saayda
-        religion = sunni
-        size = 15
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = sunni
-        size = 25
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 250
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = sunni
-        size = 10
-    }
-
-    farmers = {
-        culture = saayda
-        religion = sunni
-        size = 900
-    }
-
-    aristocrats = {
-        culture = saayda
-        religion = sunni
-        size = 25
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = sunni
-        size = 50
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 100
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = sunni
-        size = 25
-    }
-
-    farmers = {
-        culture = saayda
-        religion = sunni
-        size = 5800
-    }
-}
-#Bawiti (12000/3000 POPS)
-1759 = {
-    aristocrats = {
-        culture = saayda
-        religion = sunni
-        size = 50
+        size = 37
     }
 
     clergymen = {
@@ -1026,7 +932,7 @@
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 25
+        size = 37
     }
 
     farmers = {
@@ -1035,8 +941,70 @@
         size = 2700
     }
 }
-#Mut (20000/5000 POPS)
-1760 = {
+#Sharm al Shaykh (12000/3000 POPS)
+1757 = {
+    aristocrats = {
+        culture = saayda
+        religion = sunni
+        size = 22
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = sunni
+        size = 37
+    }
+
+    artisans = {
+        culture = saayda
+        religion = sunni
+        size = 375
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = sunni
+        size = 15
+    }
+
+    farmers = {
+        culture = saayda
+        religion = sunni
+        size = 1350
+    }
+
+    aristocrats = {
+        culture = saayda
+        religion = sunni
+        size = 37
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = sunni
+        size = 75
+    }
+
+    artisans = {
+        culture = saayda
+        religion = sunni
+        size = 150
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = sunni
+        size = 37
+    }
+
+    farmers = {
+        culture = saayda
+        religion = sunni
+        size = 8700
+    }
+}
+#Bawiti (12000/3000 POPS)
+1759 = {
     aristocrats = {
         culture = saayda
         religion = sunni
@@ -1046,25 +1014,57 @@
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 50
+        size = 112
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 250
+        size = 225
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 50
+        size = 37
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 4575
+        size = 4050
+    }
+}
+#Mut (20000/5000 POPS)
+1760 = {
+    aristocrats = {
+        culture = saayda
+        religion = sunni
+        size = 112
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = sunni
+        size = 75
+    }
+
+    artisans = {
+        culture = saayda
+        religion = sunni
+        size = 375
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = sunni
+        size = 75
+    }
+
+    farmers = {
+        culture = saayda
+        religion = sunni
+        size = 6862
     }
 }
 #Baris (16000/4000 POPS)
@@ -1072,31 +1072,31 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 50
+        size = 75
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 50
+        size = 75
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 200
+        size = 300
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 50
+        size = 75
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 3650
+        size = 5475
     }
 }
 #Vostani Region (672000)
@@ -1106,19 +1106,445 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 825
+        size = 1237
     }
 
     bureaucrats = {
         culture = saayda
         religion = sunni
-        size = 110
+        size = 165
     }
 
     officers = {
         culture = saayda
         religion = sunni
-        size = 175
+        size = 262
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = sunni
+        size = 675
+    }
+
+    artisans = {
+        culture = saayda
+        religion = sunni
+        size = 12075
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = sunni
+        size = 3150
+    }
+
+    farmers = {
+        culture = saayda
+        religion = sunni
+        size = 120585
+    }
+
+    bureaucrats = {
+        culture = saayda
+        religion = coptic
+        size = 22
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = coptic
+        size = 225
+    }
+
+    artisans = {
+        culture = saayda
+        religion = coptic
+        size = 1350
+    }
+
+    farmers = {
+        culture = saayda
+        religion = coptic
+        size = 31402
+    }
+}
+#Bani Suwayf (76000/19000 OPS) }
+1763 = {
+    aristocrats = {
+        culture = saayda
+        religion = coptic
+        size = 412
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = coptic
+        size = 225
+    }
+
+    artisans = {
+        culture = saayda
+        religion = sunni
+        size = 4200
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = coptic
+        size = 300
+    }
+
+    farmers = {
+        culture = saayda
+        religion = sunni
+        size = 23362
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = coptic
+        size = 75
+    }
+
+    artisans = {
+        culture = saayda
+        religion = coptic
+        size = 225
+    }
+
+    farmers = {
+        culture = saayda
+        religion = coptic
+        size = 4200
+    }
+}
+#Minya (104000/26000 POPS)
+1764 = {
+    aristocrats = {
+        culture = saayda
+        religion = sunni
+        size = 562
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = saayda
+        religion = sunni
+        size = 2325
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = sunni
+        size = 1650
+    }
+
+    farmers = {
+        culture = saayda
+        religion = sunni
+        size = 27487
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = coptic
+        size = 75
+    }
+
+    artisans = {
+        culture = saayda
+        religion = coptic
+        size = 375
+    }
+
+    farmers = {
+        culture = saayda
+        religion = coptic
+        size = 7200
+    }
+}
+#Fayyum (192000/48000 POPS)
+1765 = {
+    aristocrats = {
+        culture = saayda
+        religion = coptic
+        size = 1200
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = coptic
+        size = 637
+    }
+
+    artisans = {
+        culture = saayda
+        religion = sunni
+        size = 3150
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = coptic
+        size = 1650
+    }
+
+    farmers = {
+        culture = saayda
+        religion = sunni
+        size = 56512
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = coptic
+        size = 75
+    }
+
+    artisans = {
+        culture = saayda
+        religion = coptic
+        size = 450
+    }
+
+    farmers = {
+        culture = saayda
+        religion = coptic
+        size = 8475
+    }
+}
+#Suhaj (96000/24000 POPS)
+2559 = {
+    aristocrats = {
+        culture = saayda
+        religion = sunni
+        size = 900
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = sunni
+        size = 787
+    }
+
+    artisans = {
+        culture = saayda
+        religion = sunni
+        size = 5400
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = sunni
+        size = 1875
+    }
+
+    farmers = {
+        culture = saayda
+        religion = sunni
+        size = 75037
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = coptic
+        size = 75
+    }
+
+    artisans = {
+        culture = saayda
+        religion = coptic
+        size = 150
+    }
+
+    farmers = {
+        culture = saayda
+        religion = coptic
+        size = 2775
+    }
+}
+#Said Region (244000)
+#under the rule of Egypt in 1836
+#Aswan (48000/12000 POPS)
+1766 = {
+    aristocrats = {
+        culture = saayda
+        religion = sunni
+        size = 262
+    }
+
+    bureaucrats = {
+        culture = saayda
+        religion = sunni
+        size = 67
+    }
+
+    officers = {
+        culture = saayda
+        religion = sunni
+        size = 112
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = saayda
+        religion = sunni
+        size = 750
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = sunni
+        size = 187
+    }
+
+    farmers = {
+        culture = saayda
+        religion = sunni
+        size = 13470
+    }
+
+    bureaucrats = {
+        culture = saayda
+        religion = coptic
+        size = 7
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = coptic
+        size = 75
+    }
+
+    artisans = {
+        culture = saayda
+        religion = coptic
+        size = 150
+    }
+
+    farmers = {
+        culture = saayda
+        religion = coptic
+        size = 2775
+    }
+}
+#Luxor (68000/17000 POPS)
+1767 = {
+    aristocrats = {
+        culture = saayda
+        religion = sunni
+        size = 1837
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = sunni
+        size = 1687
+    }
+
+    artisans = {
+        culture = saayda
+        religion = sunni
+        size = 12900
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = sunni
+        size = 7762
+    }
+
+    farmers = {
+        culture = saayda
+        religion = sunni
+        size = 173812
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = coptic
+        size = 75
+    }
+
+    artisans = {
+        culture = saayda
+        religion = coptic
+        size = 375
+    }
+
+    farmers = {
+        culture = saayda
+        religion = coptic
+        size = 7050
+    }
+}
+#Idfu (76000/19000 POPS)
+1768 = {
+    aristocrats = {
+        culture = saayda
+        religion = sunni
+        size = 450
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = sunni
+        size = 262
+    }
+
+    artisans = {
+        culture = saayda
+        religion = sunni
+        size = 1275
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = sunni
+        size = 300
+    }
+
+    farmers = {
+        culture = saayda
+        religion = sunni
+        size = 23212
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = coptic
+        size = 75
+    }
+
+    artisans = {
+        culture = saayda
+        religion = coptic
+        size = 150
+    }
+
+    farmers = {
+        culture = saayda
+        religion = coptic
+        size = 2775
+    }
+}
+#Qina (52000/13000 POPS)
+1769 = {
+    aristocrats = {
+        culture = saayda
+        religion = sunni
+        size = 750
     }
 
     clergymen = {
@@ -1130,463 +1556,37 @@
     artisans = {
         culture = saayda
         religion = sunni
-        size = 8050
+        size = 2325
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 2100
+        size = 1725
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 80390
-    }
-
-    bureaucrats = {
-        culture = saayda
-        religion = coptic
-        size = 15
+        size = 54000
     }
 
     clergymen = {
         culture = saayda
         religion = coptic
-        size = 150
-    }
-
-    artisans = {
-        culture = saayda
-        religion = coptic
-        size = 900
-    }
-
-    farmers = {
-        culture = saayda
-        religion = coptic
-        size = 20935
-    }
-}
-#Bani Suwayf (76000/19000 OPS) }
-1763 = {
-    aristocrats = {
-        culture = saayda
-        religion = coptic
-        size = 275
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = coptic
-        size = 150
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 2800
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = coptic
-        size = 200
-    }
-
-    farmers = {
-        culture = saayda
-        religion = sunni
-        size = 15575
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = coptic
-        size = 50
-    }
-
-    artisans = {
-        culture = saayda
-        religion = coptic
-        size = 150
-    }
-
-    farmers = {
-        culture = saayda
-        religion = coptic
-        size = 2800
-    }
-}
-#Minya (104000/26000 POPS)
-1764 = {
-    aristocrats = {
-        culture = saayda
-        religion = sunni
-        size = 375
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 1550
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = sunni
-        size = 1100
-    }
-
-    farmers = {
-        culture = saayda
-        religion = sunni
-        size = 18325
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = coptic
-        size = 50
-    }
-
-    artisans = {
-        culture = saayda
-        religion = coptic
-        size = 250
-    }
-
-    farmers = {
-        culture = saayda
-        religion = coptic
-        size = 4800
-    }
-}
-#Fayyum (192000/48000 POPS)
-1765 = {
-    aristocrats = {
-        culture = saayda
-        religion = coptic
-        size = 800
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = coptic
-        size = 425
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 2100
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = coptic
-        size = 1100
-    }
-
-    farmers = {
-        culture = saayda
-        religion = sunni
-        size = 37675
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = coptic
-        size = 50
-    }
-
-    artisans = {
-        culture = saayda
-        religion = coptic
-        size = 300
-    }
-
-    farmers = {
-        culture = saayda
-        religion = coptic
-        size = 5650
-    }
-}
-#Suhaj (96000/24000 POPS)
-2559 = {
-    aristocrats = {
-        culture = saayda
-        religion = sunni
-        size = 600
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = sunni
-        size = 525
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 3600
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = sunni
-        size = 1250
-    }
-
-    farmers = {
-        culture = saayda
-        religion = sunni
-        size = 50025
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = coptic
-        size = 50
-    }
-
-    artisans = {
-        culture = saayda
-        religion = coptic
-        size = 100
-    }
-
-    farmers = {
-        culture = saayda
-        religion = coptic
-        size = 1850
-    }
-}
-#Said Region (244000)
-#under the rule of Egypt in 1836
-#Aswan (48000/12000 POPS)
-1766 = {
-    aristocrats = {
-        culture = saayda
-        religion = sunni
-        size = 175
-    }
-
-    bureaucrats = {
-        culture = saayda
-        religion = sunni
-        size = 45
-    }
-
-    officers = {
-        culture = saayda
-        religion = sunni
         size = 75
     }
 
-    clergymen = {
-        culture = saayda
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 500
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = sunni
-        size = 125
-    }
-
-    farmers = {
-        culture = saayda
-        religion = sunni
-        size = 8980
-    }
-
-    bureaucrats = {
-        culture = saayda
-        religion = coptic
-        size = 5
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = coptic
-        size = 50
-    }
-
     artisans = {
         culture = saayda
         religion = coptic
-        size = 100
+        size = 150
     }
 
     farmers = {
         culture = saayda
         religion = coptic
-        size = 1850
-    }
-}
-#Luxor (68000/17000 POPS)
-1767 = {
-    aristocrats = {
-        culture = saayda
-        religion = sunni
-        size = 1225
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = sunni
-        size = 1125
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 8600
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = sunni
-        size = 5175
-    }
-
-    farmers = {
-        culture = saayda
-        religion = sunni
-        size = 115875
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = coptic
-        size = 50
-    }
-
-    artisans = {
-        culture = saayda
-        religion = coptic
-        size = 250
-    }
-
-    farmers = {
-        culture = saayda
-        religion = coptic
-        size = 4700
-    }
-}
-#Idfu (76000/19000 POPS)
-1768 = {
-    aristocrats = {
-        culture = saayda
-        religion = sunni
-        size = 300
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = sunni
-        size = 175
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 850
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = sunni
-        size = 200
-    }
-
-    farmers = {
-        culture = saayda
-        religion = sunni
-        size = 15475
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = coptic
-        size = 50
-    }
-
-    artisans = {
-        culture = saayda
-        religion = coptic
-        size = 100
-    }
-
-    farmers = {
-        culture = saayda
-        religion = coptic
-        size = 1850
-    }
-}
-#Qina (52000/13000 POPS)
-1769 = {
-    aristocrats = {
-        culture = saayda
-        religion = sunni
-        size = 500
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = sunni
-        size = 300
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 1550
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = sunni
-        size = 1150
-    }
-
-    farmers = {
-        culture = saayda
-        religion = sunni
-        size = 36000
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = coptic
-        size = 50
-    }
-
-    artisans = {
-        culture = saayda
-        religion = coptic
-        size = 100
-    }
-
-    farmers = {
-        culture = saayda
-        religion = coptic
-        size = 1850
+        size = 2775
     }
 }
 #Red Sea Region (44000) #see Sudan.txt for balance of the region
@@ -1596,31 +1596,31 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 50
+        size = 75
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 75
+        size = 112
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 150
+        size = 225
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 25
+        size = 37
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 2700
+        size = 4050
     }
 }
 #Marsa Alam (20000/5000 POPS)
@@ -1628,69 +1628,37 @@
     aristocrats = {
         culture = saayda
         religion = sunni
+        size = 22
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = sunni
+        size = 37
+    }
+
+    artisans = {
+        culture = saayda
+        religion = sunni
+        size = 75
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = sunni
         size = 15
     }
 
-    clergymen = {
-        culture = saayda
-        religion = sunni
-        size = 25
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 50
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = sunni
-        size = 10
-    }
-
     farmers = {
         culture = saayda
         religion = sunni
-        size = 900
+        size = 1350
     }
 
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 50
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = sunni
-        size = 50
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 200
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = sunni
-        size = 50
-    }
-
-    farmers = {
-        culture = saayda
-        religion = sunni
-        size = 3650
-    }
-}
-#Ras Gharib (12000/3000 POPS)
-1772 = {
-    aristocrats = {
-        culture = saayda
-        religion = sunni
-        size = 50
+        size = 75
     }
 
     clergymen = {
@@ -1702,18 +1670,50 @@
     artisans = {
         culture = saayda
         religion = sunni
-        size = 150
+        size = 300
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 25
+        size = 75
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 2700
+        size = 5475
+    }
+}
+#Ras Gharib (12000/3000 POPS)
+1772 = {
+    aristocrats = {
+        culture = saayda
+        religion = sunni
+        size = 75
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = sunni
+        size = 112
+    }
+
+    artisans = {
+        culture = saayda
+        religion = sunni
+        size = 225
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = sunni
+        size = 37
+    }
+
+    farmers = {
+        culture = saayda
+        religion = sunni
+        size = 4050
     }
 }

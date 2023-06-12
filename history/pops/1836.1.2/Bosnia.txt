@@ -7,229 +7,229 @@
     aristocrats = {
         culture = serb
         religion = orthodox
-        size = 195
+        size = 219
     }
 
     bureaucrats = {
         culture = serb
         religion = orthodox
-        size = 82
+        size = 92
     }
 
     officers = {
-        culture = serb
-        religion = orthodox
-        size = 67
-    }
-
-    soldiers = {
-        culture = serb
-        religion = orthodox
-        size = 360
-    }
-
-    clergymen = {
-        culture = serb
-        religion = orthodox
-        size = 30
-    }
-
-    artisans = {
-        culture = serb
-        religion = orthodox
-        size = 1200
-    }
-
-    farmers = {
-        culture = serb
-        religion = orthodox
-        size = 10432
-    }
-
-    aristocrats = {
-        culture = serb
-        religion = orthodox
-        size = 30
-    }
-
-    officers = {
-        culture = serb
-        religion = orthodox
-        size = 30
-    }
-
-    soldiers = {
         culture = serb
         religion = orthodox
         size = 75
     }
 
+    soldiers = {
+        culture = serb
+        religion = orthodox
+        size = 405
+    }
+
     clergymen = {
         culture = serb
         religion = orthodox
-        size = 30
+        size = 33
     }
 
     artisans = {
         culture = serb
         religion = orthodox
-        size = 465
+        size = 1350
     }
 
     farmers = {
         culture = serb
         religion = orthodox
-        size = 2700
+        size = 11736
+    }
+
+    aristocrats = {
+        culture = serb
+        religion = orthodox
+        size = 33
+    }
+
+    officers = {
+        culture = serb
+        religion = orthodox
+        size = 33
+    }
+
+    soldiers = {
+        culture = serb
+        religion = orthodox
+        size = 84
+    }
+
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 33
+    }
+
+    artisans = {
+        culture = serb
+        religion = orthodox
+        size = 523
+    }
+
+    farmers = {
+        culture = serb
+        religion = orthodox
+        size = 3037
     }
 
     aristocrats = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 112
     }
 
     officers = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 112
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 200
+        size = 225
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 112
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 475
+        size = 534
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 3050
+        size = 3431
     }
 
     aristocrats = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 112
     }
 
     officers = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 112
     }
 
     soldiers = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 112
     }
 
     clergymen = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 112
     }
 
     artisans = {
         culture = saayda
         religion = jewish
-        size = 200
+        size = 225
     }
 
     farmers = {
         culture = saayda
         religion = jewish
-        size = 200
+        size = 225
     }
 
     aristocrats = {
         culture = slovene
         religion = orthodox
-        size = 455
+        size = 511
     }
 
     bureaucrats = {
         culture = slovene
         religion = orthodox
-        size = 193
+        size = 217
     }
 
     officers = {
         culture = slovene
         religion = orthodox
-        size = 158
+        size = 177
     }
 
     soldiers = {
         culture = slovene
         religion = orthodox
-        size = 840
+        size = 945
     }
 
     clergymen = {
         culture = slovene
         religion = orthodox
-        size = 70
+        size = 78
     }
 
     artisans = {
         culture = slovene
         religion = orthodox
-        size = 2800
+        size = 3150
     }
 
     farmers = {
         culture = slovene
         religion = orthodox
-        size = 24343
+        size = 27385
     }
 
     aristocrats = {
         culture = slovene
         religion = orthodox
-        size = 70
+        size = 78
     }
 
     officers = {
         culture = slovene
         religion = orthodox
-        size = 70
+        size = 78
     }
 
     soldiers = {
         culture = slovene
         religion = orthodox
-        size = 175
+        size = 196
     }
 
     clergymen = {
         culture = slovene
         religion = orthodox
-        size = 70
+        size = 78
     }
 
     artisans = {
         culture = slovene
         religion = orthodox
-        size = 1085
+        size = 1220
     }
 
     farmers = {
         culture = slovene
         religion = orthodox
-        size = 6300
+        size = 7087
     }
 }
 #Bihac (100000/25000 POPS)
@@ -237,79 +237,79 @@
     aristocrats = {
         culture = slovene
         religion = sunni
-        size = 400
+        size = 450
     }
 
     soldiers = {
         culture = slovene
         religion = sunni
-        size = 100
+        size = 112
     }
 
     clergymen = {
         culture = slovene
         religion = sunni
-        size = 100
+        size = 112
     }
 
     artisans = {
         culture = slovene
         religion = sunni
-        size = 750
+        size = 843
     }
 
     farmers = {
         culture = slovene
         religion = sunni
-        size = 16675
+        size = 18759
     }
 
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 100
+        size = 112
     }
 
     clergymen = {
         culture = serb
         religion = orthodox
-        size = 100
+        size = 112
     }
 
     artisans = {
         culture = serb
         religion = orthodox
-        size = 300
+        size = 337
     }
 
     farmers = {
         culture = serb
         religion = orthodox
-        size = 3525
+        size = 3965
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 112
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 112
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 200
+        size = 225
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 2650
+        size = 2981
     }
 }
 #Banja Luka (116000/29000 POPS)
@@ -317,103 +317,103 @@
     aristocrats = {
         culture = slovene
         religion = sunni
-        size = 500
+        size = 562
     }
 
     soldiers = {
         culture = slovene
         religion = sunni
-        size = 100
+        size = 112
     }
 
     clergymen = {
         culture = slovene
         religion = sunni
-        size = 100
+        size = 112
     }
 
     artisans = {
         culture = slovene
         religion = sunni
-        size = 800
+        size = 900
     }
 
     farmers = {
         culture = slovene
         religion = sunni
-        size = 4500
+        size = 5062
     }
 
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 30
+        size = 33
     }
 
     clergymen = {
         culture = serb
         religion = orthodox
-        size = 30
+        size = 33
     }
 
     artisans = {
         culture = serb
         religion = orthodox
-        size = 150
+        size = 168
     }
 
     farmers = {
         culture = serb
         religion = orthodox
-        size = 5490
+        size = 6176
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 112
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 112
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 150
+        size = 168
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 3675
+        size = 4134
     }
 
     soldiers = {
         culture = slovene
         religion = orthodox
-        size = 70
+        size = 78
     }
 
     clergymen = {
         culture = slovene
         religion = orthodox
-        size = 70
+        size = 78
     }
 
     artisans = {
         culture = slovene
         religion = orthodox
-        size = 350
+        size = 393
     }
 
     farmers = {
         culture = slovene
         religion = orthodox
-        size = 12810
+        size = 14411
     }
 }
 #Tuzla (168000/42000 POPS)
@@ -421,133 +421,133 @@
     aristocrats = {
         culture = serb
         religion = orthodox
-        size = 210
+        size = 236
     }
 
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 30
+        size = 33
     }
 
     clergymen = {
         culture = serb
         religion = orthodox
-        size = 30
+        size = 33
     }
 
     artisans = {
         culture = serb
         religion = orthodox
-        size = 345
+        size = 388
     }
 
     farmers = {
         culture = serb
         religion = orthodox
-        size = 5992
+        size = 6741
     }
 
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 30
+        size = 33
     }
 
     clergymen = {
         culture = serb
         religion = orthodox
-        size = 30
+        size = 33
     }
 
     artisans = {
         culture = serb
         religion = orthodox
-        size = 210
+        size = 236
     }
 
     farmers = {
         culture = serb
         religion = orthodox
-        size = 5737
+        size = 6454
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 112
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 112
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 250
+        size = 281
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 4675
+        size = 5259
     }
 
     aristocrats = {
         culture = slovene
         religion = orthodox
-        size = 490
+        size = 551
     }
 
     soldiers = {
         culture = slovene
         religion = orthodox
-        size = 70
+        size = 78
     }
 
     clergymen = {
         culture = slovene
         religion = orthodox
-        size = 70
+        size = 78
     }
 
     artisans = {
         culture = slovene
         religion = orthodox
-        size = 805
+        size = 905
     }
 
     farmers = {
         culture = slovene
         religion = orthodox
-        size = 13983
+        size = 15730
     }
 
     soldiers = {
         culture = slovene
         religion = orthodox
-        size = 70
+        size = 78
     }
 
     clergymen = {
         culture = slovene
         religion = orthodox
-        size = 70
+        size = 78
     }
 
     artisans = {
         culture = slovene
         religion = orthodox
-        size = 490
+        size = 551
     }
 
     farmers = {
         culture = slovene
         religion = orthodox
-        size = 13388
+        size = 15061
     }
 }
 #Foca (92000/23000 POPS)
@@ -555,55 +555,55 @@
     aristocrats = {
         culture = serb
         religion = catholic
-        size = 400
+        size = 450
     }
 
     soldiers = {
         culture = serb
         religion = catholic
-        size = 100
+        size = 112
     }
 
     clergymen = {
         culture = serb
         religion = catholic
-        size = 100
+        size = 112
     }
 
     artisans = {
         culture = serb
         religion = catholic
-        size = 600
+        size = 675
     }
 
     farmers = {
         culture = serb
         religion = catholic
-        size = 5925
+        size = 6665
     }
 
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 100
+        size = 112
     }
 
     clergymen = {
         culture = serb
         religion = orthodox
-        size = 100
+        size = 112
     }
 
     artisans = {
         culture = serb
         religion = orthodox
-        size = 500
+        size = 562
     }
 
     farmers = {
         culture = serb
         religion = orthodox
-        size = 15300
+        size = 17212
     }
 }
 #Mostar (104000/26000 POPS)
@@ -611,79 +611,79 @@
     aristocrats = {
         culture = serb
         religion = orthodox
-        size = 450
+        size = 506
     }
 
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 100
+        size = 112
     }
 
     clergymen = {
         culture = serb
         religion = orthodox
-        size = 100
+        size = 112
     }
 
     artisans = {
         culture = serb
         religion = orthodox
-        size = 600
+        size = 675
     }
 
     farmers = {
         culture = serb
         religion = orthodox
-        size = 3900
+        size = 4387
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 112
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 112
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 500
+        size = 562
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 14375
+        size = 16171
     }
 
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 100
+        size = 112
     }
 
     clergymen = {
         culture = serb
         religion = orthodox
-        size = 100
+        size = 112
     }
 
     artisans = {
         culture = serb
         religion = orthodox
-        size = 200
+        size = 225
     }
 
     farmers = {
         culture = serb
         religion = orthodox
-        size = 5750
+        size = 6468
     }
 }
 #Livno (136000/34000 POPS)
@@ -691,78 +691,78 @@
     aristocrats = {
         culture = slovene
         religion = sunni
-        size = 350
+        size = 393
     }
 
     soldiers = {
         culture = slovene
         religion = sunni
-        size = 100
+        size = 112
     }
 
     clergymen = {
         culture = slovene
         religion = sunni
-        size = 100
+        size = 112
     }
 
     artisans = {
         culture = slovene
         religion = sunni
-        size = 250
+        size = 281
     }
 
     farmers = {
         culture = slovene
         religion = sunni
-        size = 1200
+        size = 1350
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 112
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 112
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 800
+        size = 900
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 14000
+        size = 15750
     }
 
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 100
+        size = 112
     }
 
     clergymen = {
         culture = serb
         religion = orthodox
-        size = 100
+        size = 112
     }
 
     artisans = {
         culture = serb
         religion = orthodox
-        size = 600
+        size = 675
     }
 
     farmers = {
         culture = serb
         religion = orthodox
-        size = 16300
+        size = 18337
     }
 }

@@ -5,63 +5,62 @@
     aristocrats = {
         culture = vindonian
         religion = catholic
-        size = 750
+        size = 843
     }
 
     bureaucrats = {
         culture = vindonian
         religion = catholic
-        size = 250
+        size = 281
     }
 
     clergymen = {
         culture = vindonian
         religion = catholic
-        size = 100
+        size = 112
     }
 
     artisans = {
         culture = vindonian
         religion = catholic
-        size = 1100
+        size = 1237
     }
 
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 100
+        size = 112
     }
 
     farmers = {
         culture = vindonian
         religion = catholic
-        size = 14650
+        size = 16481
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 450
+        size = 506
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 1600
+        size = 1800
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 450
+        size = 506
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 35000
+        size = 39375
     }
-
 }
 #Carniola Region (460000)
 #under the rule of Austria in 1836
@@ -70,112 +69,110 @@
     aristocrats = {
         culture = slovene
         religion = catholic
-        size = 825
+        size = 928
     }
 
     bureaucrats = {
         culture = slovene
         religion = catholic
-        size = 225
+        size = 253
     }
 
     officers = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 112
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 700
+        size = 787
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 4000
+        size = 4500
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 1100
+        size = 1237
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 36150
+        size = 40668
     }
 
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 3000
+        size = 3375
     }
 
     artisans = {
         culture = vindonian
         religion = catholic
-        size = 4000
+        size = 4500
     }
 
     farmers = {
         culture = vindonian
         religion = catholic
-        size = 20000
+        size = 22500
     }
-
 }
 #Postojna (180000/45000 POPS)
 769 = {
     aristocrats = {
         culture = slovene
         religion = catholic
-        size = 500
+        size = 562
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 425
+        size = 478
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 2100
+        size = 2362
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 425
+        size = 478
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 25075
+        size = 28209
     }
 
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 2500
+        size = 2812
     }
 
     clergymen = {
         culture = vindonian
         religion = catholic
-        size = 100
+        size = 112
     }
 
     farmers = {
         culture = vindonian
         religion = catholic
-        size = 13975
+        size = 15721
     }
-
 }

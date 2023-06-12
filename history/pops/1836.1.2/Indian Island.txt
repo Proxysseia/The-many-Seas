@@ -3,61 +3,61 @@
     bureaucrats = {
         culture = persian
         religion = sikh
-        size = 50
+        size = 32
     }
 
     soldiers = {
         culture = persian
         religion = sikh
-        size = 300
+        size = 195
     }
 
     aristocrats = {
         culture = persian
         religion = sunni
-        size = 1200
+        size = 780
     }
 
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 150
+        size = 97
     }
 
     clergymen = {
         culture = persian
         religion = sunni
-        size = 1200
+        size = 780
     }
 
     artisans = {
         culture = persian
         religion = sunni
-        size = 10000
+        size = 6500
     }
 
     artisans = {
         culture = persian
         religion = sunni
-        size = 4500
+        size = 2925
     }
 
     soldiers = {
         culture = persian
         religion = sunni
-        size = 3000
+        size = 1950
     }
 
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1000
+        size = 650
     }
 
     farmers = {
         culture = persian
         religion = sunni
-        size = 108250
+        size = 70362
     }
 }
 #Chitral (160000/40000 POPS)
@@ -65,33 +65,32 @@
     aristocrats = {
         culture = persian
         religion = sunni
-        size = 500
+        size = 250
     }
 
     clergymen = {
         culture = persian
         religion = sunni
-        size = 500
+        size = 250
     }
 
     artisans = {
         culture = persian
         religion = sunni
-        size = 2000
+        size = 1000
     }
 
     soldiers = {
         culture = persian
         religion = sunni
-        size = 5000
+        size = 2500
     }
 
     farmers = {
         culture = persian
         religion = sunni
-        size = 37000
+        size = 18500
     }
-
 }
 #Under the Rule of Kalat 1836
 #Quetta (124000/31000 POPS)
@@ -99,49 +98,49 @@
     aristocrats = {
         culture = persian
         religion = sunni
-        size = 350
+        size = 227
     }
 
     clergymen = {
         culture = persian
         religion = sunni
-        size = 325
+        size = 211
     }
 
     artisans = {
         culture = persian
         religion = sunni
-        size = 3000
+        size = 1950
     }
 
     soldiers = {
         culture = persian
         religion = sunni
-        size = 3000
+        size = 1950
     }
 
     soldiers = {
         culture = persian
         religion = sunni
-        size = 3000
+        size = 1950
     }
 
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1000
+        size = 650
     }
 
     farmers = {
         culture = persian
         religion = sunni
-        size = 10325
+        size = 6711
     }
 
     farmers = {
         culture = persian
         religion = sunni
-        size = 10000
+        size = 6500
     }
 }
 #Dalbandin (88000/22000 POPS)
@@ -149,31 +148,31 @@
     aristocrats = {
         culture = persian
         religion = sunni
-        size = 250
+        size = 162
     }
 
     clergymen = {
         culture = persian
         religion = sunni
-        size = 250
+        size = 162
     }
 
     artisans = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 715
     }
 
     soldiers = {
         culture = persian
         religion = sunni
-        size = 5000
+        size = 3250
     }
 
     farmers = {
         culture = persian
         religion = sunni
-        size = 15500
+        size = 10075
     }
 }
 #Kalat (104000/26000 POPS)
@@ -181,43 +180,43 @@
     aristocrats = {
         culture = persian
         religion = sunni
-        size = 250
+        size = 162
     }
 
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 250
+        size = 162
     }
 
     officers = {
         culture = persian
         religion = sunni
-        size = 75
+        size = 48
     }
 
     clergymen = {
         culture = persian
         religion = sunni
-        size = 250
+        size = 162
     }
 
     artisans = {
         culture = persian
         religion = sunni
-        size = 1250
+        size = 812
     }
 
     soldiers = {
         culture = persian
         religion = sunni
-        size = 5000
+        size = 3250
     }
 
     farmers = {
         culture = persian
         religion = sunni
-        size = 18925
+        size = 12301
     }
 
     slaves = {
@@ -232,43 +231,43 @@
     aristocrats = {
         culture = persian
         religion = sunni
-        size = 350
+        size = 227
     }
 
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 50
+        size = 32
     }
 
     officers = {
         culture = persian
         religion = sunni
-        size = 25
+        size = 16
     }
 
     clergymen = {
         culture = persian
         religion = sunni
-        size = 300
+        size = 195
     }
 
     artisans = {
         culture = persian
         religion = sunni
-        size = 1500
+        size = 975
     }
 
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 715
     }
 
     farmers = {
         culture = persian
         religion = sunni
-        size = 25800
+        size = 16770
     }
 
     slaves = {
@@ -394,85 +393,85 @@
     aristocrats = {
         culture = persian
         religion = sunni
-        size = 50
+        size = 25
     }
 
     clergymen = {
         culture = persian
         religion = sunni
-        size = 50
+        size = 25
     }
 
     soldiers = {
         culture = persian
         religion = sunni
-        size = 50
+        size = 25
     }
 
     farmers = {
         culture = persian
         religion = sunni
-        size = 4600
+        size = 2300
     }
 
     aristocrats = {
         culture = kazak
         religion = sunni
-        size = 450
-    }
-
-    clergymen = {
-        culture = kazak
-        religion = sunni
-        size = 425
-    }
-
-    artisans = {
-        culture = kazak
-        religion = sunni
-        size = 2000
-    }
-
-    soldiers = {
-        culture = kazak
-        religion = sunni
-        size = 400
-    }
-
-    farmers = {
-        culture = kazak
-        religion = sunni
-        size = 36725
-    }
-
-    aristocrats = {
-        culture = tibetan
-        religion = mahayana
-        size = 200
-    }
-
-    clergymen = {
-        culture = tibetan
-        religion = mahayana
         size = 225
     }
 
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 212
+    }
+
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 1000
+    }
+
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 200
+    }
+
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 18362
+    }
+
+    aristocrats = {
+        culture = tibetan
+        religion = mahayana
+        size = 100
+    }
+
+    clergymen = {
+        culture = tibetan
+        religion = mahayana
+        size = 112
+    }
+
     artisans = {
         culture = tibetan
         religion = mahayana
-        size = 800
+        size = 400
     }
 
     soldiers = {
         culture = tibetan
         religion = mahayana
-        size = 200
+        size = 100
     }
 
     farmers = {
         culture = tibetan
         religion = mahayana
-        size = 19575
+        size = 9787
     }
 }
 #Leh (196000/49000 POPS)
@@ -480,57 +479,56 @@
     aristocrats = {
         culture = kazak
         religion = sunni
-        size = 75
+        size = 37
     }
 
     clergymen = {
         culture = kazak
         religion = sunni
-        size = 75
+        size = 37
     }
 
     soldiers = {
         culture = kazak
         religion = sunni
-        size = 75
+        size = 37
     }
 
     farmers = {
         culture = kazak
         religion = sunni
-        size = 6425
+        size = 3212
     }
 
     aristocrats = {
         culture = kazak
         religion = mahayana
-        size = 400
+        size = 200
     }
 
     clergymen = {
         culture = kazak
         religion = mahayana
-        size = 425
+        size = 212
     }
 
     artisans = {
         culture = kazak
         religion = mahayana
-        size = 2100
+        size = 1050
     }
 
     soldiers = {
         culture = kazak
         religion = mahayana
-        size = 400
+        size = 200
     }
 
     farmers = {
         culture = kazak
         religion = mahayana
-        size = 38675
+        size = 19337
     }
-
 }
 #United Provinces Region - 25884000
 #Ruled by Britain in 1836 (21064000)
@@ -705,7 +703,6 @@
         religion = sunni
         size = 38500
     }
-
 }
 #Benares (2512000/628000 POPS)
 1245 = {
@@ -1016,31 +1013,31 @@
 
     aristocrats = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 550
     }
 
     officers = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 400
     }
 
     clergymen = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 50
     }
 
     bureaucrats = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 500
     }
 
     soldiers = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 2000
     }
 }
@@ -1157,7 +1154,6 @@
         religion = animist
         size = 3400
     }
-
 }
 #Assam Region : 2676000
 #under rule of Britain 1836
@@ -1352,7 +1348,6 @@
         religion = sunni
         size = 51125
     }
-
 }
 #Keunjahr (436000/109000 POPS)
 1262 = {
@@ -1501,6 +1496,7 @@
         religion = animist
         size = 250
     }
+
     farmers = {
         culture = marathi
         religion = animist
@@ -1512,7 +1508,6 @@
         religion = animist
         size = 10000
     }
-
 }
 #Rajputana Region (4616000)
 #Under rule of Britain 1836 (200000)
@@ -1521,73 +1516,73 @@
     aristocrats = {
         culture = persian
         religion = hindu
-        size = 500
+        size = 325
     }
 
     clergymen = {
         culture = persian
         religion = hindu
-        size = 500
+        size = 325
     }
 
     bureaucrats = {
         culture = persian
         religion = hindu
-        size = 50
+        size = 32
     }
 
     artisans = {
         culture = persian
         religion = hindu
-        size = 8000
+        size = 5200
     }
 
     soldiers = {
         culture = persian
         religion = hindu
-        size = 500
+        size = 325
     }
 
     farmers = {
         culture = persian
         religion = hindu
-        size = 29450
+        size = 19142
     }
 
     aristocrats = {
         culture = persian
         religion = sunni
-        size = 250
+        size = 162
     }
 
     clergymen = {
         culture = persian
         religion = sunni
-        size = 125
+        size = 81
     }
 
     artisans = {
         culture = persian
         religion = sunni
-        size = 2000
+        size = 1300
     }
 
     soldiers = {
         culture = persian
         religion = sunni
-        size = 300
+        size = 195
     }
 
     farmers = {
         culture = persian
         religion = sunni
-        size = 8325
+        size = 5411
     }
 
     bureaucrats = {
         culture = persian
-        religion = sydnic
-        size = 10
+        religion = protestant
+        size = 6
     }
 }
 #Under rule of Mewar 1836
@@ -1676,7 +1671,6 @@
         religion = hindu
         size = 50000
     }
-
 }
 #Central Provinces Region (8044000)
 #Under rule of Gwalior 1836
@@ -2094,7 +2088,6 @@
         religion = animist
         size = 54000
     }
-
 }
 #under British rule 1836 (3620000)
 #Jubbulpore (3024000/756000 POPS)
@@ -2179,7 +2172,7 @@
 
     bureaucrats = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 25
     }
 }
@@ -2723,7 +2716,6 @@
         religion = animist
         size = 30000
     }
-
 }
 #Hyderabad Region (6396000)
 #Under the Rule of Hyderabad 1836
@@ -3150,7 +3142,6 @@
         religion = hindu
         size = 100000
     }
-
 }
 #Sind Region (1864000)
 #Under rule of Sind in 1836
@@ -3159,103 +3150,103 @@
     aristocrats = {
         culture = persian
         religion = sunni
-        size = 1900
+        size = 1235
     }
 
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 800
+        size = 520
     }
 
     officers = {
         culture = persian
         religion = sunni
-        size = 300
+        size = 195
     }
 
     clergymen = {
         culture = persian
         religion = sunni
-        size = 1875
+        size = 1218
     }
 
     artisans = {
         culture = persian
         religion = sunni
-        size = 9000
+        size = 5850
     }
 
     soldiers = {
         culture = persian
         religion = sunni
-        size = 3000
+        size = 1950
     }
 
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1000
+        size = 650
     }
 
     farmers = {
         culture = persian
         religion = sunni
-        size = 164125
+        size = 106681
     }
 
     aristocrats = {
         culture = persian
         religion = shiite
-        size = 50
+        size = 32
     }
 
     clergymen = {
         culture = persian
         religion = shiite
-        size = 50
+        size = 32
     }
 
     artisans = {
         culture = persian
         religion = shiite
-        size = 300
+        size = 195
     }
 
     soldiers = {
         culture = persian
         religion = shiite
-        size = 50
+        size = 32
     }
 
     farmers = {
         culture = persian
         religion = shiite
-        size = 5650
+        size = 3672
     }
 
     aristocrats = {
         culture = persian
         religion = hindu
-        size = 350
+        size = 227
     }
 
     clergymen = {
         culture = persian
         religion = hindu
-        size = 375
+        size = 243
     }
 
     artisans = {
         culture = persian
         religion = hindu
-        size = 2000
+        size = 1300
     }
 
     farmers = {
         culture = persian
         religion = hindu
-        size = 40000
+        size = 26000
     }
 }
 #Sukkur (348000/87000 POPS)
@@ -3263,61 +3254,61 @@
     aristocrats = {
         culture = persian
         religion = sunni
-        size = 850
+        size = 552
     }
 
     clergymen = {
         culture = persian
         religion = sunni
-        size = 850
+        size = 552
     }
 
     artisans = {
         culture = persian
         religion = sunni
-        size = 4000
+        size = 2600
     }
 
     soldiers = {
         culture = persian
         religion = sunni
-        size = 3000
+        size = 1950
     }
 
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1000
+        size = 650
     }
 
     farmers = {
         culture = persian
         religion = sunni
-        size = 73300
+        size = 47645
     }
 
     aristocrats = {
         culture = persian
         religion = hindu
-        size = 25
+        size = 16
     }
 
     clergymen = {
         culture = persian
         religion = hindu
-        size = 75
+        size = 48
     }
 
     artisans = {
         culture = persian
         religion = hindu
-        size = 200
+        size = 130
     }
 
     farmers = {
         culture = persian
         religion = hindu
-        size = 3700
+        size = 2405
     }
 }
 #Gujarat (7812000)
@@ -3422,7 +3413,7 @@
 
     bureaucrats = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 10
     }
 }
@@ -3603,81 +3594,80 @@
     aristocrats = {
         culture = persian
         religion = hindu
-        size = 725
+        size = 471
     }
 
     bureaucrats = {
         culture = persian
         religion = hindu
-        size = 75
+        size = 48
     }
 
     clergymen = {
         culture = persian
         religion = hindu
-        size = 700
+        size = 455
     }
 
     artisans = {
         culture = persian
         religion = hindu
-        size = 2500
+        size = 1625
     }
 
     soldiers = {
         culture = persian
         religion = hindu
-        size = 3000
+        size = 1950
     }
 
     soldiers = {
         culture = persian
         religion = hindu
-        size = 3000
+        size = 1950
     }
 
     soldiers = {
         culture = persian
         religion = hindu
-        size = 1000
+        size = 650
     }
 
     farmers = {
         culture = persian
         religion = hindu
-        size = 54050
+        size = 35132
     }
 
     aristocrats = {
         culture = persian
         religion = sunni
-        size = 75
+        size = 48
     }
 
     clergymen = {
         culture = persian
         religion = sunni
-        size = 70
+        size = 45
     }
 
     artisans = {
         culture = persian
         religion = sunni
-        size = 1100
+        size = 715
     }
 
     soldiers = {
         culture = persian
         religion = sunni
-        size = 75
+        size = 48
     }
 
     farmers = {
         culture = persian
         religion = sunni
-        size = 10780
+        size = 7007
     }
-
 }
 #Bombay Presidency Region : 7848000
 #under rule of Britain 1836
@@ -3841,31 +3831,31 @@
 
     aristocrats = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 1125
     }
 
     bureaucrats = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 250
     }
 
     officers = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 500
     }
 
     clergymen = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 125
     }
 
     soldiers = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 3000
     }
 }
@@ -4220,7 +4210,6 @@
         religion = sunni
         size = 19450
     }
-
 }
 #Ruled by Portugal in 1836
 #1303 - Goa (235000/58750 POPS)
@@ -4320,7 +4309,6 @@
         religion = hindu
         size = 5000
     }
-
 }
 #North Circars Region - 5308000
 #under rule of Britain 1836
@@ -4388,7 +4376,7 @@
 
     bureaucrats = {
         culture = australian
-        religion = sydnic
+        religion = protestant
         size = 75
     }
 }
@@ -4595,7 +4583,6 @@
         religion = sunni
         size = 22225
     }
-
 }
 #Mysore Region (3140000)
 #Ruled by Mysore 1836 (2004000)
@@ -4832,7 +4819,6 @@
         religion = hindu
         size = 20000
     }
-
 }
 #Ruled by Britain 1836 (1136000)
 #Mangalore (1136000/284000 POPS)
@@ -4980,7 +4966,6 @@
         religion = teknic
         size = 134000
     }
-
 }
 #Calicut (1372000/343000 POPS)
 1317 = {
@@ -5240,11 +5225,9 @@
         religion = teknic
         size = 214000
     }
-
 }
 #Pondicherry (132000/33000 POPS)
 1312 = {
-
     aristocrats = {
         culture = kannada
         religion = teknic
@@ -5280,11 +5263,9 @@
         religion = teknic
         size = 45000
     }
-
 }
 #Tranquebar (Quezar Empire)
 2591 = {
-    
     bureaucrats = {
         culture = filipino
         religion = catholic
@@ -5461,5 +5442,4 @@
         religion = teknic
         size = 89825
     }
-
 }

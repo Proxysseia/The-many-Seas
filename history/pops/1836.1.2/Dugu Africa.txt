@@ -3,49 +3,49 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 390
+        size = 175
     }
 
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 10
+        size = 4
     }
 
     officers = {
         culture = bambara
         religion = animist
-        size = 5
+        size = 2
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 200
+        size = 90
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 850
+        size = 382
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 220
+        size = 99
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 13325
+        size = 5996
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 6000
+        size = 2700
     }
 }
 #Maghama
@@ -53,37 +53,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 75
+        size = 33
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 275
+        size = 123
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 75
+        size = 33
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 3475
+        size = 1563
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 3000
+        size = 1350
     }
 }
 #Dakar
@@ -91,37 +91,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     officers = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 17800
+        size = 8010
     }
 }
 #Saint-Louis
@@ -129,31 +129,31 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 50
+        size = 22
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 150
+        size = 67
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 15700
+        size = 7065
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 1100
+        size = 495
     }
 }
 #Banjul
@@ -161,37 +161,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     officers = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 500
+        size = 225
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 200
+        size = 90
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 26500
+        size = 11925
     }
 }
 #Linguere
@@ -199,31 +199,31 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 550
+        size = 247
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 225
+        size = 101
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1075
+        size = 483
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 750
+        size = 337
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 42500
+        size = 19125
     }
 }
 #Diourbel
@@ -231,37 +231,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 400
+        size = 180
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 200
+        size = 90
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 900
+        size = 405
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 250
+        size = 112
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 16250
+        size = 7312
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 4000
+        size = 1800
     }
 }
 #Kaolack
@@ -269,37 +269,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 500
+        size = 225
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 2000
+        size = 900
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 39000
+        size = 17550
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 8000
+        size = 3600
     }
 }
 #Podor
@@ -307,43 +307,43 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 1650
+        size = 742
     }
 
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 75
+        size = 33
     }
 
     officers = {
         culture = bambara
         religion = animist
-        size = 150
+        size = 67
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 900
+        size = 405
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 3525
+        size = 1586
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 1700
+        size = 765
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 68000
+        size = 30600
     }
 }
 #Matam
@@ -351,37 +351,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 975
+        size = 438
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 525
+        size = 236
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 2175
+        size = 978
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 1325
+        size = 596
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 34000
+        size = 15300
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 15000
+        size = 6750
     }
 }
 #Bakel
@@ -389,31 +389,31 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 575
+        size = 258
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 300
+        size = 135
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1175
+        size = 528
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 300
+        size = 135
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 48650
+        size = 21892
     }
 }
 #Ziguinchour
@@ -421,31 +421,31 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 1150
+        size = 517
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 500
+        size = 225
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 1100
+        size = 495
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 70625
+        size = 31781
     }
 }
 #Velingara
@@ -453,37 +453,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 500
+        size = 225
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 250
+        size = 112
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1050
+        size = 472
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 275
+        size = 123
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 19925
+        size = 8966
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 4000
+        size = 1800
     }
 }
 #Bamako
@@ -491,43 +491,43 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 850
+        size = 382
     }
 
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 200
+        size = 90
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 450
+        size = 202
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1900
+        size = 855
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 1300
+        size = 585
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 60300
+        size = 27135
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 12000
+        size = 5400
     }
 }
 #Kayes
@@ -535,31 +535,31 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 150
+        size = 67
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 250
+        size = 112
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 50
+        size = 22
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 51450
+        size = 23152
     }
 }
 #Nioro
@@ -567,31 +567,31 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 450
+        size = 202
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 250
+        size = 112
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1050
+        size = 472
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 250
+        size = 112
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 36000
+        size = 16200
     }
 }
 #Kita
@@ -599,37 +599,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 400
+        size = 180
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 200
+        size = 90
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 900
+        size = 405
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 1250
+        size = 562
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 23250
+        size = 10462
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 12000
+        size = 5400
     }
 }
 #Bourgouni
@@ -637,37 +637,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 1100
+        size = 495
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 500
+        size = 225
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 2100
+        size = 945
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 550
+        size = 247
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 67850
+        size = 30532
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 6000
+        size = 2700
     }
 }
 #Sikasso
@@ -675,31 +675,31 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 650
+        size = 292
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 350
+        size = 157
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1450
+        size = 652
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 350
+        size = 157
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 75200
+        size = 33840
     }
 }
 #Segu
@@ -707,43 +707,43 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 1850
+        size = 832
     }
 
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 750
+        size = 337
     }
 
     officers = {
         culture = bambara
         religion = animist
-        size = 200
+        size = 90
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 1950
+        size = 877
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 4400
+        size = 1980
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 7150
+        size = 3217
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 100800
+        size = 45360
     }
 }
 #Mourdiah
@@ -751,31 +751,31 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 200
+        size = 90
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 500
+        size = 225
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 35100
+        size = 15795
     }
 }
 #Gabu
@@ -783,37 +783,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 500
+        size = 225
     }
 
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1000
+        size = 450
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 1100
+        size = 495
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 20768
+        size = 9345
     }
 }
 #Boffa
@@ -821,37 +821,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 900
+        size = 405
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 500
+        size = 225
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1900
+        size = 855
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 700
+        size = 315
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 60000
+        size = 27000
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 6000
+        size = 2700
     }
 }
 #Timbo
@@ -859,49 +859,49 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 1750
+        size = 787
     }
 
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 375
+        size = 168
     }
 
     officers = {
         culture = bambara
         religion = animist
-        size = 75
+        size = 33
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 375
+        size = 168
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1575
+        size = 708
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 1150
+        size = 517
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 96400
+        size = 43380
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 6000
+        size = 2700
     }
 }
 #Dinguiraye
@@ -909,37 +909,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 565
+        size = 254
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 300
+        size = 135
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1300
+        size = 585
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 1000
+        size = 450
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 58000
+        size = 26100
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 12000
+        size = 5400
     }
 }
 #Kankan
@@ -947,37 +947,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 700
+        size = 315
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 400
+        size = 180
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 2000
+        size = 900
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 1025
+        size = 461
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 56000
+        size = 25200
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 4500
+        size = 2025
     }
 }
 #Beyla
@@ -985,37 +985,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 800
+        size = 360
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 400
+        size = 180
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1650
+        size = 742
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 1250
+        size = 562
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 36000
+        size = 16200
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 5000
+        size = 2250
     }
 }
 #Freetown
@@ -1023,43 +1023,43 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 675
+        size = 303
     }
 
     officers = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1650
+        size = 742
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 350
+        size = 157
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 83000
+        size = 37350
     }
-	
-	slaves = {
+
+    slaves = {
         culture = bambara
         religion = animist
-        size = 12000
+        size = 5400
     }
 }
 #Falaba
@@ -1067,37 +1067,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 925
+        size = 416
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1900
+        size = 855
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 475
+        size = 213
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 72600
+        size = 32670
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 18000
+        size = 8100
     }
 }
 #Bo
@@ -1105,37 +1105,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 900
+        size = 405
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1875
+        size = 843
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 475
+        size = 213
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 72000
+        size = 32400
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 17000
+        size = 7650
     }
 }
 #Monrovia
@@ -1143,31 +1143,31 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 875
+        size = 393
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 450
+        size = 202
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 2350
+        size = 1057
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 450
+        size = 202
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 52000
+        size = 23400
     }
 }
 #Harper (204000/51000 POPS)
@@ -1175,31 +1175,31 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 750
+        size = 337
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 375
+        size = 168
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1900
+        size = 855
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 375
+        size = 168
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 54600
+        size = 24570
     }
 }
 #Bopulu
@@ -1207,31 +1207,31 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 475
+        size = 213
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 250
+        size = 112
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1250
+        size = 562
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 1250
+        size = 562
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 70000
+        size = 31500
     }
 }
 #Gbarnga
@@ -1239,31 +1239,31 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 200
+        size = 90
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 550
+        size = 247
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 1250
+        size = 562
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 80000
+        size = 36000
     }
 }
 #Zwedru
@@ -1271,31 +1271,31 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 425
+        size = 191
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 250
+        size = 112
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1150
+        size = 517
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 1250
+        size = 562
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 380000
+        size = 171000
     }
 }
 #Grand Lahou
@@ -1303,37 +1303,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 500
+        size = 225
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 275
+        size = 123
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1075
+        size = 483
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 275
+        size = 123
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 19875
+        size = 8943
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 5000
+        size = 2250
     }
 }
 #Sassandra
@@ -1341,37 +1341,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 220
+        size = 99
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 120
+        size = 54
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 500
+        size = 225
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 500
+        size = 225
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 31000
+        size = 13950
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 13000
+        size = 5850
     }
 }
 #Grand Bassam
@@ -1379,37 +1379,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 425
+        size = 191
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 225
+        size = 101
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1100
+        size = 495
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 225
+        size = 101
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 16025
+        size = 7211
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 4000
+        size = 1800
     }
 }
 #Bouake
@@ -1417,37 +1417,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 250
+        size = 112
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 250
+        size = 112
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 600
+        size = 270
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 400
+        size = 180
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 12000
+        size = 5400
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 2000
+        size = 900
     }
 }
 #Man
@@ -1455,37 +1455,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 150
+        size = 67
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 200
+        size = 90
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 400
+        size = 180
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 750
+        size = 337
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 21300
+        size = 9585
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 5000
+        size = 2250
     }
 }
 #Akoupe
@@ -1493,88 +1493,87 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 425
+        size = 191
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 225
+        size = 101
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 950
+        size = 427
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 250
+        size = 112
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 18150
+        size = 8167
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 3000
+        size = 1350
     }
 }
-
 #Kong
 1898 = {
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 600
+        size = 270
     }
 
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 345
+        size = 155
     }
 
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 125
+        size = 56
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 300
+        size = 135
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1500
+        size = 675
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 300
+        size = 135
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 60000
+        size = 27000
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 9000
+        size = 4050
     }
 }
 #Bundoukou
@@ -1582,37 +1581,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 375
+        size = 168
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 250
+        size = 112
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1050
+        size = 472
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 500
+        size = 225
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 45000
+        size = 20250
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 6000
+        size = 2700
     }
 }
 #Odienne
@@ -1620,37 +1619,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 900
+        size = 405
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 450
+        size = 202
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1950
+        size = 877
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 1200
+        size = 540
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 44500
+        size = 20025
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 12000
+        size = 5400
     }
 }
 #Wagadugu
@@ -1658,49 +1657,49 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 2200
+        size = 990
     }
 
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 400
+        size = 180
     }
 
     officers = {
         culture = bambara
         religion = animist
-        size = 200
+        size = 90
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 1125
+        size = 506
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 5500
+        size = 2475
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 2150
+        size = 967
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 66825
+        size = 30071
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 32000
+        size = 14400
     }
 }
 #Bobo Dioulasso
@@ -1708,43 +1707,43 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 50
+        size = 22
     }
 
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 25
+        size = 11
     }
 
     officers = {
         culture = bambara
         religion = animist
-        size = 50
+        size = 22
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 75
+        size = 33
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 125
+        size = 56
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 125
+        size = 56
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 33650
+        size = 15142
     }
 }
 #Orodaro
@@ -1752,37 +1751,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 150
+        size = 67
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 350
+        size = 157
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 2100
+        size = 945
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 60300
+        size = 27135
     }
-	
-	slaves = {
+
+    slaves = {
         culture = bambara
         religion = animist
-        size = 21000
+        size = 9450
     }
 }
 #Accra
@@ -1790,25 +1789,19 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 650
+        size = 292
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 325
+        size = 146
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1325
-    }
-
-    soldiers = {
-        culture = bambara
-        religion = animist
-        size = 3000
+        size = 596
     }
 
     soldiers = {
@@ -1817,16 +1810,22 @@
         size = 1350
     }
 
+    soldiers = {
+        culture = bambara
+        religion = animist
+        size = 607
+    }
+
     farmers = {
         culture = bambara
         religion = animist
-        size = 20350
+        size = 9157
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 6000
+        size = 2700
     }
 }
 #Cape Coast
@@ -1834,37 +1833,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 225
+        size = 101
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 125
+        size = 56
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 600
+        size = 270
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 125
+        size = 56
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 8925
+        size = 4016
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 2000
+        size = 900
     }
 }
 #Sekondi
@@ -1872,55 +1871,55 @@
     aristocrats = {
         culture = bambara
         religion = protestant
-        size = 50
+        size = 22
     }
 
     bureaucrats = {
         culture = bambara
         religion = protestant
-        size = 20
+        size = 9
     }
 
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 425
+        size = 191
     }
 
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 100
+        size = 45
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 225
+        size = 101
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1100
+        size = 495
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 225
+        size = 101
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 16025
+        size = 7211
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 4000
+        size = 1800
     }
 }
 #Kumasi
@@ -1928,61 +1927,61 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 5250
+        size = 2362
     }
 
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 265
+        size = 119
     }
 
     officers = {
         culture = bambara
         religion = animist
-        size = 555
+        size = 249
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 2715
+        size = 1221
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 10000
+        size = 4500
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 940
+        size = 423
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 3000
+        size = 1350
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 1000
+        size = 450
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 214775
+        size = 96648
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 38500
+        size = 17325
     }
 }
 #Kintampo
@@ -1990,37 +1989,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 2540
+        size = 1143
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 1310
+        size = 589
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 5250
+        size = 2362
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 2000
+        size = 900
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 94400
+        size = 42480
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 24500
+        size = 11025
     }
 }
 #Wa
@@ -2028,37 +2027,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 950
+        size = 427
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 525
+        size = 236
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 2100
+        size = 945
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 2000
+        size = 900
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 74400
+        size = 33480
     }
-	
+
     slaves = {
         culture = bambara
         religion = animist
-        size = 11500
+        size = 5175
     }
 }
 #Tamale
@@ -2066,37 +2065,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 350
+        size = 157
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 175
+        size = 78
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1050
+        size = 472
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 760
+        size = 342
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 58200
+        size = 26190
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 3500
+        size = 1575
     }
 }
 #Lome
@@ -2104,75 +2103,75 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 775
+        size = 348
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 400
+        size = 180
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1575
+        size = 708
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 400
+        size = 180
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 41000
+        size = 18450
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 9000
+        size = 4050
     }
 }
-#Ho 
+#Ho
 1915 = {
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 790
+        size = 355
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 440
+        size = 198
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1750
+        size = 787
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 440
+        size = 198
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 71600
+        size = 32220
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 17000
+        size = 7650
     }
 }
 #Yendi
@@ -2180,37 +2179,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 440
+        size = 198
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 265
+        size = 119
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 1315
+        size = 591
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 840
+        size = 378
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 22140
+        size = 9963
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 7000
+        size = 3150
     }
 }
 #Atakpane
@@ -2218,37 +2217,37 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 250
+        size = 112
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 150
+        size = 67
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 700
+        size = 315
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 150
+        size = 67
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 20000
+        size = 9000
     }
 
     slaves = {
         culture = bambara
         religion = animist
-        size = 9000
+        size = 4050
     }
 }
 #Sokode
@@ -2256,30 +2255,30 @@
     aristocrats = {
         culture = bambara
         religion = animist
-        size = 50
+        size = 22
     }
 
     clergymen = {
         culture = bambara
         religion = animist
-        size = 50
+        size = 22
     }
 
     artisans = {
         culture = bambara
         religion = animist
-        size = 200
+        size = 90
     }
 
     soldiers = {
         culture = bambara
         religion = animist
-        size = 50
+        size = 22
     }
 
     farmers = {
         culture = bambara
         religion = animist
-        size = 5650
+        size = 2542
     }
 }

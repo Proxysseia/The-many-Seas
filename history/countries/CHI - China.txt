@@ -44,6 +44,19 @@ upper_house = {
 }
 
 # Technologies
+flintlock_rifles = 1
+army_command_principle = 1
+enlightenment_thought = 1
+introspectionism = 1
+private_banks = 1
+stock_exchange = 1
+no_standard = 1
+freedom_of_trade = 1
+guild_based_production = 1
+mechanical_production = 1
+mechanized_mining = 1
+basic_chemistry = 1
+piston_steam_engine = 1
 
 # Inventions
 #bottling_process = yes

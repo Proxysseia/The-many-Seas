@@ -62,8 +62,8 @@
         religion = protestant
         size = 15025
     }
-	
-	farmers = {
+
+    farmers = {
         culture = tswana
         religion = protestant
         size = 51025
@@ -76,7 +76,7 @@
         religion = catholic
         size = 250
     }
-	
+
     clergymen = {
         culture = french
         religion = catholic
@@ -103,7 +103,6 @@
 }
 #Beaufort
 2092 = {
-
     aristocrats = {
         culture = french
         religion = catholic
@@ -140,7 +139,6 @@
         size = 7450
     }
 }
-
 ## UNS
 #Eureka
 85 = {
@@ -167,7 +165,7 @@
         religion = protestant
         size = 37000
     }
-	
+
     farmers = {
         culture = tswana
         religion = protestant
@@ -181,6 +179,7 @@
         religion = protestant
         size = 250
     }
+
     clergymen = {
         culture = scottish
         religion = protestant
@@ -198,14 +197,13 @@
         religion = protestant
         size = 5825
     }
-	
-	    farmers = {
+
+    farmers = {
         culture = tswana
         religion = protestant
         size = 10825
     }
 }
-
 ## Lavland
 #Quebec City
 65 = {
@@ -329,32 +327,31 @@
         size = 17500
     }
 }
-
 ## Latvia
 #Portland
 81 = {
     aristocrats = {
         culture = latvian
         religion = protestant
-        size = 2500
+        size = 1750
     }
 
     clergymen = {
         culture = latvian
         religion = protestant
-        size = 250
+        size = 175
     }
 
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 250
+        size = 175
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 9700
+        size = 6790
     }
 
     farmers = {
@@ -368,25 +365,25 @@
     aristocrats = {
         culture = latvian
         religion = protestant
-        size = 2500
+        size = 1750
     }
-	
+
     artisans = {
         culture = latvian
         religion = protestant
-        size = 3050
+        size = 2135
     }
 
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 3000
+        size = 2100
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 10000
+        size = 7000
     }
 
     farmers = {
@@ -400,84 +397,83 @@
     aristocrats = {
         culture = latvian
         religion = protestant
-        size = 750
+        size = 525
     }
+
     clergymen = {
         culture = latvian
         religion = protestant
-        size = 100
+        size = 70
     }
 
     artisans = {
         culture = latvian
         religion = protestant
-        size = 100
+        size = 70
     }
 
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 100
+        size = 70
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 2500
+        size = 1750
     }
-	
-	farmers = {
+
+    farmers = {
         culture = tswana
         religion = protestant
         size = 4550
     }
 }
-
 #Nukutavake
 3321 = {
     aristocrats = {
         culture = latvian
         religion = protestant
-        size = 50
+        size = 35
     }
 
     clergymen = {
         culture = latvian
         religion = protestant
-        size = 50
+        size = 35
     }
 
     artisans = {
         culture = latvian
         religion = protestant
-        size = 100
+        size = 70
     }
 
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 100
+        size = 70
     }
-	
-	soldiers = {
+
+    soldiers = {
         culture = latvian
         religion = catholic
-        size = 1000
+        size = 700
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 3220
+        size = 2254
     }
-	
-	farmers = {
+
+    farmers = {
         culture = tswana
         religion = catholic
         size = 7000
     }
 }
-
 ##Sweden
 #Halifax
 71 = {
@@ -536,8 +532,8 @@
         religion = protestant
         size = 26500
     }
-	
-	farmers = {
+
+    farmers = {
         culture = tswana
         religion = protestant
         size = 46500
@@ -550,7 +546,7 @@
         religion = protestant
         size = 25
     }
-	
+
     artisans = {
         culture = swedish
         religion = protestant
@@ -607,35 +603,33 @@
         size = 30650
     }
 }
-
-
 ## England
 #Columbia
 206 = {
     aristocrats = {
         culture = australian
         religion = protestant
-        size = 1100
+        size = 825
     }
 
     artisans = {
         culture = australian
         religion = protestant
-        size = 2400
+        size = 1800
     }
 
     soldiers = {
         culture = australian
         religion = protestant
-        size = 4000
+        size = 3000
     }
 
     farmers = {
         culture = australian
         religion = protestant
-        size = 64575
+        size = 48431
     }
-	
+
     farmers = {
         culture = tswana
         religion = protestant

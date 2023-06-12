@@ -13,18 +13,20 @@ country_event = {
 	
 	option = {
 		name = ">:3"
-		effect = {
 			prestige = 2
-			YEN = { any_owned_state = { add_core =  URA } }
-			YEN = { any_owned_state = { remove_core = YEN } }
-		}
+			YEN = {
+              any_owned = {
+                            add_core = URA
+                            remove_core = YEN
+			}
+        }
 	}
 }
 
 country_event = {
 	id = 198721
-	title = "Erasure of Zaysan"
-	desc = "We will burn their institutions to the ground and raise the flag of the Tsar in their place."
+	title = "Die, Zaysan"
+	desc = "get annexed, goober"
 	fire_only_once = yes
 	
 	trigger = {
@@ -35,11 +37,13 @@ country_event = {
 	}
 	
 	option = {
-		name = "For the Tsar!"
-		effect = {
+		name = "munch"
 			prestige = 2
-			ZAY = { any_owned_state = { add_core =  URA } }
-			ZAY = { any_owned_state = { remove_core = ZAY } }
-		}
+			ZAY = {
+              any_owned = {
+                            add_core = URA
+                            remove_core = ZAY
+			}
+        }	
 	}
 }

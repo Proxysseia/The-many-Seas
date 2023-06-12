@@ -149,31 +149,31 @@
     aristocrats = {
         culture = saayda
         religion = shiite
-        size = 100
+        size = 150
     }
 
     clergymen = {
         culture = saayda
         religion = orthodox
-        size = 1000
+        size = 1500
     }
 
     artisans = {
         culture = saayda
         religion = orthodox
-        size = 2500
+        size = 3750
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 1000
+        size = 1500
     }
 
     farmers = {
         culture = saayda
         religion = shiite
-        size = 16000
+        size = 24000
     }
 }
 #Samarra
@@ -275,31 +275,31 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 300
+        size = 450
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 400
+        size = 600
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 4000
+        size = 6000
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 2000
+        size = 3000
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 35000
+        size = 52500
     }
 }
 #Kut (100000/25000 POPS)
@@ -307,31 +307,31 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 300
+        size = 450
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 400
+        size = 600
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 2000
+        size = 3000
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 2000
+        size = 3000
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 24000
+        size = 36000
     }
 }
 #Rutbah
@@ -339,31 +339,31 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 100
+        size = 150
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 100
+        size = 150
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 200
+        size = 300
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 100
+        size = 150
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 2000
+        size = 3000
     }
 }
 #Basra
@@ -371,37 +371,37 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 300
+        size = 450
     }
 
     bureaucrats = {
         culture = saayda
         religion = sunni
-        size = 200
+        size = 300
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 500
+        size = 750
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 1500
+        size = 2250
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 2000
+        size = 3000
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 35000
+        size = 52500
     }
 }
 #Nasiriyya (152000/38000 POPS)
@@ -409,31 +409,31 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 500
+        size = 750
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 500
+        size = 750
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 2000
+        size = 3000
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 2000
+        size = 3000
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 30000
+        size = 45000
     }
 }
 #Najaf
@@ -441,30 +441,30 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 400
+        size = 600
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 300
+        size = 450
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 300
+        size = 450
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 500
+        size = 750
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 10000
+        size = 15000
     }
 }

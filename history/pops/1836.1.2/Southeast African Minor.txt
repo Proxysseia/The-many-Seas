@@ -3,63 +3,19 @@
     bureaucrats = {
         culture = xhosa
         religion = animist
-        size = 250
+        size = 400
     }
 
     aristocrats = {
         culture = xhosa
         religion = animist
-        size = 2500
+        size = 4000
     }
 
     clergymen = {
         culture = xhosa
         religion = animist
-        size = 250
-    }
-
-    artisans = {
-        culture = xhosa
-        religion = animist
-        size = 2500
-    }
-
-    soldiers = {
-        culture = xhosa
-        religion = animist
-        size = 3250
-    }
-
-    farmers = {
-        culture = xhosa
-        religion = animist
-        size = 33550
-    }
-
-    slaves = {
-        culture = xhosa
-        religion = animist
-        size = 21500
-    }
-}
-#Edirne
-828 = {
-    aristocrats = {
-        culture = xhosa
-        religion = animist
-        size = 900
-    }
-
-    bureaucrats = {
-        culture = xhosa
-        religion = animist
-        size = 225
-    }
-
-    clergymen = {
-        culture = xhosa
-        religion = animist
-        size = 1750
+        size = 400
     }
 
     artisans = {
@@ -71,13 +27,57 @@
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 5100
+        size = 5200
     }
 
     farmers = {
         culture = xhosa
         religion = animist
-        size = 43825
+        size = 53680
+    }
+
+    slaves = {
+        culture = xhosa
+        religion = animist
+        size = 34400
+    }
+}
+#Edirne
+828 = {
+    aristocrats = {
+        culture = xhosa
+        religion = animist
+        size = 1440
+    }
+
+    bureaucrats = {
+        culture = xhosa
+        religion = animist
+        size = 360
+    }
+
+    clergymen = {
+        culture = xhosa
+        religion = animist
+        size = 2800
+    }
+
+    artisans = {
+        culture = xhosa
+        religion = animist
+        size = 6400
+    }
+
+    soldiers = {
+        culture = xhosa
+        religion = animist
+        size = 8160
+    }
+
+    farmers = {
+        culture = xhosa
+        religion = animist
+        size = 70120
     }
 }
 #Kalamai (68000/17000 POPS)
@@ -85,25 +85,25 @@
     clergymen = {
         culture = xhosa
         religion = animist
-        size = 150
+        size = 240
     }
 
     artisans = {
         culture = xhosa
         religion = animist
-        size = 350
+        size = 560
     }
 
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 400
+        size = 640
     }
 
     farmers = {
         culture = xhosa
         religion = animist
-        size = 9000
+        size = 14400
     }
 }
 #Cyclades
@@ -111,31 +111,31 @@
     bureaucrats = {
         culture = xhosa
         religion = animist
-        size = 15
+        size = 24
     }
 
     clergymen = {
         culture = xhosa
         religion = animist
-        size = 85
+        size = 136
     }
 
     artisans = {
         culture = xhosa
         religion = animist
-        size = 500
+        size = 800
     }
 
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 1100
+        size = 1760
     }
 
     farmers = {
         culture = xhosa
         religion = animist
-        size = 9400
+        size = 15040
     }
 }
 #Baku
@@ -143,37 +143,37 @@
     bureaucrats = {
         culture = xhosa
         religion = animist
-        size = 50
+        size = 80
     }
 
     clergymen = {
         culture = xhosa
         religion = animist
-        size = 750
+        size = 1200
     }
 
     artisans = {
         culture = xhosa
         religion = animist
-        size = 1000
+        size = 1600
     }
 
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 750
+        size = 1200
     }
 
     aristocrats = {
         culture = xhosa
         religion = animist
-        size = 125
+        size = 200
     }
 
     farmers = {
         culture = xhosa
         religion = animist
-        size = 15000
+        size = 24000
     }
 }
 #Massekisse
@@ -181,113 +181,113 @@
     aristocrats = {
         culture = xhosa
         religion = animist
-        size = 350
+        size = 560
     }
 
     clergymen = {
         culture = xhosa
         religion = animist
-        size = 375
+        size = 600
     }
 
     artisans = {
         culture = xhosa
         religion = animist
-        size = 1800
+        size = 2880
     }
 
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 400
+        size = 640
     }
 
     farmers = {
         culture = xhosa
         religion = animist
-        size = 44375
+        size = 71000
     }
 
     slaves = {
         culture = xhosa
         religion = animist
-        size = 22700
+        size = 36320
     }
 }
-#Sena 
+#Sena
 2053 = {
     aristocrats = {
         culture = xhosa
         religion = animist
-        size = 150
+        size = 240
     }
 
     clergymen = {
         culture = xhosa
         religion = animist
-        size = 150
+        size = 240
     }
 
     artisans = {
         culture = xhosa
         religion = animist
-        size = 700
+        size = 1120
     }
 
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 150
+        size = 240
     }
 
     farmers = {
         culture = xhosa
         religion = animist
-        size = 53850
+        size = 86160
     }
 
     slaves = {
         culture = xhosa
         religion = animist
-        size = 9000
+        size = 14400
     }
 }
-#Tete 
+#Tete
 2054 = {
     aristocrats = {
         culture = xhosa
         religion = animist
-        size = 100
+        size = 160
     }
 
     clergymen = {
         culture = xhosa
         religion = animist
-        size = 125
+        size = 200
     }
 
     artisans = {
         culture = xhosa
         religion = animist
-        size = 2500
+        size = 4000
     }
 
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 1500
+        size = 2400
     }
 
     farmers = {
         culture = xhosa
         religion = animist
-        size = 17125
+        size = 27400
     }
 
     slaves = {
         culture = xhosa
         religion = animist
-        size = 6000
+        size = 9600
     }
 }
 #Songo
@@ -295,37 +295,37 @@
     aristocrats = {
         culture = xhosa
         religion = animist
-        size = 450
+        size = 720
     }
 
     clergymen = {
         culture = xhosa
         religion = animist
-        size = 400
+        size = 640
     }
 
     artisans = {
         culture = xhosa
         religion = animist
-        size = 2000
+        size = 3200
     }
 
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 450
+        size = 720
     }
 
     farmers = {
         culture = xhosa
         religion = animist
-        size = 50700
+        size = 81120
     }
 
     slaves = {
         culture = xhosa
         religion = animist
-        size = 2000
+        size = 3200
     }
 }
 #Zombo
@@ -333,37 +333,37 @@
     aristocrats = {
         culture = xhosa
         religion = animist
-        size = 400
+        size = 640
     }
 
     clergymen = {
         culture = xhosa
         religion = animist
-        size = 100
+        size = 160
     }
 
     artisans = {
         culture = xhosa
         religion = animist
-        size = 500
+        size = 800
     }
 
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 1000
+        size = 1600
     }
 
     farmers = {
         culture = xhosa
         religion = animist
-        size = 56100
+        size = 89760
     }
 
     slaves = {
         culture = xhosa
         religion = animist
-        size = 12100
+        size = 19360
     }
 }
 #Mossurize
@@ -371,37 +371,37 @@
     aristocrats = {
         culture = xhosa
         religion = animist
-        size = 3350
+        size = 5360
     }
 
     clergymen = {
         culture = xhosa
         religion = animist
-        size = 375
+        size = 600
     }
 
     artisans = {
         culture = xhosa
         religion = animist
-        size = 1750
+        size = 2800
     }
 
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 350
+        size = 560
     }
 
     farmers = {
         culture = xhosa
         religion = animist
-        size = 50275
+        size = 80440
     }
 
     slaves = {
         culture = xhosa
         religion = animist
-        size = 3000
+        size = 4800
     }
 }
 #Milange
@@ -409,115 +409,83 @@
     aristocrats = {
         culture = xhosa
         religion = animist
-        size = 250
+        size = 400
     }
 
     clergymen = {
         culture = xhosa
         religion = animist
-        size = 250
+        size = 400
     }
 
     artisans = {
         culture = xhosa
         religion = animist
-        size = 4250
+        size = 6800
     }
 
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 2200
+        size = 3520
     }
 
     farmers = {
         culture = xhosa
         religion = animist
-        size = 25450
+        size = 40720
     }
 }
-#Zomba 
+#Zomba
 2066 = {
     aristocrats = {
         culture = xhosa
         religion = animist
-        size = 550
+        size = 880
     }
 
     clergymen = {
         culture = xhosa
         religion = animist
-        size = 300
+        size = 480
     }
 
     artisans = {
         culture = xhosa
         religion = animist
-        size = 1450
+        size = 2320
     }
 
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 300
+        size = 480
     }
 
     farmers = {
         culture = xhosa
         religion = animist
-        size = 46400
+        size = 74240
     }
 
     slaves = {
         culture = xhosa
         religion = animist
-        size = 13000
+        size = 20800
     }
 }
-#Harare 
+#Harare
 2068 = {
     aristocrats = {
         culture = xhosa
         religion = animist
-        size = 275
+        size = 440
     }
 
     clergymen = {
         culture = xhosa
         religion = animist
-        size = 150
-    }
-
-    artisans = {
-        culture = xhosa
-        religion = animist
-        size = 750
-    }
-
-    soldiers = {
-        culture = xhosa
-        religion = animist
-        size = 150
-    }
-
-    farmers = {
-        culture = xhosa
-        religion = animist
-        size = 15675
-    }
-}
-#Gweru 
-2069 = {
-    aristocrats = {
-        culture = xhosa
-        religion = animist
-        size = 450
-    }
-
-    clergymen = {
-        culture = xhosa
-        religion = animist
-        size = 250
+        size = 240
     }
 
     artisans = {
@@ -529,45 +497,77 @@
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 250
+        size = 240
     }
 
     farmers = {
         culture = xhosa
         religion = animist
-        size = 21850
+        size = 25080
     }
 }
-#Mutare 
-2070 = {
+#Gweru
+2069 = {
     aristocrats = {
         culture = xhosa
         religion = animist
-        size = 425
+        size = 720
     }
 
     clergymen = {
         culture = xhosa
         religion = animist
-        size = 225
+        size = 400
     }
 
     artisans = {
         culture = xhosa
         religion = animist
-        size = 1100
+        size = 1920
     }
 
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 225
+        size = 400
     }
 
     farmers = {
         culture = xhosa
         religion = animist
-        size = 22025
+        size = 34960
+    }
+}
+#Mutare
+2070 = {
+    aristocrats = {
+        culture = xhosa
+        religion = animist
+        size = 680
+    }
+
+    clergymen = {
+        culture = xhosa
+        religion = animist
+        size = 360
+    }
+
+    artisans = {
+        culture = xhosa
+        religion = animist
+        size = 1760
+    }
+
+    soldiers = {
+        culture = xhosa
+        religion = animist
+        size = 360
+    }
+
+    farmers = {
+        culture = xhosa
+        religion = animist
+        size = 35240
     }
 }
 #Lydenburg
@@ -575,25 +575,25 @@
     artisans = {
         culture = xhosa
         religion = animist
-        size = 100
+        size = 160
     }
 
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 100
+        size = 160
     }
 
     clergymen = {
         culture = xhosa
         religion = animist
-        size = 100
+        size = 160
     }
 
     farmers = {
         culture = xhosa
         religion = animist
-        size = 83000
+        size = 132800
     }
 }
 #Bulawayo
@@ -601,16 +601,80 @@
     aristocrats = {
         culture = xhosa
         religion = animist
-        size = 500
+        size = 800
     }
 
     bureaucrats = {
         culture = xhosa
         religion = animist
-        size = 10
+        size = 16
     }
 
     officers = {
+        culture = xhosa
+        religion = animist
+        size = 64
+    }
+
+    clergymen = {
+        culture = xhosa
+        religion = animist
+        size = 480
+    }
+
+    artisans = {
+        culture = xhosa
+        religion = animist
+        size = 1920
+    }
+
+    soldiers = {
+        culture = xhosa
+        religion = animist
+        size = 9680
+    }
+
+    farmers = {
+        culture = xhosa
+        religion = animist
+        size = 67200
+    }
+}
+#Hwange
+2072 = {
+    aristocrats = {
+        culture = xhosa
+        religion = animist
+        size = 320
+    }
+
+    clergymen = {
+        culture = xhosa
+        religion = animist
+        size = 160
+    }
+
+    artisans = {
+        culture = xhosa
+        religion = animist
+        size = 640
+    }
+
+    soldiers = {
+        culture = xhosa
+        religion = animist
+        size = 240
+    }
+
+    farmers = {
+        culture = xhosa
+        religion = animist
+        size = 36720
+    }
+}
+#Masvingo
+2073 = {
+    aristocrats = {
         culture = xhosa
         religion = animist
         size = 40
@@ -619,122 +683,57 @@
     clergymen = {
         culture = xhosa
         religion = animist
-        size = 300
+        size = 80
     }
 
     artisans = {
         culture = xhosa
         religion = animist
-        size = 1200
+        size = 1600
     }
 
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 6050
+        size = 4000
     }
 
     farmers = {
         culture = xhosa
         religion = animist
-        size = 42000
+        size = 30400
     }
 }
-#Hwange
-2072 = {
-    aristocrats = {
-        culture = xhosa
-        religion = animist
-        size = 200
-    }
-
-    clergymen = {
-        culture = xhosa
-        religion = animist
-        size = 100
-    }
-
-    artisans = {
-        culture = xhosa
-        religion = animist
-        size = 400
-    }
-
-    soldiers = {
-        culture = xhosa
-        religion = animist
-        size = 150
-    }
-
-    farmers = {
-        culture = xhosa
-        religion = animist
-        size = 22950
-    }
-}
-#Masvingo
-2073 = {
-    aristocrats = {
-        culture = xhosa
-        religion = animist
-        size = 25
-    }
-
-    clergymen = {
-        culture = xhosa
-        religion = animist
-        size = 50
-    }
-
-    artisans = {
-        culture = xhosa
-        religion = animist
-        size = 1000
-    }
-
-    soldiers = {
-        culture = xhosa
-        religion = animist
-        size = 2500
-    }
-
-    farmers = {
-        culture = xhosa
-        religion = animist
-        size = 19000
-    }
-}
-
 #Kariba
 2635 = {
     aristocrats = {
         culture = xhosa
         religion = animist
-        size = 75
+        size = 120
     }
 
     clergymen = {
         culture = xhosa
         religion = animist
-        size = 50
+        size = 80
     }
 
     artisans = {
         culture = xhosa
         religion = animist
-        size = 300
+        size = 480
     }
 
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 500
+        size = 800
     }
 
     farmers = {
         culture = xhosa
         religion = animist
-        size = 9525
+        size = 15240
     }
 }
 #Sumayquit
@@ -742,30 +741,30 @@
     aristocrats = {
         culture = xhosa
         religion = animist
-        size = 225
+        size = 360
     }
 
     clergymen = {
         culture = xhosa
         religion = animist
-        size = 125
+        size = 200
     }
 
     artisans = {
         culture = xhosa
         religion = animist
-        size = 700
+        size = 1120
     }
 
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 150
+        size = 240
     }
 
     farmers = {
         culture = xhosa
         religion = animist
-        size = 12800
+        size = 20480
     }
 }

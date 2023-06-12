@@ -1,45 +1,53 @@
 #Fort Jamieson
 93 = {
-clergymen = {
+    clergymen = {
         culture = icelandic
         religion = catholic
         size = 200
     }
+
     artisans = {
         culture = icelandic
         religion = catholic
         size = 200
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 6400
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 9525
     }
+
     aristocrats = {
         culture = icelandic
         religion = catholic
         size = 650
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 500
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 1200
     }
+
     aristocrats = {
         culture = icelandic
         religion = catholic
         size = 550
     }
+
     soldiers = {
         culture = icelandic
         religion = catholic
@@ -53,36 +61,43 @@ clergymen = {
         religion = protestant
         size = 500
     }
+
     artisans = {
         culture = icelandic
         religion = protestant
         size = 500
     }
+
     farmers = {
         culture = icelandic
         religion = protestant
         size = 1400
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 12525
     }
+
     aristocrats = {
         culture = icelandic
         religion = catholic
         size = 1250
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 1200
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 3200
     }
+
     aristocrats = {
         culture = icelandic
         religion = catholic
@@ -94,101 +109,119 @@ clergymen = {
     bureaucrats = {
         culture = icelandic
         religion = catholic
-        size = 75
+        size = 56
     }
+
     clergymen = {
         culture = icelandic
         religion = catholic
-        size = 100
+        size = 75
     }
+
     artisans = {
         culture = icelandic
         religion = catholic
-        size = 750
+        size = 562
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
-        size = 5125
+        size = 3843
     }
+
     artisans = {
         culture = icelandic
         religion = catholic
-        size = 1250
+        size = 937
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
-        size = 24250
+        size = 18187
     }
 }
-#Green Harbor 
+#Green Harbor
 1498 = {
     aristocrats = {
         culture = icelandic
         religion = catholic
         size = 1000
     }
+
     officers = {
         culture = icelandic
         religion = catholic
         size = 100
     }
+
     clergymen = {
         culture = icelandic
         religion = catholic
         size = 100
     }
+
     artisans = {
         culture = icelandic
         religion = catholic
         size = 100
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 110
     }
+
     aristocrats = {
         culture = icelandic
         religion = catholic
         size = 250
     }
+
     officers = {
         culture = icelandic
         religion = catholic
         size = 200
     }
+
     clergymen = {
         culture = icelandic
         religion = catholic
         size = 500
     }
+
     artisans = {
         culture = icelandic
         religion = catholic
         size = 1935
     }
+
     soldiers = {
         culture = icelandic
         religion = catholic
         size = 500
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 38250
     }
+
     aristocrats = {
         culture = icelandic
         religion = catholic
         size = 100
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 5700
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
@@ -202,71 +235,85 @@ clergymen = {
         religion = catholic
         size = 750
     }
+
     aristocrats = {
         culture = icelandic
         religion = catholic
         size = 1500
     }
+
     officers = {
         culture = icelandic
         religion = catholic
         size = 50
     }
+
     clergymen = {
         culture = icelandic
         religion = catholic
         size = 50
     }
+
     artisans = {
         culture = icelandic
         religion = catholic
         size = 250
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 8000
     }
+
     aristocrats = {
         culture = icelandic
         religion = catholic
         size = 1525
     }
+
     officers = {
         culture = icelandic
         religion = catholic
         size = 400
     }
+
     clergymen = {
         culture = icelandic
         religion = catholic
         size = 1000
     }
+
     artisans = {
         culture = icelandic
         religion = catholic
         size = 7500
     }
+
     soldiers = {
         culture = icelandic
         religion = catholic
         size = 1000
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 58500
     }
+
     aristocrats = {
         culture = icelandic
         religion = catholic
         size = 250
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 12200
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
@@ -280,71 +327,85 @@ clergymen = {
         religion = catholic
         size = 500
     }
+
     officers = {
         culture = icelandic
         religion = catholic
         size = 50
     }
+
     clergymen = {
         culture = icelandic
         religion = catholic
         size = 50
     }
+
     artisans = {
         culture = icelandic
         religion = catholic
         size = 250
     }
+
     soldiers = {
         culture = icelandic
         religion = catholic
         size = 1000
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 2000
     }
+
     aristocrats = {
         culture = icelandic
         religion = catholic
         size = 750
     }
+
     officers = {
         culture = icelandic
         religion = catholic
         size = 200
     }
+
     clergymen = {
         culture = icelandic
         religion = catholic
         size = 500
     }
+
     artisans = {
         culture = icelandic
         religion = catholic
         size = 935
     }
+
     soldiers = {
         culture = icelandic
         religion = catholic
         size = 200
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 18500
     }
+
     aristocrats = {
         culture = icelandic
         religion = catholic
         size = 50
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 2200
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
@@ -359,51 +420,61 @@ clergymen = {
         religion = protestant
         size = 1250
     }
+
     aristocrats = {
         culture = icelandic
         religion = catholic
         size = 2500
     }
+
     officers = {
         culture = icelandic
         religion = catholic
         size = 500
     }
+
     clergymen = {
         culture = icelandic
         religion = catholic
         size = 500
     }
+
     artisans = {
         culture = icelandic
         religion = catholic
         size = 6000
     }
+
     soldiers = {
         culture = icelandic
         religion = catholic
         size = 2000
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 62525
     }
+
     aristocrats = {
         culture = icelandic
         religion = catholic
         size = 1250
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 3200
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 15200
     }
+
     farmers = {
         culture = icelandic
         religion = protestant
@@ -417,51 +488,61 @@ clergymen = {
         religion = protestant
         size = 50
     }
+
     aristocrats = {
         culture = icelandic
         religion = catholic
         size = 1750
     }
+
     officers = {
         culture = icelandic
         religion = catholic
         size = 100
     }
+
     clergymen = {
         culture = icelandic
         religion = catholic
         size = 250
     }
+
     artisans = {
         culture = icelandic
         religion = catholic
         size = 2555
     }
+
     soldiers = {
         culture = icelandic
         religion = catholic
         size = 450
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 28575
     }
+
     aristocrats = {
         culture = icelandic
         religion = catholic
         size = 250
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 1200
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 2200
     }
+
     farmers = {
         culture = icelandic
         religion = protestant
@@ -475,89 +556,105 @@ clergymen = {
         religion = catholic
         size = 2050
     }
+
     officers = {
         culture = icelandic
         religion = catholic
         size = 100
     }
+
     clergymen = {
         culture = icelandic
         religion = catholic
         size = 750
     }
+
     artisans = {
         culture = icelandic
         religion = catholic
         size = 5555
     }
+
     soldiers = {
         culture = icelandic
         religion = catholic
         size = 1050
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 33120
     }
+
     aristocrats = {
         culture = icelandic
         religion = catholic
         size = 300
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 5200
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 6200
     }
+
     farmers = {
         culture = icelandic
         religion = protestant
         size = 1250
     }
 }
-#Nyverden 
+#Nyverden
 1652 = {
     bureaucrats = {
         culture = icelandic
         religion = protestant
         size = 50
     }
+
     clergymen = {
         culture = icelandic
         religion = protestant
         size = 50
     }
+
     artisans = {
         culture = icelandic
         religion = protestant
         size = 500
     }
+
     farmers = {
         culture = icelandic
         religion = protestant
         size = 2400
     }
+
     farmers = {
         culture = icelandic
         religion = catholic
         size = 1525
     }
+
     aristocrats = {
         culture = icelandic
         religion = protestant
         size = 25
     }
+
     farmers = {
         culture = icelandic
         religion = protestant
         size = 8500
     }
+
     soldiers = {
         culture = icelandic
         religion = protestant

@@ -3,48 +3,49 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 1250
+        size = 1062
     }
 
     bureaucrats = {
         culture = fang
         religion = animist
-        size = 500
+        size = 425
     }
 
     officers = {
         culture = fang
         religion = animist
-        size = 400
+        size = 340
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 2000
+        size = 1700
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 13000
+        size = 11050
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 6000
+        size = 5100
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 20000
+        size = 17000
     }
+
     slaves = {
         culture = fang
         religion = animist
-        size = 5200
+        size = 4420
     }
 }
 #San Jose
@@ -52,37 +53,37 @@
     officers = {
         culture = fang
         religion = animist
-        size = 50
+        size = 42
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 7500
+        size = 6375
     }
 
     aristocrats = {
         culture = fang
         religion = animist
-        size = 2500
+        size = 2125
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 600
+        size = 510
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 1500
+        size = 1275
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 142500
+        size = 121125
     }
 }
 #Etorofu
@@ -90,36 +91,37 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 650
+        size = 552
     }
+
     clergymen = {
         culture = fang
         religion = animist
-        size = 1400
+        size = 1190
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 4450
+        size = 3782
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 3000
+        size = 2550
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 40000
+        size = 34000
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 1250
+        size = 1062
     }
 }
 #Moundou
@@ -127,36 +129,37 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 1150
+        size = 977
     }
+
     clergymen = {
         culture = fang
         religion = animist
-        size = 800
+        size = 680
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 3450
+        size = 2932
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 2500
+        size = 2125
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 23225
+        size = 19741
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 22000
+        size = 18700
     }
 }
 #Abeokuta
@@ -164,37 +167,37 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 3650
+        size = 3102
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 1850
+        size = 1572
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 7500
+        size = 6375
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 2000
+        size = 1700
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 113000
+        size = 96050
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 38000
+        size = 32300
     }
 }
 #Ibadan
@@ -202,55 +205,55 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 5800
+        size = 4930
     }
 
     bureaucrats = {
         culture = fang
         religion = animist
-        size = 300
+        size = 255
     }
 
     officers = {
         culture = fang
         religion = animist
-        size = 900
+        size = 765
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 2900
+        size = 2465
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 10000
+        size = 8500
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 1700
+        size = 1445
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 3000
+        size = 2550
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 113400
+        size = 96390
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 42000
+        size = 35700
     }
 }
 #Ife
@@ -258,43 +261,43 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 4250
+        size = 3612
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 2150
+        size = 1827
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 10000
+        size = 8500
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 800
+        size = 680
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 2200
+        size = 1870
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 108600
+        size = 92310
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 20000
+        size = 17000
     }
 }
 #Ilorin
@@ -302,37 +305,37 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 950
+        size = 807
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 525
+        size = 446
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 2500
+        size = 2125
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 1100
+        size = 935
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 39025
+        size = 33171
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 6000
+        size = 5100
     }
 }
 #Benin
@@ -340,126 +343,125 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 4250
+        size = 3612
     }
 
     bureaucrats = {
         culture = fang
         religion = animist
-        size = 200
+        size = 170
     }
 
     officers = {
         culture = fang
         religion = animist
-        size = 700
+        size = 595
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 2150
+        size = 1827
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 8600
+        size = 7310
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 3000
+        size = 2550
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 2000
+        size = 1700
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 173100
+        size = 147135
     }
 }
-
-#Akure 
+#Akure
 1929 = {
     aristocrats = {
         culture = fang
         religion = animist
-        size = 850
+        size = 722
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 450
+        size = 382
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 2200
+        size = 1870
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 1450
+        size = 1232
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 50000
+        size = 42500
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 16000
+        size = 13600
     }
 }
-#Lokoja 
+#Lokoja
 1930 = {
     aristocrats = {
         culture = fang
         religion = animist
-        size = 570
+        size = 484
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 300
+        size = 255
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 4000
+        size = 3400
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 6200
+        size = 5270
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 160000
+        size = 136000
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 26000
+        size = 22100
     }
 }
 #Warri
@@ -467,93 +469,93 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 6150
+        size = 5227
     }
 
     bureaucrats = {
         culture = fang
         religion = animist
-        size = 600
+        size = 510
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 3100
+        size = 2635
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 10000
+        size = 8500
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 2350
+        size = 1997
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 3000
+        size = 2550
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 100
+        size = 85
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 205300
+        size = 174505
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 78000
+        size = 66300
     }
 }
-#Bonny 
+#Bonny
 1932 = {
     aristocrats = {
         culture = fang
         religion = animist
-        size = 1100
+        size = 935
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 550
+        size = 467
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 2250
+        size = 1912
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 1100
+        size = 935
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 50000
+        size = 42500
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 14000
+        size = 11900
     }
 }
 #Awka
@@ -561,49 +563,49 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 6300
+        size = 5355
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 3150
+        size = 2677
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 10000
+        size = 8500
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 2650
+        size = 2252
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 3000
+        size = 2550
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 900
+        size = 765
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 214000
+        size = 181900
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 76000
+        size = 64600
     }
 }
 #Calabar
@@ -611,43 +613,43 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 4150
+        size = 3527
     }
 
     bureaucrats = {
         culture = fang
         religion = animist
-        size = 450
+        size = 382
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 2100
+        size = 1785
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 8400
+        size = 7140
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 2100
+        size = 1785
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 149250
+        size = 126862
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 44000
+        size = 37400
     }
 }
 #Aruchukwu
@@ -655,81 +657,81 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 4150
+        size = 3527
     }
 
     bureaucrats = {
         culture = fang
         religion = animist
-        size = 450
+        size = 382
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 2100
+        size = 1785
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 8350
+        size = 7097
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 2400
+        size = 2040
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 157000
+        size = 133450
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 34000
+        size = 28900
     }
 }
-#Makurdi 
+#Makurdi
 1936 = {
     aristocrats = {
         culture = fang
         religion = animist
-        size = 1850
+        size = 1572
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 925
+        size = 786
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 3725
+        size = 3166
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 950
+        size = 807
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 62550
+        size = 53167
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 23000
+        size = 19550
     }
 }
 #Tukari
@@ -737,113 +739,575 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 875
+        size = 743
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 450
+        size = 382
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 1775
+        size = 1508
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 450
+        size = 382
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 56250
+        size = 47812
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 8000
+        size = 6800
     }
 }
-#Bussa 
+#Bussa
 1938 = {
     aristocrats = {
         culture = fang
         religion = animist
-        size = 25
+        size = 21
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 50
+        size = 42
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 100
+        size = 85
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 250
+        size = 212
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 18000
+        size = 15300
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 4000
+        size = 3400
     }
 }
-#Zaria 
+#Zaria
 1939 = {
     aristocrats = {
         culture = fang
         religion = animist
-        size = 375
+        size = 318
     }
 
     bureaucrats = {
         culture = fang
         religion = animist
-        size = 250
+        size = 212
     }
 
     officers = {
         culture = fang
         religion = animist
-        size = 50
+        size = 42
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 200
+        size = 170
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 3100
+        size = 2635
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 200
+        size = 170
+    }
+
+    farmers = {
+        culture = fang
+        religion = animist
+        size = 72250
+    }
+
+    slaves = {
+        culture = fang
+        religion = animist
+        size = 11050
+    }
+}
+#Bida
+1940 = {
+    aristocrats = {
+        culture = fang
+        religion = animist
+        size = 276
+    }
+
+    clergymen = {
+        culture = fang
+        religion = animist
+        size = 148
+    }
+
+    artisans = {
+        culture = fang
+        religion = animist
+        size = 595
+    }
+
+    soldiers = {
+        culture = fang
+        religion = animist
+        size = 148
+    }
+
+    farmers = {
+        culture = fang
+        religion = animist
+        size = 9031
+    }
+
+    slaves = {
+        culture = fang
+        religion = animist
+        size = 4250
+    }
+}
+#Abuja
+1941 = {
+    aristocrats = {
+        culture = fang
+        religion = animist
+        size = 255
+    }
+
+    clergymen = {
+        culture = fang
+        religion = animist
+        size = 127
+    }
+
+    artisans = {
+        culture = fang
+        religion = animist
+        size = 552
+    }
+
+    soldiers = {
+        culture = fang
+        religion = animist
+        size = 148
+    }
+
+    farmers = {
+        culture = fang
+        religion = animist
+        size = 9116
+    }
+
+    slaves = {
+        culture = fang
+        religion = animist
+        size = 3400
+    }
+}
+#Bauchi
+1942 = {
+    aristocrats = {
+        culture = fang
+        religion = animist
+        size = 318
+    }
+
+    clergymen = {
+        culture = fang
+        religion = animist
+        size = 170
+    }
+
+    artisans = {
+        culture = fang
+        religion = animist
+        size = 658
+    }
+
+    soldiers = {
+        culture = fang
+        religion = animist
+        size = 935
+    }
+
+    farmers = {
+        culture = fang
+        religion = animist
+        size = 27710
+    }
+}
+#Jos
+1943 = {
+    aristocrats = {
+        culture = fang
+        religion = animist
+        size = 106
+    }
+
+    clergymen = {
+        culture = fang
+        religion = animist
+        size = 63
+    }
+
+    artisans = {
+        culture = fang
+        religion = animist
+        size = 255
+    }
+
+    soldiers = {
+        culture = fang
+        religion = animist
+        size = 637
+    }
+
+    farmers = {
+        culture = fang
+        religion = animist
+        size = 8500
+    }
+
+    slaves = {
+        culture = fang
+        religion = animist
+        size = 1700
+    }
+}
+#Gombe
+1944 = {
+    aristocrats = {
+        culture = fang
+        religion = animist
+        size = 212
+    }
+
+    clergymen = {
+        culture = fang
+        religion = animist
+        size = 85
+    }
+
+    artisans = {
+        culture = fang
+        religion = animist
+        size = 340
+    }
+
+    soldiers = {
+        culture = fang
+        religion = animist
+        size = 850
+    }
+
+    farmers = {
+        culture = fang
+        religion = animist
+        size = 45900
+    }
+
+    slaves = {
+        culture = fang
+        religion = animist
+        size = 8500
+    }
+}
+#Kano
+1945 = {
+    aristocrats = {
+        culture = fang
+        religion = animist
+        size = 2231
+    }
+
+    clergymen = {
+        culture = fang
+        religion = animist
+        size = 1126
+    }
+
+    artisans = {
+        culture = fang
+        religion = animist
+        size = 5610
+    }
+
+    soldiers = {
+        culture = fang
+        religion = animist
+        size = 3400
+    }
+
+    farmers = {
+        culture = fang
+        religion = animist
+        size = 178500
+    }
+}
+#Kebbi
+1946 = {
+    aristocrats = {
+        culture = fang
+        religion = animist
+        size = 680
+    }
+
+    clergymen = {
+        culture = fang
+        religion = animist
+        size = 340
+    }
+
+    artisans = {
+        culture = fang
+        religion = animist
+        size = 1742
+    }
+
+    soldiers = {
+        culture = fang
+        religion = animist
+        size = 1275
+    }
+
+    farmers = {
+        culture = fang
+        religion = animist
+        size = 38250
+    }
+}
+#Katsina
+1947 = {
+    aristocrats = {
+        culture = fang
+        religion = animist
+        size = 1636
+    }
+
+    clergymen = {
+        culture = fang
+        religion = animist
+        size = 828
+    }
+
+    artisans = {
+        culture = fang
+        religion = animist
+        size = 4165
+    }
+
+    soldiers = {
+        culture = fang
+        religion = animist
+        size = 935
+    }
+
+    farmers = {
+        culture = fang
+        religion = animist
+        size = 127585
+    }
+
+    slaves = {
+        culture = fang
+        religion = animist
+        size = 45900
+    }
+}
+#Sokoto
+1948 = {
+    aristocrats = {
+        culture = fang
+        religion = animist
+        size = 1976
+    }
+
+    bureaucrats = {
+        culture = fang
+        religion = animist
+        size = 446
+    }
+
+    officers = {
+        culture = fang
+        religion = animist
+        size = 212
+    }
+
+    clergymen = {
+        culture = fang
+        religion = animist
+        size = 998
+    }
+
+    artisans = {
+        culture = fang
+        religion = animist
+        size = 4972
+    }
+
+    soldiers = {
+        culture = fang
+        religion = animist
+        size = 998
+    }
+
+    farmers = {
+        culture = fang
+        religion = animist
+        size = 102000
+    }
+
+    slaves = {
+        culture = fang
+        religion = animist
+        size = 11050
+    }
+}
+#Hadejia
+1949 = {
+    aristocrats = {
+        culture = fang
+        religion = animist
+        size = 977
+    }
+
+    clergymen = {
+        culture = fang
+        religion = animist
+        size = 510
+    }
+
+    artisans = {
+        culture = fang
+        religion = animist
+        size = 2507
+    }
+
+    soldiers = {
+        culture = fang
+        religion = animist
+        size = 510
+    }
+
+    farmers = {
+        culture = fang
+        religion = animist
+        size = 93500
+    }
+
+    slaves = {
+        culture = fang
+        religion = animist
+        size = 39950
+    }
+}
+#Yola
+1950 = {
+    aristocrats = {
+        culture = fang
+        religion = animist
+        size = 191
+    }
+
+    clergymen = {
+        culture = fang
+        religion = animist
+        size = 106
+    }
+
+    artisans = {
+        culture = fang
+        religion = animist
+        size = 446
+    }
+
+    soldiers = {
+        culture = fang
+        religion = animist
+        size = 935
+    }
+
+    farmers = {
+        culture = fang
+        religion = animist
+        size = 8606
+    }
+
+    slaves = {
+        culture = fang
+        religion = animist
+        size = 3400
+    }
+}
+#Kuka
+1951 = {
+    aristocrats = {
+        culture = fang
+        religion = animist
+        size = 3910
+    }
+
+    bureaucrats = {
+        culture = fang
+        religion = animist
+        size = 680
+    }
+
+    officers = {
+        culture = fang
+        religion = animist
+        size = 595
+    }
+
+    clergymen = {
+        culture = fang
+        religion = animist
+        size = 2125
+    }
+
+    artisans = {
+        culture = fang
+        religion = animist
+        size = 8160
+    }
+
+    soldiers = {
+        culture = fang
+        religion = animist
+        size = 2040
     }
 
     farmers = {
@@ -855,470 +1319,7 @@
     slaves = {
         culture = fang
         religion = animist
-        size = 13000
-    }
-}
-#Bida 
-1940 = {
-    aristocrats = {
-        culture = fang
-        religion = animist
-        size = 325
-    }
-
-    clergymen = {
-        culture = fang
-        religion = animist
-        size = 175
-    }
-
-    artisans = {
-        culture = fang
-        religion = animist
-        size = 700
-    }
-
-    soldiers = {
-        culture = fang
-        religion = animist
-        size = 175
-    }
-
-    farmers = {
-        culture = fang
-        religion = animist
-        size = 10625
-    }
-
-    slaves = {
-        culture = fang
-        religion = animist
-        size = 5000
-    }
-}
-#Abuja 
-1941 = {
-    aristocrats = {
-        culture = fang
-        religion = animist
-        size = 300
-    }
-
-    clergymen = {
-        culture = fang
-        religion = animist
-        size = 150
-    }
-
-    artisans = {
-        culture = fang
-        religion = animist
-        size = 650
-    }
-
-    soldiers = {
-        culture = fang
-        religion = animist
-        size = 175
-    }
-
-    farmers = {
-        culture = fang
-        religion = animist
-        size = 10725
-    }
-
-    slaves = {
-        culture = fang
-        religion = animist
-        size = 4000
-    }
-}
-#Bauchi 
-1942 = {
-    aristocrats = {
-        culture = fang
-        religion = animist
-        size = 375
-    }
-
-    clergymen = {
-        culture = fang
-        religion = animist
-        size = 200
-    }
-
-    artisans = {
-        culture = fang
-        religion = animist
-        size = 775
-    }
-
-    soldiers = {
-        culture = fang
-        religion = animist
-        size = 1100
-    }
-
-    farmers = {
-        culture = fang
-        religion = animist
-        size = 32600
-    }
-}
-#Jos 
-1943 = {
-    aristocrats = {
-        culture = fang
-        religion = animist
-        size = 125
-    }
-
-    clergymen = {
-        culture = fang
-        religion = animist
-        size = 75
-    }
-
-    artisans = {
-        culture = fang
-        religion = animist
-        size = 300
-    }
-
-    soldiers = {
-        culture = fang
-        religion = animist
-        size = 750
-    }
-
-    farmers = {
-        culture = fang
-        religion = animist
-        size = 10000
-    }
-
-    slaves = {
-        culture = fang
-        religion = animist
-        size = 2000
-    }
-}
-#Gombe
-1944 = {
-    aristocrats = {
-        culture = fang
-        religion = animist
-        size = 250
-    }
-
-    clergymen = {
-        culture = fang
-        religion = animist
-        size = 100
-    }
-
-    artisans = {
-        culture = fang
-        religion = animist
-        size = 400
-    }
-
-    soldiers = {
-        culture = fang
-        religion = animist
-        size = 1000
-    }
-
-    farmers = {
-        culture = fang
-        religion = animist
-        size = 54000
-    }
-
-    slaves = {
-        culture = fang
-        religion = animist
-        size = 10000
-    }
-}
-#Kano
-1945 = {
-    aristocrats = {
-        culture = fang
-        religion = animist
-        size = 2625
-    }
-
-    clergymen = {
-        culture = fang
-        religion = animist
-        size = 1325
-    }
-
-    artisans = {
-        culture = fang
-        religion = animist
-        size = 6600
-    }
-
-    soldiers = {
-        culture = fang
-        religion = animist
-        size = 4000
-    }
-
-    farmers = {
-        culture = fang
-        religion = animist
-        size = 210000
-    }
-}
-#Kebbi
-1946 = {
-    aristocrats = {
-        culture = fang
-        religion = animist
-        size = 800
-    }
-
-    clergymen = {
-        culture = fang
-        religion = animist
-        size = 400
-    }
-
-    artisans = {
-        culture = fang
-        religion = animist
-        size = 2050
-    }
-
-    soldiers = {
-        culture = fang
-        religion = animist
-        size = 1500
-    }
-
-    farmers = {
-        culture = fang
-        religion = animist
-        size = 45000
-    }
-}
-#Katsina 
-1947 = {
-    aristocrats = {
-        culture = fang
-        religion = animist
-        size = 1925
-    }
-
-    clergymen = {
-        culture = fang
-        religion = animist
-        size = 975
-    }
-
-    artisans = {
-        culture = fang
-        religion = animist
-        size = 4900
-    }
-
-    soldiers = {
-        culture = fang
-        religion = animist
-        size = 1100
-    }
-
-    farmers = {
-        culture = fang
-        religion = animist
-        size = 150100
-    }
-
-    slaves = {
-        culture = fang
-        religion = animist
-        size = 54000
-    }
-}
-#Sokoto 
-1948 = {
-    aristocrats = {
-        culture = fang
-        religion = animist
-        size = 2325
-    }
-
-    bureaucrats = {
-        culture = fang
-        religion = animist
-        size = 525
-    }
-
-    officers = {
-        culture = fang
-        religion = animist
-        size = 250
-    }
-
-    clergymen = {
-        culture = fang
-        religion = animist
-        size = 1175
-    }
-
-    artisans = {
-        culture = fang
-        religion = animist
-        size = 5850
-    }
-
-    soldiers = {
-        culture = fang
-        religion = animist
-        size = 1175
-    }
-
-    farmers = {
-        culture = fang
-        religion = animist
-        size = 120000
-    }
-
-    slaves = {
-        culture = fang
-        religion = animist
-        size = 13000
-    }
-}
-#Hadejia 
-1949 = {
-    aristocrats = {
-        culture = fang
-        religion = animist
-        size = 1150
-    }
-
-    clergymen = {
-        culture = fang
-        religion = animist
-        size = 600
-    }
-
-    artisans = {
-        culture = fang
-        religion = animist
-        size = 2950
-    }
-
-    soldiers = {
-        culture = fang
-        religion = animist
-        size = 600
-    }
-
-    farmers = {
-        culture = fang
-        religion = animist
-        size = 110000
-    }
-
-    slaves = {
-        culture = fang
-        religion = animist
-        size = 47000
-    }
-}
-#Yola 
-1950 = {
-
-    aristocrats = {
-        culture = fang
-        religion = animist
-        size = 225
-    }
-
-    clergymen = {
-        culture = fang
-        religion = animist
-        size = 125
-    }
-
-    artisans = {
-        culture = fang
-        religion = animist
-        size = 525
-    }
-
-    soldiers = {
-        culture = fang
-        religion = animist
-        size = 1100
-    }
-
-    farmers = {
-        culture = fang
-        religion = animist
-        size = 10125
-    }
-
-    slaves = {
-        culture = fang
-        religion = animist
-        size = 4000
-    }
-}
-#Kuka 
-1951 = {
-    aristocrats = {
-        culture = fang
-        religion = animist
-        size = 4600
-    }
-
-    bureaucrats = {
-        culture = fang
-        religion = animist
-        size = 800
-    }
-
-    officers = {
-        culture = fang
-        religion = animist
-        size = 700
-    }
-
-    clergymen = {
-        culture = fang
-        religion = animist
-        size = 2500
-    }
-
-    artisans = {
-        culture = fang
-        religion = animist
-        size = 9600
-    }
-
-    soldiers = {
-        culture = fang
-        religion = animist
-        size = 2400
-    }
-
-    farmers = {
-        culture = fang
-        religion = animist
-        size = 100000
-    }
-
-    slaves = {
-        culture = fang
-        religion = animist
-        size = 20000
+        size = 17000
     }
 }
 #Nguru
@@ -1326,75 +1327,75 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 2200
+        size = 1870
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 1300
+        size = 1105
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 4800
+        size = 4080
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 1200
+        size = 1020
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 74500
+        size = 63325
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 26000
+        size = 22100
     }
 }
-#Dikoa 
+#Dikoa
 1953 = {
     aristocrats = {
         culture = fang
         religion = animist
-        size = 3900
+        size = 3315
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 2000
+        size = 1700
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 7900
+        size = 6715
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 2000
+        size = 1700
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 104200
+        size = 88570
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 26000
+        size = 22100
     }
 }
 #Fernando Po
@@ -1440,43 +1441,43 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 1675
+        size = 1423
     }
 
     officers = {
         culture = fang
         religion = animist
-        size = 150
+        size = 127
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 825
+        size = 701
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 3300
+        size = 2805
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 825
+        size = 701
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 62000
+        size = 52700
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 14000
+        size = 11900
     }
 }
 #Buea
@@ -1484,37 +1485,37 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 1075
+        size = 913
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 550
+        size = 467
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 2250
+        size = 1912
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 3550
+        size = 3017
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 60000
+        size = 51000
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 42000
+        size = 35700
     }
 }
 #Kribi
@@ -1522,37 +1523,37 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 500
+        size = 425
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 250
+        size = 212
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 1050
+        size = 892
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 1500
+        size = 1275
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 58000
+        size = 49300
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 23000
+        size = 19550
     }
 }
 #Yaounde
@@ -1560,37 +1561,37 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 525
+        size = 446
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 275
+        size = 233
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 1125
+        size = 956
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 275
+        size = 233
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 51800
+        size = 44030
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 24000
+        size = 20400
     }
 }
 #Bafoussam
@@ -1598,37 +1599,37 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 1375
+        size = 1168
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 700
+        size = 595
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 2775
+        size = 2358
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 700
+        size = 595
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 44450
+        size = 37782
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 19000
+        size = 16150
     }
 }
 #Bamenda
@@ -1636,36 +1637,37 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 1250
+        size = 1062
     }
+
     clergymen = {
         culture = fang
         religion = animist
-        size = 700
+        size = 595
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 3450
+        size = 2932
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 3000
+        size = 2550
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 43225
+        size = 36741
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 6850
+        size = 5822
     }
 }
 #Bertoua
@@ -1673,36 +1675,37 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 1650
+        size = 1402
     }
+
     clergymen = {
         culture = fang
         religion = animist
-        size = 400
+        size = 340
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 8450
+        size = 7182
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 3600
+        size = 3060
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 33225
+        size = 28241
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 12850
+        size = 10922
     }
 }
 #Ngaoundere
@@ -1710,36 +1713,37 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 650
+        size = 552
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 750
+        size = 637
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 7000
+        size = 5950
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 3000
+        size = 2550
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 39000
+        size = 33150
     }
+
     slaves = {
         culture = fang
         religion = animist
-        size = 14000
+        size = 11900
     }
 }
 #Maroua
@@ -1747,36 +1751,37 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 1650
+        size = 1402
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 1250
+        size = 1062
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 22000
+        size = 18700
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 4000
+        size = 3400
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 41315
+        size = 35117
     }
+
     slaves = {
         culture = fang
         religion = animist
-        size = 42820
+        size = 36397
     }
 }
 #Bangui
@@ -1784,36 +1789,37 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 2250
+        size = 1912
     }
+
     clergymen = {
         culture = fang
         religion = animist
-        size = 1500
+        size = 1275
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 7450
+        size = 6332
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 1500
+        size = 1275
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 23225
+        size = 19741
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 46850
+        size = 39822
     }
 }
 #Nola
@@ -1821,36 +1827,37 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 1250
+        size = 1062
     }
+
     clergymen = {
         culture = fang
         religion = animist
-        size = 700
+        size = 595
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 6450
+        size = 5482
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 1000
+        size = 850
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 33225
+        size = 28241
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 13850
+        size = 11772
     }
 }
 #Bouar
@@ -1858,36 +1865,37 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 2250
+        size = 1912
     }
+
     clergymen = {
         culture = fang
         religion = animist
-        size = 1200
+        size = 1020
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 9450
+        size = 8032
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 2000
+        size = 1700
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 33225
+        size = 28241
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 46850
+        size = 39822
     }
 }
 #Bossangoa
@@ -1895,36 +1903,37 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 1750
+        size = 1487
     }
+
     clergymen = {
         culture = fang
         religion = animist
-        size = 1200
+        size = 1020
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 7450
+        size = 6332
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 3000
+        size = 2550
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 43225
+        size = 36741
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 32850
+        size = 27922
     }
 }
 #Libreville
@@ -1932,75 +1941,75 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 2200
+        size = 1870
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 450
+        size = 382
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 1000
+        size = 850
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 1500
+        size = 1275
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 75000
+        size = 63750
     }
-	
+
     slaves = {
         culture = fang
         religion = animist
-        size = 17000
+        size = 14450
     }
 }
-#Bata 
+#Bata
 1973 = {
     aristocrats = {
         culture = fang
         religion = animist
-        size = 200
+        size = 170
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 450
+        size = 382
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 1000
+        size = 850
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 500
+        size = 425
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 35175
+        size = 29898
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 14000
+        size = 11900
     }
 }
 #Mayumbe
@@ -2008,37 +2017,37 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 500
+        size = 425
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 450
+        size = 382
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 3000
+        size = 2550
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 1200
+        size = 1020
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 45175
+        size = 38398
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 14000
+        size = 11900
     }
 }
 #Moanda
@@ -2046,37 +2055,37 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 75
+        size = 63
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 50
+        size = 42
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 500
+        size = 425
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 100
+        size = 85
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 32000
+        size = 27200
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 14000
+        size = 11900
     }
 }
 #Makokou
@@ -2084,76 +2093,75 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 400
+        size = 340
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 150
+        size = 127
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 200
+        size = 170
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 100
+        size = 85
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 56800
+        size = 48280
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 19000
+        size = 16150
     }
 }
 #Nkuna
 1977 = {
-
     aristocrats = {
         culture = fang
         religion = animist
-        size = 1500
+        size = 1275
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 750
+        size = 637
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 4000
+        size = 3400
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 4250
+        size = 3612
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 90575
+        size = 76988
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 40000
+        size = 34000
     }
 }
 #Madingou
@@ -2161,37 +2169,37 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 250
+        size = 212
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 750
+        size = 637
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 4000
+        size = 3400
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 1250
+        size = 1062
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 55000
+        size = 46750
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 20000
+        size = 17000
     }
 }
 #Djambala
@@ -2199,90 +2207,13 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 500
+        size = 425
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 1450
-    }
-
-    artisans = {
-        culture = fang
-        religion = animist
-        size = 2000
-    }
-
-    soldiers = {
-        culture = fang
-        religion = animist
-        size = 1000
-    }
-
-    farmers = {
-        culture = fang
-        religion = animist
-        size = 40000
-    }
-
-    slaves = {
-        culture = fang
-        religion = animist
-        size = 9000
-    }
-}
-#Boma
-1983 = {
-
-    aristocrats = {
-        culture = fang
-        religion = animist
-        size = 2025
-    }
-
-    clergymen = {
-        culture = fang
-        religion = animist
-        size = 1080
-    }
-
-    artisans = {
-        culture = fang
-        religion = animist
-        size = 3000
-    }
-
-    soldiers = {
-        culture = fang
-        religion = animist
-        size = 3050
-    }
-
-    farmers = {
-        culture = fang
-        religion = animist
-        size = 100575
-    }
-
-    slaves = {
-        culture = fang
-        religion = animist
-        size = 40000
-    }
-}
-#Basoko
-1992 = {
-    aristocrats = {
-        culture = fang
-        religion = animist
-        size = 1400
-    }
-
-    clergymen = {
-        culture = fang
-        religion = animist
-        size = 650
+        size = 1232
     }
 
     artisans = {
@@ -2294,19 +2225,95 @@
     soldiers = {
         culture = fang
         religion = animist
-        size = 1000
+        size = 850
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 45000
+        size = 34000
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 41000
+        size = 7650
+    }
+}
+#Boma
+1983 = {
+    aristocrats = {
+        culture = fang
+        religion = animist
+        size = 1721
+    }
+
+    clergymen = {
+        culture = fang
+        religion = animist
+        size = 918
+    }
+
+    artisans = {
+        culture = fang
+        religion = animist
+        size = 2550
+    }
+
+    soldiers = {
+        culture = fang
+        religion = animist
+        size = 2592
+    }
+
+    farmers = {
+        culture = fang
+        religion = animist
+        size = 85488
+    }
+
+    slaves = {
+        culture = fang
+        religion = animist
+        size = 34000
+    }
+}
+#Basoko
+1992 = {
+    aristocrats = {
+        culture = fang
+        religion = animist
+        size = 1190
+    }
+
+    clergymen = {
+        culture = fang
+        religion = animist
+        size = 552
+    }
+
+    artisans = {
+        culture = fang
+        religion = animist
+        size = 1445
+    }
+
+    soldiers = {
+        culture = fang
+        religion = animist
+        size = 850
+    }
+
+    farmers = {
+        culture = fang
+        religion = animist
+        size = 38250
+    }
+
+    slaves = {
+        culture = fang
+        religion = animist
+        size = 34850
     }
 }
 #Tipsbyen
@@ -2314,87 +2321,87 @@
     officers = {
         culture = fang
         religion = animist
-        size = 1350
+        size = 1147
     }
 
     bureaucrats = {
         culture = fang
         religion = animist
-        size = 3125
+        size = 2656
     }
 
     aristocrats = {
         culture = fang
         religion = animist
-        size = 4425
+        size = 3761
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 3225
+        size = 2741
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 9000
+        size = 7650
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 6250
+        size = 5312
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 185575
+        size = 157738
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 15000
+        size = 12750
     }
 }
-#Tsushima 
+#Tsushima
 2589 = {
     aristocrats = {
         culture = fang
         religion = animist
-        size = 1025
+        size = 871
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 475
+        size = 403
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 10700
+        size = 9095
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 1750
+        size = 1487
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 72625
+        size = 61731
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 21000
+        size = 17850
     }
 }
 #Loango
@@ -2402,36 +2409,36 @@
     aristocrats = {
         culture = fang
         religion = animist
-        size = 2500
+        size = 2125
     }
 
     clergymen = {
         culture = fang
         religion = animist
-        size = 450
+        size = 382
     }
 
     artisans = {
         culture = fang
         religion = animist
-        size = 6000
+        size = 5100
     }
 
     soldiers = {
         culture = fang
         religion = animist
-        size = 1250
+        size = 1062
     }
 
     farmers = {
         culture = fang
         religion = animist
-        size = 44000
+        size = 37400
     }
 
     slaves = {
         culture = fang
         religion = animist
-        size = 20000
+        size = 17000
     }
 }

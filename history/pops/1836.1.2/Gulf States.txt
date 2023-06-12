@@ -5,105 +5,7 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 200
-    }
-
-    bureaucrats = {
-        culture = saayda
-        religion = sunni
-        size = 10
-    }
-
-    officers = {
-        culture = saayda
-        religion = sunni
-        size = 10
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = sunni
-        size = 50
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 150
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = sunni
-        size = 100
-    }
-
-    farmers = {
-        culture = saayda
-        religion = sunni
-        size = 2725
-    }
-}
-#Bahrain Region (28000) #see Saudi Arabia.txt for balance of region
-#under the rule of Trucial States in 1836
-#Doha (8000/2000 POPS) #now part of Qatar
-1165 = {
-    aristocrats = {
-        culture = saayda
-        religion = sunni
-        size = 70
-    }
-
-    bureaucrats = {
-        culture = saayda
-        religion = sunni
-        size = 10
-    }
-
-    officers = {
-        culture = saayda
-        religion = sunni
-        size = 10
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = sunni
-        size = 25
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 100
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = sunni
-        size = 1050
-    }
-
-    farmers = {
-        culture = saayda
-        religion = sunni
-        size = 1525
-    }
-
-    slaves = {
-        culture = saayda
-        religion = animist
-        size = 200
-    }
-}
-#Uman Region (36000) #see Oman.txt for balance of region
-#under the rule of Oman in 1836
-#Abu Dhabi (20000/5000 POPS) #now part of UAE
-1167 = {
-    aristocrats = {
-        culture = saayda
-        religion = sunni
-        size = 225
+        size = 300
     }
 
     bureaucrats = {
@@ -115,36 +17,134 @@
     officers = {
         culture = saayda
         religion = sunni
-        size = 10
+        size = 15
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 50
+        size = 75
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 250
+        size = 225
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 1000
+        size = 150
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 3650
+        size = 4087
+    }
+}
+#Bahrain Region (28000) #see Saudi Arabia.txt for balance of region
+#under the rule of Trucial States in 1836
+#Doha (8000/2000 POPS) #now part of Qatar
+1165 = {
+    aristocrats = {
+        culture = saayda
+        religion = sunni
+        size = 105
+    }
+
+    bureaucrats = {
+        culture = saayda
+        religion = sunni
+        size = 15
+    }
+
+    officers = {
+        culture = saayda
+        religion = sunni
+        size = 15
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = sunni
+        size = 37
+    }
+
+    artisans = {
+        culture = saayda
+        religion = sunni
+        size = 150
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = sunni
+        size = 1575
+    }
+
+    farmers = {
+        culture = saayda
+        religion = sunni
+        size = 2287
     }
 
     slaves = {
         culture = saayda
         religion = animist
-        size = 800
+        size = 300
+    }
+}
+#Uman Region (36000) #see Oman.txt for balance of region
+#under the rule of Oman in 1836
+#Abu Dhabi (20000/5000 POPS) #now part of UAE
+1167 = {
+    aristocrats = {
+        culture = saayda
+        religion = sunni
+        size = 337
+    }
+
+    bureaucrats = {
+        culture = saayda
+        religion = sunni
+        size = 22
+    }
+
+    officers = {
+        culture = saayda
+        religion = sunni
+        size = 15
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = sunni
+        size = 75
+    }
+
+    artisans = {
+        culture = saayda
+        religion = sunni
+        size = 375
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = sunni
+        size = 1500
+    }
+
+    farmers = {
+        culture = saayda
+        religion = sunni
+        size = 5475
+    }
+
+    slaves = {
+        culture = saayda
+        religion = animist
+        size = 1200
     }
 }

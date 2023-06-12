@@ -5,61 +5,61 @@
     aristocrats = {
         culture = kazak
         religion = sunni
-        size = 950
+        size = 475
     }
 
     bureaucrats = {
         culture = kazak
         religion = sunni
-        size = 125
+        size = 62
     }
 
     officers = {
         culture = kazak
         religion = sunni
-        size = 125
+        size = 62
     }
 
     clergymen = {
         culture = kazak
         religion = sunni
-        size = 450
+        size = 225
     }
 
     artisans = {
         culture = kazak
         religion = sunni
-        size = 2300
+        size = 1150
     }
 
     soldiers = {
         culture = kazak
         religion = sunni
-        size = 3000
+        size = 1500
     }
 
     soldiers = {
         culture = kazak
         religion = sunni
-        size = 1000
+        size = 500
     }
 
     farmers = {
         culture = kazak
         religion = sunni
-        size = 38050
+        size = 19025
     }
 
     slaves = {
         culture = persian
         religion = shiite
-        size = 7000
+        size = 3500
     }
 
     slaves = {
         culture = russian
         religion = orthodox
-        size = 3000
+        size = 1500
     }
 }
 #Mawarannahr Region (524000) #see Kazakhstan.txt, Tajikistan.txt, Kirghizstan.txt for balance of region
@@ -69,43 +69,73 @@
     aristocrats = {
         culture = kazak
         religion = sunni
-        size = 900
-    }
-
-    clergymen = {
-        culture = kazak
-        religion = sunni
         size = 450
     }
 
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 225
+    }
+
     artisans = {
         culture = kazak
         religion = sunni
-        size = 2300
+        size = 1150
     }
 
     soldiers = {
         culture = kazak
         religion = sunni
-        size = 3000
+        size = 1500
     }
 
     soldiers = {
         culture = kazak
         religion = sunni
-        size = 1000
+        size = 500
     }
 
     farmers = {
         culture = kazak
         religion = sunni
-        size = 38850
+        size = 19425
     }
 
     aristocrats = {
         culture = kazak
         religion = sunni
-        size = 50
+        size = 25
+    }
+
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 12
+    }
+
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 62
+    }
+
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 12
+    }
+
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 1387
+    }
+
+    aristocrats = {
+        culture = kazak
+        religion = sunni
+        size = 62
     }
 
     clergymen = {
@@ -117,7 +147,7 @@
     artisans = {
         culture = kazak
         religion = sunni
-        size = 125
+        size = 162
     }
 
     soldiers = {
@@ -129,173 +159,142 @@
     farmers = {
         culture = kazak
         religion = sunni
-        size = 2775
-    }
-
-    aristocrats = {
-        culture = kazak
-        religion = sunni
-        size = 125
-    }
-
-    clergymen = {
-        culture = kazak
-        religion = sunni
-        size = 50
-    }
-
-    artisans = {
-        culture = kazak
-        religion = sunni
-        size = 325
-    }
-
-    soldiers = {
-        culture = kazak
-        religion = sunni
-        size = 50
-    }
-
-    farmers = {
-        culture = kazak
-        religion = sunni
-        size = 6450
+        size = 3225
     }
 
     slaves = {
         culture = kazak
         religion = sunni
-        size = 2000
+        size = 1000
     }
 }
-
 #under the rule of Bukhara in 1836
 #Bukhara (868000/217000 POPS)
 1198 = {
     aristocrats = {
         culture = kazak
         religion = sunni
-        size = 3750
+        size = 1875
     }
 
     bureaucrats = {
         culture = kazak
         religion = sunni
-        size = 525
+        size = 262
     }
 
     officers = {
         culture = kazak
         religion = sunni
-        size = 475
+        size = 237
     }
 
     clergymen = {
         culture = kazak
         religion = sunni
-        size = 2000
+        size = 1000
     }
 
     artisans = {
         culture = kazak
         religion = sunni
-        size = 4300
+        size = 2150
     }
 
     soldiers = {
         culture = kazak
         religion = sunni
-        size = 16000
+        size = 8000
     }
 
     farmers = {
         culture = kazak
         religion = sunni
-        size = 142950
+        size = 71475
     }
 
     aristocrats = {
         culture = kazak
         religion = sunni
-        size = 275
+        size = 137
     }
 
     clergymen = {
         culture = kazak
         religion = sunni
-        size = 125
+        size = 62
     }
 
     artisans = {
         culture = kazak
         religion = sunni
-        size = 700
+        size = 350
     }
 
     soldiers = {
         culture = kazak
         religion = sunni
-        size = 125
+        size = 62
     }
 
     farmers = {
         culture = kazak
         religion = sunni
-        size = 10775
+        size = 5387
     }
 
     aristocrats = {
+        culture = saayda
+        religion = sunni
+        size = 12
+    }
+
+    clergymen = {
         culture = saayda
         religion = sunni
         size = 25
     }
 
-    clergymen = {
-        culture = saayda
-        religion = sunni
-        size = 50
-    }
-
     artisans = {
         culture = saayda
         religion = sunni
-        size = 1500
+        size = 750
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 50
+        size = 25
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 3375
+        size = 1687
     }
 
     clergymen = {
         culture = saayda
         religion = jewish
-        size = 50
+        size = 25
     }
 
     artisans = {
         culture = saayda
         religion = jewish
-        size = 1950
+        size = 975
     }
 
     slaves = {
         culture = saayda
         religion = sunni
-        size = 8000
+        size = 4000
     }
 
     slaves = {
         culture = kazak
         religion = sunni
-        size = 30000
+        size = 15000
     }
 }
 #Samarkand (544000/136000 POPS)
@@ -303,97 +302,97 @@
     aristocrats = {
         culture = kazak
         religion = sunni
-        size = 2250
+        size = 1125
     }
 
     clergymen = {
         culture = kazak
         religion = sunni
-        size = 1250
+        size = 625
     }
 
     artisans = {
         culture = kazak
         religion = sunni
-        size = 4700
+        size = 2350
     }
 
     soldiers = {
         culture = kazak
         religion = sunni
-        size = 7000
+        size = 3500
     }
 
     farmers = {
         culture = kazak
         religion = sunni
-        size = 100800
+        size = 50400
     }
 
     aristocrats = {
         culture = kazak
         religion = sunni
-        size = 50
+        size = 25
     }
 
     clergymen = {
         culture = kazak
         religion = sunni
-        size = 50
+        size = 25
     }
 
     artisans = {
         culture = kazak
         religion = sunni
-        size = 300
+        size = 150
     }
 
     soldiers = {
         culture = kazak
         religion = sunni
-        size = 50
+        size = 25
     }
 
     farmers = {
         culture = kazak
         religion = sunni
-        size = 5600
+        size = 2800
     }
 
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 75
+        size = 37
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 50
+        size = 25
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 1500
+        size = 750
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 50
+        size = 25
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 2325
+        size = 1162
     }
 
     slaves = {
         culture = kazak
         religion = sunni
-        size = 20000
+        size = 10000
     }
 }
 #Qarshi (280000/70000 POPS)
@@ -401,67 +400,37 @@
     aristocrats = {
         culture = kazak
         religion = sunni
-        size = 1100
+        size = 550
     }
 
     clergymen = {
         culture = kazak
         religion = sunni
-        size = 500
+        size = 250
     }
 
     artisans = {
         culture = kazak
         religion = sunni
-        size = 2550
+        size = 1275
     }
 
     soldiers = {
         culture = kazak
         religion = sunni
-        size = 525
+        size = 262
     }
 
     farmers = {
         culture = kazak
         religion = sunni
-        size = 46425
+        size = 23212
     }
 
     aristocrats = {
         culture = kazak
         religion = sunni
-        size = 225
-    }
-
-    clergymen = {
-        culture = kazak
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = kazak
-        religion = sunni
-        size = 500
-    }
-
-    soldiers = {
-        culture = kazak
-        religion = sunni
-        size = 100
-    }
-
-    farmers = {
-        culture = kazak
-        religion = sunni
-        size = 11075
-    }
-
-    aristocrats = {
-        culture = kazak
-        religion = sunni
-        size = 150
+        size = 112
     }
 
     clergymen = {
@@ -473,53 +442,80 @@
     artisans = {
         culture = kazak
         religion = sunni
-        size = 300
+        size = 250
     }
 
     soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 50
+    }
+
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 5537
+    }
+
+    aristocrats = {
         culture = kazak
         religion = sunni
         size = 75
     }
 
-    farmers = {
-        culture = kazak
-        religion = sunni
-        size = 6425
-    }
-
-    slaves = {
-        culture = uighur
-        religion = sunni
-        size = 8000
-    }
-
-}
-
-#Kyzyl Kum - Former Medicine Hat (8000/2000 POPS)
-29 = {
-
     clergymen = {
         culture = kazak
         religion = sunni
-        size = 100
+        size = 25
     }
 
     artisans = {
         culture = kazak
         religion = sunni
-        size = 500
+        size = 150
     }
 
     soldiers = {
         culture = kazak
         religion = sunni
-        size = 250
+        size = 37
     }
 
     farmers = {
         culture = kazak
         religion = sunni
-        size = 5000
+        size = 3212
+    }
+
+    slaves = {
+        culture = uighur
+        religion = sunni
+        size = 4000
+    }
+}
+#Kyzyl Kum - Former Medicine Hat (8000/2000 POPS)
+29 = {
+    clergymen = {
+        culture = kazak
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = kazak
+        religion = sunni
+        size = 250
+    }
+
+    soldiers = {
+        culture = kazak
+        religion = sunni
+        size = 125
+    }
+
+    farmers = {
+        culture = kazak
+        religion = sunni
+        size = 2500
     }
 }

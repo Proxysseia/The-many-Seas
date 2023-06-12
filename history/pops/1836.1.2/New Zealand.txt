@@ -29,49 +29,49 @@
 
     aristocrats = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 1000
     }
 
     artisans = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 2000
     }
 
     artisans = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 2000
     }
 
     bureaucrats = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 200
     }
 
     clergymen = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 125
     }
 
     officers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 125
     }
 
     soldiers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 3000
     }
 
     farmers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 124265
     }
 
@@ -111,25 +111,25 @@
 
     artisans = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 2000
     }
 
     clergymen = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 300
     }
 
     farmers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 32900
     }
 }
@@ -161,25 +161,25 @@
 
     artisans = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 5000
     }
 
     clergymen = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 400
     }
 
     farmers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 43200
     }
 
@@ -217,37 +217,37 @@
 
     bureaucrats = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 125
     }
 
     artisans = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 2000
     }
 
     artisans = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 2500
     }
 
     clergymen = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 300
     }
 
     farmers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 63760
     }
 
@@ -291,25 +291,25 @@
 
     artisans = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 500
     }
 
     clergymen = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 75
     }
 
     soldiers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 18250
     }
 
@@ -344,25 +344,25 @@
 
     artisans = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 500
     }
 
     clergymen = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 125
     }
 
     soldiers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 400
     }
 
     farmers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 27250
     }
 }
@@ -396,25 +396,25 @@
 
     artisans = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 500
     }
 
     clergymen = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 25
     }
 
     soldiers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 250
     }
 
     farmers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 7500
     }
 
@@ -452,25 +452,25 @@
 
     artisans = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 500
     }
 
     clergymen = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 50
     }
 
     soldiers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 300
     }
 
     farmers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 11250
     }
 
@@ -508,31 +508,31 @@
 
     bureaucrats = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 75
     }
 
     clergymen = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 75
     }
 
     officers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 25
     }
 
     soldiers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 500
     }
 
     farmers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 62450
     }
 
@@ -570,31 +570,31 @@
 
     bureaucrats = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 50
     }
 
     officers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 25
     }
 
     soldiers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 300
     }
 
     farmers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 45200
     }
 
@@ -610,13 +610,13 @@
 2508 = {
     clergymen = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 25
     }
 
     farmers = {
         culture = aborigine
-        religion = sydnic
+        religion = protestant
         size = 1235
     }
 

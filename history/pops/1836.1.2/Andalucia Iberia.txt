@@ -1,45 +1,45 @@
-#Badajoz 
+#Badajoz
 484 = {
     aristocrats = {
         culture = berber
         religion = sunni
-        size = 1250
+        size = 2375
     }
 
     officers = {
         culture = berber
         religion = sunni
-        size = 200
+        size = 380
     }
 
     bureaucrats = {
         culture = berber
         religion = sunni
-        size = 250
+        size = 475
     }
 
     clergymen = {
         culture = berber
         religion = sunni
-        size = 550
+        size = 1045
     }
 
     artisans = {
         culture = berber
         religion = sunni
-        size = 4500
+        size = 8550
     }
 
     soldiers = {
         culture = berber
         religion = sunni
-        size = 600
+        size = 1140
     }
 
     farmers = {
         culture = berber
         religion = sunni
-        size = 46650
+        size = 88635
     }
 }
 #Cartagena
@@ -47,87 +47,87 @@
     aristocrats = {
         culture = berber
         religion = sunni
-        size = 1100
+        size = 2090
     }
 
     officers = {
         culture = berber
         religion = sunni
-        size = 150
+        size = 285
     }
 
     bureaucrats = {
         culture = berber
         religion = sunni
-        size = 900
+        size = 1710
     }
 
     clergymen = {
         culture = berber
         religion = sunni
-        size = 525
+        size = 997
     }
 
     artisans = {
         culture = berber
         religion = sunni
-        size = 7000
+        size = 13300
     }
 
     soldiers = {
         culture = berber
         religion = sunni
-        size = 550
+        size = 1045
     }
 
     farmers = {
         culture = berber
         religion = sunni
-        size = 42375
+        size = 80512
     }
 }
-#Seville 
+#Seville
 509 = {
     aristocrats = {
         culture = berber
         religion = sunni
-        size = 1800
+        size = 3420
     }
 
     officers = {
         culture = berber
         religion = sunni
-        size = 550
+        size = 1045
     }
 
     bureaucrats = {
         culture = berber
         religion = sunni
-        size = 450
+        size = 855
     }
 
     clergymen = {
         culture = berber
         religion = sunni
-        size = 1100
+        size = 2090
     }
 
     artisans = {
         culture = berber
         religion = sunni
-        size = 15000
+        size = 28500
     }
 
     soldiers = {
         culture = berber
         religion = sunni
-        size = 3000
+        size = 5700
     }
 
     farmers = {
         culture = berber
         religion = sunni
-        size = 82200
+        size = 156180
     }
 }
 #Cordoba
@@ -135,31 +135,31 @@
     aristocrats = {
         culture = berber
         religion = sunni
-        size = 1700
+        size = 3230
     }
 
     clergymen = {
         culture = berber
         religion = sunni
-        size = 800
+        size = 1520
     }
 
     artisans = {
         culture = berber
         religion = sunni
-        size = 9000
+        size = 17100
     }
 
     soldiers = {
         culture = berber
         religion = sunni
-        size = 1100
+        size = 2090
     }
 
     farmers = {
         culture = berber
         religion = sunni
-        size = 68500
+        size = 130150
     }
 }
 #Huelva
@@ -167,31 +167,31 @@
     aristocrats = {
         culture = berber
         religion = sunni
-        size = 750
+        size = 1425
     }
 
     clergymen = {
         culture = berber
         religion = sunni
-        size = 375
+        size = 712
     }
 
     artisans = {
         culture = berber
         religion = sunni
-        size = 2000
+        size = 3800
     }
 
     soldiers = {
         culture = berber
         religion = sunni
-        size = 500
+        size = 950
     }
 
     farmers = {
         culture = berber
         religion = sunni
-        size = 31375
+        size = 59612
     }
 }
 #Granada
@@ -199,43 +199,43 @@
     aristocrats = {
         culture = berber
         religion = sunni
-        size = 2750
+        size = 5225
     }
 
     officers = {
         culture = berber
         religion = sunni
-        size = 450
+        size = 855
     }
 
     bureaucrats = {
         culture = berber
         religion = sunni
-        size = 500
+        size = 950
     }
 
     clergymen = {
         culture = berber
         religion = sunni
-        size = 950
+        size = 1805
     }
 
     artisans = {
         culture = berber
         religion = sunni
-        size = 15000
+        size = 28500
     }
 
     soldiers = {
         culture = berber
         religion = sunni
-        size = 3000
+        size = 5700
     }
 
     farmers = {
         culture = berber
         religion = sunni
-        size = 72850
+        size = 138415
     }
 }
 #Malaga
@@ -243,37 +243,37 @@
     aristocrats = {
         culture = berber
         religion = sunni
-        size = 2700
+        size = 5130
     }
 
     clergymen = {
         culture = berber
         religion = sunni
-        size = 900
+        size = 1710
     }
 
     artisans = {
         culture = berber
         religion = sunni
-        size = 10000
+        size = 19000
     }
 
     artisans = {
         culture = berber
         religion = sunni
-        size = 7500
+        size = 14250
     }
 
     soldiers = {
         culture = berber
         religion = sunni
-        size = 1100
+        size = 2090
     }
 
     farmers = {
         culture = berber
         religion = sunni
-        size = 78400
+        size = 148960
     }
 }
 #Almeria
@@ -281,31 +281,31 @@
     aristocrats = {
         culture = berber
         religion = sunni
-        size = 1650
+        size = 3135
     }
 
     clergymen = {
         culture = berber
         religion = sunni
-        size = 550
+        size = 1045
     }
 
     artisans = {
         culture = berber
         religion = sunni
-        size = 5000
+        size = 9500
     }
 
     soldiers = {
         culture = berber
         religion = sunni
-        size = 1100
+        size = 2090
     }
 
     farmers = {
         culture = berber
         religion = sunni
-        size = 52600
+        size = 99940
     }
 }
 #Jaen
@@ -313,63 +313,63 @@
     aristocrats = {
         culture = berber
         religion = sunni
-        size = 1700
+        size = 3230
     }
 
     clergymen = {
         culture = berber
         religion = sunni
-        size = 600
+        size = 1140
     }
 
     artisans = {
         culture = berber
         religion = sunni
-        size = 6000
+        size = 11400
     }
 
     soldiers = {
         culture = berber
         religion = sunni
-        size = 1100
+        size = 2090
     }
 
     farmers = {
         culture = berber
         religion = sunni
-        size = 58200
+        size = 110580
     }
 }
-#Gibraltar 
+#Gibraltar
 517 = {
     officers = {
         culture = berber
         religion = sunni
-        size = 5
+        size = 9
     }
 
     bureaucrats = {
         culture = berber
         religion = sunni
-        size = 50
+        size = 95
     }
 
     soldiers = {
         culture = berber
         religion = sunni
-        size = 700
+        size = 1330
     }
 
     artisans = {
         culture = berber
         religion = sunni
-        size = 1500
+        size = 2850
     }
 
     farmers = {
         culture = berber
         religion = sunni
-        size = 7000
+        size = 13300
     }
 }
 #Setubal
@@ -377,31 +377,31 @@
     aristocrats = {
         culture = berber
         religion = sunni
-        size = 400
+        size = 760
     }
 
     clergymen = {
         culture = berber
         religion = sunni
-        size = 300
+        size = 570
     }
 
     artisans = {
         culture = berber
         religion = sunni
-        size = 3000
+        size = 5700
     }
 
     soldiers = {
         culture = berber
         religion = sunni
-        size = 1500
+        size = 2850
     }
 
     farmers = {
         culture = berber
         religion = sunni
-        size = 42800
+        size = 81320
     }
 }
 #Evora
@@ -409,43 +409,43 @@
     aristocrats = {
         culture = berber
         religion = sunni
-        size = 850
+        size = 1615
     }
 
     officers = {
         culture = berber
         religion = sunni
-        size = 100
+        size = 190
     }
 
     bureaucrats = {
         culture = berber
         religion = sunni
-        size = 150
+        size = 285
     }
 
     clergymen = {
         culture = berber
         religion = sunni
-        size = 425
+        size = 807
     }
 
     artisans = {
         culture = berber
         religion = sunni
-        size = 2250
+        size = 4275
     }
 
     soldiers = {
         culture = berber
         religion = sunni
-        size = 1100
+        size = 2090
     }
 
     farmers = {
         culture = berber
         religion = sunni
-        size = 44250
+        size = 84075
     }
 }
 #Beja
@@ -453,62 +453,62 @@
     aristocrats = {
         culture = berber
         religion = sunni
-        size = 500
+        size = 950
     }
 
     clergymen = {
         culture = berber
         religion = sunni
-        size = 250
+        size = 475
     }
 
     artisans = {
         culture = berber
         religion = sunni
-        size = 1250
+        size = 2375
     }
 
     soldiers = {
         culture = berber
         religion = sunni
-        size = 250
+        size = 475
     }
 
     farmers = {
         culture = berber
         religion = sunni
-        size = 42250
+        size = 80275
     }
 }
-#Faro 
+#Faro
 527 = {
     aristocrats = {
         culture = berber
         religion = sunni
-        size = 550
+        size = 1045
     }
 
     clergymen = {
         culture = berber
         religion = sunni
-        size = 325
+        size = 617
     }
 
     artisans = {
         culture = berber
         religion = sunni
-        size = 1750
+        size = 3325
     }
 
     soldiers = {
         culture = berber
         religion = sunni
-        size = 350
+        size = 665
     }
 
     farmers = {
         culture = berber
         religion = sunni
-        size = 41025
+        size = 77947
     }
 }

@@ -3,429 +3,13 @@
     aristocrats = {
         culture = maghrebi
         religion = sunni
-        size = 2000
+        size = 3000
     }
 
     clergymen = {
         culture = maghrebi
         religion = sunni
-        size = 250
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 1000
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 80000
-    }
-}
-#Santa Fe
-103 = {
-    aristocrats = {
-        culture = maghrebi
-        religion = sunni
-        size = 10
-    }
-
-    clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 25
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = sunni
-        size = 50
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 15
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 2900
-    }
-}
-#Rapid City
-122 = {
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 300
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 2500
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 100
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 1900
-    }
-}
-#North Platte
-125 = {
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 1030
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 200
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 2800
-    }
-}
-#Baton Rouge
-140 = {
-    aristocrats = {
-        culture = maghrebi
-        religion = sunni
-        size = 150
-    }
-
-    bureaucrats = {
-        culture = maghrebi
-        religion = sunni
-        size = 50
-    }
-
-    officers = {
-        culture = maghrebi
-        religion = sunni
-        size = 45
-    }
-
-    clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = sunni
-        size = 175
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 1100
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 47330
-    }
-}
-#Des Moines
-151 = {
-    aristocrats = {
-        culture = maghrebi
-        religion = sunni
-        size = 25
-    }
-
-    officers = {
-        culture = maghrebi
-        religion = sunni
-        size = 5
-    }
-
-    bureaucrats = {
-        culture = maghrebi
-        religion = sunni
-        size = 10
-    }
-
-    clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 15
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = sunni
-        size = 50
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 2500
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 25900
-    }
-}
-#Carbondale
-168 = {
-    clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = sunni
-        size = 800
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 175
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 49925
-    }
-}
-#Fort Wayne
-172 = {
-    clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 400
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = sunni
-        size = 2500
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 1000
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 41850
-    }
-}
-#Louisville
-184 = {
-    clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 200
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = sunni
-        size = 700
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 750
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 47050
-    }
-}
-#Bowling Green
-186 = {
-    bureaucrats = {
-        culture = maghrebi
-        religion = sunni
-        size = 125
-    }
-
-    officers = {
-        culture = maghrebi
-        religion = sunni
-        size = 75
-    }
-
-    clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 350
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = sunni
-        size = 2350
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 5475
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 63725
-    }
-}
-#Paducah
-187 = {
-    clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 715
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = sunni
-        size = 1250
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 5150
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 34625
-    }
-}
-#Chattanooga
-191 = {
-    clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 150
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = sunni
-        size = 2400
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 2175
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 31475
-    }
-}
-#Montgomery
-195 = {
-    aristocrats = {
-        culture = maghrebi
-        religion = sunni
-        size = 750
-    }
-
-    bureaucrats = {
-        culture = maghrebi
-        religion = sunni
-        size = 250
-    }
-
-    officers = {
-        culture = maghrebi
-        religion = sunni
-        size = 175
-    }
-
-    clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 275
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = sunni
-        size = 1650
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 3100
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 54850
-    }
-
-    slaves = {
-        culture = maghrebi
-        religion = sunni
-        size = 13500
-    }
-}
-#Annapolis
-220 = {
-    aristocrats = {
-        culture = maghrebi
-        religion = sunni
-        size = 500
-    }
-
-    clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 120
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = sunni
-        size = 640
+        size = 375
     }
 
     soldiers = {
@@ -437,27 +21,53 @@
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 36000
+        size = 120000
     }
 }
-#Hagerstown 
-221 = {
+#Santa Fe
+103 = {
     aristocrats = {
         culture = maghrebi
         religion = sunni
-        size = 150
+        size = 15
     }
 
     clergymen = {
         culture = maghrebi
         religion = sunni
-        size = 50
+        size = 37
     }
 
     artisans = {
         culture = maghrebi
         religion = sunni
-        size = 325
+        size = 75
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 22
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 4350
+    }
+}
+#Rapid City
+122 = {
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 450
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 3750
     }
 
     soldiers = {
@@ -469,253 +79,373 @@
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 31325
+        size = 2850
     }
 }
-#Dover
-222 = {
-    aristocrats = {
+#North Platte
+125 = {
+    farmers = {
         culture = maghrebi
         religion = sunni
-        size = 100
-    }
-
-    bureaucrats = {
-        culture = maghrebi
-        religion = sunni
-        size = 50
-    }
-
-    officers = {
-        culture = maghrebi
-        religion = sunni
-        size = 50
+        size = 1545
     }
 
     soldiers = {
         culture = maghrebi
         religion = sunni
-        size = 125
+        size = 300
     }
 
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 26400
+        size = 4200
+    }
+}
+#Baton Rouge
+140 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 225
+    }
+
+    bureaucrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 75
+    }
+
+    officers = {
+        culture = maghrebi
+        religion = sunni
+        size = 67
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 262
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 1650
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 70995
+    }
+}
+#Des Moines
+151 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 37
+    }
+
+    officers = {
+        culture = maghrebi
+        religion = sunni
+        size = 7
+    }
+
+    bureaucrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 15
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 22
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 75
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 3750
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 38850
+    }
+}
+#Carbondale
+168 = {
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 150
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 1200
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 262
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 74887
+    }
+}
+#Fort Wayne
+172 = {
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 600
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 3750
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 1500
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 62775
+    }
+}
+#Louisville
+184 = {
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 300
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 1050
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 1125
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 70575
+    }
+}
+#Bowling Green
+186 = {
+    bureaucrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 187
+    }
+
+    officers = {
+        culture = maghrebi
+        religion = sunni
+        size = 112
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 525
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 3525
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 8212
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 95587
+    }
+}
+#Paducah
+187 = {
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 1072
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 1875
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 7725
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 51937
+    }
+}
+#Chattanooga
+191 = {
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 225
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 3600
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 3262
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 47212
+    }
+}
+#Montgomery
+195 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 1125
+    }
+
+    bureaucrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 375
+    }
+
+    officers = {
+        culture = maghrebi
+        religion = sunni
+        size = 262
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 412
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 2475
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 4650
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 82275
     }
 
     slaves = {
         culture = maghrebi
         religion = sunni
-        size = 500
+        size = 20250
     }
 }
-#Philadelphia
-223 = {
-    bureaucrats = {
+#Annapolis
+220 = {
+    aristocrats = {
         culture = maghrebi
         religion = sunni
-        size = 100
-    }
-
-    officers = {
-        culture = maghrebi
-        religion = sunni
-        size = 100
-    }
-
-    capitalists = {
-        culture = maghrebi
-        religion = sunni
-        size = 25
+        size = 750
     }
 
     clergymen = {
         culture = maghrebi
         religion = sunni
-        size = 50
-    }
-
-    clerks = {
-        culture = maghrebi
-        religion = sunni
-        size = 60
+        size = 180
     }
 
     artisans = {
         culture = maghrebi
         religion = sunni
-        size = 5000
+        size = 960
     }
 
     soldiers = {
         culture = maghrebi
         religion = sunni
-        size = 2000
+        size = 2250
     }
 
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 56950
+        size = 54000
     }
 }
-#Tuat
-1718 = {
+#Hagerstown
+221 = {
     aristocrats = {
         culture = maghrebi
         religion = sunni
-        size = 25
-    }
-
-    clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 20
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 1100
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 7800
-    }
-}
-#Illizi
-1719 = {
-    aristocrats = {
-        culture = maghrebi
-        religion = sunni
-        size = 25
-    }
-
-    clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 15
-    }
-
-
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 60
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 1900
-    }
-}
-#In Guezzam
-1721 = {
-    aristocrats = {
-        culture = maghrebi
-        religion = sunni
-        size = 25
-    }
-
-    clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 15
-    }
-
-
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 65
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 1900
-    }
-}
-#Tin Zawatene
-1722 = {
-    aristocrats = {
-        culture = maghrebi
-        religion = sunni
-        size = 50
-    }
-
-    clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 100
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 50
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 3800
-    }
-}
-#Murzuk
-1741 = {
-    aristocrats = {
-        culture = maghrebi
-        religion = sunni
-        size = 15
-    }
-
-    bureaucrats = {
-        culture = maghrebi
-        religion = sunni
-        size = 20
-    }
-
-    officers = {
-        culture = maghrebi
-        religion = sunni
-        size = 15
-    }
-
-    clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 25
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = sunni
-        size = 50
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 10
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 5880
-    }
-}
-#Ghadamis
-1744 = {
-    aristocrats = {
-        culture = maghrebi
-        religion = sunni
-        size = 65
+        size = 225
     }
 
     clergymen = {
@@ -727,33 +457,269 @@
     artisans = {
         culture = maghrebi
         religion = sunni
-        size = 200
+        size = 487
     }
 
     soldiers = {
         culture = maghrebi
         religion = sunni
-        size = 1100
+        size = 225
     }
 
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 7650
+        size = 46987
     }
 }
-#Walata
-1781 = {
+#Dover
+222 = {
     aristocrats = {
         culture = maghrebi
         religion = sunni
-        size = 100
+        size = 150
+    }
+
+    bureaucrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 75
+    }
+
+    officers = {
+        culture = maghrebi
+        religion = sunni
+        size = 75
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 187
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 39600
+    }
+
+    slaves = {
+        culture = maghrebi
+        religion = sunni
+        size = 750
+    }
+}
+#Philadelphia
+223 = {
+    bureaucrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 150
+    }
+
+    officers = {
+        culture = maghrebi
+        religion = sunni
+        size = 150
+    }
+
+    capitalists = {
+        culture = maghrebi
+        religion = sunni
+        size = 37
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 75
+    }
+
+    clerks = {
+        culture = maghrebi
+        religion = sunni
+        size = 90
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 7500
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 3000
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 85425
+    }
+}
+#Tuat
+1718 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 37
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 30
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 1650
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 11700
+    }
+}
+#Illizi
+1719 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 37
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 22
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 90
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 2850
+    }
+}
+#In Guezzam
+1721 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 37
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 22
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 97
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 2850
+    }
+}
+#Tin Zawatene
+1722 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 75
     }
 
     clergymen = {
         culture = maghrebi
         religion = sunni
         size = 150
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 75
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 5700
+    }
+}
+#Murzuk
+1741 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 22
+    }
+
+    bureaucrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 30
+    }
+
+    officers = {
+        culture = maghrebi
+        religion = sunni
+        size = 22
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 37
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 75
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 15
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 8820
+    }
+}
+#Ghadamis
+1744 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 97
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 112
     }
 
     artisans = {
@@ -765,13 +731,45 @@
     soldiers = {
         culture = maghrebi
         religion = sunni
-        size = 500
+        size = 1650
     }
 
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 10400
+        size = 11475
+    }
+}
+#Walata
+1781 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = sunni
+        size = 225
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = sunni
+        size = 450
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = sunni
+        size = 750
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 15600
     }
 }
 #Bir Maghrein
@@ -779,31 +777,31 @@
     aristocrats = {
         culture = maghrebi
         religion = sunni
-        size = 110
+        size = 165
     }
 
     clergymen = {
         culture = maghrebi
         religion = sunni
-        size = 115
+        size = 172
     }
 
     artisans = {
         culture = maghrebi
         religion = sunni
-        size = 150
+        size = 225
     }
 
     soldiers = {
         culture = maghrebi
         religion = sunni
-        size = 125
+        size = 187
     }
 
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 11900
+        size = 17850
     }
 }
 #Lagos
@@ -811,31 +809,31 @@
     aristocrats = {
         culture = maghrebi
         religion = sunni
-        size = 1550
+        size = 2325
     }
 
     clergymen = {
         culture = maghrebi
         religion = sunni
-        size = 800
+        size = 1200
     }
 
     artisans = {
         culture = maghrebi
         religion = sunni
-        size = 3200
+        size = 4800
     }
 
     soldiers = {
         culture = maghrebi
         religion = sunni
-        size = 1050
+        size = 1575
     }
 
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 47400
+        size = 71100
     }
 }
 #Araouane
@@ -843,31 +841,31 @@
     aristocrats = {
         culture = maghrebi
         religion = sunni
-        size = 175
+        size = 262
     }
 
     clergymen = {
         culture = maghrebi
         religion = sunni
-        size = 100
+        size = 150
     }
 
     artisans = {
         culture = maghrebi
         religion = sunni
-        size = 1250
+        size = 1875
     }
 
     soldiers = {
         culture = maghrebi
         religion = sunni
-        size = 1000
+        size = 1500
     }
 
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 13500
+        size = 20250
     }
 }
 #Coudersport
@@ -875,24 +873,24 @@
     clergymen = {
         culture = maghrebi
         religion = sunni
-        size = 100
+        size = 150
     }
 
     artisans = {
         culture = maghrebi
         religion = sunni
-        size = 1000
+        size = 1500
     }
 
     soldiers = {
         culture = maghrebi
         religion = sunni
-        size = 5150
+        size = 7725
     }
 
     farmers = {
         culture = maghrebi
         religion = sunni
-        size = 38000
+        size = 57000
     }
 }

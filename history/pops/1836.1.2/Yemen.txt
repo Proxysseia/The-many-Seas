@@ -3,19 +3,69 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 570
+        size = 855
     }
 
     bureaucrats = {
         culture = saayda
         religion = sunni
-        size = 25
+        size = 37
     }
 
     officers = {
         culture = saayda
         religion = sunni
-        size = 25
+        size = 37
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = sunni
+        size = 225
+    }
+
+    artisans = {
+        culture = saayda
+        religion = sunni
+        size = 1650
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = sunni
+        size = 3000
+    }
+
+    farmers = {
+        culture = saayda
+        religion = sunni
+        size = 24450
+    }
+
+    farmers = {
+        culture = amhara
+        religion = sunni
+        size = 10000
+    }
+}
+#Ghaydah
+1175 = {
+    aristocrats = {
+        culture = saayda
+        religion = sunni
+        size = 900
+    }
+
+    bureaucrats = {
+        culture = saayda
+        religion = sunni
+        size = 37
+    }
+
+    officers = {
+        culture = saayda
+        religion = sunni
+        size = 37
     }
 
     clergymen = {
@@ -27,108 +77,7 @@
     artisans = {
         culture = saayda
         religion = sunni
-        size = 1100
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = sunni
-        size = 2000
-    }
-
-    farmers = {
-        culture = saayda
-        religion = sunni
-        size = 16300
-    }
-	
-	farmers = {
-        culture = amhara
-        religion = sunni
-        size = 10000
-    }
-}
-#Ghaydah
-1175 = {
-    aristocrats = {
-        culture = saayda
-        religion = sunni
-        size = 600
-    }
-
-    bureaucrats = {
-        culture = saayda
-        religion = sunni
-        size = 25
-    }
-
-    officers = {
-        culture = saayda
-        religion = sunni
-        size = 25
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = sunni
-        size = 100
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 550
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = sunni
-        size = 2000
-    }
-
-    farmers = {
-        culture = saayda
-        religion = sunni
-        size = 10000
-    }
-	
-	farmers = {
-        culture = amhara
-        religion = sunni
-        size = 10000
-    }
-
-}
-#Bayda
-1176 = {
-    aristocrats = {
-        culture = saayda
-        religion = sunni
-        size = 600
-    }
-
-    bureaucrats = {
-        culture = saayda
-        religion = sunni
-        size = 25
-    }
-
-    officers = {
-        culture = saayda
-        religion = sunni
-        size = 25
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = sunni
-        size = 350
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 3900
+        size = 825
     }
 
     soldiers = {
@@ -137,16 +86,66 @@
         size = 3000
     }
 
+    farmers = {
+        culture = saayda
+        religion = sunni
+        size = 15000
+    }
+
+    farmers = {
+        culture = amhara
+        religion = sunni
+        size = 10000
+    }
+}
+#Bayda
+1176 = {
+    aristocrats = {
+        culture = saayda
+        religion = sunni
+        size = 900
+    }
+
+    bureaucrats = {
+        culture = saayda
+        religion = sunni
+        size = 37
+    }
+
+    officers = {
+        culture = saayda
+        religion = sunni
+        size = 37
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = sunni
+        size = 525
+    }
+
+    artisans = {
+        culture = saayda
+        religion = sunni
+        size = 5850
+    }
+
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 1175
+        size = 4500
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = sunni
+        size = 1762
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 17050
+        size = 25575
     }
 
     farmers = {
@@ -160,43 +159,43 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 950
+        size = 1425
     }
 
     bureaucrats = {
         culture = saayda
         religion = sunni
-        size = 100
+        size = 150
     }
 
     officers = {
         culture = saayda
         religion = sunni
-        size = 150
+        size = 225
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 500
+        size = 750
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 2550
+        size = 3825
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 2000
+        size = 3000
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 22750
+        size = 34125
     }
 
     soldiers = {
@@ -210,38 +209,37 @@
         religion = sunni
         size = 26650
     }
-
 }
 #Hodeida
 1179 = {
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 300
+        size = 450
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 200
+        size = 300
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 1100
+        size = 1650
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 2000
+        size = 3000
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 12500
+        size = 18750
     }
 
     farmers = {
@@ -249,38 +247,37 @@
         religion = sunni
         size = 7600
     }
-
 }
 #Taizz (52000/13000 POPS)
 1180 = {
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 2000
+        size = 3000
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 100
+        size = 150
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 500
+        size = 750
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 200
+        size = 300
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 7225
+        size = 10837
     }
 
     farmers = {
@@ -288,51 +285,49 @@
         religion = sunni
         size = 12400
     }
-
 }
 #Aden
 1412 = {
-
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 436
+        size = 654
     }
 
     bureaucrats = {
         culture = saayda
         religion = sunni
-        size = 25
+        size = 37
     }
 
     officers = {
         culture = saayda
         religion = sunni
-        size = 25
+        size = 37
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 100
+        size = 150
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 500
+        size = 750
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 100
+        size = 150
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 7225
+        size = 10837
     }
 
     farmers = {
@@ -340,5 +335,4 @@
         religion = sunni
         size = 3750
     }
-
 }

@@ -11,8 +11,8 @@
         religion = protestant
         size = 10
     }
-	
-	farmers = {
+
+    farmers = {
         culture = scottish
         religion = protestant
         size = 1300
@@ -23,19 +23,19 @@
     aristocrats = {
         culture = australian
         religion = protestant
-        size = 100
+        size = 75
     }
 
     bureaucrats = {
         culture = australian
         religion = protestant
-        size = 50
+        size = 37
     }
 
     farmers = {
         culture = australian
         religion = protestant
-        size = 650
+        size = 487
     }
 }
 #Cape Verde
@@ -71,7 +71,7 @@
         religion = catholic
         size = 100
     }
-	
+
     farmers = {
         culture = french
         religion = catholic

@@ -6,120 +6,119 @@
     aristocrats = {
         culture = serb
         religion = orthodox
-        size = 100
+        size = 65
     }
 
     bureaucrats = {
         culture = serb
         religion = orthodox
-        size = 100
+        size = 65
     }
 
     officers = {
         culture = serb
         religion = orthodox
-        size = 25
+        size = 16
     }
 
     clergymen = {
         culture = serb
         religion = orthodox
-        size = 275
+        size = 178
     }
 
     artisans = {
         culture = serb
         religion = orthodox
-        size = 1300
+        size = 845
     }
 
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 3000
+        size = 1950
     }
 
     farmers = {
         culture = serb
         religion = orthodox
-        size = 21375
+        size = 13893
     }
 
     farmers = {
         culture = serb
         religion = orthodox
-        size = 1000
+        size = 650
     }
 }
 #Kosovo-Sanjak Region (52000)  #see Serbia.txt for balance of region
 #under the rule of Ottoman Empire in 1836
 #Pljevlja (52000/13000 POPS) #now part of Montenegro
 2577 = {
-
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 520
+        size = 338
     }
 
     clergymen = {
         culture = serb
         religion = orthodox
-        size = 100
+        size = 65
     }
 
     artisans = {
         culture = serb
         religion = orthodox
-        size = 250
+        size = 162
     }
 
     farmers = {
         culture = serb
         religion = orthodox
-        size = 3170
+        size = 2060
     }
 
     farmers = {
         culture = serb
         religion = orthodox
-        size = 5175
+        size = 3363
     }
 
     aristocrats = {
         culture = serb
         religion = the_broken
-        size = 250
+        size = 162
     }
 
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 100
+        size = 65
     }
 
     artisans = {
         culture = serb
         religion = the_broken
-        size = 300
+        size = 195
     }
 
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 150
+        size = 97
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 3000
+        size = 1950
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 200
+        size = 130
     }
 }
 #Dalmatia Region (64000) #see Croatia.txt for balance of region
@@ -129,121 +128,120 @@
     aristocrats = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 65
     }
 
     officers = {
         culture = slovene
         religion = catholic
-        size = 10
+        size = 6
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 65
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 250
+        size = 162
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 65
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 4000
+        size = 2600
     }
 
     farmers = {
         culture = albanian
         religion = catholic
-        size = 350
+        size = 227
     }
 
     aristocrats = {
         culture = serb
         religion = orthodox
-        size = 200
+        size = 130
     }
 
     officers = {
         culture = serb
         religion = orthodox
-        size = 10
+        size = 6
     }
 
     clergymen = {
         culture = serb
         religion = orthodox
-        size = 100
+        size = 65
     }
 
     artisans = {
         culture = serb
         religion = orthodox
-        size = 550
+        size = 357
     }
 
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 125
+        size = 81
     }
 
     farmers = {
         culture = serb
         religion = orthodox
-        size = 10225
+        size = 6646
     }
 
     farmers = {
         culture = serb
         religion = catholic
-        size = 350
+        size = 227
     }
 
     aristocrats = {
         culture = north_italian
         religion = catholic
-        size = 100
+        size = 65
     }
 
     officers = {
         culture = north_italian
         religion = catholic
-        size = 10
+        size = 6
     }
 
     clergymen = {
         culture = north_italian
         religion = catholic
-        size = 100
+        size = 65
     }
 
     artisans = {
         culture = north_italian
         religion = catholic
-        size = 100
+        size = 65
     }
 
     soldiers = {
         culture = north_italian
         religion = catholic
-        size = 100
+        size = 65
     }
 
     farmers = {
         culture = north_italian
         religion = catholic
-        size = 100
+        size = 65
     }
-
 }

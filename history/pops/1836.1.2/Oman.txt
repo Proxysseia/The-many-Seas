@@ -4,43 +4,43 @@
     aristocrats = {
         culture = amhara
         religion = sunni
-        size = 150
+        size = 127
     }
 
     bureaucrats = {
         culture = amhara
         religion = sunni
-        size = 25
+        size = 21
     }
 
     officers = {
         culture = amhara
         religion = sunni
-        size = 50
+        size = 42
     }
 
     clergymen = {
         culture = amhara
         religion = sunni
-        size = 50
+        size = 42
     }
 
     artisans = {
         culture = amhara
         religion = sunni
-        size = 400
+        size = 340
     }
 
     soldiers = {
         culture = amhara
         religion = sunni
-        size = 4000
+        size = 3400
     }
 
     farmers = {
         culture = amhara
         religion = sunni
-        size = 2625
+        size = 2231
     }
 
     clergymen = {
@@ -72,13 +72,13 @@
     aristocrats = {
         culture = amhara
         religion = sunni
-        size = 50
+        size = 42
     }
 
     clergymen = {
         culture = amhara
         religion = sunni
-        size = 75
+        size = 63
     }
 
     artisans = {
@@ -102,7 +102,7 @@
     farmers = {
         culture = amhara
         religion = shiite
-        size = 2300
+        size = 1955
     }
 }
 #Suhar
@@ -110,31 +110,31 @@
     aristocrats = {
         culture = amhara
         religion = sunni
-        size = 50
+        size = 42
     }
 
     clergymen = {
         culture = amhara
         religion = sunni
-        size = 75
+        size = 63
     }
 
     artisans = {
         culture = amhara
         religion = sunni
-        size = 200
+        size = 170
     }
 
     soldiers = {
         culture = amhara
         religion = sunni
-        size = 50
+        size = 42
     }
 
     farmers = {
         culture = amhara
         religion = sunni
-        size = 2000
+        size = 1700
     }
 
     farmers = {
@@ -148,31 +148,31 @@
     aristocrats = {
         culture = amhara
         religion = sunni
-        size = 75
+        size = 63
     }
 
     clergymen = {
         culture = amhara
         religion = sunni
-        size = 50
+        size = 42
     }
 
     artisans = {
         culture = amhara
         religion = sunni
-        size = 700
+        size = 595
     }
 
     soldiers = {
         culture = amhara
         religion = sunni
-        size = 1000
+        size = 850
     }
 
     farmers = {
         culture = amhara
         religion = sunni
-        size = 2575
+        size = 2188
     }
 
     clergymen = {
@@ -204,31 +204,31 @@
     aristocrats = {
         culture = amhara
         religion = sunni
-        size = 25
+        size = 21
     }
 
     clergymen = {
         culture = amhara
         religion = sunni
-        size = 50
+        size = 42
     }
 
     artisans = {
         culture = amhara
         religion = sunni
-        size = 100
+        size = 85
     }
 
     soldiers = {
         culture = amhara
         religion = sunni
-        size = 25
+        size = 21
     }
 
     farmers = {
         culture = amhara
         religion = sunni
-        size = 3800
+        size = 3230
     }
 
     clergymen = {
@@ -260,31 +260,31 @@
     aristocrats = {
         culture = amhara
         religion = sunni
-        size = 75
+        size = 63
     }
 
     clergymen = {
         culture = amhara
         religion = sunni
-        size = 75
+        size = 63
     }
 
     artisans = {
         culture = amhara
         religion = sunni
-        size = 200
+        size = 170
     }
 
     soldiers = {
         culture = amhara
         religion = sunni
-        size = 50
+        size = 42
     }
 
     farmers = {
         culture = amhara
         religion = sunni
-        size = 3000
+        size = 2550
     }
 
     clergymen = {
@@ -311,43 +311,43 @@
     aristocrats = {
         culture = amhara
         religion = sunni
-        size = 65
+        size = 55
     }
 
     bureaucrats = {
         culture = amhara
         religion = sunni
-        size = 50
+        size = 42
     }
 
     officers = {
         culture = amhara
         religion = sunni
-        size = 15
+        size = 12
     }
 
     clergymen = {
         culture = amhara
         religion = sunni
-        size = 75
+        size = 63
     }
 
     artisans = {
         culture = amhara
         religion = sunni
-        size = 250
+        size = 212
     }
 
     soldiers = {
         culture = amhara
         religion = sunni
-        size = 1000
+        size = 850
     }
 
     farmers = {
         culture = amhara
         religion = sunni
-        size = 5000
+        size = 4250
     }
 
     clergymen = {
@@ -373,31 +373,31 @@
     aristocrats = {
         culture = amhara
         religion = sunni
-        size = 30
+        size = 25
     }
 
     clergymen = {
         culture = amhara
         religion = sunni
-        size = 5
+        size = 4
     }
 
     artisans = {
         culture = amhara
         religion = sunni
-        size = 10
+        size = 8
     }
 
     soldiers = {
         culture = amhara
         religion = sunni
-        size = 100
+        size = 85
     }
 
     farmers = {
         culture = amhara
         religion = sunni
-        size = 3230
+        size = 2745
     }
 
     farmers = {
@@ -411,38 +411,39 @@
     aristocrats = {
         culture = amhara
         religion = sunni
-        size = 250
+        size = 212
     }
 
     bureaucrats = {
         culture = amhara
         religion = sunni
-        size = 450
+        size = 382
     }
 
     clergymen = {
         culture = amhara
         religion = sunni
-        size = 750
+        size = 637
     }
 
     artisans = {
         culture = amhara
         religion = sunni
-        size = 2750
+        size = 2337
     }
+
     soldiers = {
         culture = amhara
         religion = sunni
-        size = 9000
+        size = 7650
     }
-	
+
     farmers = {
         culture = amhara
         religion = sunni
-        size = 6550
+        size = 5567
     }
-	
+
     artisans = {
         culture = saayda
         religion = sunni

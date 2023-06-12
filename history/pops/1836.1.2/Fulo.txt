@@ -3,37 +3,37 @@
     clergymen = {
         culture = bambara
         religion = sunni
-        size = 50
+        size = 75
     }
 
     artisans = {
         culture = bambara
         religion = sunni
-        size = 1200
+        size = 1800
     }
 
     soldiers = {
         culture = bambara
         religion = sunni
-        size = 2000
+        size = 3000
     }
 
     farmers = {
         culture = bambara
         religion = sunni
-        size = 80475
+        size = 120712
     }
 
-	farmers = {
+    farmers = {
         culture = bambara
         religion = sunni
-        size = 21475
+        size = 32212
     }
-	
-	farmers = {
+
+    farmers = {
         culture = berber
         religion = sunni
-        size = 21475
+        size = 53687
     }
 }
 #Dahkla
@@ -41,37 +41,37 @@
     aristocrats = {
         culture = bambara
         religion = sunni
-        size = 210
+        size = 315
     }
 
     clergymen = {
         culture = bambara
         religion = sunni
-        size = 215
+        size = 322
     }
 
     artisans = {
         culture = bambara
         religion = sunni
-        size = 750
+        size = 1125
     }
 
     soldiers = {
         culture = bambara
         religion = sunni
-        size = 525
+        size = 787
     }
 
     farmers = {
         culture = bambara
         religion = sunni
-        size = 13300
+        size = 19950
     }
-	
-	farmers = {
+
+    farmers = {
         culture = berber
         religion = sunni
-        size = 23300
+        size = 58250
     }
 }
 #Nouakchott
@@ -79,69 +79,13 @@
     aristocrats = {
         culture = bambara
         religion = sunni
-        size = 450
+        size = 675
     }
 
     bureaucrats = {
         culture = bambara
         religion = sunni
-        size = 20
-    }
-
-    officers = {
-        culture = bambara
-        religion = sunni
-        size = 5
-    }
-
-    clergymen = {
-        culture = bambara
-        religion = sunni
-        size = 225
-    }
-
-    artisans = {
-        culture = bambara
-        religion = sunni
-        size = 925
-    }
-
-    soldiers = {
-        culture = bambara
-        religion = sunni
-        size = 250
-    }
-
-    farmers = {
-        culture = bambara
-        religion = sunni
-        size = 10125
-    }
-	
-	farmers = {
-        culture = berber
-        religion = sunni
-        size = 8125
-    }
-
-    slaves = {
-        culture = berber
-        religion = sunni
-        size = 3000
-    }
-}
-#Shingit
-1779 = {
-    aristocrats = {
-        culture = bambara
-        religion = sunni
-        size = 40
-    }
-
-    bureaucrats = {
-        culture = bambara
-        religion = sunni
-        size = 3
+        size = 30
     }
 
     officers = {
@@ -153,31 +97,87 @@
     clergymen = {
         culture = bambara
         religion = sunni
-        size = 75
+        size = 337
     }
 
     artisans = {
         culture = bambara
         religion = sunni
-        size = 150
+        size = 1387
     }
 
     soldiers = {
         culture = bambara
         religion = sunni
-        size = 25
+        size = 375
     }
 
     farmers = {
         culture = bambara
         religion = sunni
-        size = 2700
+        size = 15187
     }
-	
-	farmers = {
+
+    farmers = {
         culture = berber
         religion = sunni
-        size = 2700
+        size = 20312
+    }
+
+    slaves = {
+        culture = berber
+        religion = sunni
+        size = 7500
+    }
+}
+#Shingit
+1779 = {
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 60
+    }
+
+    bureaucrats = {
+        culture = bambara
+        religion = sunni
+        size = 4
+    }
+
+    officers = {
+        culture = bambara
+        religion = sunni
+        size = 10
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 112
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 225
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 37
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 4050
+    }
+
+    farmers = {
+        culture = berber
+        religion = sunni
+        size = 6750
     }
 }
 #Bissau
@@ -185,49 +185,49 @@
     aristocrats = {
         culture = bambara
         religion = sunni
-        size = 100
+        size = 150
     }
 
     officers = {
         culture = bambara
         religion = sunni
-        size = 100
+        size = 150
     }
 
     clergymen = {
         culture = bambara
         religion = sunni
-        size = 100
+        size = 150
     }
 
     artisans = {
         culture = bambara
         religion = sunni
-        size = 375
+        size = 562
     }
 
     soldiers = {
         culture = bambara
         religion = sunni
-        size = 100
+        size = 150
     }
 
     farmers = {
         culture = bambara
         religion = sunni
-        size = 15300
+        size = 22950
     }
-	
-	farmers = {
+
+    farmers = {
         culture = berber
         religion = sunni
-        size = 10300
+        size = 25750
     }
 
     slaves = {
         culture = berber
         religion = animist
-        size = 2000
+        size = 5000
     }
 }
 #Madeira
@@ -235,37 +235,37 @@
     aristocrats = {
         culture = bambara
         religion = sunni
-        size = 250
+        size = 375
     }
 
     clergymen = {
         culture = bambara
         religion = sunni
-        size = 175
+        size = 262
     }
 
     artisans = {
         culture = bambara
         religion = sunni
-        size = 1500
+        size = 2250
     }
 
     soldiers = {
         culture = bambara
         religion = sunni
-        size = 250
+        size = 375
     }
 
     farmers = {
         culture = bambara
         religion = sunni
-        size = 13825
+        size = 20737
     }
-	
-	farmers = {
+
+    farmers = {
         culture = berber
         religion = sunni
-        size = 10825
+        size = 27062
     }
 }
 #Canary Islands
@@ -273,19 +273,69 @@
     aristocrats = {
         culture = bambara
         religion = sunni
-        size = 825
+        size = 1237
     }
 
     officers = {
         culture = bambara
         religion = sunni
-        size = 50
+        size = 75
+    }
+
+    bureaucrats = {
+        culture = bambara
+        religion = sunni
+        size = 112
+    }
+
+    clergymen = {
+        culture = bambara
+        religion = sunni
+        size = 787
+    }
+
+    artisans = {
+        culture = bambara
+        religion = sunni
+        size = 4500
+    }
+
+    soldiers = {
+        culture = bambara
+        religion = sunni
+        size = 750
+    }
+
+    farmers = {
+        culture = bambara
+        religion = sunni
+        size = 30037
+    }
+
+    farmers = {
+        culture = berber
+        religion = sunni
+        size = 67562
+    }
+}
+#Mboul
+2573 = {
+    aristocrats = {
+        culture = bambara
+        religion = sunni
+        size = 975
     }
 
     bureaucrats = {
         culture = bambara
         religion = sunni
         size = 75
+    }
+
+    officers = {
+        culture = bambara
+        religion = sunni
+        size = 150
     }
 
     clergymen = {
@@ -294,77 +344,27 @@
         size = 525
     }
 
-    artisans = {
-        culture = bambara
-        religion = sunni
-        size = 3000
-    }
-
     soldiers = {
         culture = bambara
         religion = sunni
-        size = 500
+        size = 2100
     }
 
     farmers = {
         culture = bambara
         religion = sunni
-        size = 20025
-    }
-	
-	farmers = {
-        culture = berber
-        religion = sunni
-        size = 27025
-    }
-}
-#Mboul
-2573 = {
-    aristocrats = {
-        culture = bambara
-        religion = sunni
-        size = 650
-    }
-
-    bureaucrats = {
-        culture = bambara
-        religion = sunni
-        size = 50
-    }
-
-    officers = {
-        culture = bambara
-        religion = sunni
-        size = 100
-    }
-
-    clergymen = {
-        culture = bambara
-        religion = sunni
-        size = 350
-    }
-
-    soldiers = {
-        culture = bambara
-        religion = sunni
-        size = 1400
+        size = 46950
     }
 
     farmers = {
-        culture = bambara
-        religion = sunni
-        size = 31300
-    }
-	
-	farmers = {
         culture = berber
         religion = sunni
-        size = 21300
+        size = 53250
     }
 
     slaves = {
         culture = bambara
         religion = sunni
-        size = 7000
+        size = 10500
     }
 }

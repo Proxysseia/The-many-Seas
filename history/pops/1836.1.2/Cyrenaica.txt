@@ -3,43 +3,43 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 275
+        size = 412
     }
 
     bureaucrats = {
         culture = saayda
         religion = sunni
-        size = 25
+        size = 37
     }
 
     officers = {
         culture = saayda
         religion = sunni
-        size = 25
+        size = 37
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 150
+        size = 225
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 735
+        size = 1102
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 1100
+        size = 1650
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 24025
+        size = 36037
     }
 }
 #Darnah (60000/15000 POPS)
@@ -47,31 +47,31 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 175
+        size = 262
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 150
+        size = 225
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 1250
+        size = 1875
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 1250
+        size = 1875
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 17575
+        size = 26362
     }
 }
 #Tobruk
@@ -79,30 +79,30 @@
     aristocrats = {
         culture = saayda
         religion = sunni
-        size = 25
+        size = 37
     }
 
     clergymen = {
         culture = saayda
         religion = sunni
-        size = 50
+        size = 75
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 1150
+        size = 1725
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 1225
+        size = 1837
     }
 
     farmers = {
         culture = saayda
         religion = sunni
-        size = 12700
+        size = 19050
     }
 }

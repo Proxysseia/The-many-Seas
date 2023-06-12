@@ -3,429 +3,19 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 200
+        size = 270
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 250
+        size = 337
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 5000
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = catholic
-        size = 6000
-    }
-
-    farmers = {
-        culture = quechua
-        religion = catholic
-        size = 38895
-	}
-}
-
-#Panama City
-2204 = {
-    aristocrats = {
-        culture = quechua
-        religion = catholic
-        size = 225
-    }
-
-    bureaucrats = {
-        culture = quechua
-        religion = catholic
-        size = 250
-    }
-
-    officers = {
-        culture = quechua
-        religion = catholic
-        size = 50
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = catholic
-        size = 900
-    }
-
-    artisans = {
-        culture = quechua
-        religion = catholic
-        size = 4500
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = catholic
-        size = 3100
-    }
-
-    farmers = {
-        culture = quechua
-        religion = catholic
-        size = 34000
-    }
-
-}
-#David
-2205 = {
-    aristocrats = {
-        culture = quechua
-        religion = catholic
-        size = 150
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = catholic
-        size = 500
-    }
-
-    artisans = {
-        culture = quechua
-        religion = catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = catholic
-        size = 2000
-    }
-
-    farmers = {
-        culture = quechua
-        religion = catholic
-        size = 30000
-    }
-}
-#Penonome (24000/6000 POPS)
-2206 = {
-    aristocrats = {
-        culture = quechua
-        religion = catholic
-        size = 150
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = catholic
-        size = 550
-    }
-
-    artisans = {
-        culture = quechua
-        religion = catholic
-        size = 2500
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = catholic
-        size = 2500
-    }
-
-    farmers = {
-        culture = quechua
-        religion = catholic
-        size = 16500
-    }
-}
-#Yaviza (12000/3000 POPS)
-2208 = {
-    aristocrats = {
-        culture = quechua
-        religion = catholic
-        size = 200
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = catholic
-        size = 250
-    }
-
-    artisans = {
-        culture = quechua
-        religion = catholic
-        size = 500
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = quechua
-        religion = catholic
-        size = 8950
-    }
-}
-#Bogota
-2247 = {
-    aristocrats = {
-        culture = quechua
-        religion = catholic
-        size = 1000
-    }
-
-    bureaucrats = {
-        culture = quechua
-        religion = catholic
-        size = 1000
-    }
-
-    officers = {
-        culture = quechua
-        religion = catholic
-        size = 400
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = catholic
-        size = 3000
-    }
-
-    artisans = {
-        culture = quechua
-        religion = catholic
-        size = 4600
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = catholic
-        size = 9100
-    }
-
-    farmers = {
-        culture = quechua
-        religion = catholic
-        size = 75000
-    }
-}
-#Ibaque 
-2248 = {
-    aristocrats = {
-        culture = quechua
-        religion = catholic
-        size = 250
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = catholic
-        size = 1200
-    }
-
-    artisans = {
-        culture = quechua
-        religion = catholic
-        size = 4500
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = catholic
-        size = 2400
-    }
-
-    farmers = {
-        culture = quechua
-        religion = catholic
-        size = 20200
-    }  
-}
-#Manizales
-2250 = {
-    aristocrats = {
-        culture = quechua
-        religion = catholic
-        size = 225
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = catholic
-        size = 9275
-    }
-
-    artisans = {
-        culture = quechua
-        religion = catholic
-        size = 4850
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = catholic
-        size = 3100
-    }
-
-    farmers = {
-        culture = quechua
-        religion = catholic
-        size = 17000
-    }
-}
-#Cucuta
-2251 = {
-    aristocrats = {
-        culture = quechua
-        religion = catholic
-        size = 500
-    }
-
-    artisans = {
-        culture = quechua
-        religion = catholic
-        size = 4000
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = catholic
-        size = 4200
-    }
-
-    farmers = {
-        culture = quechua
-        religion = catholic
-        size = 16000
-    }
-}
-#Medellin 
-2252 = {
-    aristocrats = {
-        culture = quechua
-        religion = catholic
-        size = 250
-    }
-
-    bureaucrats = {
-        culture = quechua
-        religion = catholic
-        size = 1000
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = catholic
-        size = 1000
-    }
-
-    artisans = {
-        culture = quechua
-        religion = catholic
-        size = 4000
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = catholic
-        size = 5000
-    }
-
-    farmers = {
-        culture = quechua
-        religion = catholic
-        size = 50000
-    }
-}
-#Quibdo 
-2253 = {
-    aristocrats = {
-        culture = quechua
-        religion = catholic
-        size = 250
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = catholic
-        size = 500
-    }
-
-    artisans = {
-        culture = quechua
-        religion = catholic
-        size = 2500
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = catholic
-        size = 5500
-    }
-
-    farmers = {
-        culture = quechua
-        religion = catholic
-        size = 14500
-    }
-}
-#Cartagena de Indias
-2254 = {
-    aristocrats = {
-        culture = quechua
-        religion = catholic
-        size = 600
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = catholic
-        size = 250
-    }
-
-    artisans = {
-        culture = quechua
-        religion = catholic
-        size = 5500
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = catholic
-        size = 6100
-    }
-
-    farmers = {
-        culture = quechua
-        religion = catholic
-        size = 42000
-    }
-}
-#Barranquilla
-2255 = {
-    aristocrats = {
-        culture = quechua
-        religion = catholic
-        size = 1050
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = catholic
-        size = 1250
-    }
-
-    artisans = {
-        culture = quechua
-        religion = catholic
-        size = 9000
+        size = 6750
     }
 
     soldiers = {
@@ -437,7 +27,415 @@
     farmers = {
         culture = quechua
         religion = catholic
-        size = 60000
+        size = 52508
+    }
+}
+#Panama City
+2204 = {
+    aristocrats = {
+        culture = quechua
+        religion = catholic
+        size = 303
+    }
+
+    bureaucrats = {
+        culture = quechua
+        religion = catholic
+        size = 337
+    }
+
+    officers = {
+        culture = quechua
+        religion = catholic
+        size = 67
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 1215
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 6075
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 4185
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 45900
+    }
+}
+#David
+2205 = {
+    aristocrats = {
+        culture = quechua
+        religion = catholic
+        size = 202
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 675
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 4050
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 2700
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 40500
+    }
+}
+#Penonome (24000/6000 POPS)
+2206 = {
+    aristocrats = {
+        culture = quechua
+        religion = catholic
+        size = 202
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 742
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 3375
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 3375
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 22275
+    }
+}
+#Yaviza (12000/3000 POPS)
+2208 = {
+    aristocrats = {
+        culture = quechua
+        religion = catholic
+        size = 270
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 337
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 675
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 135
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 12082
+    }
+}
+#Bogota
+2247 = {
+    aristocrats = {
+        culture = quechua
+        religion = catholic
+        size = 1350
+    }
+
+    bureaucrats = {
+        culture = quechua
+        religion = catholic
+        size = 1350
+    }
+
+    officers = {
+        culture = quechua
+        religion = catholic
+        size = 540
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 4050
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 6210
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 12285
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 101250
+    }
+}
+#Ibaque
+2248 = {
+    aristocrats = {
+        culture = quechua
+        religion = catholic
+        size = 337
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 1620
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 6075
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 3240
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 27270
+    }
+}
+#Manizales
+2250 = {
+    aristocrats = {
+        culture = quechua
+        religion = catholic
+        size = 303
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 12521
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 6547
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 4185
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 22950
+    }
+}
+#Cucuta
+2251 = {
+    aristocrats = {
+        culture = quechua
+        religion = catholic
+        size = 675
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 5400
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 5670
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 21600
+    }
+}
+#Medellin
+2252 = {
+    aristocrats = {
+        culture = quechua
+        religion = catholic
+        size = 337
+    }
+
+    bureaucrats = {
+        culture = quechua
+        religion = catholic
+        size = 1350
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 1350
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 5400
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 6750
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 67500
+    }
+}
+#Quibdo
+2253 = {
+    aristocrats = {
+        culture = quechua
+        religion = catholic
+        size = 337
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 675
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 3375
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 7425
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 19575
+    }
+}
+#Cartagena de Indias
+2254 = {
+    aristocrats = {
+        culture = quechua
+        religion = catholic
+        size = 810
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 337
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 7425
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 8235
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 56700
+    }
+}
+#Barranquilla
+2255 = {
+    aristocrats = {
+        culture = quechua
+        religion = catholic
+        size = 1417
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 1687
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 12150
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 10935
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 81000
     }
 }
 #Cali
@@ -445,43 +443,43 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 275
+        size = 371
     }
 
     bureaucrats = {
         culture = quechua
         religion = catholic
-        size = 600
+        size = 810
     }
 
     officers = {
         culture = quechua
         religion = catholic
-        size = 250
+        size = 337
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 925
+        size = 1248
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 3600
+        size = 4860
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 2000
+        size = 2700
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 18250
+        size = 24637
     }
 }
 #Popayan
@@ -489,31 +487,31 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 250
+        size = 337
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 925
+        size = 1248
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 4500
+        size = 6075
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 1500
+        size = 2025
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 25000
+        size = 33750
     }
 }
 #Buenaventura
@@ -521,31 +519,31 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 525
+        size = 708
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 750
+        size = 1012
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 6000
+        size = 8100
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 4250
+        size = 5737
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 25000
+        size = 33750
     }
 }
 #Pasto
@@ -553,31 +551,31 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 250
+        size = 337
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 1100
+        size = 1485
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 2550
+        size = 3442
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 2100
+        size = 2835
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 15000
+        size = 20250
     }
 }
 #Yurimagues
@@ -585,31 +583,31 @@
     aristocrats = {
         culture = quechua
         religion = animist
-        size = 50
+        size = 67
     }
 
     clergymen = {
         culture = quechua
         religion = animist
-        size = 75
+        size = 101
     }
 
     artisans = {
         culture = quechua
         religion = animist
-        size = 150
+        size = 202
     }
 
     soldiers = {
         culture = quechua
         religion = animist
-        size = 25
+        size = 33
     }
 
     farmers = {
         culture = quechua
         religion = animist
-        size = 1700
+        size = 2295
     }
 }
 #Cajamarca
@@ -617,70 +615,69 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 200
+        size = 270
     }
 
     bureaucrats = {
         culture = quechua
         religion = catholic
-        size = 700
+        size = 945
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 1500
+        size = 2025
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 3000
+        size = 4050
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 5525
+        size = 7458
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 24050
+        size = 32467
     }
-
 }
 #Piura
 2291 = {
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 125
+        size = 168
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 500
+        size = 675
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 1500
+        size = 2025
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 1000
+        size = 1350
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 13250
+        size = 17887
     }
 }
 #Trujillo
@@ -688,31 +685,31 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 150
+        size = 202
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 250
+        size = 337
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 1000
+        size = 1350
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 4000
+        size = 5400
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 20500
+        size = 27675
     }
 }
 #Moyobamba
@@ -720,31 +717,31 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 50
+        size = 67
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 100
+        size = 135
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 1000
+        size = 1350
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 1000
+        size = 1350
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 6500
+        size = 8775
     }
 }
 #Huanuco
@@ -752,31 +749,31 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 75
+        size = 101
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 900
+        size = 1215
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 5100
+        size = 6885
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 4100
+        size = 5535
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 21000
+        size = 28350
     }
 }
 #Jauja
@@ -784,31 +781,31 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 125
+        size = 168
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 100
+        size = 135
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 1000
+        size = 1350
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 1250
+        size = 1687
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 9125
+        size = 12318
     }
 }
 #Ayacucho
@@ -816,43 +813,43 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 1075
+        size = 1451
     }
 
     bureaucrats = {
         culture = quechua
         religion = catholic
-        size = 475
+        size = 641
     }
 
     officers = {
         culture = quechua
         religion = catholic
-        size = 150
+        size = 202
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 175
+        size = 236
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 2000
+        size = 2700
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 2100
+        size = 2835
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 45000
+        size = 60750
     }
 }
 #Lima
@@ -860,82 +857,81 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 300
+        size = 405
     }
 
     bureaucrats = {
         culture = quechua
         religion = catholic
-        size = 200
+        size = 270
     }
 
     officers = {
         culture = quechua
         religion = catholic
-        size = 25
+        size = 33
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 50
+        size = 67
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 2000
+        size = 2700
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 2000
+        size = 2700
     }
 
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 2200
+        size = 2970
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 44000
+        size = 59400
     }
-
 }
 #Ica
 2297 = {
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 125
+        size = 168
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 850
+        size = 1147
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 2600
+        size = 3510
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 5100
+        size = 6885
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 26000
+        size = 35100
     }
 }
 #Huaraz
@@ -943,199 +939,195 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 625
+        size = 843
     }
-	
-	 bureaucrats = {
+
+    bureaucrats = {
         culture = quechua
         religion = catholic
-        size = 5000
+        size = 6750
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 500
+        size = 675
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 1000
+        size = 1350
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 1000
+        size = 1350
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 12000
+        size = 16200
     }
-
 }
 #Cusco
 2302 = {
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 450
+        size = 607
     }
 
     bureaucrats = {
         culture = quechua
         religion = catholic
-        size = 1500
+        size = 2025
     }
 
     officers = {
         culture = quechua
         religion = catholic
-        size = 900
+        size = 1215
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 1000
+        size = 1350
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 10000
+        size = 13500
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 1000
+        size = 1350
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 70000
+        size = 94500
     }
-
 }
 #Puno
 2303 = {
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 575
+        size = 776
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 150
+        size = 202
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 150
+        size = 202
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 100
+        size = 135
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 24000
+        size = 32400
     }
-
 }
 #Arequipa
 2304 = {
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 75
+        size = 101
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 25
+        size = 33
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 100
+        size = 135
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 250
+        size = 337
     }
 
     slaves = {
         culture = quechua
         religion = catholic
-        size = 5800
+        size = 7830
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 13250
+        size = 17887
     }
-
 }
 #Antofagasta
 2305 = {
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 50
+        size = 67
     }
 
     bureaucrats = {
         culture = quechua
         religion = catholic
-        size = 5
+        size = 6
     }
 
     officers = {
         culture = quechua
         religion = catholic
-        size = 5
+        size = 6
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 150
+        size = 202
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 200
+        size = 270
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 75
+        size = 101
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 11000
+        size = 14850
     }
 }
 #Iquique
@@ -1143,31 +1135,31 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 375
+        size = 506
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 150
+        size = 202
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 2000
+        size = 2700
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 2000
+        size = 2700
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 17000
+        size = 22950
     }
 }
 #Arica
@@ -1175,31 +1167,31 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 525
+        size = 708
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 200
+        size = 270
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 4000
+        size = 5400
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 2500
+        size = 3375
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 18000
+        size = 24300
     }
 }
 #Calama
@@ -1207,31 +1199,31 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 50
+        size = 67
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 50
+        size = 67
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 500
+        size = 675
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 2000
+        size = 2700
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 10000
+        size = 13500
     }
 }
 #La Paz
@@ -1239,43 +1231,43 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 1100
+        size = 1485
     }
 
     bureaucrats = {
         culture = quechua
         religion = catholic
-        size = 1000
+        size = 1350
     }
 
     officers = {
         culture = quechua
         religion = catholic
-        size = 325
+        size = 438
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 650
+        size = 877
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 7000
+        size = 9450
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 3000
+        size = 4050
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 60000
+        size = 81000
     }
 }
 #Cochabamba (352000/88000 POPS)
@@ -1283,31 +1275,31 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 1700
+        size = 2295
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 550
+        size = 742
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 6000
+        size = 8100
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 4000
+        size = 5400
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 60000
+        size = 81000
     }
 }
 #Oruro
@@ -1315,108 +1307,107 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 225
+        size = 303
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 125
+        size = 168
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 1500
+        size = 2025
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 500
+        size = 675
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 5000
+        size = 6750
     }
-
 }
 #Chuquisaca
 2313 = {
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 100
+        size = 135
     }
 
     bureaucrats = {
         culture = quechua
         religion = catholic
-        size = 250
+        size = 337
     }
 
     officers = {
         culture = quechua
         religion = catholic
-        size = 75
+        size = 101
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 175
+        size = 236
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 3000
+        size = 4050
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 1000
+        size = 1350
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 25000
-	}
+        size = 33750
+    }
 }
 #Potosi (120000/30000 POPS)
 2314 = {
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 325
+        size = 438
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 150
+        size = 202
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 1500
+        size = 2025
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 1000
+        size = 1350
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 25000
+        size = 33750
     }
 }
 #Tarija
@@ -1424,76 +1415,75 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 200
+        size = 270
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 250
+        size = 337
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 2000
+        size = 2700
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 2000
+        size = 2700
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 15000
+        size = 20250
     }
-
 }
 #Tacna
 2578 = {
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 550
+        size = 742
     }
 
     bureaucrats = {
         culture = quechua
         religion = catholic
-        size = 250
+        size = 337
     }
 
     officers = {
         culture = quechua
         religion = catholic
-        size = 120
+        size = 162
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 950
+        size = 1282
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 5550
+        size = 7492
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 5100
+        size = 6885
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 40025
+        size = 54033
     }
 }
 #Quito
@@ -1501,43 +1491,43 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 550
+        size = 742
     }
 
     bureaucrats = {
         culture = quechua
         religion = catholic
-        size = 1000
+        size = 1350
     }
 
     officers = {
         culture = quechua
         religion = catholic
-        size = 150
+        size = 202
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 960
+        size = 1296
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 6300
+        size = 8505
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 6100
+        size = 8235
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 52600
+        size = 71010
     }
 }
 #Tena
@@ -1545,31 +1535,31 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 100
+        size = 135
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 750
+        size = 1012
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 4500
+        size = 6075
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 5550
+        size = 7492
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 16250
+        size = 21937
     }
 }
 #Guayaquil
@@ -1577,43 +1567,43 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 450
+        size = 607
     }
 
     bureaucrats = {
         culture = quechua
         religion = catholic
-        size = 600
+        size = 810
     }
 
     officers = {
         culture = quechua
         religion = catholic
-        size = 150
+        size = 202
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 175
+        size = 236
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 2500
+        size = 3375
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 3750
+        size = 5062
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 27150
+        size = 36652
     }
 }
 #Esmereldas
@@ -1621,31 +1611,31 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 450
+        size = 607
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 175
+        size = 236
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 3500
+        size = 4725
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 3750
+        size = 5062
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 21500
+        size = 29025
     }
 }
 #Loja
@@ -1653,31 +1643,31 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 225
+        size = 303
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 500
+        size = 675
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 3000
+        size = 4050
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 5150
+        size = 6952
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 29000
+        size = 39150
     }
 }
 #Galapagos

@@ -5,280 +5,13 @@
     aristocrats = {
         culture = flanish
         religion = catholic
-        size = 600
+        size = 420
     }
 
     bureaucrats = {
         culture = flanish
         religion = catholic
-        size = 175
-    }
-
-    officers = {
-        culture = flanish
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = flanish
-        religion = catholic
-        size = 575
-    }
-
-    artisans = {
-        culture = flanish
-        religion = catholic
-        size = 2400
-    }
-
-    soldiers = {
-        culture = flanish
-        religion = catholic
-        size = 2000
-    }
-
-    soldiers = {
-        culture = flanish
-        religion = catholic
-        size = 90
-    }
-
-    farmers = {
-        culture = flanish
-        religion = catholic
-        size = 25650
-    }
-
-    clergymen = {
-        culture = danish
-        religion = catholic
-        size = 250
-    }
-
-    artisans = {
-        culture = danish
-        religion = catholic
-        size = 1000
-    }
-
-    soldiers = {
-        culture = danish
-        religion = catholic
-        size = 250
-    }
-
-    farmers = {
-        culture = danish
-        religion = catholic
-        size = 36700
-    }
-
-    farmers = {
-        culture = flanish
-        religion = catholic
-        size = 900
-    }
-
-    clergymen = {
-        culture = danish
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = danish
-        religion = catholic
-        size = 200
-    }
-
-    soldiers = {
-        culture = danish
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = danish
-        religion = catholic
-        size = 4600
-    }
-
-    soldiers = {
-        culture = flanish
-        religion = catholic
-        size = 700
-    }
-
-    farmers = {
-        culture = flanish
-        religion = catholic
-        size = 7000
-    }
-
-    soldiers = {
-        culture = flanish
-        religion = catholic
-        size = 210
-    }
-
-    farmers = {
-        culture = flanish
-        religion = catholic
-        size = 2100
-    }
-}
-#Lauenburg (148000/37000 POPS)
-529 = {
-    aristocrats = {
-        culture = flanish
-        religion = catholic
-        size = 350
-    }
-
-    clergymen = {
-        culture = flanish
-        religion = catholic
-        size = 375
-    }
-
-    artisans = {
-        culture = flanish
-        religion = catholic
-        size = 1825
-    }
-
-    artisans = {
-        culture = sorbian
-        religion = catholic
-        size = 2000
-    }
-
-    soldiers = {
-        culture = flanish
-        religion = catholic
-        size = 1000
-    }
-
-    farmers = {
-        culture = flanish
-        religion = catholic
-        size = 21500
-    }
-
-    farmers = {
-        culture = sorbian
-        religion = catholic
-        size = 17000
-    }
-}
-#Lower Elbe Region (557600)
-#Under rule of Hamburg 1836
-#Hamburg (150000/37500 POPS)
-528 = {
-    aristocrats = {
-        culture = flanish
-        religion = catholic
-        size = 400
-    }
-
-    bureaucrats = {
-        culture = flanish
-        religion = catholic
-        size = 375
-    }
-
-    officers = {
-        culture = flanish
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = flanish
-        religion = catholic
-        size = 625
-    }
-
-    artisans = {
-        culture = flanish
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = sorbian
-        religion = catholic
-        size = 6000
-    }
-
-    soldiers = {
-        culture = flanish
-        religion = catholic
-        size = 3050
-    }
-
-    farmers = {
-        culture = flanish
-        religion = catholic
-        size = 26310
-    }
-
-    farmers = {
-        culture = sorbian
-        religion = catholic
-        size = 17000
-    }
-}
-#Under rule of Hannover 1836 (396000)
-#Stade (216000/54000 POPS)
-531 = {
-    aristocrats = {
-        culture = flanish
-        religion = catholic
-        size = 550
-    }
-
-    bureaucrats = {
-        culture = flanish
-        religion = catholic
-        size = 50
-    }
-
-    officers = {
-        culture = flanish
-        religion = catholic
-        size = 9
-    }
-
-    clergymen = {
-        culture = flanish
-        religion = catholic
-        size = 45
-    }
-
-    artisans = {
-        culture = flanish
-        religion = catholic
-        size = 247
-    }
-
-    soldiers = {
-        culture = flanish
-        religion = catholic
-        size = 2000
-    }
-
-    farmers = {
-        culture = flanish
-        religion = catholic
-        size = 30050
-    }
-
-    farmers = {
-        culture = flanish
-        religion = catholic
-        size = 1620
+        size = 122
     }
 
     officers = {
@@ -290,43 +23,310 @@
     clergymen = {
         culture = flanish
         religion = catholic
-        size = 350
+        size = 402
     }
 
     artisans = {
         culture = flanish
         religion = catholic
-        size = 1925
+        size = 1680
+    }
+
+    soldiers = {
+        culture = flanish
+        religion = catholic
+        size = 1400
+    }
+
+    soldiers = {
+        culture = flanish
+        religion = catholic
+        size = 63
     }
 
     farmers = {
         culture = flanish
         religion = catholic
-        size = 12600
+        size = 17955
     }
 
-    officers = {
+    clergymen = {
+        culture = danish
+        religion = catholic
+        size = 175
+    }
+
+    artisans = {
+        culture = danish
+        religion = catholic
+        size = 700
+    }
+
+    soldiers = {
+        culture = danish
+        religion = catholic
+        size = 175
+    }
+
+    farmers = {
+        culture = danish
+        religion = catholic
+        size = 25690
+    }
+
+    farmers = {
         culture = flanish
         religion = catholic
-        size = 21
+        size = 630
+    }
+
+    clergymen = {
+        culture = danish
+        religion = catholic
+        size = 70
+    }
+
+    artisans = {
+        culture = danish
+        religion = catholic
+        size = 140
+    }
+
+    soldiers = {
+        culture = danish
+        religion = catholic
+        size = 70
+    }
+
+    farmers = {
+        culture = danish
+        religion = catholic
+        size = 3220
+    }
+
+    soldiers = {
+        culture = flanish
+        religion = catholic
+        size = 490
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 4900
+    }
+
+    soldiers = {
+        culture = flanish
+        religion = catholic
+        size = 147
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 1470
+    }
+}
+#Lauenburg (148000/37000 POPS)
+529 = {
+    aristocrats = {
+        culture = flanish
+        religion = catholic
+        size = 245
     }
 
     clergymen = {
         culture = flanish
         religion = catholic
-        size = 105
+        size = 262
     }
 
     artisans = {
         culture = flanish
         religion = catholic
-        size = 578
+        size = 1277
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 1400
+    }
+
+    soldiers = {
+        culture = flanish
+        religion = catholic
+        size = 700
     }
 
     farmers = {
         culture = flanish
         religion = catholic
-        size = 3780
+        size = 15050
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 11900
+    }
+}
+#Lower Elbe Region (557600)
+#Under rule of Hamburg 1836
+#Hamburg (150000/37500 POPS)
+528 = {
+    aristocrats = {
+        culture = flanish
+        religion = catholic
+        size = 280
+    }
+
+    bureaucrats = {
+        culture = flanish
+        religion = catholic
+        size = 262
+    }
+
+    officers = {
+        culture = flanish
+        religion = catholic
+        size = 70
+    }
+
+    clergymen = {
+        culture = flanish
+        religion = catholic
+        size = 437
+    }
+
+    artisans = {
+        culture = flanish
+        religion = catholic
+        size = 7000
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 4200
+    }
+
+    soldiers = {
+        culture = flanish
+        religion = catholic
+        size = 2135
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 18417
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 11900
+    }
+}
+#Under rule of Hannover 1836 (396000)
+#Stade (216000/54000 POPS)
+531 = {
+    aristocrats = {
+        culture = flanish
+        religion = catholic
+        size = 385
+    }
+
+    bureaucrats = {
+        culture = flanish
+        religion = catholic
+        size = 35
+    }
+
+    officers = {
+        culture = flanish
+        religion = catholic
+        size = 6
+    }
+
+    clergymen = {
+        culture = flanish
+        religion = catholic
+        size = 31
+    }
+
+    artisans = {
+        culture = flanish
+        religion = catholic
+        size = 172
+    }
+
+    soldiers = {
+        culture = flanish
+        religion = catholic
+        size = 1400
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 21035
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 1134
+    }
+
+    officers = {
+        culture = flanish
+        religion = catholic
+        size = 49
+    }
+
+    clergymen = {
+        culture = flanish
+        religion = catholic
+        size = 245
+    }
+
+    artisans = {
+        culture = flanish
+        religion = catholic
+        size = 1347
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 8820
+    }
+
+    officers = {
+        culture = flanish
+        religion = catholic
+        size = 14
+    }
+
+    clergymen = {
+        culture = flanish
+        religion = catholic
+        size = 73
+    }
+
+    artisans = {
+        culture = flanish
+        religion = catholic
+        size = 404
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 2646
     }
 }
 #Lunenburg (180000/45000 POPS)
@@ -334,55 +334,55 @@
     aristocrats = {
         culture = flanish
         religion = catholic
-        size = 40
+        size = 28
     }
 
     clergymen = {
         culture = flanish
         religion = catholic
-        size = 4500
+        size = 3150
     }
 
     artisans = {
         culture = flanish
         religion = catholic
-        size = 202
+        size = 141
     }
 
     soldiers = {
         culture = flanish
         religion = catholic
-        size = 1000
+        size = 700
     }
 
     farmers = {
         culture = flanish
         religion = catholic
-        size = 45900
+        size = 32130
     }
 
     aristocrats = {
         culture = flanish
         religion = catholic
-        size = 315
+        size = 220
     }
 
     artisans = {
         culture = flanish
         religion = catholic
-        size = 1575
+        size = 1102
     }
 
     aristocrats = {
         culture = flanish
         religion = catholic
-        size = 95
+        size = 66
     }
 
     artisans = {
         culture = flanish
         religion = catholic
-        size = 473
+        size = 331
     }
 }
 #Mecklenburg Region (614000)
@@ -394,85 +394,85 @@
     aristocrats = {
         culture = flanish
         religion = catholic
-        size = 200
+        size = 140
     }
 
     bureaucrats = {
         culture = flanish
         religion = catholic
-        size = 116
+        size = 81
     }
 
     officers = {
         culture = flanish
         religion = catholic
-        size = 22
+        size = 15
     }
 
     clergymen = {
         culture = flanish
         religion = catholic
-        size = 230
+        size = 161
     }
 
     artisans = {
         culture = flanish
         religion = catholic
-        size = 6976
+        size = 4883
     }
 
     soldiers = {
         culture = flanish
         religion = catholic
-        size = 406
+        size = 284
     }
 
     farmers = {
         culture = flanish
         religion = catholic
-        size = 3476
+        size = 2433
     }
 
     farmers = {
         culture = flanish
         religion = catholic
-        size = 100
+        size = 70
     }
 
     aristocrats = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 70
     }
 
     officers = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 70
     }
 
     soldiers = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 70
     }
 
     clergymen = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 70
     }
 
     artisans = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 70
     }
 
     farmers = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 70
     }
 }
 #under the Rule of Mecklenburg 1836
@@ -483,43 +483,43 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 1225
+        size = 857
     }
 
     bureaucrats = {
         culture = sorbian
         religion = catholic
-        size = 275
+        size = 192
     }
 
     officers = {
         culture = sorbian
         religion = catholic
-        size = 150
+        size = 105
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 1200
+        size = 840
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 6000
+        size = 4200
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 1250
+        size = 875
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 109800
+        size = 76860
     }
 }
 #Neustrelitz (90000/22500 POPS)
@@ -527,31 +527,31 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 200
+        size = 300
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 225
+        size = 337
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 1125
+        size = 1687
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 1000
+        size = 1500
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 19950
+        size = 29925
     }
 }
 #Hannover Region (1288000)
@@ -561,157 +561,157 @@
     aristocrats = {
         culture = flanish
         religion = catholic
-        size = 750
+        size = 525
     }
 
     bureaucrats = {
         culture = flanish
         religion = catholic
-        size = 500
+        size = 350
     }
 
     officers = {
         culture = flanish
         religion = catholic
-        size = 300
+        size = 210
     }
 
     clergymen = {
         culture = flanish
         religion = catholic
-        size = 875
+        size = 612
     }
 
     artisans = {
         culture = flanish
         religion = catholic
-        size = 5250
+        size = 3675
     }
 
     soldiers = {
         culture = flanish
         religion = catholic
-        size = 3000
+        size = 2100
     }
 
     farmers = {
         culture = flanish
         religion = catholic
-        size = 49325
+        size = 34527
     }
 
     clergymen = {
-        culture = flanish
-        religion = catholic
-        size = 7
-    }
-
-    artisans = {
-        culture = flanish
-        religion = catholic
-        size = 18
-    }
-
-    soldiers = {
         culture = flanish
         religion = catholic
         size = 4
     }
 
+    artisans = {
+        culture = flanish
+        religion = catholic
+        size = 12
+    }
+
+    soldiers = {
+        culture = flanish
+        religion = catholic
+        size = 2
+    }
+
     farmers = {
         culture = flanish
         religion = catholic
-        size = 2131
+        size = 1491
     }
 
     farmers = {
         culture = lavlandish
         religion = catholic
-        size = 20000
+        size = 14000
     }
 
     aristocrats = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 70
     }
 
     officers = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 70
     }
 
     soldiers = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 70
     }
 
     clergymen = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 70
     }
 
     artisans = {
         culture = saayda
         religion = jewish
-        size = 300
+        size = 210
     }
 
     farmers = {
         culture = saayda
         religion = jewish
-        size = 500
+        size = 350
     }
 
     clergymen = {
         culture = flanish
         religion = catholic
-        size = 53
+        size = 37
     }
 
     artisans = {
         culture = flanish
         religion = catholic
-        size = 140
+        size = 98
     }
 
     soldiers = {
         culture = flanish
         religion = catholic
-        size = 35
+        size = 24
     }
 
     farmers = {
         culture = flanish
         religion = catholic
-        size = 16573
+        size = 11601
     }
 
     clergymen = {
         culture = flanish
         religion = catholic
-        size = 15
+        size = 10
     }
 
     artisans = {
         culture = flanish
         religion = catholic
-        size = 42
+        size = 29
     }
 
     soldiers = {
         culture = flanish
         religion = catholic
-        size = 11
+        size = 7
     }
 
     farmers = {
         culture = flanish
         religion = catholic
-        size = 4971
+        size = 3479
     }
 }
 #Nienburg (276000/64000 POPS)
@@ -719,55 +719,55 @@
     aristocrats = {
         culture = flanish
         religion = catholic
-        size = 550
+        size = 385
     }
 
     clergymen = {
         culture = flanish
         religion = catholic
-        size = 625
+        size = 437
     }
 
     artisans = {
         culture = flanish
         religion = catholic
-        size = 3250
+        size = 2275
     }
 
     soldiers = {
         culture = flanish
         religion = catholic
-        size = 2000
+        size = 1400
     }
 
     farmers = {
         culture = flanish
         religion = catholic
-        size = 57575
+        size = 40302
     }
 
     soldiers = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 70
     }
 
     clergymen = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 70
     }
 
     artisans = {
         culture = saayda
         religion = jewish
-        size = 400
+        size = 280
     }
 
     farmers = {
         culture = saayda
         religion = jewish
-        size = 400
+        size = 280
     }
 }
 #Gottingen (180000/45000 POPS)
@@ -775,31 +775,31 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 400
+        size = 600
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 425
+        size = 637
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 2250
+        size = 3375
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 1000
+        size = 1500
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 40925
+        size = 61387
     }
 }
 #under the rule of Brunswick 1836
@@ -808,79 +808,55 @@
     aristocrats = {
         culture = flanish
         religion = catholic
-        size = 500
+        size = 350
     }
 
     bureaucrats = {
         culture = flanish
         religion = catholic
-        size = 100
+        size = 70
     }
 
     officers = {
         culture = flanish
         religion = catholic
-        size = 75
+        size = 52
     }
 
     clergymen = {
         culture = flanish
         religion = catholic
-        size = 450
+        size = 315
     }
 
     artisans = {
         culture = flanish
         religion = catholic
-        size = 765
+        size = 535
     }
 
     soldiers = {
         culture = flanish
         religion = catholic
-        size = 2000
+        size = 1400
     }
 
     farmers = {
         culture = flanish
         religion = catholic
-        size = 23375
+        size = 16362
     }
 
     clergymen = {
-        culture = flanish
-        religion = catholic
-        size = 2
-    }
-
-    soldiers = {
         culture = flanish
         religion = catholic
         size = 1
     }
 
-    farmers = {
-        culture = flanish
-        religion = catholic
-        size = 0
-    }
-
-    artisans = {
-        culture = flanish
-        religion = catholic
-        size = 5950
-    }
-
-    clergymen = {
-        culture = flanish
-        religion = catholic
-        size = 18
-    }
-
     soldiers = {
         culture = flanish
         religion = catholic
-        size = 11
+        size = 0
     }
 
     farmers = {
@@ -892,19 +868,43 @@
     artisans = {
         culture = flanish
         religion = catholic
-        size = 1785
+        size = 4165
     }
 
     clergymen = {
         culture = flanish
         religion = catholic
-        size = 5
+        size = 12
     }
 
     soldiers = {
+        culture = flanish
+        religion = catholic
+        size = 7
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 0
+    }
+
+    artisans = {
+        culture = flanish
+        religion = catholic
+        size = 1249
+    }
+
+    clergymen = {
         culture = flanish
         religion = catholic
         size = 3
+    }
+
+    soldiers = {
+        culture = flanish
+        religion = catholic
+        size = 2
     }
 
     farmers = {
@@ -920,49 +920,49 @@
     aristocrats = {
         culture = flanish
         religion = catholic
-        size = 2750
+        size = 1925
     }
 
     bureaucrats = {
         culture = flanish
         religion = catholic
-        size = 550
+        size = 385
     }
 
     officers = {
         culture = flanish
         religion = catholic
-        size = 400
+        size = 280
     }
 
     clergymen = {
         culture = flanish
         religion = catholic
-        size = 1200
+        size = 840
     }
 
     artisans = {
         culture = flanish
         religion = catholic
-        size = 5212
+        size = 3648
     }
 
     artisans = {
         culture = flanish
         religion = catholic
-        size = 3426
+        size = 2398
     }
 
     soldiers = {
         culture = flanish
         religion = catholic
-        size = 6450
+        size = 4515
     }
 
     farmers = {
         culture = flanish
         religion = catholic
-        size = 117500
+        size = 82250
     }
 }
 #under the rule of Oldenburg 1836
@@ -971,28 +971,234 @@
     aristocrats = {
         culture = flanish
         religion = catholic
-        size = 400
+        size = 280
     }
 
     bureaucrats = {
         culture = flanish
         religion = catholic
-        size = 125
+        size = 87
     }
 
     officers = {
         culture = flanish
         religion = catholic
-        size = 75
+        size = 52
     }
 
     clergymen = {
         culture = flanish
         religion = catholic
-        size = 325
+        size = 227
     }
 
     clergymen = {
+        culture = flanish
+        religion = catholic
+        size = 7
+    }
+
+    artisans = {
+        culture = flanish
+        religion = catholic
+        size = 1540
+    }
+
+    soldiers = {
+        culture = flanish
+        religion = catholic
+        size = 1400
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 9660
+    }
+
+    clergymen = {
+        culture = flanish
+        religion = catholic
+        size = 28
+    }
+
+    artisans = {
+        culture = flanish
+        religion = catholic
+        size = 70
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 385
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 1540
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 91
+    }
+
+    clergymen = {
+        culture = flanish
+        religion = catholic
+        size = 53
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 11985
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 715
+    }
+
+    clergymen = {
+        culture = flanish
+        religion = catholic
+        size = 16
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 3595
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 214
+    }
+}
+#Cloppenburg (84000/21000 POPS)
+541 = {
+    aristocrats = {
+        culture = flanish
+        religion = catholic
+        size = 4
+    }
+
+    aristocrats = {
+        culture = flanish
+        religion = catholic
+        size = 31
+    }
+
+    clergymen = {
+        culture = flanish
+        religion = catholic
+        size = 52
+    }
+
+    clergymen = {
+        culture = flanish
+        religion = catholic
+        size = 2
+    }
+
+    artisans = {
+        culture = flanish
+        religion = catholic
+        size = 455
+    }
+
+    soldiers = {
+        culture = flanish
+        religion = catholic
+        size = 87
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 6282
+    }
+
+    clergymen = {
+        culture = flanish
+        religion = catholic
+        size = 24
+    }
+
+    artisans = {
+        culture = flanish
+        religion = catholic
+        size = 25
+    }
+
+    soldiers = {
+        culture = flanish
+        religion = catholic
+        size = 4
+    }
+
+    artisans = {
+        culture = flanish
+        religion = catholic
+        size = 595
+    }
+
+    aristocrats = {
+        culture = flanish
+        religion = catholic
+        size = 32
+    }
+
+    clergymen = {
+        culture = flanish
+        religion = catholic
+        size = 17
+    }
+
+    artisans = {
+        culture = flanish
+        religion = catholic
+        size = 196
+    }
+
+    soldiers = {
+        culture = flanish
+        religion = catholic
+        size = 37
+    }
+
+    artisans = {
+        culture = flanish
+        religion = catholic
+        size = 4630
+    }
+
+    aristocrats = {
+        culture = flanish
+        religion = catholic
+        size = 9
+    }
+
+    clergymen = {
+        culture = flanish
+        religion = catholic
+        size = 4
+    }
+
+    artisans = {
+        culture = flanish
+        religion = catholic
+        size = 58
+    }
+
+    soldiers = {
         culture = flanish
         religion = catholic
         size = 10
@@ -1001,213 +1207,7 @@
     artisans = {
         culture = flanish
         religion = catholic
-        size = 2200
-    }
-
-    soldiers = {
-        culture = flanish
-        religion = catholic
-        size = 2000
-    }
-
-    farmers = {
-        culture = flanish
-        religion = catholic
-        size = 13800
-    }
-
-    clergymen = {
-        culture = flanish
-        religion = catholic
-        size = 40
-    }
-
-    artisans = {
-        culture = flanish
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = flanish
-        religion = catholic
-        size = 550
-    }
-
-    farmers = {
-        culture = flanish
-        religion = catholic
-        size = 2201
-    }
-
-    farmers = {
-        culture = flanish
-        religion = catholic
-        size = 131
-    }
-
-    clergymen = {
-        culture = flanish
-        religion = catholic
-        size = 77
-    }
-
-    farmers = {
-        culture = flanish
-        religion = catholic
-        size = 17122
-    }
-
-    farmers = {
-        culture = flanish
-        religion = catholic
-        size = 1022
-    }
-
-    clergymen = {
-        culture = flanish
-        religion = catholic
-        size = 23
-    }
-
-    farmers = {
-        culture = flanish
-        religion = catholic
-        size = 5137
-    }
-
-    farmers = {
-        culture = flanish
-        religion = catholic
-        size = 307
-    }
-}
-#Cloppenburg (84000/21000 POPS)
-541 = {
-    aristocrats = {
-        culture = flanish
-        religion = catholic
-        size = 6
-    }
-
-    aristocrats = {
-        culture = flanish
-        religion = catholic
-        size = 45
-    }
-
-    clergymen = {
-        culture = flanish
-        religion = catholic
-        size = 75
-    }
-
-    clergymen = {
-        culture = flanish
-        religion = catholic
-        size = 3
-    }
-
-    artisans = {
-        culture = flanish
-        religion = catholic
-        size = 650
-    }
-
-    soldiers = {
-        culture = flanish
-        religion = catholic
-        size = 125
-    }
-
-    farmers = {
-        culture = flanish
-        religion = catholic
-        size = 8975
-    }
-
-    clergymen = {
-        culture = flanish
-        religion = catholic
-        size = 35
-    }
-
-    artisans = {
-        culture = flanish
-        religion = catholic
-        size = 36
-    }
-
-    soldiers = {
-        culture = flanish
-        religion = catholic
-        size = 7
-    }
-
-    artisans = {
-        culture = flanish
-        religion = catholic
-        size = 850
-    }
-
-    aristocrats = {
-        culture = flanish
-        religion = catholic
-        size = 46
-    }
-
-    clergymen = {
-        culture = flanish
-        religion = catholic
-        size = 25
-    }
-
-    artisans = {
-        culture = flanish
-        religion = catholic
-        size = 280
-    }
-
-    soldiers = {
-        culture = flanish
-        religion = catholic
-        size = 53
-    }
-
-    artisans = {
-        culture = flanish
-        religion = catholic
-        size = 6615
-    }
-
-    aristocrats = {
-        culture = flanish
-        religion = catholic
-        size = 13
-    }
-
-    clergymen = {
-        culture = flanish
-        religion = catholic
-        size = 7
-    }
-
-    artisans = {
-        culture = flanish
-        religion = catholic
-        size = 84
-    }
-
-    soldiers = {
-        culture = flanish
-        religion = catholic
-        size = 15
-    }
-
-    artisans = {
-        culture = flanish
-        religion = catholic
-        size = 1985
+        size = 1389
     }
 }
 #Pomerania Region (289000) #see Poland.txt for balance of region
@@ -1217,31 +1217,31 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 300
+        size = 450
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 325
+        size = 487
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 1650
+        size = 2475
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 1000
+        size = 1500
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 29725
+        size = 44587
     }
 }
 #Stralsund (157000/39250 POPS)
@@ -1249,79 +1249,79 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 200
+        size = 140
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 200
+        size = 140
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 2350
+        size = 1645
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 1000
+        size = 700
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 20250
+        size = 14175
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 150
+        size = 105
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 1400
+        size = 980
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 1000
+        size = 700
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 12450
+        size = 8715
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 100
+        size = 70
     }
 
     clergymen = {
         culture = polish
         religion = catholic
-        size = 100
+        size = 70
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 100
+        size = 70
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 100
+        size = 70
     }
 }
 #Brandenburg Region (1628000) #see Poland.txt for balance of region
@@ -1333,91 +1333,91 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 1750
+        size = 2625
     }
 
     bureaucrats = {
         culture = sorbian
         religion = catholic
-        size = 2700
+        size = 4050
     }
 
     officers = {
         culture = sorbian
         religion = catholic
-        size = 1200
+        size = 1800
     }
 
     capitalists = {
         culture = sorbian
         religion = sorbian
-        size = 100
+        size = 150
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 1550
+        size = 2325
     }
 
     clerks = {
         culture = sorbian
         religion = catholic
-        size = 600
+        size = 900
     }
 
     craftsmen = {
         culture = sorbian
         religion = catholic
-        size = 16525
+        size = 24787
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 40000
+        size = 60000
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 5000
+        size = 7500
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 106300
+        size = 159450
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 100
+        size = 150
     }
 
     craftsmen = {
         culture = sorbian
         religion = catholic
-        size = 150
+        size = 225
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 1350
+        size = 2025
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 100
+        size = 150
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 3400
+        size = 5100
     }
 
     capitalists = {
@@ -1497,43 +1497,43 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 700
+        size = 1050
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 675
+        size = 1012
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 3500
+        size = 5250
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 2400
+        size = 3600
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 2100
+        size = 3150
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 52500
+        size = 78750
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 12500
+        size = 18750
     }
 }
 #Pritzwalk (232000/58000 POPS)
@@ -1541,31 +1541,31 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 550
+        size = 825
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 575
+        size = 862
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 3000
+        size = 4500
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 2000
+        size = 3000
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 51875
+        size = 77812
     }
 }
 #Cottbus (344000/86000 POPS)
@@ -1573,73 +1573,73 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 750
+        size = 1125
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 400
+        size = 600
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 300
+        size = 450
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 3000
+        size = 4500
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 1300
+        size = 1950
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 1000
+        size = 1500
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 1750
+        size = 2625
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 20000
+        size = 30000
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 50000
+        size = 75000
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 100
+        size = 150
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 50
+        size = 75
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 7100
+        size = 10650
     }
 }
 #Anhalt Region (1527000)
@@ -1651,103 +1651,67 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 1200
+        size = 1800
     }
 
     bureaucrats = {
         culture = sorbian
         religion = catholic
-        size = 1400
+        size = 2100
     }
 
     officers = {
         culture = sorbian
         religion = catholic
-        size = 350
+        size = 525
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 1125
+        size = 1687
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 10000
+        size = 15000
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 2000
+        size = 3000
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 103025
+        size = 154537
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 250
+        size = 375
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 1750
+        size = 2625
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 250
+        size = 375
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 22750
-    }
-
-    aristocrats = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = saayda
-        religion = jewish
-        size = 100
+        size = 34125
     }
 }
 #Erfurt (220800/55200 POPS)
@@ -1757,79 +1721,55 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 500
-    }
-
-    clergymen = {
-        culture = sorbian
-        religion = catholic
-        size = 400
-    }
-
-    artisans = {
-        culture = sorbian
-        religion = catholic
-        size = 3350
-    }
-
-    soldiers = {
-        culture = sorbian
-        religion = catholic
-        size = 1000
-    }
-
-    farmers = {
-        culture = sorbian
-        religion = catholic
-        size = 39750
-    }
-
-    clergymen = {
-        culture = sorbian
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = sorbian
-        religion = catholic
         size = 750
     }
 
-    soldiers = {
-        culture = sorbian
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = sorbian
-        religion = catholic
-        size = 9050
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
     clergymen = {
-        culture = saayda
-        religion = jewish
-        size = 100
+        culture = sorbian
+        religion = catholic
+        size = 600
     }
 
     artisans = {
-        culture = saayda
-        religion = jewish
-        size = 200
+        culture = sorbian
+        religion = catholic
+        size = 5025
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 1500
     }
 
     farmers = {
-        culture = saayda
-        religion = jewish
-        size = 300
+        culture = sorbian
+        religion = catholic
+        size = 59625
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 1125
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 150
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 13575
     }
 }
 #Halle (445000/111250 POPS)
@@ -1839,79 +1779,55 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 1150
+        size = 1725
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 925
+        size = 1387
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 5000
+        size = 7500
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 1000
+        size = 1500
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 91925
+        size = 137887
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 100
+        size = 150
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 575
+        size = 862
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 100
+        size = 150
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 10225
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = saayda
-        religion = jewish
-        size = 100
+        size = 15337
     }
 }
 #Stendal (140000/35000 POPS)
@@ -1919,31 +1835,31 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 350
+        size = 525
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 325
+        size = 487
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 1750
+        size = 2625
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 1000
+        size = 1500
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 31575
+        size = 47362
     }
 }
 #under the rule of Anhalt 1836
@@ -1952,67 +1868,67 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 325
+        size = 487
     }
 
     bureaucrats = {
         culture = sorbian
         religion = catholic
-        size = 70
+        size = 105
     }
 
     officers = {
         culture = sorbian
         religion = catholic
-        size = 25
+        size = 37
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 325
+        size = 487
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 1900
+        size = 2850
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 1000
+        size = 1500
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 31355
+        size = 47032
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 20
+        size = 30
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 50
+        size = 75
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 10
+        size = 15
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 920
+        size = 1380
     }
 }
 #Saxony Region (1379000)
@@ -2023,133 +1939,115 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 1048
+        size = 1572
     }
 
     bureaucrats = {
         culture = sorbian
         religion = catholic
-        size = 454
+        size = 681
     }
 
     officers = {
         culture = sorbian
         religion = catholic
-        size = 74
+        size = 111
     }
 
     capitalists = {
         culture = sorbian
         religion = catholic
-        size = 74
+        size = 111
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 1130
+        size = 1695
     }
 
     clerks = {
         culture = sorbian
         religion = catholic
-        size = 74
+        size = 111
     }
 
     craftsmen = {
         culture = sorbian
         religion = catholic
-        size = 709
+        size = 1063
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 7109
+        size = 10663
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 1149
+        size = 1723
     }
 
     labourers = {
         culture = sorbian
         religion = catholic
-        size = 94946
+        size = 142419
     }
 
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 55
+        size = 82
     }
 
     officers = {
         culture = sorbian
         religion = catholic
-        size = 55
+        size = 82
     }
 
     capitalists = {
         culture = sorbian
         religion = catholic
-        size = 55
+        size = 82
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 55
+        size = 82
     }
 
     craftsmen = {
         culture = sorbian
         religion = catholic
-        size = 55
+        size = 82
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 550
+        size = 825
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 55
+        size = 82
     }
 
     labourers = {
         culture = sorbian
         religion = catholic
-        size = 3008
+        size = 4512
     }
 
     clerks = {
         culture = sorbian
         religion = catholic
-        size = 55
-    }
-
-    aristocrats = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    capitalists = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = saayda
-        religion = jewish
-        size = 100
+        size = 82
     }
 
     aristocrats = {
@@ -2273,79 +2171,43 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 715
+        size = 1072
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 723
+        size = 1084
     }
 
     clerks = {
         culture = sorbian
         religion = catholic
-        size = 74
+        size = 111
     }
 
     craftsmen = {
         culture = sorbian
         religion = catholic
-        size = 773
+        size = 1159
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 5819
+        size = 8728
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 723
+        size = 1084
     }
 
     labourers = {
         culture = sorbian
         religion = catholic
-        size = 59158
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    clerks = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    craftsmen = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    labourers = {
-        culture = saayda
-        religion = jewish
-        size = 100
+        size = 88737
     }
 
     aristocrats = {
@@ -2395,31 +2257,31 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 425
+        size = 637
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 333
+        size = 499
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 2655
+        size = 3982
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 531
+        size = 796
     }
 
     labourers = {
         culture = sorbian
         religion = catholic
-        size = 33190
+        size = 49785
     }
 
     aristocrats = {
@@ -2461,79 +2323,43 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 495
+        size = 742
     }
 
     bureaucrats = {
         culture = sorbian
         religion = catholic
+        size = 100
+    }
+
+    officers = {
+        culture = sorbian
+        religion = catholic
         size = 67
     }
 
-    officers = {
-        culture = sorbian
-        religion = catholic
-        size = 45
-    }
-
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 394
+        size = 591
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 1912
+        size = 2868
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 450
+        size = 675
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 37631
-    }
-
-    aristocrats = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = saayda
-        religion = jewish
-        size = 200
-    }
-
-    farmers = {
-        culture = saayda
-        religion = jewish
-        size = 500
+        size = 56446
     }
 
     aristocrats = {
@@ -2584,43 +2410,43 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 326
+        size = 489
     }
 
     bureaucrats = {
         culture = sorbian
         religion = catholic
-        size = 56
+        size = 84
     }
 
     officers = {
         culture = sorbian
         religion = catholic
-        size = 34
+        size = 51
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 304
+        size = 456
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 1642
+        size = 2463
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 450
+        size = 675
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 30037
+        size = 45055
     }
 
     aristocrats = {
@@ -2671,43 +2497,43 @@
     aristocrats = {
         culture = bairisch
         religion = catholic
-        size = 510
+        size = 357
     }
 
     bureaucrats = {
         culture = bairisch
         religion = catholic
-        size = 90
+        size = 63
     }
 
     officers = {
         culture = bairisch
         religion = catholic
-        size = 50
+        size = 35
     }
 
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 500
+        size = 350
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 2600
+        size = 1820
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 1000
+        size = 700
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 47350
+        size = 33145
     }
 }
 #Hesse Region (1719600)
@@ -3186,55 +3012,55 @@
     aristocrats = {
         culture = bairisch
         religion = catholic
-        size = 200
+        size = 140
     }
 
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 150
+        size = 105
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 750
+        size = 525
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 150
+        size = 105
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 13750
+        size = 9625
     }
 
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 400
+        size = 280
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 2500
+        size = 1750
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 500
+        size = 350
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 46600
+        size = 32620
     }
 
     soldiers = {
@@ -4020,61 +3846,61 @@
     aristocrats = {
         culture = flanish
         religion = catholic
-        size = 300
+        size = 210
     }
 
     clergymen = {
         culture = lavlandish
         religion = catholic
-        size = 375
+        size = 262
     }
 
     artisans = {
         culture = lavlandish
         religion = catholic
-        size = 1700
+        size = 1190
     }
 
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 1000
+        size = 700
     }
 
     farmers = {
         culture = lavlandish
         religion = catholic
-        size = 31025
+        size = 21717
     }
 
     aristocrats = {
         culture = flanish
         religion = catholic
-        size = 200
+        size = 140
     }
 
     clergymen = {
         culture = flanish
         religion = catholic
-        size = 200
+        size = 140
     }
 
     artisans = {
         culture = flanish
         religion = catholic
-        size = 1100
+        size = 770
     }
 
     soldiers = {
         culture = flanish
         religion = catholic
-        size = 1000
+        size = 700
     }
 
     farmers = {
         culture = flanish
         religion = catholic
-        size = 17600
+        size = 12320
     }
 }
 #Siegen (104000/26000 POPS)
@@ -4207,61 +4033,61 @@
     aristocrats = {
         culture = lavlandish
         religion = catholic
-        size = 250
+        size = 175
     }
 
     bureaucrats = {
         culture = lavlandish
         religion = catholic
-        size = 50
+        size = 35
     }
 
     officers = {
         culture = lavlandish
         religion = catholic
-        size = 25
+        size = 17
     }
 
     clergymen = {
         culture = lavlandish
         religion = catholic
-        size = 225
+        size = 157
     }
 
     artisans = {
         culture = flanish
         religion = catholic
-        size = 1150
+        size = 805
     }
 
     soldiers = {
         culture = flanish
         religion = catholic
-        size = 1000
+        size = 700
     }
 
     farmers = {
         culture = flanish
         religion = catholic
-        size = 70405
+        size = 49283
     }
 
     farmers = {
         culture = lavlandish
         religion = catholic
-        size = 10405
+        size = 7283
     }
 
     clergymen = {
         culture = flanish
         religion = catholic
-        size = 20
+        size = 14
     }
 
     farmers = {
         culture = flanish
         religion = catholic
-        size = 3980
+        size = 2786
     }
 }
 #Baden Region (1040000)
@@ -4493,79 +4319,79 @@
     aristocrats = {
         culture = bairisch
         religion = catholic
-        size = 1500
+        size = 1050
     }
 
     bureaucrats = {
         culture = bairisch
         religion = catholic
-        size = 850
+        size = 595
     }
 
     officers = {
         culture = bairisch
         religion = catholic
-        size = 450
+        size = 315
     }
 
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 1500
+        size = 1050
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 9500
+        size = 6650
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 3000
+        size = 2100
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 3000
+        size = 2100
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 1000
+        size = 700
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 131200
+        size = 91840
     }
 
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 175
+        size = 122
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 1500
+        size = 1050
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 150
+        size = 105
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 15175
+        size = 10622
     }
 
     aristocrats = {
@@ -4609,31 +4435,31 @@
     aristocrats = {
         culture = bairisch
         religion = catholic
-        size = 850
+        size = 595
     }
 
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 825
+        size = 577
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 4250
+        size = 2975
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 850
+        size = 595
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 79225
+        size = 55457
     }
 }
 #Tubingen (292000/73000 POPS)
@@ -4641,55 +4467,55 @@
     aristocrats = {
         culture = bairisch
         religion = catholic
-        size = 220
+        size = 154
     }
 
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 206
+        size = 144
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 1045
+        size = 731
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 220
+        size = 154
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 20309
+        size = 14216
     }
 
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 179
+        size = 125
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 962
+        size = 673
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 165
+        size = 115
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 16844
+        size = 11790
     }
 
     aristocrats = {
@@ -4753,31 +4579,31 @@
     aristocrats = {
         culture = bairisch
         religion = catholic
-        size = 1100
+        size = 770
     }
 
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 1050
+        size = 735
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 10000
+        size = 7000
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 1000
+        size = 700
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 77950
+        size = 54565
     }
 }
 #under the rule of Wurttemburg in 1836
@@ -4786,61 +4612,61 @@
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 100
+        size = 70
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 550
+        size = 385
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 3000
+        size = 2100
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 1000
+        size = 700
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 6350
+        size = 4445
     }
 
     aristocrats = {
         culture = bairisch
         religion = catholic
-        size = 900
+        size = 630
     }
 
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 925
+        size = 647
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 4550
+        size = 3185
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 900
+        size = 630
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 83750
+        size = 58625
     }
 }
 #under the rule of Prussia in 1836
@@ -4849,43 +4675,43 @@
     aristocrats = {
         culture = bairisch
         religion = catholic
-        size = 150
+        size = 105
     }
 
     bureaucrats = {
         culture = bairisch
         religion = catholic
-        size = 20
+        size = 14
     }
 
     officers = {
         culture = bairisch
         religion = catholic
-        size = 15
+        size = 10
     }
 
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 150
+        size = 105
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 775
+        size = 542
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 1000
+        size = 700
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 13140
+        size = 9198
     }
 }
 #Franconia Region (1876000)
@@ -4897,73 +4723,73 @@
     aristocrats = {
         culture = bairisch
         religion = catholic
-        size = 1350
+        size = 945
     }
 
     bureaucrats = {
         culture = bairisch
         religion = catholic
-        size = 1050
+        size = 735
     }
 
     officers = {
         culture = bairisch
         religion = catholic
-        size = 450
+        size = 315
     }
 
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 1125
+        size = 787
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 4500
+        size = 3150
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 2000
+        size = 1400
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 93375
+        size = 65362
     }
 
     aristocrats = {
         culture = bairisch
         religion = catholic
-        size = 1450
+        size = 1015
     }
 
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 1375
+        size = 962
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 5500
+        size = 3850
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 1500
+        size = 1050
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 111275
+        size = 77892
     }
 
     aristocrats = {
@@ -5007,31 +4833,31 @@
     aristocrats = {
         culture = bairisch
         religion = catholic
-        size = 350
+        size = 245
     }
 
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 350
+        size = 245
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 1750
+        size = 1225
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 350
+        size = 245
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 31200
+        size = 21840
     }
 }
 #Wurzburg (300000/75000 POPS)
@@ -5039,69 +4865,13 @@
     aristocrats = {
         culture = bairisch
         religion = catholic
-        size = 750
+        size = 525
     }
 
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 750
-    }
-
-    artisans = {
-        culture = bairisch
-        religion = catholic
-        size = 7000
-    }
-
-    soldiers = {
-        culture = bairisch
-        religion = catholic
-        size = 1000
-    }
-
-    farmers = {
-        culture = bairisch
-        religion = catholic
-        size = 65500
-    }
-}
-#Bayreuth (536000/134000 POPS)
-598 = {
-    aristocrats = {
-        culture = bairisch
-        religion = catholic
-        size = 550
-    }
-
-    clergymen = {
-        culture = bairisch
-        religion = catholic
-        size = 550
-    }
-
-    artisans = {
-        culture = bairisch
-        religion = catholic
-        size = 2500
-    }
-
-    soldiers = {
-        culture = bairisch
-        religion = catholic
-        size = 600
-    }
-
-    farmers = {
-        culture = bairisch
-        religion = catholic
-        size = 45800
-    }
-
-    clergymen = {
-        culture = bairisch
-        religion = catholic
-        size = 900
+        size = 525
     }
 
     artisans = {
@@ -5113,13 +4883,69 @@
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 900
+        size = 700
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 77300
+        size = 45850
+    }
+}
+#Bayreuth (536000/134000 POPS)
+598 = {
+    aristocrats = {
+        culture = bairisch
+        religion = catholic
+        size = 385
+    }
+
+    clergymen = {
+        culture = bairisch
+        religion = catholic
+        size = 385
+    }
+
+    artisans = {
+        culture = bairisch
+        religion = catholic
+        size = 1750
+    }
+
+    soldiers = {
+        culture = bairisch
+        religion = catholic
+        size = 420
+    }
+
+    farmers = {
+        culture = bairisch
+        religion = catholic
+        size = 32060
+    }
+
+    clergymen = {
+        culture = bairisch
+        religion = catholic
+        size = 630
+    }
+
+    artisans = {
+        culture = bairisch
+        religion = catholic
+        size = 3430
+    }
+
+    soldiers = {
+        culture = bairisch
+        religion = catholic
+        size = 630
+    }
+
+    farmers = {
+        culture = bairisch
+        religion = catholic
+        size = 54110
     }
 }
 #Bavaria Region (1536000)
@@ -5129,79 +4955,79 @@
     aristocrats = {
         culture = bairisch
         religion = catholic
-        size = 2100
+        size = 1470
     }
 
     bureaucrats = {
         culture = bairisch
         religion = catholic
-        size = 800
+        size = 560
     }
 
     officers = {
         culture = bairisch
         religion = catholic
-        size = 400
+        size = 280
     }
 
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 2050
+        size = 1435
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 10000
+        size = 7000
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 10000
+        size = 7000
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 1100
+        size = 770
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 3000
+        size = 2100
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 175650
+        size = 122955
     }
 
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 125
+        size = 87
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 2000
+        size = 1400
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 150
+        size = 105
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 11475
+        size = 8032
     }
 }
 #Landshut (164000/41000 POPS)
@@ -5209,31 +5035,31 @@
     aristocrats = {
         culture = bairisch
         religion = catholic
-        size = 400
+        size = 280
     }
 
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 425
+        size = 297
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 2000
+        size = 1400
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 450
+        size = 315
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 37725
+        size = 26407
     }
 }
 #Ingolstadt (164000/41000 POPS)
@@ -5241,31 +5067,31 @@
     aristocrats = {
         culture = bairisch
         religion = catholic
-        size = 400
+        size = 280
     }
 
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 425
+        size = 297
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 2000
+        size = 1400
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 1000
+        size = 700
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 37175
+        size = 26022
     }
 }
 #Regensburg (248000/62000 POPS)
@@ -5273,31 +5099,31 @@
     aristocrats = {
         culture = bairisch
         religion = catholic
-        size = 650
+        size = 455
     }
 
     clergymen = {
         culture = bairisch
         religion = catholic
-        size = 625
+        size = 437
     }
 
     artisans = {
         culture = bairisch
         religion = catholic
-        size = 5000
+        size = 3500
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 1000
+        size = 700
     }
 
     farmers = {
         culture = bairisch
         religion = catholic
-        size = 54725
+        size = 38307
     }
 }
 #Silesia Region (200000) #see Czechia.txt and Poland.txt for balance of region
@@ -5307,37 +5133,37 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 850
+        size = 1275
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 400
+        size = 600
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 2300
+        size = 3450
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 1000
+        size = 1500
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 51450
+        size = 77175
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 70
+        size = 105
     }
 
     artisans = {

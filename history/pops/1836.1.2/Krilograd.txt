@@ -75,11 +75,10 @@
         religion = orthodox
         size = 130450
     }
-
 }
 #Lenikhtinsk (1452000/363000 POPS)
 1485 = {
-     aristocrats = {
+    aristocrats = {
         culture = novosibiryaki
         religion = orthodox
         size = 300
@@ -111,7 +110,7 @@
 }
 #Tayimba (1000/250 POPS)
 2656 = {
-   aristocrats = {
+    aristocrats = {
         culture = novosibiryaki
         religion = orthodox
         size = 1700
@@ -360,25 +359,25 @@
     bureaucrats = {
         culture = novosibiryaki
         religion = orthodox
-        size = 100
+        size = 200
     }
 
     clergymen = {
         culture = novosibiryaki
         religion = orthodox
-        size = 175
+        size = 350
     }
 
     soldiers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 250
+        size = 500
     }
 
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 42750
+        size = 85500
     }
 }
 #Yugra Region (98500)
@@ -466,55 +465,53 @@
         religion = orthodox
         size = 38800
     }
-
 }
 #Muzhi (6000/1500 POPS) => Verkhoturye
 2685 = {
     aristocrats = {
         culture = novosibiryaki
         religion = orthodox
-        size = 2200
+        size = 4400
     }
 
     officers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 250
+        size = 500
     }
 
     clergymen = {
         culture = novosibiryaki
         religion = orthodox
-        size = 500
+        size = 1000
     }
 
     artisans = {
         culture = novosibiryaki
         religion = orthodox
-        size = 5000
+        size = 10000
     }
 
     artisans = {
         culture = novosibiryaki
         religion = orthodox
-        size = 5000
+        size = 10000
     }
 
     soldiers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 3000
+        size = 6000
     }
 
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 67750
+        size = 135500
     }
 }
 #Verkniy Ufaley (1200/300 POPS)
 2690 = {
-
     clergymen = {
         culture = novosibiryaki
         religion = orthodox
@@ -535,7 +532,6 @@
 }
 #Vorgovo (4000/1000 POPS) => Minusk
 2691 = {
-
     aristocrats = {
         culture = novosibiryaki
         religion = orthodox

@@ -626,31 +626,31 @@
 	
 	aristocrats = {
         culture = malay
-        religion = sydnic
+        religion = protestant
         size = 125
     }
 
     clergymen = {
         culture = malay
-        religion = sydnic
+        religion = protestant
         size = 150
     }
 
     artisans = {
         culture = malay
-        religion = sydnic
+        religion = protestant
         size = 1100
     }
 
     soldiers = {
         culture = malay
-        religion = sydnic
+        religion = protestant
         size = 6075
     }
 
     farmers = {
         culture = malay
-        religion = sydnic
+        religion = protestant
         size = 12575
     }
 }
@@ -658,25 +658,25 @@
 1397 = {
     aristocrats = {
         culture = malay
-        religion = sydnic
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = malay
-        religion = sydnic
+        religion = protestant
         size = 1250
     }
 
     artisans = {
         culture = malay
-        religion = sydnic
+        religion = protestant
         size = 4500
     }
 
     soldiers = {
         culture = malay
-        religion = sydnic
+        religion = protestant
         size = 6000
     }
 

@@ -3,31 +3,31 @@
     clergymen = {
         culture = mongo
         religion = sunni
-        size = 525
+        size = 1050
     }
 
     artisans = {
         culture = mongo
         religion = sunni
-        size = 2450
+        size = 4900
     }
 
     soldiers = {
         culture = mongo
         religion = sunni
-        size = 500
+        size = 1000
     }
 
     farmers = {
         culture = mongo
         religion = sunni
-        size = 25725
+        size = 51450
     }
-	
-	farmers = {
+
+    farmers = {
         culture = saayda
         religion = sunni
-        size = 10000
+        size = 20000
     }
 }
 #An Nuhud
@@ -35,12 +35,13 @@
     farmers = {
         culture = mongo
         religion = sunni
-        size = 7000
+        size = 14000
     }
-	farmers = {
+
+    farmers = {
         culture = amhara
         religion = sunni
-        size = 8500
+        size = 17000
     }
 }
 #Nuhud
@@ -48,13 +49,13 @@
     farmers = {
         culture = mongo
         religion = sunni
-        size = 4000
+        size = 8000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = amhara
         religion = sunni
-        size = 5000
+        size = 10000
     }
 }
 #Fasher
@@ -62,91 +63,21 @@
     aristocrats = {
         culture = mongo
         religion = sunni
-        size = 1200
+        size = 2400
     }
 
     bureaucrats = {
         culture = mongo
         religion = sunni
-        size = 100
+        size = 200
     }
 
     officers = {
         culture = mongo
         religion = sunni
-        size = 200
+        size = 400
     }
 
-    clergymen = {
-        culture = mongo
-        religion = sunni
-        size = 50
-    }
-
-    artisans = {
-        culture = mongo
-        religion = sunni
-        size = 2600
-    }
-
-    soldiers = {
-        culture = mongo
-        religion = sunni
-        size = 1250
-    }
-
-    farmers = {
-        culture = mongo
-        religion = sunni
-        size = 48600
-    }
-	
-	farmers = {
-        culture = amhara
-        religion = sunni
-        size = 10600
-    }
-}
-#Junayah 
-1842 = {
-    aristocrats = {
-        culture = mongo
-        religion = sunni
-        size = 650
-    }
-
-    clergymen = {
-        culture = mongo
-        religion = sunni
-        size = 50
-    }
-
-    artisans = {
-        culture = mongo
-        religion = sunni
-        size = 1500
-    }
-
-    soldiers = {
-        culture = mongo
-        religion = sunni
-        size = 1100
-    }
-
-    farmers = {
-        culture = mongo
-        religion = sunni
-        size = 20300
-    }
-
-    farmers = {
-        culture = amhara
-        religion = sunni
-        size = 18400
-    }
-}
-#Durban 
-2111 = {
     clergymen = {
         culture = mongo
         religion = sunni
@@ -156,191 +87,7 @@
     artisans = {
         culture = mongo
         religion = sunni
-        size = 100
-    }
-
-    soldiers = {
-        culture = mongo
-        religion = sunni
-        size = 300
-    }
-
-    farmers = {
-        culture = mongo
-        religion = sunni
-        size = 17420
-    }
-	
-	farmers = {
-        culture = amhara
-        religion = sunni
-        size = 21420
-    }
-}
-#Antsiranana
-2120 = {
-    aristocrats = {
-        culture = mongo
-        religion = sunni
-        size = 775
-    }
-
-    clergymen = {
-        culture = mongo
-        religion = sunni
-        size = 450
-    }
-
-    artisans = {
-        culture = mongo
-        religion = sunni
-        size = 1800
-    }
-
-    soldiers = {
-        culture = mongo
-        religion = sunni
-        size = 1750
-    }
-
-    farmers = {
-        culture = mongo
-        religion = sunni
-        size = 24600
-    }
-	
-	farmers = {
-        culture = amhara
-        religion = sunni
-        size = 7600
-    }
-}
-#Comoro Islands
-2123 = {
-    aristocrats = {
-        culture = mongo
-        religion = sunni
-        size = 150
-    }
-
-    clergymen = {
-        culture = mongo
-        religion = sunni
-        size = 50
-    }
-
-    artisans = {
-        culture = mongo
-        religion = sunni
-        size = 325
-    }
-
-    soldiers = {
-        culture = mongo
-        religion = sunni
-        size = 1100
-    }
-
-    farmers = {
-        culture = mongo
-        religion = sunni
-        size = 13425
-    }
-}
-#Turks & Caicos Islands
-2220 = {
-    aristocrats = {
-        culture = mongo
-        religion = sunni
-        size = 1000
-    }
-
-    bureaucrats = {
-        culture = mongo
-        religion = sunni
-        size = 600
-    }
-
-    soldiers = {
-        culture = mongo
-        religion = sunni
-        size = 1500
-    }
-
-    artisans = {
-        culture = mongo
-        religion = sunni
-        size = 1750
-    }
-
-    clergymen = {
-        culture = mongo
-        religion = sunni
-        size = 1500
-    }
-
-    farmers = {
-        culture = mongo
-        religion = sunni
-        size = 26000
-    }
-
-    slaves = {
-        culture = mongo
-        religion = sunni
-        size = 4900
-    }
-}
-#Saint Thomas
-2223 = {
-    aristocrats = {
-        culture = mongo
-        religion = sunni
-        size = 200
-    }
-
-    bureaucrats = {
-        culture = mongo
-        religion = sunni
-        size = 25
-    }
-
-    artisans = {
-        culture = mongo
-        religion = sunni
-        size = 175
-    }
-
-    farmers = {
-        culture = mongo
-        religion = sunni
-        size = 15000
-    }
-	
-	farmers = {
-        culture = amhara
-        religion = sunni
-        size = 10000
-    }
-
-    slaves = {
-        culture = mongo
-        religion = sunni
-        size = 500
-    }
-}
-#Obidos
-2412 = {
-    clergymen = {
-        culture = mongo
-        religion = sunni
-        size = 250
-    }
-
-    artisans = {
-        culture = mongo
-        religion = sunni
-        size = 4500
+        size = 5200
     }
 
     soldiers = {
@@ -352,12 +99,266 @@
     farmers = {
         culture = mongo
         religion = sunni
-        size = 20000
+        size = 97200
     }
-	
-	farmers = {
+
+    farmers = {
         culture = amhara
         religion = sunni
-        size = 17000
+        size = 21200
+    }
+}
+#Junayah
+1842 = {
+    aristocrats = {
+        culture = mongo
+        religion = sunni
+        size = 1300
+    }
+
+    clergymen = {
+        culture = mongo
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = mongo
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = mongo
+        religion = sunni
+        size = 2200
+    }
+
+    farmers = {
+        culture = mongo
+        religion = sunni
+        size = 40600
+    }
+
+    farmers = {
+        culture = amhara
+        religion = sunni
+        size = 36800
+    }
+}
+#Durban
+2111 = {
+    clergymen = {
+        culture = mongo
+        religion = sunni
+        size = 200
+    }
+
+    artisans = {
+        culture = mongo
+        religion = sunni
+        size = 200
+    }
+
+    soldiers = {
+        culture = mongo
+        religion = sunni
+        size = 600
+    }
+
+    farmers = {
+        culture = mongo
+        religion = sunni
+        size = 34840
+    }
+
+    farmers = {
+        culture = amhara
+        religion = sunni
+        size = 42840
+    }
+}
+#Antsiranana
+2120 = {
+    aristocrats = {
+        culture = mongo
+        religion = sunni
+        size = 1550
+    }
+
+    clergymen = {
+        culture = mongo
+        religion = sunni
+        size = 900
+    }
+
+    artisans = {
+        culture = mongo
+        religion = sunni
+        size = 3600
+    }
+
+    soldiers = {
+        culture = mongo
+        religion = sunni
+        size = 3500
+    }
+
+    farmers = {
+        culture = mongo
+        religion = sunni
+        size = 49200
+    }
+
+    farmers = {
+        culture = amhara
+        religion = sunni
+        size = 15200
+    }
+}
+#Comoro Islands
+2123 = {
+    aristocrats = {
+        culture = mongo
+        religion = sunni
+        size = 300
+    }
+
+    clergymen = {
+        culture = mongo
+        religion = sunni
+        size = 100
+    }
+
+    artisans = {
+        culture = mongo
+        religion = sunni
+        size = 650
+    }
+
+    soldiers = {
+        culture = mongo
+        religion = sunni
+        size = 2200
+    }
+
+    farmers = {
+        culture = mongo
+        religion = sunni
+        size = 26850
+    }
+}
+#Turks & Caicos Islands
+2220 = {
+    aristocrats = {
+        culture = mongo
+        religion = sunni
+        size = 2000
+    }
+
+    bureaucrats = {
+        culture = mongo
+        religion = sunni
+        size = 1200
+    }
+
+    soldiers = {
+        culture = mongo
+        religion = sunni
+        size = 3000
+    }
+
+    artisans = {
+        culture = mongo
+        religion = sunni
+        size = 3500
+    }
+
+    clergymen = {
+        culture = mongo
+        religion = sunni
+        size = 3000
+    }
+
+    farmers = {
+        culture = mongo
+        religion = sunni
+        size = 52000
+    }
+
+    slaves = {
+        culture = mongo
+        religion = sunni
+        size = 9800
+    }
+}
+#Saint Thomas
+2223 = {
+    aristocrats = {
+        culture = mongo
+        religion = sunni
+        size = 400
+    }
+
+    bureaucrats = {
+        culture = mongo
+        religion = sunni
+        size = 50
+    }
+
+    artisans = {
+        culture = mongo
+        religion = sunni
+        size = 350
+    }
+
+    farmers = {
+        culture = mongo
+        religion = sunni
+        size = 30000
+    }
+
+    farmers = {
+        culture = amhara
+        religion = sunni
+        size = 20000
+    }
+
+    slaves = {
+        culture = mongo
+        religion = sunni
+        size = 1000
+    }
+}
+#Obidos
+2412 = {
+    clergymen = {
+        culture = mongo
+        religion = sunni
+        size = 500
+    }
+
+    artisans = {
+        culture = mongo
+        religion = sunni
+        size = 9000
+    }
+
+    soldiers = {
+        culture = mongo
+        religion = sunni
+        size = 5000
+    }
+
+    farmers = {
+        culture = mongo
+        religion = sunni
+        size = 40000
+    }
+
+    farmers = {
+        culture = amhara
+        religion = sunni
+        size = 34000
     }
 }

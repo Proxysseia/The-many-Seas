@@ -3,39 +3,40 @@
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 250
+        size = 212
     }
+
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 1000
+        size = 850
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 5100
+        size = 4335
     }
 
     officers = {
         culture = amhara
         religion = coptic
-        size = 200
+        size = 170
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 3000
+        size = 2550
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 122000
+        size = 103700
     }
-	
-	farmers = {
+
+    farmers = {
         culture = saayda
         religion = coptic
         size = 12000
@@ -46,13 +47,13 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 100
+        size = 85
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 100
+        size = 85
     }
 
     artisans = {
@@ -84,31 +85,31 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 400
+        size = 340
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 1750
+        size = 1487
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 12100
+        size = 10285
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 9500
+        size = 8075
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 78875
+        size = 67043
     }
 }
 #Eritrea Region
@@ -117,87 +118,87 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 225
+        size = 191
     }
 
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 150
+        size = 127
     }
 
     officers = {
         culture = amhara
         religion = coptic
-        size = 25
+        size = 21
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 125
+        size = 106
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 600
+        size = 510
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 1250
+        size = 1062
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 19825
-	}
+        size = 16851
+    }
 }
 #Massawa
 1849 = {
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 50
+        size = 42
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 75
+        size = 63
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 150
+        size = 127
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 25
+        size = 21
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 2700
+        size = 2295
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 200
+        size = 170
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 3600
+        size = 3060
     }
 }
 #Akordat
@@ -205,43 +206,43 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 125
+        size = 106
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 75
+        size = 63
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 350
+        size = 297
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 75
+        size = 63
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 6375
+        size = 5418
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 500
+        size = 425
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 500
+        size = 425
     }
 }
 #Assab
@@ -249,31 +250,31 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 125
+        size = 106
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 75
+        size = 63
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 350
+        size = 297
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 75
+        size = 63
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 10375
+        size = 8818
     }
 }
 #Abyssinia Region
@@ -282,49 +283,49 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 2100
+        size = 1785
     }
 
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 2355
+        size = 2001
     }
 
     officers = {
         culture = amhara
         religion = coptic
-        size = 420
+        size = 357
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 1155
+        size = 981
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 9650
+        size = 8202
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 10020
+        size = 8517
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 130000
+        size = 110500
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 11200
+        size = 9520
     }
 }
 #Debre Tabor
@@ -332,43 +333,43 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 1400
+        size = 1190
     }
 
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 2355
+        size = 2001
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 700
+        size = 595
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 2900
+        size = 2465
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 12000
+        size = 10200
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 153500
+        size = 130475
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 10000
+        size = 8500
     }
 }
 #Matamma
@@ -376,43 +377,43 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 1425
+        size = 1211
     }
 
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 2555
+        size = 2171
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 735
+        size = 624
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 3000
+        size = 2550
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 7240
+        size = 6154
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 140000
+        size = 119000
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 15600
+        size = 13260
     }
 }
 #Debre Markos
@@ -420,43 +421,43 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 1450
+        size = 1232
     }
 
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 3855
+        size = 3276
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 3560
+        size = 3026
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 13050
+        size = 11092
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 11740
+        size = 9979
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 214500
+        size = 182325
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 17000
+        size = 14450
     }
 }
 #Tigray Region
@@ -465,49 +466,49 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 800
+        size = 680
     }
 
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 750
+        size = 637
     }
 
     officers = {
         culture = amhara
         religion = coptic
-        size = 270
+        size = 229
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 1420
+        size = 1207
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 5750
+        size = 4887
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 6400
+        size = 5440
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 66485
+        size = 56512
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 7000
+        size = 5950
     }
 }
 #Antalo
@@ -515,43 +516,43 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 700
+        size = 595
     }
 
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 255
+        size = 216
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 350
+        size = 297
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 1500
+        size = 1275
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 7400
+        size = 6290
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 54550
+        size = 46367
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 12000
+        size = 10200
     }
 }
 #Awsa
@@ -559,37 +560,37 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 315
+        size = 267
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 175
+        size = 148
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 700
+        size = 595
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 175
+        size = 148
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 12635
+        size = 10739
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 3000
+        size = 2550
     }
 }
 #Shoa Region
@@ -598,49 +599,49 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 11175
+        size = 9498
     }
 
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 1665
+        size = 1415
     }
 
     officers = {
         culture = amhara
         religion = coptic
-        size = 660
+        size = 561
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 5700
+        size = 4845
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 32000
+        size = 27200
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 12000
+        size = 10200
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 202400
+        size = 172040
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 31600
+        size = 26860
     }
 }
 #Awasa
@@ -648,31 +649,31 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 1325
+        size = 1126
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 675
+        size = 573
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 2725
+        size = 2316
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 93300
+        size = 79305
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 10000
+        size = 8500
     }
 }
 #Aselia
@@ -680,37 +681,37 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 1250
+        size = 1062
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 150
+        size = 127
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 2650
+        size = 2252
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 450
+        size = 382
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 75500
+        size = 64175
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 12010
+        size = 10208
     }
 }
 #Bonga
@@ -718,31 +719,31 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 840
+        size = 714
     }
 
     officers = {
         culture = amhara
         religion = coptic
-        size = 900
+        size = 765
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 11100
+        size = 9435
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 12000
+        size = 10200
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 217000
+        size = 184450
     }
 }
 #Asosa
@@ -750,30 +751,31 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 200
+        size = 170
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 310
+        size = 263
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 11200
+        size = 9520
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 6100
+        size = 5185
     }
+
     farmers = {
         culture = amhara
         religion = coptic
-        size = 120850
+        size = 102722
     }
 }
 #Negele
@@ -781,37 +783,37 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 875
+        size = 743
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 1450
+        size = 1232
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 5850
+        size = 4972
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 5450
+        size = 4632
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 49375
+        size = 41968
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 27000
+        size = 22950
     }
 }
 #Harer
@@ -819,43 +821,43 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 910
+        size = 773
     }
 
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 625
+        size = 531
     }
 
     officers = {
         culture = amhara
         religion = coptic
-        size = 125
+        size = 106
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 1285
+        size = 1092
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 11900
+        size = 10115
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 11100
+        size = 9435
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 79215
+        size = 67332
     }
 }
 #Bale
@@ -863,37 +865,37 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 625
+        size = 531
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 325
+        size = 276
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 1600
+        size = 1360
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 1050
+        size = 892
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 38500
+        size = 32725
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 5000
+        size = 4250
     }
 }
 #Werder
@@ -901,37 +903,37 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 1575
+        size = 1338
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 900
+        size = 765
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 6150
+        size = 5227
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 3425
+        size = 2911
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 66625
+        size = 56631
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 2000
+        size = 1700
     }
 }
 #Mogadishu
@@ -939,49 +941,49 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 1050
+        size = 892
     }
 
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 100
+        size = 85
     }
 
     officers = {
         culture = amhara
         religion = coptic
-        size = 75
+        size = 63
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 550
+        size = 467
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 2175
+        size = 1848
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 1125
+        size = 956
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 58000
+        size = 49300
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 6000
+        size = 5100
     }
 }
 #Baidoa
@@ -989,31 +991,31 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 450
+        size = 382
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 225
+        size = 191
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 1150
+        size = 977
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 1175
+        size = 998
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 20000
+        size = 17000
     }
 }
 #Kismayo
@@ -1021,31 +1023,31 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 275
+        size = 233
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 150
+        size = 127
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 650
+        size = 552
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 1150
+        size = 977
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 18775
+        size = 15958
     }
 }
 #Majerteyn Region
@@ -1054,37 +1056,37 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 350
+        size = 297
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 175
+        size = 148
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 775
+        size = 658
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 200
+        size = 170
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 15500
+        size = 13175
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 2000
+        size = 1700
     }
 }
 #Busaso
@@ -1092,49 +1094,49 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 540
+        size = 459
     }
 
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 50
+        size = 42
     }
 
     officers = {
         culture = amhara
         religion = coptic
-        size = 50
+        size = 42
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 275
+        size = 233
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 1175
+        size = 998
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 1000
+        size = 850
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 20950
+        size = 17807
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 5000
+        size = 4250
     }
 }
 #Adal Region
@@ -1143,49 +1145,49 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 890
+        size = 756
     }
 
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 10
+        size = 8
     }
 
     officers = {
         culture = amhara
         religion = coptic
-        size = 50
+        size = 42
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 450
+        size = 382
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 1850
+        size = 1572
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 1750
+        size = 1487
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 35000
+        size = 29750
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 7000
+        size = 5950
     }
 }
 #Zayla
@@ -1193,63 +1195,63 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 150
+        size = 127
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 75
+        size = 63
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 400
+        size = 340
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 75
+        size = 63
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 7300
+        size = 6205
     }
 }
-#Wajir 
+#Wajir
 2031 = {
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 400
+        size = 340
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 200
+        size = 170
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 850
+        size = 722
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 225
+        size = 191
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 27000
+        size = 22950
     }
 }
 #Tolanaro
@@ -1257,37 +1259,37 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 475
+        size = 403
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 250
+        size = 212
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 1100
+        size = 935
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 250
+        size = 212
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 45025
+        size = 38271
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 8000
+        size = 6800
     }
 }
 #Toamasina
@@ -1295,43 +1297,43 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 1250
+        size = 1062
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 1150
+        size = 977
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 1700
+        size = 1445
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 3500
+        size = 2975
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 19750
+        size = 16787
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 25
+        size = 21
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 50
+        size = 42
     }
 }
 #Mahajanga
@@ -1339,31 +1341,31 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 375
+        size = 318
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 200
+        size = 170
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 6100
+        size = 5185
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 2200
+        size = 1870
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 54225
+        size = 46091
     }
 }
 #Mayotte
@@ -1371,45 +1373,89 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 15
+        size = 12
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 25
+        size = 21
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 50
+        size = 42
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 10
+        size = 8
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 500
+        size = 425
     }
 
     slaves = {
         culture = amhara
         religion = coptic
-        size = 250
+        size = 212
     }
 }
-#Reunion 
+#Reunion
 2126 = {
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 125
+        size = 106
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 722
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = coptic
+        size = 170
+    }
+
+    farmers = {
+        culture = amhara
+        religion = coptic
+        size = 1551
+    }
+
+    slaves = {
+        culture = amhara
+        religion = coptic
+        size = 11900
+    }
+}
+#New Antipolo
+3333 = {
+    aristocrats = {
+        culture = amhara
+        religion = coptic
+        size = 191
+    }
+
+    bureaucrats = {
+        culture = amhara
+        religion = coptic
+        size = 1232
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 1487
     }
 
     artisans = {
@@ -1421,57 +1467,13 @@
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 200
+        size = 1020
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 1825
-    }
-
-    slaves = {
-        culture = amhara
-        religion = coptic
-        size = 14000
-    }
-}
-#New Antipolo
-3333 = {
-    aristocrats = {
-        culture = amhara
-        religion = coptic
-        size = 225
-    }
-
-    bureaucrats = {
-        culture = amhara
-        religion = coptic
-        size = 1450
-    }
-
-    clergymen = {
-        culture = amhara
-        religion = coptic
-        size = 1750
-    }
-
-    artisans = {
-        culture = amhara
-        religion = coptic
-        size = 1000
-    }
-
-    soldiers = {
-        culture = amhara
-        religion = coptic
-        size = 1200
-    }
-
-    farmers = {
-        culture = amhara
-        religion = coptic
-        size = 12550
+        size = 10667
     }
 }
 #Aparri
@@ -1479,37 +1481,37 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 1250
+        size = 1062
     }
 
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 1050
+        size = 892
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 7500
+        size = 6375
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 39000
+        size = 33150
     }
-	
+
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 15000
+        size = 12750
     }
 
-	farmers = {
+    farmers = {
         culture = amhara
         religion = coptic
-        size = 180000
+        size = 153000
     }
 }
 #Palo Leyte
@@ -1517,36 +1519,36 @@
     aristocrats = {
         culture = amhara
         religion = coptic
-        size = 1250
+        size = 1062
     }
 
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 450
+        size = 382
     }
 
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 750
+        size = 637
     }
 
     artisans = {
         culture = amhara
         religion = coptic
-        size = 10000
+        size = 8500
     }
 
     soldiers = {
         culture = amhara
         religion = coptic
-        size = 4000
+        size = 3400
     }
 
     farmers = {
         culture = amhara
         religion = coptic
-        size = 91550
+        size = 77817
     }
 }

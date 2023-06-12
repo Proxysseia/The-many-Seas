@@ -5,85 +5,85 @@
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 150
+        size = 168
     }
 
     artisans = {
         culture = serb
         religion = the_broken
-        size = 750
+        size = 843
     }
 
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 250
+        size = 281
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 15350
+        size = 17268
     }
 
     farmers = {
         culture = serb
         religion = catholic
-        size = 500
+        size = 562
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 112
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 200
+        size = 225
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 100
+        size = 112
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 3675
+        size = 4134
     }
 
     aristocrats = {
         culture = vindonian
         religion = catholic
-        size = 300
+        size = 337
     }
 
     clergymen = {
         culture = vindonian
         religion = catholic
-        size = 100
+        size = 112
     }
 
     artisans = {
         culture = vindonian
         religion = catholic
-        size = 350
+        size = 393
     }
 
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 100
+        size = 112
     }
 
     farmers = {
         culture = vindonian
         religion = catholic
-        size = 5225
+        size = 5878
     }
 }
 #Pancevo (268000/67000 POPS) #part of Serbia today
@@ -91,145 +91,145 @@
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 50
+        size = 32
     }
 
     artisans = {
         culture = serb
         religion = the_broken
-        size = 220
+        size = 143
     }
 
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 60
+        size = 39
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 4665
+        size = 3032
     }
 
     farmers = {
         culture = serb
         religion = catholic
-        size = 200
+        size = 130
     }
 
     aristocrats = {
         culture = vindonian
         religion = catholic
-        size = 600
+        size = 390
     }
 
     clergymen = {
         culture = vindonian
         religion = catholic
-        size = 100
+        size = 65
     }
 
     artisans = {
         culture = vindonian
         religion = catholic
-        size = 500
+        size = 325
     }
 
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 100
+        size = 65
     }
 
     farmers = {
         culture = vindonian
         religion = catholic
-        size = 8700
+        size = 5655
     }
 
     aristocrats = {
         culture = vindonian
         religion = catholic
-        size = 1100
+        size = 715
     }
 
     clergymen = {
         culture = vindonian
         religion = catholic
-        size = 200
+        size = 130
     }
 
     artisans = {
         culture = vindonian
         religion = catholic
-        size = 1100
+        size = 715
     }
 
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 200
+        size = 130
     }
 
     farmers = {
         culture = vindonian
         religion = catholic
-        size = 17600
+        size = 11440
     }
 
     clergymen = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 65
     }
 
     artisans = {
         culture = romanian
         religion = the_broken
-        size = 500
+        size = 325
     }
 
     soldiers = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 65
     }
 
     farmers = {
         culture = romanian
         religion = the_broken
-        size = 10300
+        size = 6695
     }
 
     clergymen = {
         culture = hungarian
         religion = the_broken
-        size = 200
+        size = 130
     }
 
     artisans = {
         culture = hungarian
         religion = the_broken
-        size = 880
+        size = 572
     }
 
     soldiers = {
         culture = hungarian
         religion = the_broken
-        size = 240
+        size = 156
     }
 
     farmers = {
         culture = hungarian
         religion = the_broken
-        size = 18660
+        size = 12129
     }
 
     farmers = {
         culture = hungarian
         religion = catholic
-        size = 800
+        size = 520
     }
 }
 #Serbia Region
@@ -238,63 +238,25 @@
     aristocrats = {
         culture = serb
         religion = the_broken
-        size = 2200
+        size = 1430
     }
 
     bureaucrats = {
         culture = serb
         religion = the_broken
-        size = 100
+        size = 65
     }
 
     officers = {
         culture = serb
         religion = the_broken
-        size = 250
+        size = 162
     }
 
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 900
-    }
-
-    artisans = {
-        culture = serb
-        religion = the_broken
-        size = 4000
-    }
-
-    soldiers = {
-        culture = serb
-        religion = the_broken
-        size = 2025
-    }
-
-    farmers = {
-        culture = serb
-        religion = the_broken
-        size = 55925
-    }
-
-    farmers = {
-        culture = serb
-        religion = the_broken
-        size = 4500
-    }
-}
-#Bor (220400/55000 POPS)
-795 = {
-    aristocrats = {
-        culture = serb
-        religion = the_broken
-        size = 500
-    }
-
-    clergymen = {
-        culture = serb
-        religion = the_broken
-        size = 150
+        size = 585
     }
 
     artisans = {
@@ -306,37 +268,75 @@
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 1600
+        size = 1316
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 33360
+        size = 36351
+    }
+
+    farmers = {
+        culture = serb
+        religion = the_broken
+        size = 2925
+    }
+}
+#Bor (220400/55000 POPS)
+795 = {
+    aristocrats = {
+        culture = serb
+        religion = the_broken
+        size = 325
+    }
+
+    clergymen = {
+        culture = serb
+        religion = the_broken
+        size = 97
+    }
+
+    artisans = {
+        culture = serb
+        religion = the_broken
+        size = 1690
+    }
+
+    soldiers = {
+        culture = serb
+        religion = the_broken
+        size = 1040
+    }
+
+    farmers = {
+        culture = serb
+        religion = the_broken
+        size = 21684
     }
 
     clergymen = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 65
     }
 
     artisans = {
         culture = romanian
         religion = the_broken
-        size = 500
+        size = 325
     }
 
     soldiers = {
         culture = romanian
         religion = the_broken
-        size = 400
+        size = 260
     }
 
     farmers = {
         culture = romanian
         religion = the_broken
-        size = 16000
+        size = 10400
     }
 }
 #Kragujevac (188000/47000 POPS)
@@ -344,31 +344,31 @@
     aristocrats = {
         culture = serb
         religion = the_broken
-        size = 400
+        size = 260
     }
 
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 150
+        size = 97
     }
 
     artisans = {
         culture = serb
         religion = the_broken
-        size = 1200
+        size = 780
     }
 
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 1500
+        size = 975
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 40200
+        size = 26130
     }
 }
 #Uzice (72000/18000 POPS)
@@ -376,31 +376,31 @@
     aristocrats = {
         culture = serb
         religion = the_broken
-        size = 150
+        size = 97
     }
 
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 150
+        size = 97
     }
 
     artisans = {
         culture = serb
         religion = the_broken
-        size = 400
+        size = 260
     }
 
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 500
+        size = 325
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 13000
+        size = 8450
     }
 }
 #under the rule of Ottoman Empire in 1836
@@ -409,91 +409,91 @@
     soldiers = {
         culture = romanian
         religion = the_broken
-        size = 1350
+        size = 1080
     }
 
     clergymen = {
         culture = romanian
         religion = the_broken
-        size = 350
+        size = 280
     }
 
     artisans = {
         culture = romanian
         religion = the_broken
-        size = 2000
+        size = 1600
     }
 
     farmers = {
         culture = romanian
         religion = the_broken
-        size = 48300
+        size = 38640
     }
 
     soldiers = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     clergymen = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     artisans = {
         culture = romanian
         religion = the_broken
-        size = 150
+        size = 120
     }
 
     farmers = {
         culture = romanian
         religion = the_broken
-        size = 3700
+        size = 2960
     }
 
     aristocrats = {
         culture = serb
         religion = the_broken
-        size = 1150
+        size = 920
     }
 
     bureaucrats = {
         culture = serb
         religion = the_broken
-        size = 150
+        size = 120
     }
 
     officers = {
         culture = serb
         religion = the_broken
-        size = 150
+        size = 120
     }
 
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     artisans = {
         culture = serb
         religion = the_broken
-        size = 3000
+        size = 2400
     }
 
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 1100
+        size = 880
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 3450
+        size = 2760
     }
 }
 #Leskovac (220000/55000 POPS)
@@ -501,79 +501,79 @@
     soldiers = {
         culture = romanian
         religion = the_broken
-        size = 1100
+        size = 880
     }
 
     clergymen = {
         culture = romanian
         religion = the_broken
-        size = 125
+        size = 100
     }
 
     artisans = {
         culture = romanian
         religion = the_broken
-        size = 1500
+        size = 1200
     }
 
     farmers = {
         culture = romanian
         religion = the_broken
-        size = 38425
+        size = 30740
     }
 
     soldiers = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     clergymen = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     artisans = {
         culture = romanian
         religion = the_broken
-        size = 250
+        size = 200
     }
 
     farmers = {
         culture = romanian
         religion = the_broken
-        size = 7950
+        size = 6360
     }
 
     aristocrats = {
         culture = serb
         religion = the_broken
-        size = 450
+        size = 360
     }
 
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     artisans = {
         culture = serb
         religion = the_broken
-        size = 2500
+        size = 2000
     }
 
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 4575
+        size = 3660
     }
 }
 #Kosovo-Sanjak Region (466000)
@@ -583,139 +583,139 @@
     soldiers = {
         culture = romanian
         religion = the_broken
-        size = 1100
+        size = 880
     }
 
     clergymen = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     artisans = {
         culture = romanian
         religion = the_broken
-        size = 900
+        size = 720
     }
 
     farmers = {
         culture = romanian
         religion = the_broken
-        size = 21420
+        size = 17136
     }
 
     aristocrats = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     officers = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     soldiers = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     clergymen = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     artisans = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     farmers = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 300
+        size = 240
     }
 
     aristocrats = {
         culture = serb
         religion = the_broken
-        size = 850
+        size = 680
     }
 
     bureaucrats = {
         culture = serb
         religion = the_broken
-        size = 150
+        size = 120
     }
 
     officers = {
         culture = serb
         religion = the_broken
-        size = 150
+        size = 120
     }
 
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     artisans = {
         culture = serb
         religion = the_broken
-        size = 2000
+        size = 1600
     }
 
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 2800
+        size = 2240
     }
 
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     artisans = {
         culture = serb
         religion = the_broken
-        size = 1100
+        size = 880
     }
 
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 1100
+        size = 880
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 19700
+        size = 15760
     }
 }
 #Prizren (186000/46000 POPS)
@@ -723,223 +723,223 @@
     aristocrats = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     officers = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     soldiers = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     clergymen = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     artisans = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     farmers = {
         culture = romanian
         religion = the_broken
-        size = 3000
+        size = 2400
     }
 
     aristocrats = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     officers = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     soldiers = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     clergymen = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     artisans = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     farmers = {
         culture = romanian
         religion = the_broken
-        size = 2000
+        size = 1600
     }
 
     aristocrats = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     officers = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     soldiers = {
         culture = romanian
         religion = the_broken
-        size = 1100
+        size = 880
     }
 
     clergymen = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     artisans = {
         culture = romanian
         religion = the_broken
-        size = 200
+        size = 160
     }
 
     farmers = {
         culture = romanian
         religion = the_broken
-        size = 4000
+        size = 3200
     }
 
     farmers = {
         culture = serb
+        religion = the_broken
+        size = 480
+    }
+
+    aristocrats = {
+        culture = romanian
         religion = the_broken
         size = 600
     }
 
-    aristocrats = {
-        culture = romanian
-        religion = the_broken
-        size = 750
-    }
-
     clergymen = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     artisans = {
         culture = romanian
         religion = the_broken
-        size = 1750
+        size = 1400
     }
 
     soldiers = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     farmers = {
         culture = romanian
         religion = the_broken
-        size = 5150
+        size = 4120
     }
 
     farmers = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     aristocrats = {
         culture = serb
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     officers = {
         culture = serb
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     artisans = {
         culture = serb
         religion = the_broken
-        size = 900
+        size = 720
     }
 
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 34550
+        size = 27640
     }
 
     aristocrats = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     officers = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     soldiers = {
         culture = romanian
         religion = the_broken
-        size = 200
+        size = 160
     }
 
     clergymen = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     artisans = {
         culture = romanian
         religion = the_broken
-        size = 100
+        size = 80
     }
 
     farmers = {
         culture = romanian
         religion = the_broken
-        size = 1425
+        size = 1140
     }
 }
 #Novi Pazar (72000/18000 POPS)
@@ -947,48 +947,48 @@
     clergymen = {
         culture = serb
         religion = the_broken
-        size = 200
+        size = 130
     }
 
     artisans = {
         culture = serb
         religion = the_broken
-        size = 400
+        size = 260
     }
 
     farmers = {
         culture = serb
         religion = the_broken
-        size = 33250
+        size = 21612
     }
 
     soldiers = {
         culture = serb
         religion = the_broken
-        size = 1100
+        size = 715
     }
 
     clergymen = {
         culture = serb
         religion = orthodox
-        size = 200
+        size = 130
     }
 
     artisans = {
         culture = serb
         religion = orthodox
-        size = 450
+        size = 292
     }
 
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 1100
+        size = 715
     }
 
     farmers = {
         culture = serb
         religion = orthodox
-        size = 7450
+        size = 4842
     }
 }
