@@ -290,11 +290,9 @@ AUS_625 = { 625 626 627 628 629 630 } #Bohemia
 
 AUS_627 = { 688 632 689 2584 631 } #Lower Silesia
 
-AUS_633 = { 633 634 635 636 } #Slovakia
+AUS_633 = { 633 634 635 636 637 704 } #Slovakia
 
-NIT_637 = { 637 638 950 704 } #Bohatéhory
-
-NIT_714 = { 714 953 951 } #Bohatéhory
+KOS_638 = { 638 950 951 953 } #Kosice
 
 AUS_641 = { 648 649 650 651 647 } #Central Hungary
 
@@ -304,7 +302,7 @@ AUS_654 = { 654 655 656 661} #Western Transylvania
 
 AUS_657 = { 657 659 660 2533 } #Eastern Transylvania
 
-RUS_715 = { 715 711 713 716 705 } #West Galicia
+RUS_715 = { 715 711 713 716 705 714 } #West Galicia
 
 AUS_734 = { 734 732 733 8 736 737 } #South Tirol
 
@@ -893,7 +891,7 @@ KAN_2020 = { 110 228 1807 2020 } #Tahoua
 
 ENG_1818 = { 1970 1971 1995 1993 } #Waddai
 
-ENG_1823 = { 1818 1820 1822 1823 1824 2125 } #Chally
+KIT_1818 = { 1818 1820 1822 1823 1824 2125 } #Massenya
 
 ENG_1825 = { 175 1826 1817 1825 } #Chad
 

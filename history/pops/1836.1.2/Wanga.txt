@@ -68,13 +68,18 @@
         size = 8801
     }
 }
-#Louisiana Region
 #New Orleans
 139 = {
     aristocrats = {
         culture = nyasa
         religion = animist
         size = 3600
+    }
+	
+	bureaucrats = {
+        culture = nyasa
+        religion = animist
+        size = 1280
     }
 
     clergymen = {
@@ -130,7 +135,7 @@
     farmers = {
         culture = nyasa
         religion = animist
-        size = 38640
+        size = 88640
     }
 }
 #Little Rock
@@ -238,7 +243,7 @@
     farmers = {
         culture = nyasa
         religion = animist
-        size = 32800
+        size = 92800
     }
 
     slaves = {
@@ -398,7 +403,7 @@
     bureaucrats = {
         culture = nyasa
         religion = animist
-        size = 280
+        size = 780
     }
 
     officers = {
@@ -419,12 +424,6 @@
         size = 16000
     }
 
-    artisans = {
-        culture = nyasa
-        religion = animist
-        size = 1120
-    }
-
     soldiers = {
         culture = nyasa
         religion = animist
@@ -434,7 +433,7 @@
     farmers = {
         culture = nyasa
         religion = animist
-        size = 62800
+        size = 112800
     }
 
     slaves = {
@@ -466,7 +465,7 @@
     farmers = {
         culture = nyasa
         religion = animist
-        size = 32840
+        size = 82840
     }
 }
 #Long Island
@@ -594,10 +593,10 @@
     farmers = {
         culture = nyasa
         religion = animist
-        size = 1
+        size = 50000
     }
 }
-#Nakuru (128000/32000 POPS)
+#Nakuru
 2027 = {
     aristocrats = {
         culture = nyasa
@@ -818,7 +817,7 @@
     bureaucrats = {
         culture = nyasa
         religion = ibadi
-        size = 400
+        size = 2200
     }
 
     clergymen = {
@@ -922,6 +921,12 @@
         religion = animist
         size = 720
     }
+	
+	bureaucrats = {
+        culture = nyasa
+        religion = animist
+        size = 1080
+    }
 
     clergymen = {
         culture = nyasa
@@ -959,6 +964,12 @@
         culture = nyasa
         religion = animist
         size = 240
+    }
+	
+	bureaucrats = {
+        culture = nyasa
+        religion = animist
+        size = 680
     }
 
     clergymen = {
@@ -1029,6 +1040,12 @@
         culture = nyasa
         religion = sunni
         size = 1600
+    }
+
+	bureaucrats = {
+        culture = nyasa
+        religion = animist
+        size = 1280
     }
 
     clergymen = {
@@ -1300,7 +1317,7 @@
     farmers = {
         culture = nyasa
         religion = animist
-        size = 346480
+        size = 46480
     }
 }
 #Bohol Island
@@ -1446,6 +1463,6 @@
     farmers = {
         culture = nyasa
         religion = animist
-        size = 52080
+        size = 92080
     }
 }

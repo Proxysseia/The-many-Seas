@@ -27,7 +27,7 @@ pensions = no_pensions
 school_reforms = no_schools
 
 
-ruling_party = ALB_reactionary
+ruling_party = AAA_reactionary
 upper_house = {
     fascist = 0
     liberal = 32
@@ -63,4 +63,4 @@ foreign_weapons = yes_foreign_weapons
 consciousness = 0
 nonstate_consciousness = 0
 
-oob = "ALB_oob.txt"
+oob = "AAA_oob.txt"

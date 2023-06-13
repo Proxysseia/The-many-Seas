@@ -1,0 +1,9 @@
+army = {
+	name = "the voices"
+	location = 244
+	regiment = {
+		name = "meow"
+		type = infantry
+		home = 493
+	}
+}
