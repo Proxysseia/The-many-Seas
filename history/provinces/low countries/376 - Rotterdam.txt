@@ -1,9 +1,5 @@
 owner = DUG
 controller = DUG
-add_core = DUG
+add_core = AMA
 trade_goods = fish
 life_rating = 35
-2861.1.1 = {
-    railroad = 1
-    naval_base = 3
-}

@@ -15,7 +15,7 @@ country_event = {
 		name = ">:3"
 			prestige = 2
 			YEN = {
-              any_owned = {
+              all_core = {
                             add_core = URA
                             remove_core = YEN
 			}
@@ -40,7 +40,7 @@ country_event = {
 		name = "munch"
 			prestige = 2
 			ZAY = {
-              any_owned = {
+              all_core = {
                             add_core = URA
                             remove_core = ZAY
 			}

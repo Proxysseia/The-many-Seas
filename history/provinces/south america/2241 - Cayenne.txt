@@ -1,6 +1,6 @@
 owner = DUG
 controller = DUG
-add_core = DUG
+add_core = AMA
 trade_goods = tropical_wood
 life_rating = 30
-
+colonial = 2

@@ -1,5 +1,6 @@
 owner = DUG
 controller = DUG
-add_core = DUG
+add_core = AMA
 trade_goods = precious_metal
 life_rating = 35
+colonial = 2
