@@ -33,7 +33,7 @@
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 3000
+        size = 1500
     }
 
     farmers = {
@@ -83,7 +83,7 @@
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 3000
+        size = 1500
     }
 
     farmers = {
@@ -133,13 +133,13 @@
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 4500
+        size = 2250
     }
 
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 1762
+        size = 881
     }
 
     farmers = {
@@ -189,7 +189,7 @@
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 3000
+        size = 1500
     }
 
     farmers = {
@@ -201,7 +201,7 @@
     soldiers = {
         culture = amhara
         religion = sunni
-        size = 100
+        size = 50
     }
 
     farmers = {
@@ -233,7 +233,7 @@
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 3000
+        size = 1500
     }
 
     farmers = {
@@ -271,7 +271,7 @@
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 300
+        size = 150
     }
 
     farmers = {
@@ -321,7 +321,7 @@
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 150
+        size = 75
     }
 
     farmers = {

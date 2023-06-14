@@ -15,7 +15,7 @@
     soldiers = {
         culture = english
         religion = protestant
-        size = 20
+        size = 6
     }
 
     artisans = {
@@ -58,7 +58,6 @@
 }
 #Tristan da Cunha (100/25 POPS)
 2132 = {
-
     soldiers = {
         culture = english
         religion = protestant

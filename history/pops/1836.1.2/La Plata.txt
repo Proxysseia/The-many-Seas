@@ -17,7 +17,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 1500
+        size = 375
     }
 
     farmers = {
@@ -31,7 +31,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 750
+        size = 187
     }
 
     farmers = {
@@ -52,12 +52,12 @@
         size = 7650
     }
 }
-#Santiago 
+#Santiago
 2324 = {
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 1000
+        size = 250
     }
 
     farmers = {
@@ -71,7 +71,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 1000
+        size = 250
     }
 
     farmers = {
@@ -85,7 +85,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 2200
+        size = 550
     }
 
     farmers = {
@@ -169,7 +169,6 @@
         religion = catholic
         size = 28000
     }
-
 }
 #Temuco (36000/9000 POPS)
 2329 = {
@@ -407,7 +406,6 @@
         size = 38000
     }
 }
-
 #Fortin Falcon
 2337 = {
     aristocrats = {
@@ -431,7 +429,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 1500
+        size = 375
     }
 
     farmers = {
@@ -439,9 +437,8 @@
         religion = catholic
         size = 30000
     }
-
 }
-#Puerto Guarani 
+#Puerto Guarani
 2338 = {
     aristocrats = {
         culture = janeiran
@@ -464,7 +461,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 5000
+        size = 1250
     }
 
     farmers = {
@@ -496,7 +493,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 3000
+        size = 750
     }
 
     farmers = {
@@ -528,7 +525,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 5000
+        size = 1250
     }
 
     farmers = {
@@ -537,7 +534,7 @@
         size = 30000
     }
 }
-#San Pedro 
+#San Pedro
 2342 = {
     aristocrats = {
         culture = janeiran
@@ -560,7 +557,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 6000
+        size = 1500
     }
 
     farmers = {
@@ -586,7 +583,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 2000
+        size = 500
     }
 
     farmers = {
@@ -595,7 +592,7 @@
         size = 32000
     }
 }
-#Montevideo 
+#Montevideo
 2344 = {
     aristocrats = {
         culture = janeiran
@@ -630,7 +627,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 6000
+        size = 1500
     }
 
     farmers = {
@@ -668,7 +665,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 2000
+        size = 500
     }
 
     farmers = {
@@ -679,7 +676,6 @@
 }
 #Tacumba
 2346 = {
-
     aristocrats = {
         culture = janeiran
         religion = catholic
@@ -707,7 +703,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 3000
+        size = 750
     }
 
     farmers = {
@@ -745,7 +741,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 2000
+        size = 500
     }
 
     farmers = {
@@ -783,7 +779,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 5000
+        size = 1250
     }
 
     farmers = {
@@ -815,7 +811,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 2000
+        size = 500
     }
 
     farmers = {
@@ -847,7 +843,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 1000
+        size = 250
     }
 
     farmers = {
@@ -879,8 +875,8 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 4000
-    }    
+        size = 1000
+    }
 
     farmers = {
         culture = janeiran
@@ -890,7 +886,6 @@
 }
 #Mar del Plata (12000/3000 POPS)
 2352 = {
-    
     bureaucrats = {
         culture = janeiran
         religion = catholic
@@ -918,7 +913,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 6500
+        size = 1625
     }
 
     farmers = {
@@ -936,7 +931,6 @@
         size = 250
     }
 
-
     farmers = {
         culture = janeiran
         religion = catholic
@@ -948,6 +942,7 @@
         religion = catholic
         size = 450
     }
+
     artisans = {
         culture = janeiran
         religion = catholic
@@ -957,8 +952,8 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 4000
-    }    
+        size = 1000
+    }
 }
 #Bahia Blanca (24000/6000 POPS)
 2354 = {
@@ -989,13 +984,11 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 2000
+        size = 500
     }
-
 }
 #Carmen (20000/5000 POPS)
 2355 = {
-
     clergymen = {
         culture = janeiran
         religion = catholic
@@ -1017,7 +1010,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 6000
+        size = 1500
     }
 
     farmers = {
@@ -1025,7 +1018,6 @@
         religion = catholic
         size = 41750
     }
-
 }
 #Rosario (8000/2000 POPS)
 2363 = {
@@ -1044,7 +1036,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 50
+        size = 12
     }
 
     farmers = {
@@ -1052,9 +1044,7 @@
         religion = catholic
         size = 1000
     }
-
 }
-
 #Santo Tomas (28000/7000 POPS)
 2358 = {
     clergymen = {
@@ -1106,15 +1096,15 @@
         religion = catholic
         size = 6400
     }
+
     farmers = {
         culture = janeiran
         religion = catholic
         size = 1000
-    }    
+    }
 }
 #Lluvia Ciudad (16000/4000 POPS)
 2360 = {
-    
     bureaucrats = {
         culture = janeiran
         religion = catholic
@@ -1126,6 +1116,7 @@
         religion = catholic
         size = 40
     }
+
     aristocrats = {
         culture = janeiran
         religion = catholic
@@ -1141,13 +1132,13 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 4000
+        size = 1000
     }
 
     soldiers = {
         culture = amazonian
         religion = catholic
-        size = 1000
+        size = 250
     }
 
     farmers = {
@@ -1181,7 +1172,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 50
+        size = 12
     }
 
     slaves = {
@@ -1219,7 +1210,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 250
+        size = 62
     }
 
     farmers = {
@@ -1245,7 +1236,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 250
+        size = 62
     }
 
     farmers = {
@@ -1260,15 +1251,15 @@
         religion = protestant
         size = 1
     }
-	
-	soldiers = {
+
+    soldiers = {
         culture = french				#His Bodyguard
         religion = catholic
         size = 1
     }
-	
-	slaves = {
-	culture = janeiran					# Infamy Slaves
+
+    slaves = {
+        culture = janeiran					# Infamy Slaves
         religion = catholic
         size = 5
     }
@@ -1290,7 +1281,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 1100
+        size = 275
     }
 
     labourers = {
@@ -1336,7 +1327,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 120
+        size = 30
     }
 
     farmers = {
@@ -1351,7 +1342,6 @@
         size = 1400
     }
 }
-
 #Salta (16000/4000 POPS)
 2368 = {
     aristocrats = {
@@ -1387,7 +1377,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 100
+        size = 25
     }
 
     farmers = {
@@ -1425,7 +1415,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 50
+        size = 12
     }
 
     farmers = {
@@ -1451,7 +1441,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 20
+        size = 5
     }
 
     farmers = {
@@ -1477,7 +1467,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 20
+        size = 5
     }
 
     farmers = {
@@ -1503,7 +1493,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 20
+        size = 5
     }
 
     farmers = {
@@ -1557,7 +1547,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 50
+        size = 12
     }
 
     farmers = {
@@ -1589,7 +1579,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 20
+        size = 5
     }
 
     farmers = {
@@ -1629,7 +1619,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 100
+        size = 25
     }
 
     farmers = {
@@ -1655,7 +1645,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 250
+        size = 62
     }
 
     farmers = {
@@ -1687,7 +1677,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 250
+        size = 62
     }
 
     farmers = {
@@ -1695,6 +1685,7 @@
         religion = catholic
         size = 17600
     }
+
     bureaucrats = {
         culture = janeiran
         religion = catholic
@@ -1736,7 +1727,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 6000
+        size = 1500
     }
 
     farmers = {
@@ -1768,7 +1759,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 650
+        size = 162
     }
 
     farmers = {
@@ -1794,7 +1785,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 650
+        size = 162
     }
 
     farmers = {
@@ -1820,7 +1811,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 250
+        size = 62
     }
 
     farmers = {
@@ -1841,7 +1832,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 250
+        size = 62
     }
 
     farmers = {
@@ -1867,7 +1858,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 250
+        size = 62
     }
 
     farmers = {
@@ -1895,13 +1886,15 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 50
+        size = 12
     }
+
     farmers = {
         culture = janeiran
         religion = catholic
         size = 2000
     }
+
     farmers = {
         culture = janeiran
         religion = catholic
@@ -1931,7 +1924,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 250
+        size = 62
     }
 
     farmers = {
@@ -1957,7 +1950,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 150
+        size = 37
     }
 
     farmers = {
@@ -1986,18 +1979,17 @@
         size = 50
     }
 
-
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 120
+        size = 30
     }
 
     farmers = {
         culture = janeiran
         religion = catholic
         size = 1000
-    }   
+    }
 
     farmers = {
         culture = janeiran
@@ -2005,9 +1997,8 @@
         size = 900
     }
 }
-#Mendoza 
+#Mendoza
 2389 = {
-
     clergymen = {
         culture = janeiran
         religion = catholic
@@ -2017,14 +2008,14 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 400
+        size = 100
     }
 
     farmers = {
         culture = janeiran
         religion = catholic
         size = 1000
-    }   
+    }
 
     farmers = {
         culture = janeiran
@@ -2055,14 +2046,14 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 250
+        size = 62
     }
 
     farmers = {
         culture = janeiran
         religion = catholic
         size = 1800
-    }  
+    }
 
     farmers = {
         culture = janeiran
@@ -2160,7 +2151,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 350
+        size = 87
     }
 
     farmers = {
@@ -2394,7 +2385,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 1500
+        size = 375
     }
 
     farmers = {
@@ -2420,7 +2411,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 500
+        size = 125
     }
 
     farmers = {
@@ -2446,7 +2437,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 3000
+        size = 750
     }
 
     farmers = {
@@ -2490,7 +2481,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 1900
+        size = 475
     }
 
     farmers = {
@@ -2522,7 +2513,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 1000
+        size = 250
     }
 
     farmers = {
@@ -2531,7 +2522,7 @@
         size = 17000
     }
 }
-#Lajes 
+#Lajes
 2459 = {
     aristocrats = {
         culture = janeiran
@@ -2554,7 +2545,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 1000
+        size = 250
     }
 
     farmers = {
@@ -2586,7 +2577,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 1800
+        size = 450
     }
 
     farmers = {
@@ -2618,7 +2609,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 2000
+        size = 500
     }
 
     farmers = {
@@ -2650,7 +2641,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 2200
+        size = 550
     }
 
     farmers = {
@@ -2694,7 +2685,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 2000
+        size = 500
     }
 
     farmers = {
@@ -2703,7 +2694,7 @@
         size = 23000
     }
 }
-#Sao Pedro 
+#Sao Pedro
 2464 = {
     aristocrats = {
         culture = janeiran
@@ -2726,7 +2717,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 2800
+        size = 700
     }
 
     farmers = {
@@ -2758,7 +2749,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 2900
+        size = 725
     }
 
     farmers = {
@@ -2790,7 +2781,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 5400
+        size = 1350
     }
 
     farmers = {
@@ -2816,7 +2807,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 8000
+        size = 2000
     }
 
     farmers = {
@@ -2836,7 +2827,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 50
+        size = 12
     }
 
     farmers = {
@@ -2860,7 +2851,7 @@
     soldiers = {
         culture = janeiran
         religion = catholic
-        size = 350
+        size = 87
     }
 
     farmers = {

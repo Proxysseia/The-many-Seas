@@ -827,7 +827,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 1200
+        size = 600
     }
 
     farmers = {
@@ -857,7 +857,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 1260
+        size = 630
     }
 
     farmers = {
@@ -889,7 +889,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 1300
+        size = 650
     }
 
     farmers = {
@@ -919,7 +919,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 1365
+        size = 682
     }
 
     farmers = {
@@ -959,7 +959,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 1200
+        size = 600
     }
 
     farmers = {
@@ -1001,7 +1001,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 1260
+        size = 630
     }
 
     farmers = {
@@ -1045,7 +1045,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 3600
+        size = 1800
     }
 
     farmers = {
@@ -1069,7 +1069,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 70
+        size = 35
     }
 
     farmers = {
@@ -1111,7 +1111,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 3780
+        size = 1890
     }
 
     farmers = {
@@ -1143,7 +1143,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 1000
+        size = 500
     }
 
     farmers = {
@@ -1167,7 +1167,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 175
+        size = 87
     }
 
     farmers = {
@@ -1197,7 +1197,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 1050
+        size = 525
     }
 
     farmers = {
@@ -1606,7 +1606,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 65
+        size = 32
     }
 
     clergymen = {
@@ -1648,7 +1648,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 24
+        size = 12
     }
 
     clergymen = {
@@ -1692,7 +1692,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 65
+        size = 32
     }
 
     clergymen = {
@@ -1740,7 +1740,7 @@
     soldiers = {
         culture = ukrainian
         religion = orthodox
-        size = 60
+        size = 30
     }
 
     artisans = {
@@ -1770,7 +1770,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 24
+        size = 12
     }
 
     clergymen = {
@@ -1814,7 +1814,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 81
+        size = 40
     }
 
     artisans = {
@@ -1838,7 +1838,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 81
+        size = 40
     }
 
     clergymen = {
@@ -1874,7 +1874,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 30
+        size = 15
     }
 
     artisans = {
@@ -1898,7 +1898,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 30
+        size = 15
     }
 
     clergymen = {
@@ -1938,7 +1938,7 @@
     soldiers = {
         culture = ukrainian
         religion = orthodox
-        size = 4500
+        size = 2250
     }
 
     farmers = {
@@ -1968,7 +1968,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 8125
+        size = 4062
     }
 
     farmers = {
@@ -2004,7 +2004,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 3062
+        size = 1531
     }
 
     farmers = {
@@ -2172,7 +2172,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 3750
+        size = 1875
     }
 
     farmers = {
@@ -2202,7 +2202,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 700
+        size = 350
     }
 
     farmers = {
@@ -2384,7 +2384,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 1950
+        size = 975
     }
 
     clergymen = {
@@ -2420,7 +2420,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 735
+        size = 367
     }
 
     clergymen = {
@@ -2466,7 +2466,7 @@
     soldiers = {
         culture = latvian
         religion = orthodox
-        size = 70
+        size = 35
     }
 
     farmers = {
@@ -2490,7 +2490,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 70
+        size = 35
     }
 
     artisans = {
@@ -2514,7 +2514,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 70
+        size = 35
     }
 
     artisans = {

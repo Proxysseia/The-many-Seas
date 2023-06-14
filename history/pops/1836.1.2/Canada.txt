@@ -90,10 +90,8 @@
         size = 1800
     }
 }
-
 #Northwest Territories & Keewatin Regions - 28000
 #uncolonized in 1836
-
 #Echo Bay (4000/1000 POPS)
 11 = {
     aristocrats = {
@@ -132,7 +130,6 @@
         size = 150
     }
 }
-
 #Fort Resolution (2000/500 POPS)
 2596 = {
     aristocrats = {
@@ -197,10 +194,8 @@
         size = 1525
     }
 }
-
 #Whale Cove (2800/700 POPS)
 2595 = {
-
     aristocrats = {
         culture = native_american_minor
         religion = protestant
@@ -236,13 +231,11 @@
         religion = protestant
         size = 1250
     }
-
 }
 #Alberta Region: 64000
 #uncolonized in 1836
 #Edmonton (16000/4000 POPS)
 22 = {
-
     clergymen = {
         culture = native_american_minor
         religion = protestant
@@ -319,7 +312,6 @@
 }
 #Jasper (4000/1000 POPS)
 24 = {
-
     clergymen = {
         culture = native_american_minor
         religion = protestant
@@ -349,11 +341,9 @@
         religion = protestant
         size = 8250
     }
-
 }
 #Banff (4000/1000 POPS)
 25 = {
-
     clergymen = {
         culture = native_american_minor
         religion = protestant
@@ -392,7 +382,6 @@
 }
 #Calgary (8000/2000 POPS)
 26 = {
-
     clergymen = {
         culture = native_american_minor
         religion = protestant
@@ -431,7 +420,6 @@
 }
 #Edmonton - Denwood (8000/2000 POPS)
 27 = {
-
     aristocrats = {
         culture = native_american_minor
         religion = protestant
@@ -488,7 +476,6 @@
 }
 #Fort MacLeod (8000/2000 POPS)
 28 = {
-
     clergymen = {
         culture = native_american_minor
         religion = protestant
@@ -525,7 +512,6 @@
         size = 665
     }
 }
-
 #Fort Vermillion (3200/800 POPS)
 2597 = {
     aristocrats = {
@@ -562,7 +548,6 @@
 #uncolonized in 1836
 #Regina (12000/3000 POPS)
 30 = {
-
     aristocrats = {
         culture = native_american_minor
         religion = protestant
@@ -707,7 +692,6 @@
 }
 #Asquith (8000/2000 POPS)
 33 = {
-
     clergymen = {
         culture = native_american_minor
         religion = protestant
@@ -746,7 +730,6 @@
 }
 #Saskatoon (8000/2000 POPS)
 34 = {
-
     clergymen = {
         culture = native_american_minor
         religion = protestant
@@ -785,7 +768,6 @@
 }
 #Maple canuckk (4000/1000 POPS)
 35 = {
-
     clergymen = {
         culture = native_american_minor
         religion = protestant
@@ -830,6 +812,7 @@
         religion = protestant
         size = 250
     }
+
     clergymen = {
         culture = native_american_minor
         religion = protestant
@@ -853,11 +836,9 @@
         religion = protestant
         size = 31015
     }
-
 }
 #Churchill (4000/1000 POPS)
 37 = {
-
     clergymen = {
         culture = native_american_minor
         religion = protestant
@@ -881,7 +862,6 @@
         religion = protestant
         size = 750
     }
-
 
     farmers = {
         culture = native_american_minor
@@ -961,7 +941,6 @@
 }
 #Dauphin (8000/2000 POPS)
 40 = {
-
     clergymen = {
         culture = native_american_minor
         religion = protestant
@@ -994,7 +973,6 @@
 }
 #Brandon (8000/2000 POPS)
 41 = {
-
     clergymen = {
         culture = native_american_minor
         religion = protestant
@@ -1027,7 +1005,6 @@
 }
 #New Winnipeg (8000/2000 POPS)
 42 = {
-
     aristocrats = {
         culture = native_american_minor
         religion = protestant
@@ -1075,13 +1052,11 @@
         religion = protestant
         size = 14000
     }
-
 }
 #Ontario Region : 448000
 #uncolonized in 1836
 #Fort Severn (2800/700 POPS)
 47 = {
-
     clergymen = {
         culture = native_american_minor
         religion = protestant
@@ -1114,7 +1089,6 @@
 }
 #Fort Albany (6400/1600 POPS)
 48 = {
-
     clergymen = {
         culture = native_american_minor
         religion = protestant
@@ -1144,11 +1118,9 @@
         religion = protestant
         size = 3000
     }
-
 }
 #Dryden (12000/3000 POPS)
 49 = {
-
     aristocrats = {
         culture = native_american_minor
         religion = protestant
@@ -1205,7 +1177,6 @@
 }
 #Thunder Bay (8000/2000 POPS)
 50 = {
-
     clergymen = {
         culture = native_american_minor
         religion = protestant
@@ -1238,7 +1209,6 @@
 }
 #Sault Ste Marie (8000/2000 POPS)
 51 = {
-
     clergymen = {
         culture = native_american_minor
         religion = protestant
@@ -1265,7 +1235,6 @@
 }
 #Sudbury (8000/2000 POPS)
 52 = {
-
     clergymen = {
         culture = native_american_minor
         religion = protestant
@@ -1289,11 +1258,9 @@
         religion = protestant
         size = 8050
     }
-
 }
 #Pickle Lake (1200/3000 POPS)
 2594 = {
-
     clergymen = {
         culture = native_american_minor
         religion = protestant
@@ -1323,9 +1290,7 @@
         religion = protestant
         size = 500
     }
-
 }
-
 #ruled by Britain in 1836
 #Toronto (172000/43000 POPS)
 46 = {
@@ -1376,6 +1341,7 @@
         religion = protestant
         size = 130250
     }
+
     craftsmen = {
         culture = native_american_minor
         religion = protestant
@@ -1384,7 +1350,6 @@
 }
 #Windsor (36000/9000 POPS)
 54 = {
-
     aristocrats = {
         culture = native_american_minor
         religion = protestant
@@ -1559,7 +1524,7 @@
     soldiers = {
         culture = native_american_minor
         religion = protestant
-        size = 125
+        size = 82
     }
 
     farmers = {
@@ -1576,7 +1541,6 @@
 }
 #Kenai/Kasilof (2400/600 POPS)
 3 = {
-
     clergymen = {
         culture = native_american_minor
         religion = protestant

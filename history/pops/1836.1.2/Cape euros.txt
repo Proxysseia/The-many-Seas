@@ -157,7 +157,7 @@
     soldiers = {
         culture = scottish
         religion = protestant
-        size = 1250
+        size = 825
     }
 
     farmers = {
@@ -222,7 +222,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 3500
+        size = 2310
     }
 
     farmers = {
@@ -286,7 +286,7 @@
     soldiers = {
         culture = lavlandish
         religion = protestant
-        size = 1000
+        size = 660
     }
 
     farmers = {
@@ -318,7 +318,7 @@
     soldiers = {
         culture = lavlandish
         religion = protestant
-        size = 1200
+        size = 792
     }
 
     farmers = {
@@ -345,7 +345,7 @@
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 175
+        size = 87
     }
 
     farmers = {
@@ -377,7 +377,7 @@
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 2100
+        size = 1050
     }
 
     farmers = {
@@ -415,7 +415,7 @@
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 70
+        size = 35
     }
 
     farmers = {
@@ -453,13 +453,13 @@
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 70
+        size = 35
     }
 
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 700
+        size = 350
     }
 
     farmers = {
@@ -492,7 +492,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 200
+        size = 100
     }
 
     farmers = {
@@ -524,7 +524,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 50
+        size = 25
     }
 
     farmers = {
@@ -556,7 +556,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 25
+        size = 12
     }
 
     farmers = {
@@ -588,7 +588,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 500
+        size = 250
     }
 
     farmers = {

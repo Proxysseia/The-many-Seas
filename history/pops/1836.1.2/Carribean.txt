@@ -239,7 +239,7 @@
     soldiers = {
         culture = antillean
         religion = catholic
-        size = 3000
+        size = 1500
     }
 
     slaves = {
@@ -279,6 +279,7 @@
         religion = catholic
         size = 12420
     }
+
     slaves = {
         culture = antillean
         religion = catholic
@@ -287,7 +288,7 @@
 }
 #Jamaica
 2217 = {
-    aristocrats = { 
+    aristocrats = {
         culture = antillean
         religion = protestant
         size = 1890
@@ -323,8 +324,6 @@
         size = 125000
     }
 }
-
-
 #The Bahamas Region - 23000
 #Ruled by Britain 1836
 #The Bahamas (20000/5000 POPS)
@@ -459,11 +458,9 @@
         religion = catholic
         size = 10000
     }
-
 }
-#Port au Prince 
+#Port au Prince
 2213 = {
-
     bureaucrats = {
         culture = antillean
         religion = sunni
@@ -497,7 +494,7 @@
     soldiers = {
         culture = antillean
         religion = sunni
-        size = 6000
+        size = 3000
     }
 
     slaves = {
@@ -506,7 +503,7 @@
         size = 88300
     }
 }
-#Jamaica 
+#Jamaica
 2217 = {
     aristocrats = {
         culture = antillean
@@ -514,7 +511,7 @@
         size = 100
     }
 
-    aristocrats = { 
+    aristocrats = {
         culture = antillean
         religion = protestant
         size = 1890
@@ -703,7 +700,6 @@
         religion = catholic
         size = 24000
     }
-
 }
 #Trinidad (44000/11000 POPS)
 2237 = {
@@ -873,7 +869,7 @@
         size = 47000
     }
 }
-#Saint Kitts 
+#Saint Kitts
 2227 = {
     aristocrats = {
         culture = antillean
@@ -928,7 +924,6 @@
         religion = protestant
         size = 25900
     }
-
 }
 #Santo Domingo (68000/17000 POPS) #now part of Dominican Republic
 2214 = {
@@ -959,7 +954,7 @@
     soldiers = {
         culture = antillean
         religion = catholic
-        size = 75
+        size = 37
     }
 
     farmers = {
@@ -983,7 +978,7 @@
     soldiers = {
         culture = antillean
         religion = catholic
-        size = 50
+        size = 25
     }
 
     slaves = {
@@ -1015,7 +1010,7 @@
     soldiers = {
         culture = antillean
         religion = catholic
-        size = 50
+        size = 25
     }
 
     farmers = {
@@ -1039,7 +1034,7 @@
     soldiers = {
         culture = antillean
         religion = catholic
-        size = 75
+        size = 37
     }
 
     farmers = {
@@ -1047,5 +1042,4 @@
         religion = catholic
         size = 30575
     }
-
 }

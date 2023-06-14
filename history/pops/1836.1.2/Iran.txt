@@ -1591,7 +1591,7 @@
     soldiers = {
         culture = saayda
         religion = shiite
-        size = 150
+        size = 75
     }
 
     farmers = {
@@ -1633,7 +1633,7 @@
     soldiers = {
         culture = persian
         religion = shiite
-        size = 50
+        size = 25
     }
 
     farmers = {
@@ -1709,7 +1709,7 @@
     soldiers = {
         culture = saayda
         religion = shiite
-        size = 37
+        size = 18
     }
 
     farmers = {
@@ -1739,7 +1739,7 @@
     soldiers = {
         culture = saayda
         religion = shiite
-        size = 112
+        size = 56
     }
 
     farmers = {

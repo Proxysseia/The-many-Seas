@@ -21,7 +21,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 1600
+        size = 800
     }
 
     farmers = {
@@ -75,8 +75,8 @@
         religion = animist
         size = 3600
     }
-	
-	bureaucrats = {
+
+    bureaucrats = {
         culture = nyasa
         religion = animist
         size = 1280
@@ -97,7 +97,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 2000
+        size = 1000
     }
 
     farmers = {
@@ -129,7 +129,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 4040
+        size = 2020
     }
 
     farmers = {
@@ -173,7 +173,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 7200
+        size = 3600
     }
 
     farmers = {
@@ -205,7 +205,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 2120
+        size = 1060
     }
 
     farmers = {
@@ -237,7 +237,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 680
+        size = 340
     }
 
     farmers = {
@@ -275,7 +275,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 2040
+        size = 1020
     }
 
     farmers = {
@@ -313,7 +313,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 2400
+        size = 1200
     }
 
     farmers = {
@@ -345,7 +345,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 3640
+        size = 1820
     }
 
     farmers = {
@@ -377,7 +377,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 1720
+        size = 860
     }
 
     farmers = {
@@ -427,7 +427,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 4800
+        size = 2400
     }
 
     farmers = {
@@ -459,7 +459,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 360
+        size = 180
     }
 
     farmers = {
@@ -485,7 +485,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 400
+        size = 200
     }
 
     farmers = {
@@ -517,7 +517,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 4000
+        size = 2000
     }
 
     farmers = {
@@ -555,7 +555,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 1600
+        size = 800
     }
 
     farmers = {
@@ -587,7 +587,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 800
+        size = 400
     }
 
     farmers = {
@@ -619,7 +619,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 800
+        size = 400
     }
 
     farmers = {
@@ -651,7 +651,7 @@
     soldiers = {
         culture = nyasa
         religion = sunni
-        size = 1760
+        size = 880
     }
 
     farmers = {
@@ -689,7 +689,7 @@
     soldiers = {
         culture = nyasa
         religion = sunni
-        size = 5200
+        size = 2600
     }
 
     farmers = {
@@ -721,7 +721,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 2000
+        size = 1000
     }
 
     farmers = {
@@ -753,7 +753,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 400
+        size = 200
     }
 
     farmers = {
@@ -791,7 +791,7 @@
     soldiers = {
         culture = nyasa
         religion = sunni
-        size = 1120
+        size = 560
     }
 
     farmers = {
@@ -835,7 +835,7 @@
     soldiers = {
         culture = nyasa
         religion = sunni
-        size = 280
+        size = 140
     }
 
     farmers = {
@@ -873,7 +873,7 @@
     soldiers = {
         culture = nyasa
         religion = sunni
-        size = 800
+        size = 400
     }
 
     farmers = {
@@ -905,7 +905,7 @@
     soldiers = {
         culture = nyasa
         religion = sunni
-        size = 4000
+        size = 2000
     }
 
     farmers = {
@@ -921,8 +921,8 @@
         religion = animist
         size = 720
     }
-	
-	bureaucrats = {
+
+    bureaucrats = {
         culture = nyasa
         religion = animist
         size = 1080
@@ -943,7 +943,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 1200
+        size = 600
     }
 
     farmers = {
@@ -965,8 +965,8 @@
         religion = animist
         size = 240
     }
-	
-	bureaucrats = {
+
+    bureaucrats = {
         culture = nyasa
         religion = animist
         size = 680
@@ -987,7 +987,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 160
+        size = 80
     }
 
     farmers = {
@@ -1025,7 +1025,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 400
+        size = 200
     }
 
     farmers = {
@@ -1042,7 +1042,7 @@
         size = 1600
     }
 
-	bureaucrats = {
+    bureaucrats = {
         culture = nyasa
         religion = animist
         size = 1280
@@ -1063,7 +1063,7 @@
     soldiers = {
         culture = nyasa
         religion = sunni
-        size = 1200
+        size = 600
     }
 
     farmers = {
@@ -1095,7 +1095,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 8800
+        size = 4400
     }
 
     farmers = {
@@ -1127,7 +1127,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 4120
+        size = 2060
     }
 
     farmers = {
@@ -1159,7 +1159,7 @@
     soldiers = {
         culture = nyasa
         religion = sunni
-        size = 9760
+        size = 4880
     }
 
     farmers = {
@@ -1191,7 +1191,7 @@
     soldiers = {
         culture = nyasa
         religion = sunni
-        size = 720
+        size = 360
     }
 
     farmers = {
@@ -1229,7 +1229,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 800
+        size = 400
     }
 
     farmers = {
@@ -1267,7 +1267,7 @@
     soldiers = {
         culture = nyasa
         religion = sunni
-        size = 480
+        size = 240
     }
 
     farmers = {
@@ -1311,7 +1311,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 24000
+        size = 12000
     }
 
     farmers = {
@@ -1349,7 +1349,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 8000
+        size = 4000
     }
 
     farmers = {
@@ -1387,7 +1387,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 5680
+        size = 2840
     }
 
     farmers = {
@@ -1425,7 +1425,7 @@
     soldiers = {
         culture = nyasa
         religion = animist
-        size = 5680
+        size = 2840
     }
 
     farmers = {

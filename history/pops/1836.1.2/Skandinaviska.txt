@@ -34,7 +34,7 @@
     soldiers = {
         culture = flanish
         religion = protestant
-        size = 3364
+        size = 1682
     }
 
     farmers = {
@@ -79,7 +79,7 @@
     soldiers = {
         culture = flanish
         religion = protestant
-        size = 1480
+        size = 740
     }
 
     farmers = {
@@ -105,7 +105,7 @@
     soldiers = {
         culture = flanish
         religion = protestant
-        size = 1480
+        size = 740
     }
 
     aristocrats = {
@@ -144,7 +144,7 @@
     soldiers = {
         culture = flanish
         religion = protestant
-        size = 175
+        size = 87
     }
 
     farmers = {
@@ -186,7 +186,7 @@
     soldiers = {
         culture = flanish
         religion = protestant
-        size = 31
+        size = 15
     }
 
     farmers = {
@@ -204,7 +204,7 @@
     soldiers = {
         culture = flanish
         religion = protestant
-        size = 245
+        size = 122
     }
 
     artisans = {
@@ -216,7 +216,7 @@
     soldiers = {
         culture = flanish
         religion = protestant
-        size = 73
+        size = 36
     }
 }
 #Aabenra (100000/25000 POPS)
@@ -236,7 +236,7 @@
     soldiers = {
         culture = flanish
         religion = protestant
-        size = 175
+        size = 87
     }
 
     farmers = {
@@ -266,7 +266,7 @@
     soldiers = {
         culture = danish
         religion = protestant
-        size = 35
+        size = 17
     }
 
     farmers = {
@@ -353,19 +353,19 @@
     soldiers = {
         culture = danish
         religion = protestant
-        size = 4036
+        size = 2018
     }
 
     soldiers = {
         culture = danish
         religion = protestant
-        size = 4036
+        size = 2018
     }
 
     soldiers = {
         culture = danish
         religion = protestant
-        size = 4036
+        size = 2018
     }
 
     farmers = {
@@ -421,7 +421,7 @@
     soldiers = {
         culture = danish
         religion = protestant
-        size = 2691
+        size = 1345
     }
 
     farmers = {
@@ -447,7 +447,7 @@
     soldiers = {
         culture = danish
         religion = protestant
-        size = 201
+        size = 100
     }
 
     farmers = {
@@ -473,7 +473,7 @@
     soldiers = {
         culture = danish
         religion = protestant
-        size = 336
+        size = 168
     }
 
     farmers = {
@@ -491,7 +491,7 @@
     soldiers = {
         culture = flanish
         religion = protestant
-        size = 336
+        size = 168
     }
 
     farmers = {
@@ -518,7 +518,7 @@
     soldiers = {
         culture = danish
         religion = protestant
-        size = 336
+        size = 168
     }
 
     farmers = {
@@ -576,13 +576,13 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 4036
+        size = 2018
     }
 
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 2691
+        size = 1345
     }
 
     farmers = {
@@ -620,7 +620,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 1480
+        size = 740
     }
 
     farmers = {
@@ -652,7 +652,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 1480
+        size = 740
     }
 
     farmers = {
@@ -684,7 +684,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 1480
+        size = 740
     }
 
     farmers = {
@@ -716,7 +716,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 1480
+        size = 740
     }
 
     farmers = {
@@ -748,7 +748,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 1480
+        size = 740
     }
 
     farmers = {
@@ -780,7 +780,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 1480
+        size = 740
     }
 
     farmers = {
@@ -825,7 +825,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 1480
+        size = 740
     }
 
     farmers = {
@@ -863,7 +863,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 1480
+        size = 740
     }
 
     farmers = {
@@ -895,7 +895,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 134
+        size = 67
     }
 
     farmers = {
@@ -927,7 +927,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 1480
+        size = 740
     }
 
     farmers = {
@@ -959,7 +959,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 1480
+        size = 740
     }
 
     farmers = {
@@ -997,7 +997,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 1480
+        size = 740
     }
 
     farmers = {
@@ -1029,7 +1029,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 1480
+        size = 740
     }
 
     farmers = {
@@ -1088,7 +1088,7 @@
     soldiers = {
         culture = scottish
         religion = protestant
-        size = 4036
+        size = 2018
     }
 
     farmers = {
@@ -1138,7 +1138,7 @@
     soldiers = {
         culture = scottish
         religion = protestant
-        size = 1480
+        size = 740
     }
 
     farmers = {
@@ -1182,7 +1182,7 @@
     soldiers = {
         culture = scottish
         religion = protestant
-        size = 538
+        size = 269
     }
 
     farmers = {
@@ -1226,7 +1226,7 @@
     soldiers = {
         culture = scottish
         religion = protestant
-        size = 2691
+        size = 1345
     }
 
     farmers = {
@@ -1265,7 +1265,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 336
+        size = 168
     }
 
     farmers = {
@@ -1297,7 +1297,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 336
+        size = 168
     }
 
     farmers = {
@@ -1329,7 +1329,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 1042
+        size = 521
     }
 
     farmers = {
@@ -1373,7 +1373,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 2691
+        size = 1345
     }
 
     farmers = {
@@ -1418,7 +1418,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 4036
+        size = 2018
     }
 
     farmers = {
@@ -1456,7 +1456,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 201
+        size = 100
     }
 
     farmers = {
@@ -1488,7 +1488,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 269
+        size = 134
     }
 
     farmers = {
@@ -1520,7 +1520,7 @@
     soldiers = {
         culture = swedish
         religion = protestant
-        size = 201
+        size = 100
     }
 
     farmers = {

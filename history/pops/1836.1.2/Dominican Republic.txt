@@ -29,7 +29,7 @@
     soldiers = {
         culture = antillean
         religion = catholic
-        size = 75
+        size = 37
     }
 
     farmers = {
@@ -53,7 +53,7 @@
     soldiers = {
         culture = amazonian
         religion = catholic
-        size = 50
+        size = 25
     }
 
     farmers = {
@@ -85,7 +85,7 @@
     soldiers = {
         culture = antillean
         religion = catholic
-        size = 50
+        size = 25
     }
 
     farmers = {
@@ -109,7 +109,7 @@
     soldiers = {
         culture = amazonian
         religion = catholic
-        size = 75
+        size = 37
     }
 
     farmers = {
@@ -117,5 +117,4 @@
         religion = catholic
         size = 19575
     }
-
 }

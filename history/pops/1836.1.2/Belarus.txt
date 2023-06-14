@@ -35,7 +35,7 @@
     soldiers = {
         culture = latvian
         religion = the_one
-        size = 2240
+        size = 1120
     }
 
     farmers = {
@@ -71,7 +71,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 70
+        size = 35
     }
 
     farmers = {
@@ -95,7 +95,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 105
+        size = 52
     }
 
     farmers = {
@@ -125,7 +125,7 @@
     soldiers = {
         culture = latvian
         religion = the_one
-        size = 70
+        size = 35
     }
 
     farmers = {
@@ -157,7 +157,7 @@
     soldiers = {
         culture = latvian
         religion = the_one
-        size = 2170
+        size = 1085
     }
 
     farmers = {
@@ -199,7 +199,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 70
+        size = 35
     }
 
     farmers = {
@@ -223,7 +223,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 70
+        size = 35
     }
 
     farmers = {
@@ -241,7 +241,7 @@
     soldiers = {
         culture = ukrainian
         religion = the_one
-        size = 60
+        size = 30
     }
 
     farmers = {
@@ -253,7 +253,7 @@
     soldiers = {
         culture = russian
         religion = sunni
-        size = 300
+        size = 150
     }
 
     farmers = {
@@ -297,7 +297,7 @@
     soldiers = {
         culture = latvian
         religion = the_one
-        size = 2240
+        size = 1120
     }
 
     farmers = {
@@ -333,7 +333,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 100
+        size = 50
     }
 }
 #Byelorussia Region (1364000)
@@ -373,7 +373,7 @@
     soldiers = {
         culture = latvian
         religion = the_one
-        size = 4270
+        size = 2135
     }
 
     farmers = {
@@ -415,7 +415,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 100
+        size = 50
     }
 
     farmers = {
@@ -451,7 +451,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 70
+        size = 35
     }
 
     farmers = {
@@ -477,7 +477,7 @@
     soldiers = {
         culture = latvian
         religion = the_one
-        size = 1540
+        size = 770
     }
 
     farmers = {
@@ -507,7 +507,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 100
+        size = 50
     }
 
     farmers = {
@@ -551,7 +551,7 @@
     soldiers = {
         culture = latvian
         religion = the_one
-        size = 14875
+        size = 7437
     }
 
     farmers = {
@@ -577,7 +577,7 @@
     soldiers = {
         culture = latvian
         religion = the_one
-        size = 332
+        size = 166
     }
 
     farmers = {
@@ -621,7 +621,7 @@
     soldiers = {
         culture = latvian
         religion = the_one
-        size = 700
+        size = 350
     }
 
     farmers = {
@@ -653,7 +653,7 @@
     soldiers = {
         culture = latvian
         religion = the_one
-        size = 4270
+        size = 2135
     }
 
     farmers = {
@@ -695,7 +695,7 @@
     soldiers = {
         culture = russian
         religion = the_one
-        size = 100
+        size = 50
     }
 
     farmers = {
@@ -719,7 +719,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 70
+        size = 35
     }
 
     farmers = {
@@ -745,7 +745,7 @@
     soldiers = {
         culture = latvian
         religion = the_one
-        size = 700
+        size = 350
     }
 
     farmers = {
@@ -775,7 +775,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 25
+        size = 12
     }
 
     aristocrats = {
@@ -799,7 +799,7 @@
     soldiers = {
         culture = russian
         religion = the_one
-        size = 50
+        size = 25
     }
 
     farmers = {

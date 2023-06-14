@@ -241,7 +241,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 150
+        size = 99
     }
 
     farmers = {
@@ -271,7 +271,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 25
+        size = 16
     }
 
     farmers = {
@@ -587,7 +587,6 @@
         religion = sunni
         size = 6575
     }
-
 }
 #Banda Aceh
 1405 = {
@@ -1498,7 +1497,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 2250
+        size = 1485
     }
 
     farmers = {
@@ -1528,7 +1527,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 300
+        size = 198
     }
 
     farmers = {
@@ -1558,7 +1557,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 100
+        size = 66
     }
 
     farmers = {
@@ -1590,7 +1589,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 2500
+        size = 1650
     }
 
     farmers = {
@@ -1620,7 +1619,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 200
+        size = 132
     }
 
     farmers = {
@@ -1650,7 +1649,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 100
+        size = 66
     }
 
     farmers = {
@@ -1806,7 +1805,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 1100
+        size = 726
     }
 
     farmers = {
@@ -1836,7 +1835,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 1000
+        size = 660
     }
 
     farmers = {
@@ -1860,7 +1859,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 100
+        size = 66
     }
 
     farmers = {
@@ -1868,7 +1867,6 @@
         religion = sunni
         size = 6800
     }
-
 }
 #Eastern Borneo Region (542000)
 #uncolonized in 1836
@@ -1889,7 +1887,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 50
+        size = 33
     }
 
     farmers = {
@@ -1925,7 +1923,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 5400
+        size = 3564
     }
 
     farmers = {
@@ -1957,7 +1955,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 2250
+        size = 1485
     }
 
     farmers = {
@@ -2093,7 +2091,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 9000
+        size = 5940
     }
 
     farmers = {
@@ -2129,7 +2127,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 1500
+        size = 990
     }
 
     farmers = {
@@ -2142,7 +2140,6 @@
 #uncolonized in 1836
 #Pontianak (148000/37000 POPS)
 1426 = {
-
     artisans = {
         culture = malay
         religion = sunni
@@ -2182,7 +2179,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 300
+        size = 150
     }
 
     farmers = {
@@ -2212,7 +2209,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 125
+        size = 62
     }
 
     farmers = {
@@ -2244,7 +2241,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 5000
+        size = 2500
     }
 
     farmers = {
@@ -2282,7 +2279,7 @@
     soldiers = {
         culture = malay
         religion = sunni
-        size = 2500
+        size = 1250
     }
 
     farmers = {
@@ -2566,7 +2563,6 @@
         religion = sunni
         size = 71025
     }
-
 }
 #Sunda Region (1536400)
 #Ruled by Bali 1836
@@ -2974,7 +2970,6 @@
         religion = sunni
         size = 94600
     }
-
 }
 #Ruled by Portugal 1836
 #Dili (83782 POPS)
@@ -2996,7 +2991,7 @@
         religion = sunni
         size = 6510
     }
-	
+
     artisans = {
         culture = malay
         religion = sunni
@@ -3014,19 +3009,19 @@
         religion = sunni
         size = 45750
     }
-	
-	aristocrats = {
+
+    aristocrats = {
         culture = malay
         religion = sunni
         size = 200
     }
 
-	bureaucrats = {
-		culture = malay
-		religion = sunni
-		size = 800
-	}
-	
+    bureaucrats = {
+        culture = malay
+        religion = sunni
+        size = 800
+    }
+
     artisans = {
         culture = malay
         religion = sunni
@@ -3044,7 +3039,8 @@
         religion = sunni
         size = 6000
     }
-	 farmers = {
+
+    farmers = {
         culture = malay
         religion = sunni
         size = 24000
@@ -3235,7 +3231,6 @@
         religion = sunni
         size = 1800
     }
-
 }
 #Wests Papua (432000)
 #uncolonized in 1836
@@ -3384,5 +3379,4 @@
         religion = sunni
         size = 32450
     }
-
 }

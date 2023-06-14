@@ -39,7 +39,6 @@
         culture = mexican
         religion = catholic
         size = 525
-
         militancy = 9
     }
 
@@ -76,7 +75,6 @@
         culture = mexican
         religion = catholic
         size = 50
-
         militancy = 9
     }
 
@@ -112,8 +110,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 25
-
+        size = 1
         militancy = 9
     }
 
@@ -123,5 +120,4 @@
         size = 2700
         militancy = 5
     }
-
 }

@@ -27,13 +27,13 @@
     soldiers = {
         culture = mongo
         religion = sunni
-        size = 12000
+        size = 4800
     }
 
     soldiers = {
         culture = mongo
         religion = sunni
-        size = 12000
+        size = 4800
     }
 
     farmers = {
@@ -71,7 +71,7 @@
     soldiers = {
         culture = mongo
         religion = sunni
-        size = 5000
+        size = 2000
     }
 
     farmers = {
@@ -153,7 +153,7 @@
     soldiers = {
         culture = mongo
         religion = sunni
-        size = 28000
+        size = 11200
     }
 
     farmers = {
@@ -197,7 +197,7 @@
     soldiers = {
         culture = mongo
         religion = sunni
-        size = 30000
+        size = 12000
     }
 
     farmers = {
@@ -235,7 +235,7 @@
     soldiers = {
         culture = mongo
         religion = sunni
-        size = 16000
+        size = 6400
     }
 
     farmers = {
@@ -279,7 +279,7 @@
     soldiers = {
         culture = mongo
         religion = sunni
-        size = 20400
+        size = 8160
     }
 
     farmers = {
@@ -311,7 +311,7 @@
     soldiers = {
         culture = mongo
         religion = sunni
-        size = 400
+        size = 160
     }
 
     farmers = {
@@ -343,7 +343,7 @@
     soldiers = {
         culture = mongo
         religion = sunni
-        size = 8000
+        size = 3200
     }
 
     farmers = {
@@ -387,7 +387,7 @@
     soldiers = {
         culture = mongo
         religion = sunni
-        size = 6000
+        size = 2400
     }
 
     farmers = {
@@ -419,7 +419,7 @@
     soldiers = {
         culture = mongo
         religion = sunni
-        size = 400
+        size = 160
     }
 
     farmers = {
@@ -451,7 +451,7 @@
     soldiers = {
         culture = mongo
         religion = sunni
-        size = 4400
+        size = 1760
     }
 
     farmers = {
@@ -483,7 +483,7 @@
     soldiers = {
         culture = mongo
         religion = sunni
-        size = 20600
+        size = 8240
     }
 
     farmers = {
@@ -515,7 +515,7 @@
     soldiers = {
         culture = mongo
         religion = sunni
-        size = 16400
+        size = 6560
     }
 
     farmers = {
@@ -547,7 +547,7 @@
     soldiers = {
         culture = mongo
         religion = sunni
-        size = 6600
+        size = 2640
     }
 
     farmers = {
@@ -585,7 +585,7 @@
     soldiers = {
         culture = mongo
         religion = sunni
-        size = 4400
+        size = 1760
     }
 
     farmers = {
@@ -635,7 +635,7 @@
     soldiers = {
         culture = mongo
         religion = sunni
-        size = 4000
+        size = 1600
     }
 
     farmers = {
@@ -661,7 +661,7 @@
     soldiers = {
         culture = mongo
         religion = sunni
-        size = 1000
+        size = 400
     }
 
     farmers = {
@@ -687,7 +687,7 @@
     soldiers = {
         culture = mongo
         religion = sunni
-        size = 120
+        size = 48
     }
 
     clergymen = {

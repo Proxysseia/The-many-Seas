@@ -954,13 +954,13 @@
     soldiers = {
         culture = marathi
         religion = hindu
-        size = 3000
+        size = 1980
     }
 
     soldiers = {
         culture = marathi
         religion = hindu
-        size = 3000
+        size = 1980
     }
 
     farmers = {
@@ -1002,7 +1002,7 @@
     soldiers = {
         culture = marathi
         religion = sunni
-        size = 1100
+        size = 726
     }
 
     farmers = {
@@ -1038,7 +1038,7 @@
     soldiers = {
         culture = australian
         religion = protestant
-        size = 2000
+        size = 1320
     }
 }
 #Dacca (5276000/1319000 POPS)
@@ -4477,7 +4477,7 @@
     soldiers = {
         culture = kannada
         religion = hindu
-        size = 2500
+        size = 1650
     }
 
     farmers = {
@@ -4507,7 +4507,7 @@
     soldiers = {
         culture = kannada
         religion = sunni
-        size = 150
+        size = 99
     }
 
     farmers = {

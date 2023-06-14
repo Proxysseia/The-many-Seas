@@ -115,7 +115,7 @@
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 1540
+        size = 770
     }
 
     farmers = {
@@ -153,7 +153,7 @@
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 4340
+        size = 2170
     }
 
     farmers = {
@@ -1067,7 +1067,7 @@
     soldiers = {
         culture = ukrainian
         religion = protestant
-        size = 9196
+        size = 4598
     }
 
     farmers = {
@@ -1395,7 +1395,7 @@
     soldiers = {
         culture = ukrainian
         religion = orthodox
-        size = 21140
+        size = 10570
     }
 
     farmers = {
@@ -1489,7 +1489,7 @@
     soldiers = {
         culture = ukrainian
         religion = orthodox
-        size = 4176
+        size = 2088
     }
 
     farmers = {

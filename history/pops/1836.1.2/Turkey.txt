@@ -3223,13 +3223,13 @@
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 3000
+        size = 1500
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 425
+        size = 212
     }
 
     farmers = {
@@ -3259,7 +3259,7 @@
     soldiers = {
         culture = kurdish
         religion = sunni
-        size = 200
+        size = 100
     }
 
     farmers = {
@@ -3271,7 +3271,7 @@
     soldiers = {
         culture = turkish
         religion = coptic
-        size = 110
+        size = 55
     }
 
     clergymen = {
