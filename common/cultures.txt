@@ -920,7 +920,6 @@ southeast_asian = {
 east_asian = {
     leader = asian
     unit = ChineseGC
-
     chinese = {
         color = {212 207 169}
         first_names = { Lin Shen Chen Wong Yan Sa Hou Zheng Bing Wu Tan He Du Xue Xu Qin
@@ -1157,6 +1156,15 @@ central_african = {
         last_names = { Bolia Bokote Bongandu Ekonda Mbole Nkutu Ntomba Sengele Songomeno Dengese Tetela-Kusu
         }
     }
+	
+	nuer = {
+        color = {68 199 204}
+        first_names = { Diu Chol Dei Tongyiik Hon Pal Nyuon Deng Gai Ochan Puot Ruai
+        }
+
+        last_names = { Anya-Nya Top Juak Gaach Bany Lieth Nyuot Luth Chotper Weiu
+        }
+    }
 }
 
 east_african = {
@@ -1169,12 +1177,13 @@ east_african = {
 
         last_names = { Selassie Mikael Mariam Melekot Seged Wossen Makonnen Mengitsu Abbaba Dingil Hailu Giorgis }
     }
-    nuer = {
-        color = {68 199 204}
-        first_names = { Diu Chol Dei Tongyiik Hon Pal Nyuon Deng Gai Ochan Puot Ruai
+	
+	nyasa = {
+        color = {18 88 48}
+        first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
         }
 
-        last_names = { Anya-Nya Top Juak Gaach Bany Lieth Nyuot Luth Chotper Weiu
+        last_names = { Mwale Phiri Mkunkhuntha Mbewe Kalimakudzulu
         }
     }
 }
@@ -1183,14 +1192,6 @@ southern_african = {
     leader = african
     is_overseas = no
     unit = ZuluGC
-    nyasa = {
-        color = {18 88 48}
-        first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
-        }
-
-        last_names = { Mwale Phiri Mkunkhuntha Mbewe Kalimakudzulu
-        }
-    }
     herero = {
         color = {94 180 42}
         first_names = { Samuel Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
