@@ -1,5 +1,6 @@
 political_decisions = {
 	dugu_accept_janeiran = {
+		picture = trail_of_tears
 		potential = {
 			tag = DUG
 			NOT = { has_country_flag = janeiran_accepted }
@@ -48,6 +49,7 @@ political_decisions = {
 		}
 	}
 	inca_accept_janeiran = {
+		picture = trail_of_tears
 		potential = {
 			tag = INC
 			NOT = { has_country_flag = janeiran_accepted }
@@ -92,6 +94,23 @@ political_decisions = {
 			inherit = AKB
 			inherit = CHH
 			set_country_flag = janeiran_accepted
+		}
+	}
+	dugu_conquer_fulo = {
+		picture = support_french_foreign_legion
+		potential = {
+			tag = DUG
+			NOT = { has_country_flag = fulo_conquered }
+		}
+		allow = {
+			owns = 189
+			owns = 2573
+			war = no
+		}
+		effect = {
+			FUL_2136 = { add_core = THIS }
+			FUL_2573 = { add_core = THIS }
+			set_country_flag = fulo_conquered
 		}
 	}
 }

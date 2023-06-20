@@ -1,6 +1,7 @@
 political_decisions = {
 	wawa_accept_xhosa = {
 		potential = {
+		picture = become_negusa_nagast
 			tag = WNG
 			NOT = { has_country_flag = xhosa_accepted }
 		}

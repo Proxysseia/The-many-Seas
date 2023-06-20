@@ -1,0 +1,36 @@
+political_decisions = {
+	andalucia_accept_maghrebi = {
+		potential = {
+			tag = AND
+			NOT = { has_country_flag = maghrebi_accepted }
+		}
+		allow = {
+			revolution_n_counterrevolution = 1
+			owns = 1731
+			war = no
+		}
+		effect = {
+			add_accepted_culture = maghrebi
+			1710 = { add_core = THIS }
+			TRI_1731 = { add_core = THIS}
+			prestige = 20
+			set_country_flag = maghrebi_accepted
+		}
+	}
+	andalucia_conquer_fulo = {
+		potential = {
+			tag = AND
+			NOT = { has_country_flag = fulo_conquered }
+		}
+		allow = {
+			owns = 189
+			owns = 2573
+			war = no
+		}
+		effect = {
+			FUL_2136 = { add_core = THIS }
+			FUL_2573 = { add_core = THIS }
+			set_country_flag = fulo_conquered
+		}
+	}
+}
