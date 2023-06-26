@@ -1,0 +1,57 @@
+political_decisions = {
+	latvia_in_russia = {
+		picture = manifest_destiny
+		potential = {
+			tag = LAT
+			NOT = { has_country_flag = latvians_in_russia}
+		}
+		allow = {
+			state_n_government = 1
+			SEV = {
+				all_core = { owned_by = THIS }
+			}
+			MUS = {
+				all_core = { owned_by = THIS }
+			}
+			SMO = {
+				all_core = { owned_by = THIS }
+			}
+			war = no
+		}
+		effect = {
+			RUS_943 = { add_core = THIS}
+			949 = { add_core = THIS }
+			962 = { add_core = THIS }
+			1016 = { add_core = THIS }
+			1017 = { add_core = THIS } #Latvians in Severia
+			SEV = { all_core = { add_core =  LAT } }
+			SEV = { all_core = { remove_core =  SEV } }	
+			998 = { add_core = THIS }
+			1005 = { add_core = THIS } #Latvians in Nenets
+			MUS = { all_core = { add_core =  LAT } }
+			MUS = { all_core = { remove_core =  MUS } }
+			1010 = { add_core = THIS } #Latvians in Moscow
+			SMO = { all_core = { add_core =  LAT } }
+			SMO = { all_core = { remove_core =  SMO } }
+			prestige = 15
+			set_country_flag = latvians_in_russia
+		}
+	}
+	slava = {
+		picture = enact_dual_monarchy
+		potential =  {
+			tag = LAT
+			NOT = { has_country_flag = ukrainian_accepted }
+			NOT = { accepted_culture = ukrainian }
+		}
+		allow = {
+			year = 1860
+			owns = 958
+		}
+		effect = {
+			add_accepted_culture = ukrainian
+			set_country_flag = ukrainian_accepted
+			prestige = 10
+		}
+	}
+}

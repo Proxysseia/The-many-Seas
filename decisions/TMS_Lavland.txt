@@ -1,12 +1,9 @@
 political_decisions = {
-	
 	Germanja_is_ours = {
-		
 		potential = {
 			tag = NET
 			BAD = { is_core = 601}
 		}
-		
 		allow = {
 			war = no
 			state_n_government = 1
@@ -25,30 +22,19 @@ political_decisions = {
 			}
 		
 		}
-
 		effect = {
 			prestige = 20
-
 			BAD = { annex_to = THIS }
-
 			BAD = { all_core = { add_core =  NET } }
-
-			BAD = { all_core = { remove_core =  BAD } }
-			
-			add_accepted_culture = south_german
-			
-			
+			BAD = { all_core = { remove_core =  BAD } }	
+			add_accepted_culture = bairisch		
 		}
 	}
-	
-
 	Our_Northern_Brothers = {
-		
 		potential = {
 			tag = NET
 			HAN = { is_core = 528}
 		}
-		
 		allow = {
 			war = no
 			nationalism_n_imperialism = 1
@@ -73,24 +59,18 @@ political_decisions = {
 					}
 				}
 			}
-
 		effect = {
 			prestige = 20
-
 			HAN = { annex_to = THIS }
-
 			HAN = { all_core = { add_core =  NET } }
-
-			HAN = { all_core = { remove_core =  HAN } }
-			
-			
+			HAN = { all_core = { remove_core =  HAN } }	
 		}
 }
 
 Finish_northern_Integration = {
 				potential = {
 						tag = NET
-						NET = { is_core = 528 }
+						NOT = { accepted_culture = flanish }
 					}
 				allow = { 
 					war = no
@@ -100,29 +80,19 @@ Finish_northern_Integration = {
 					add_accepted_culture = flanish
 					}
 				}
-
-
-
 Cleanse_Arlsas = {
-		
 		potential = {
 			tag = NET
-			ALS = { is_core = 413}
+			NOT = { has_country_flag = owns_alsace }
 		}
-		
 		allow = {
 			war = no
 			nationalism_n_imperialism = 1
 			ALS = { all_core = { owned_by = THIS }
 				}
 			}
-
-		
-
-		effect = {
-
-			ALS = { all_core = { remove_core =  ALS } }
-		
+		effect = {					#zord fix your dogshit spacing
+			set_country_flag = owns_alsace
 			413 = {
 		add_province_modifier = {
 			name = cultural_integration
@@ -159,7 +129,6 @@ Cleanse_Arlsas = {
 			duration = 730
 			}
 		}
-			
 		}
 	}
 }

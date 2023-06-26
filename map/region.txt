@@ -278,11 +278,9 @@ PRU_701 = { 701 699 700 } #Posen
 
 ### Austria
 
-AUS_612 = { 612 613 615 735 } #Tirol
+AUS_612 = {  734 732 733 8 736 737 612 613 615 735 } #Tirol
 
-AUS_613 = { 616 617 618 } #Kärnten-Steiermark
-
-AUS_619 = { 619 620 621 622 624 623 } #Österreich
+AUS_619 = { 616 617 618 619 620 621 622 624 623 } #Österreich
 
 AUS_623 = { 640 642 643 644 641 645 646  } #Transdanubia
 
@@ -304,8 +302,6 @@ AUS_657 = { 657 659 660 2533 } #Eastern Transylvania
 
 RUS_715 = { 715 711 713 716 705 714 } #West Galicia
 
-AUS_734 = { 734 732 733 8 736 737 } #South Tirol
-
 AUS_736 = { 769 770 778 767 768 } #Istria
 
 AUS_771 = { 771 772 773 775 776 639 } #Croatia
@@ -323,9 +319,9 @@ SWI_721 = { 722 1981 825 727 726 } #Swiss-North Italy
 
 #MOD_739 = { 739 738 740 731 } #Emilia
 
-TUS_744 = { 744 745 746 747 748 } #Tuscany
+TUS_744 = { 741 743 744 745 746 747 748 } #Tuscany
 
-PAP_741 = { 741 743 739 738 740 730 731 } #Emilia-Romagna
+PAP_741 = { 739 738 740 730 731 } #Emilia-Romagna
 
 PAP_752 = { 749 752 750 751 } #Lazio
 
