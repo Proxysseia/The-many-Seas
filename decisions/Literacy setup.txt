@@ -1,0 +1,19 @@
+political_decisions = {	
+	LITERACY_1836_SETUP = {
+        potential = {
+            tag = CHI
+            always = no
+        }
+        allow = {
+            always = no
+        }
+        effect = {
+            any_country = {
+                country_event = {
+                    id = 10000001
+                    days = 0
+                }
+            }
+        }
+    }
+}
