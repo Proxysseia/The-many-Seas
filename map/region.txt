@@ -317,8 +317,6 @@ SAR_720 = { 720 723 724 725  } #Piemonte
 
 SWI_721 = { 722 1981 825 727 726 } #Swiss-North Italy
 
-#MOD_739 = { 739 738 740 731 } #Emilia
-
 TUS_744 = { 741 743 744 745 746 747 748 } #Tuscany
 
 PAP_741 = { 739 738 740 730 731 } #Emilia-Romagna

@@ -1,0 +1,140 @@
+political_decisions = {
+	claim_Italy = {
+		picture = expand_motala_verkstad
+		potential = {
+			is_culture_group = pan_swiss
+			NOT = { has_country_flag = Italy_claimed }
+		}
+		allow = {
+			war = no
+			idealism = 1
+		}
+		effect = {
+			prestige = 5
+			PAP_741 = { add_core = THIS}
+			TUS_744 = { add_core = THIS}
+			badboy = 20
+			set_country_flag = Italy_claimed
+		}
+	}
+	Avante_Helvetica = {
+		picture = form_italy
+		potential = {
+			tag = SWI 
+		}
+		allow = {
+			war = no
+			PAR = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+								OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+								}
+						}
+					}
+				}
+			}
+			TUS = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+								OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+								}
+						}
+					}
+				}
+			}
+			SIC = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+								OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+								}
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			SAR_765 = { add_core = THIS}
+			add_accepted_culture = south_italian
+			change_tag = HEL
+			PAR = { annex_to = THIS }
+			TUS = { annex_to = THIS }
+			NAP = { annex_to = THIS }
+			SIC = { annex_to = THIS }
+
+			PAR = { all_core = { add_core =  HEL } }
+			TUS = { all_core = { add_core =  HEL } }
+			NAP = { all_core = { add_core =  HEL } }
+			SIC = { all_core = { add_core =  HEL } }
+			SWI = { all_core = { add_core =  HEL } }
+
+			PAR = { all_core = { remove_core =  PAR } }
+			TUS = { all_core = { remove_core =  TUS } }
+			NAP = { all_core = { remove_core =  NAP } }
+			SIC = { all_core = { remove_core =  SIC } }
+			SWI = { all_core = { remove_core =  SWI } }
+		}
+	}
+	Cleanse_Arlsas_HEL = {
+		potential = {
+			is_culture_group = pan_swiss 
+			NOT = { has_country_flag = owns_alsace }
+		}
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			ALS = { all_core = { owned_by = THIS }
+				}
+			}
+		effect = {
+			set_country_flag = owns_alsace
+			413 = {
+				add_province_modifier = {
+				name = cultural_integration
+				duration = 730
+				}
+			}
+			409 = {
+				add_province_modifier = {
+				name = cultural_integration
+				duration = 730
+				}
+			}
+			411 = {
+				add_province_modifier = {
+				name = cultural_integration
+				duration = 730
+				}
+			}
+			410 = {
+				add_province_modifier = {
+				name = cultural_integration
+				duration = 730
+				}
+			}
+			414 = {
+				add_province_modifier = {
+				name = cultural_integration
+				duration = 730
+				}
+			}
+			412 = {
+				add_province_modifier = {
+				name = cultural_integration
+				duration = 730
+				}
+			}
+		}
+	}
+}

@@ -91,44 +91,44 @@ Cleanse_Arlsas = {
 			ALS = { all_core = { owned_by = THIS }
 				}
 			}
-		effect = {					#zord fix your dogshit spacing
+		effect = {
 			set_country_flag = owns_alsace
 			413 = {
-		add_province_modifier = {
-			name = cultural_integration
-			duration = 730
+				add_province_modifier = {
+				name = cultural_integration
+				duration = 730
+				}
 			}
-		}
 			409 = {
-		add_province_modifier = {
-			name = cultural_integration
-			duration = 730
+				add_province_modifier = {
+				name = cultural_integration
+				duration = 730
+				}
 			}
-		}
 			411 = {
-		add_province_modifier = {
-			name = cultural_integration
-			duration = 730
+				add_province_modifier = {
+				name = cultural_integration
+				duration = 730
+				}
 			}
-		}
 			410 = {
-		add_province_modifier = {
-			name = cultural_integration
-			duration = 730
+				add_province_modifier = {
+				name = cultural_integration
+				duration = 730
+				}
 			}
-		}
 			414 = {
-		add_province_modifier = {
-			name = cultural_integration
-			duration = 730
+				add_province_modifier = {
+				name = cultural_integration
+				duration = 730
+				}
 			}
-		}
 			412 = {
-		add_province_modifier = {
-			name = cultural_integration
-			duration = 730
+				add_province_modifier = {
+				name = cultural_integration
+				duration = 730
+				}
 			}
-		}
 		}
 	}
 }
