@@ -1,0 +1,41 @@
+political_decisions = {
+	czechia_incident = {
+		picture = niederwald_denkmal
+		potential = {
+			tag = SOR
+			NOT = { has_country_flag = czech_accepted }
+		}
+		allow = {
+			functionalism = 1
+			owns = 625
+			war = no
+		}
+		effect = {
+			add_accepted_culture = czech
+			AUS_625 = { add_core = THIS }
+			AUS_627 = { add_core = THIS }
+			PRU_682 = { add_core = THIS }
+			prestige = 20
+			set_country_flag = czech_accepted
+		}
+	}
+	
+	theyre_like_smaller_czechs = {
+		picture = niederwald_denkmal
+		potential = {
+			tag = SOR
+			NOT = { has_country_flag = slovak_accepted }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			owns = 633
+			war = no
+		}
+		effect = {
+			add_accepted_culture = slovak
+			AUS_633 = { add_core = THIS }
+			prestige = 20
+			set_country_flag = slovak_accepted
+		}
+	}
+}
