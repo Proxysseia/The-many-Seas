@@ -520,25 +520,25 @@
 945 = {
     clergymen = {
         culture = latvian
-        religion = the_one
+        religion = orthodox
         size = 350
     }
 
     artisans = {
         culture = latvian
-        religion = the_one
+        religion = orthodox
         size = 1925
     }
 
     soldiers = {
         culture = latvian
-        religion = the_one
+        religion = orthodox
         size = 350
     }
 
     farmers = {
         culture = latvian
-        religion = the_one
+        religion = orthodox
         size = 13177
     }
 
@@ -588,25 +588,25 @@
 946 = {
     clergymen = {
         culture = latvian
-        religion = the_one
+        religion = orthodox
         size = 857
     }
 
     artisans = {
         culture = latvian
-        religion = the_one
+        religion = orthodox
         size = 3395
     }
 
     soldiers = {
         culture = latvian
-        religion = the_one
+        religion = orthodox
         size = 2135
     }
 
     farmers = {
         culture = latvian
-        religion = the_one
+        religion = orthodox
         size = 33740
     }
 
@@ -668,25 +668,25 @@
 
     clergymen = {
         culture = latvian
-        religion = the_one
+        religion = orthodox
         size = 87
     }
 
     artisans = {
         culture = latvian
-        religion = the_one
+        religion = orthodox
         size = 420
     }
 
     soldiers = {
         culture = latvian
-        religion = the_one
+        religion = orthodox
         size = 1452
     }
 
     farmers = {
         culture = latvian
-        religion = the_one
+        religion = orthodox
         size = 18287
     }
 

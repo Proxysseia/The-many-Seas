@@ -24,6 +24,7 @@ political_decisions = {
 		}
 		allow = {
 			war = no
+			nationalism_n_imperialism = 1
 			PAR = {
 				all_core = {
 					OR = {
@@ -63,25 +64,42 @@ political_decisions = {
 					}
 				}
 			}
+			NPL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+								OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+								}
+						}
+					}
+				}
+			}
 		}
 		effect = {
 			SAR_765 = { add_core = THIS}
 			add_accepted_culture = south_italian
 			change_tag = HEL
-			PAR = { annex_to = THIS }
-			TUS = { annex_to = THIS }
-			NAP = { annex_to = THIS }
-			SIC = { annex_to = THIS }
-
-			PAR = { all_core = { add_core =  HEL } }
-			TUS = { all_core = { add_core =  HEL } }
-			NAP = { all_core = { add_core =  HEL } }
-			SIC = { all_core = { add_core =  HEL } }
-			SWI = { all_core = { add_core =  HEL } }
+			any_country = {
+				limit = {
+					is_culture_group = italian
+					in_sphere = THIS
+				}
+				country_event = { id=11101 days=0 }
+			}
+			any_country = {
+				limit = {
+					is_culture_group = italian
+					in_sphere = THIS
+				}
+				all_core = { add_core =  HEL }
+			} 
 
 			PAR = { all_core = { remove_core =  PAR } }
 			TUS = { all_core = { remove_core =  TUS } }
-			NAP = { all_core = { remove_core =  NAP } }
+			NPL = { all_core = { remove_core =  NPL } }
 			SIC = { all_core = { remove_core =  SIC } }
 			SWI = { all_core = { remove_core =  SWI } }
 		}
@@ -93,7 +111,7 @@ political_decisions = {
 		}
 		allow = {
 			war = no
-			nationalism_n_imperialism = 1
+			state_n_goverment = 1
 			ALS = { all_core = { owned_by = THIS }
 				}
 			}
