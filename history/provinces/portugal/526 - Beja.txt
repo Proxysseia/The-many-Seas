@@ -1,6 +1,6 @@
-owner = AND
-controller = AND
-add_core = AND
+owner = ALD
+controller = ALD
+add_core = ALD
 trade_goods = iron
 life_rating = 35
 naval_base = 1
