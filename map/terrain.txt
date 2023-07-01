@@ -25,9 +25,6 @@ categories =  {
         farm_rgo_eff = -0.4
         mine_rgo_size = 0.0
         mine_rgo_eff = -0.2
-        min_build_naval_base = 4
-        min_build_railroad = 4
-        min_build_fort = 1
         attrition = 2
     }
 

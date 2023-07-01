@@ -1,7 +1,7 @@
 political_decisions = {
 	andalucia_accept_maghrebi = {
 		potential = {
-			tag = AND
+			tag = ADL
 			NOT = { has_country_flag = maghrebi_accepted }
 		}
 		allow = {
@@ -19,7 +19,7 @@ political_decisions = {
 	}
 	andalucia_conquer_fulo = {
 		potential = {
-			tag = AND
+			tag = ADL
 			NOT = { has_country_flag = fulo_conquered }
 		}
 		allow = {
