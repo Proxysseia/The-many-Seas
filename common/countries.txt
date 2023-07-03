@@ -64,7 +64,6 @@ ULA = "countries/Ulaidh.txt"
 UNS = "countries/Union of Stales.txt"
 
 #Russia
-CRI = "countries/Crimea.txt"
 DON = "countries/Donbass.txt"
 EST = "countries/Estonia.txt"
 MUS = "countries/Muscovy.txt"
@@ -76,6 +75,7 @@ YEN = "countries/Yenisey.txt"
 ZAY = "countries/Zaysan.txt"
 
 #Middle East
+CRI = "countries/Crimea.txt"
 AZB = "countries/Azerbaijan.txt"
 DAG = "countries/Dagestan.txt"
 GEO = "countries/Georgia.txt"
