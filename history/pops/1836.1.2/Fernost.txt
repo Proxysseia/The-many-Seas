@@ -818,49 +818,49 @@
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 168
+        size = 268
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 843
+        size = 1348
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 168
+        size = 268
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 49443
+        size = 79108
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 112
+        size = 179
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 393
+        size = 628
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 112
+        size = 179
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 41090
+        size = 65744
     }
 }
 #Southern Tirol

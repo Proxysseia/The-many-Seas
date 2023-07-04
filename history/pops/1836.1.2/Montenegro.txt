@@ -87,37 +87,37 @@
 
     aristocrats = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 162
     }
 
     clergymen = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 65
     }
 
     artisans = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 195
     }
 
     soldiers = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 97
     }
 
     farmers = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 1950
     }
 
     farmers = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 130
     }
 }

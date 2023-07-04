@@ -1,63 +1,51 @@
-#Friuli-Istria Region (188000) #see Italy.txt for balance of region
-#under the rule of Austria in 1836
-#sloveneia Region (870000)
-#under the rule of Austria in 1836
-#Zagreb (224000/56000 POPS)
-######Jews
-########
+#Zagreb
 771 = {
     aristocrats = {
         culture = slovene
         religion = catholic
-        size = 506
+        size = 809
     }
 
     bureaucrats = {
         culture = slovene
         religion = catholic
-        size = 281
-    }
-
-    bureaucrats = {
-        culture = vindonian
-        religion = catholic
-        size = 562
+        size = 1569
     }
 
     officers = {
         culture = slovene
         religion = catholic
-        size = 112
+        size = 179
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 506
+        size = 809
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 2812
+        size = 4499
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 1237
+        size = 1979
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 48431
+        size = 77489
     }
 
     farmers = {
         culture = slovene
         religion = sunni
-        size = 337
+        size = 539
     }
 
     aristocrats = {
@@ -131,208 +119,140 @@
         religion = catholic
         size = 21937
     }
-
-    aristocrats = {
-        culture = saayda
-        religion = jewish
-        size = 112
-    }
-
-    officers = {
-        culture = saayda
-        religion = jewish
-        size = 112
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = jewish
-        size = 112
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = jewish
-        size = 112
-    }
-
-    artisans = {
-        culture = saayda
-        religion = jewish
-        size = 900
-    }
-
-    farmers = {
-        culture = saayda
-        religion = jewish
-        size = 562
-    }
 }
-#Sisak (116000/29000 POPS)
-######Jews
-########
+#Sisak
 772 = {
     aristocrats = {
         culture = slovene
         religion = catholic
-        size = 393
+        size = 628
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 196
+        size = 313
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 1012
+        size = 1619
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 196
+        size = 313
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 18337
-    }
-
-    farmers = {
-        culture = slovene
-        religion = sunni
-        size = 112
+        size = 29339
     }
 
     clergymen = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 33
     }
 
     artisans = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 185
     }
 
     soldiers = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 41
     }
 
     farmers = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 3450
     }
 
-    soldiers = {
-        culture = saayda
-        religion = jewish
-        size = 112
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = jewish
-        size = 112
-    }
-
-    artisans = {
-        culture = saayda
-        religion = jewish
-        size = 112
-    }
-
-    farmers = {
-        culture = saayda
-        religion = jewish
-        size = 112
-    }
-
     clergymen = {
         culture = slovene
-        religion = the_broken
-        size = 78
+        religion = catholic
+        size = 124
     }
 
     artisans = {
         culture = slovene
-        religion = the_broken
-        size = 433
+        religion = catholic
+        size = 692
     }
 
     soldiers = {
         culture = slovene
-        religion = the_broken
-        size = 99
+        religion = catholic
+        size = 158
     }
 
     farmers = {
         culture = slovene
-        religion = the_broken
-        size = 8052
+        religion = catholic
+        size = 12883
     }
 }
-#Karlovac (184000/46000 POPS)
+#Karlovac
 773 = {
     aristocrats = {
         culture = slovene
         religion = catholic
-        size = 618
+        size = 988
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 393
+        size = 628
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 1912
+        size = 3059
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 1237
+        size = 1979
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 33075
+        size = 52920
     }
 
     clergymen = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 140
     }
 
     artisans = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 675
     }
 
     soldiers = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 168
     }
 
     farmers = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 2390
     }
 }
@@ -341,200 +261,172 @@
     aristocrats = {
         culture = slovene
         religion = catholic
-        size = 309
+        size = 494
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 140
+        size = 224
     }
 
     bureaucrats = {
         culture = slovene
         religion = catholic
-        size = 225
+        size = 360
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 731
+        size = 1169
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 140
+        size = 224
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 12740
+        size = 20384
     }
 
     clergymen = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 33
     }
 
     artisans = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 185
     }
 
     soldiers = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 41
     }
 
     farmers = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 3450
     }
 
     clergymen = {
         culture = slovene
-        religion = the_broken
-        size = 78
+        religion = catholic
+        size = 124
     }
 
     artisans = {
         culture = slovene
-        religion = the_broken
-        size = 433
+        religion = catholic
+        size = 692
     }
 
     soldiers = {
         culture = slovene
-        religion = the_broken
-        size = 99
+        religion = catholic
+        size = 158
     }
 
     farmers = {
         culture = slovene
-        religion = the_broken
-        size = 8052
+        religion = catholic
+        size = 12883
     }
 }
-#Varadzin (68000/17000 POPS)
-######Jews
-########
+#Varadzin
 775 = {
     aristocrats = {
         culture = slovene
         religion = catholic
-        size = 225
+        size = 360
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 196
+        size = 313
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 956
+        size = 1529
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 196
+        size = 313
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 11925
+        size = 19080
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 5625
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = jewish
-        size = 112
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = jewish
-        size = 112
-    }
-
-    artisans = {
-        culture = saayda
-        religion = jewish
-        size = 112
-    }
-
-    farmers = {
-        culture = saayda
-        religion = jewish
-        size = 112
+        size = 9000
     }
 }
-#Bjelovar (52000/13000 POPS)
-######Jews
-########
+#Bjelovar
 776 = {
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 112
+        size = 179
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 168
+        size = 268
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 112
+        size = 179
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 3009
+        size = 4814
     }
 
     clergymen = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 33
     }
 
     artisans = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 84
     }
 
     soldiers = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 33
     }
 
     farmers = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 1560
     }
 
@@ -562,55 +454,31 @@
         size = 6538
     }
 
-    soldiers = {
-        culture = saayda
-        religion = jewish
-        size = 112
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = jewish
-        size = 112
-    }
-
-    artisans = {
-        culture = saayda
-        religion = jewish
-        size = 112
-    }
-
-    farmers = {
-        culture = saayda
-        religion = jewish
-        size = 112
-    }
-
     clergymen = {
         culture = slovene
-        religion = the_broken
-        size = 78
+        religion = catholic
+        size = 124
     }
 
     artisans = {
         culture = slovene
-        religion = the_broken
-        size = 196
+        religion = catholic
+        size = 313
     }
 
     soldiers = {
         culture = slovene
-        religion = the_broken
-        size = 78
+        religion = catholic
+        size = 124
     }
 
     farmers = {
         culture = slovene
-        religion = the_broken
-        size = 3642
+        religion = catholic
+        size = 5827
     }
 }
-#Pozega (80000/20000 POPS)
+#Pozega
 777 = {
     aristocrats = {
         culture = serb
@@ -696,9 +564,7 @@
         size = 6300
     }
 }
-#Baranya Region (180000) #see Hungary.txt for balance of Region
-#under the rule of Austria in 1836
-#Osijek (180000/45000 POPS)
+#Osijek
 779 = {
     clergymen = {
         culture = serb
@@ -732,25 +598,25 @@
 
     clergymen = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 33
     }
 
     artisans = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 118
     }
 
     soldiers = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 33
     }
 
     farmers = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 506
     }
 
@@ -840,66 +706,64 @@
 
     clergymen = {
         culture = slovene
-        religion = the_broken
+        religion = catholic
         size = 78
     }
 
     artisans = {
         culture = slovene
-        religion = the_broken
+        religion = catholic
         size = 275
     }
 
     soldiers = {
         culture = slovene
-        religion = the_broken
+        religion = catholic
         size = 78
     }
 
     farmers = {
         culture = slovene
-        religion = the_broken
+        religion = catholic
         size = 1181
     }
 }
-#Dalmatia Region (320000) #see Montenegro.txt for balance of region
-#under the rule of Austria in 1836
-#Split (140000/35000 POPS)
+#Split
 780 = {
     aristocrats = {
         culture = slovene
         religion = catholic
-        size = 450
+        size = 720
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 393
+        size = 628
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 2250
+        size = 3600
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 393
+        size = 628
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 26156
+        size = 41849
     }
 
     farmers = {
         culture = slovene
         religion = sunni
-        size = 112
+        size = 179
     }
 
     farmers = {
@@ -911,7 +775,7 @@
     farmers = {
         culture = slovene
         religion = catholic
-        size = 11250
+        size = 18000
     }
 
     clergymen = {
@@ -938,48 +802,48 @@
         size = 506
     }
 }
-#Zadar (128000/32000 POPS)
+#Zadar
 781 = {
     aristocrats = {
         culture = slovene
         religion = catholic
-        size = 281
+        size = 449
     }
 
     bureaucrats = {
         culture = slovene
         religion = catholic
-        size = 112
+        size = 179
     }
 
     officers = {
         culture = slovene
         religion = catholic
-        size = 84
+        size = 134
     }
 
     clergymen = {
         culture = slovene
         religion = catholic
-        size = 253
+        size = 404
     }
 
     artisans = {
         culture = slovene
         religion = catholic
-        size = 675
+        size = 1080
     }
 
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 253
+        size = 404
     }
 
     farmers = {
         culture = slovene
         religion = catholic
-        size = 23090
+        size = 36944
     }
 
     bureaucrats = {
@@ -1014,29 +878,29 @@
 
     clergymen = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 112
     }
 
     artisans = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 337
     }
 
     soldiers = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 112
     }
 
     farmers = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 7368
     }
 }
-#Dubrovnik (52000/13000 POPS)
+#Dubrovnik
 782 = {
     aristocrats = {
         culture = serb
@@ -1106,31 +970,29 @@
 
     clergymen = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 112
     }
 
     artisans = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 112
     }
 
     soldiers = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 112
     }
 
     farmers = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 2053
     }
 }
-#Banat-Bacska Region (104000) #See Serbia.txt and Romania.txt for balance of region
-#under the rule of Austria in 1836
-#Vukovar (104000/26000 POPS) #part of sloveneia today
+#Vukovar
 793 = {
     clergymen = {
         culture = serb
@@ -1170,25 +1032,25 @@
 
     clergymen = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 112
     }
 
     artisans = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 393
     }
 
     soldiers = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 112
     }
 
     farmers = {
         culture = serb
-        religion = the_broken
+        religion = catholic
         size = 8409
     }
 

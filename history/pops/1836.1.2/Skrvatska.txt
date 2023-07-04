@@ -5,55 +5,55 @@
 
 	aristocrats = {
         culture = greek
-    	religion = the_broken
+    	religion = catholic
         size = 2200
     }
 
     bureaucrats = {
         culture = greek
-    	religion = the_broken
+    	religion = catholic
         size = 400
     }
 
     officers = {
         culture = greek
-    	religion = the_broken
+    	religion = catholic
         size = 250
     }
 
     soldiers = {
     	culture = greek
-    	religion = the_broken
+    	religion = catholic
     	size = 6000
     }
 
     artisans = {
     	culture = greek
-    	religion = the_broken
+    	religion = catholic
     	size = 9500
     }
 
     artisans = {
     	culture = greek
-    	religion = the_broken
+    	religion = catholic
     	size = 9500
     }
 
     artisans = {
     	culture = greek
-    	religion = the_broken
+    	religion = catholic
     	size = 3500
     }
 
     farmers = {
     	culture = greek
-    	religion = the_broken
+    	religion = catholic
     	size = 61255
     }
 
     farmers = {
         culture = greek
-        religion = the_broken
+        religion = catholic
         size = 14925
     }
 
@@ -97,31 +97,31 @@
 823 = {
     aristocrats = {
         culture = greek
-    	religion = the_broken
+    	religion = catholic
         size = 800
     }
 
     artisans = {
     	culture = greek
-    	religion = the_broken
+    	religion = catholic
     	size = 4000
     }
 
     soldiers = {
     	culture = greek
-    	religion = the_broken
+    	religion = catholic
     	size = 3255
     }
 
     farmers = {
     	culture = greek
-    	religion = the_broken
+    	religion = catholic
     	size = 43255
     }
 
     farmers = {
         culture = greek
-        religion = the_broken
+        religion = catholic
         size = 9525
     }
 
@@ -165,103 +165,103 @@
 808 = {
     aristocrats = {
         culture = greek
-    	religion = the_broken
+    	religion = catholic
         size = 500
     }
 
     artisans = {
     	culture = greek
-    	religion = the_broken
+    	religion = catholic
     	size = 2000
     }
 
     soldiers = {
     	culture = greek
-    	religion = the_broken
+    	religion = catholic
     	size = 1500
     }
 
     farmers = {
     	culture = greek
-    	religion = the_broken
+    	religion = catholic
     	size = 23255
     }
 
     farmers = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 4600
     }
 
     soldiers = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 500
     }
 
     clergymen = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 625
     }
 
     artisans = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 900
     }
 
     farmers = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 28075
     }
 
     soldiers = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 300
     }
 
     clergymen = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 300
     }
 
     artisans = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 300
     }
 
     farmers = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 5100
     }
 
     soldiers = {
         culture = greek
-        religion = the_broken
+        religion = catholic
         size = 300
     }
 
     clergymen = {
         culture = greek
-        religion = the_broken
+        religion = catholic
         size = 300
     }
 
     artisans = {
         culture = greek
-        religion = the_broken
+        religion = catholic
         size = 300
     }
 
     farmers = {
         culture = greek
-        religion = the_broken
+        religion = catholic
         size = 1500
     }
 
@@ -271,121 +271,121 @@
 	
 	aristocrats = {
         culture = greek
-    	religion = the_broken
+    	religion = catholic
         size = 1200
     }
 
     artisans = {
     	culture = greek
-    	religion = the_broken
+    	religion = catholic
     	size = 6000
     }
 
     soldiers = {
     	culture = greek
-    	religion = the_broken
+    	religion = catholic
     	size = 4000
     }
 
     farmers = {
     	culture = greek
-    	religion = the_broken
+    	religion = catholic
     	size = 31750
     }
 
     farmers = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 3425
     }
 
     aristocrats = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 400
     }
 
     aristocrats = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 200
     }
 
     clergymen = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 800
     }
 
     artisans = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 600
     }
 
     farmers = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 21475
     }
 
     aristocrats = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 300
     }
 
     officers = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 100
     }
 
     clergymen = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 300
     }
 
     artisans = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 200
     }
 
     soldiers = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 300
     }
 
     farmers = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 9700
     }
 
     soldiers = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 300
     }
 
     clergymen = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 300
     }
 
     artisans = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 600
     }
 
     farmers = {
         culture = romanian
-        religion = the_broken
+        religion = catholic
         size = 6200
     }
 }
