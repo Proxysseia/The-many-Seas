@@ -57,11 +57,11 @@ mechanical_production = 1
 mechanized_mining = 1
 basic_chemistry = 1
 piston_steam_engine = 1
-publishing_industry = 1
 
 # Inventions
 #bottling_process = yes
 modern_winemaking = yes
+machine_tools = yes
 
 # Starting Consciousness
 consciousness = 0

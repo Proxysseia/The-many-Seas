@@ -1,6 +1,6 @@
 controller = KRD
 owner = KRD
 add_core = KRD
+add_core = TAH
 trade_goods = fish
-life_rating = 35
-add_core = TAH 
+life_rating = 40

@@ -1347,7 +1347,7 @@ rotherham_plough = {
 	}
 	effect = {
 		rgo_goods_throughput = {
-			grain = 0.2
+			grain = 0.3
 		}
 	}
 	

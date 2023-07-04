@@ -57,7 +57,9 @@ post_nelsonian_thought = 1
 admin_reform = yes_admin_reform
 army_schools = yes_army_schools
 foreign_weapons = yes_foreign_weapons
+
 # Inventions
+machine_tools = yes
 
 # Starting Consciousness
 consciousness = 0

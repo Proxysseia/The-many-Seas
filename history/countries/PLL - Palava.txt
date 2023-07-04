@@ -51,4 +51,7 @@ set_country_flag = sunni_country
 # Technologies
 flintlock_rifles = 1
 
+# Inventions
+machine_tools = yes
+
 oob = "PLL_oob.txt"
