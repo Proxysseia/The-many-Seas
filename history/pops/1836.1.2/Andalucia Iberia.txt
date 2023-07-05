@@ -149,6 +149,12 @@
         religion = sunni
         size = 17100
     }
+	
+	craftsmen = {
+        culture = berber
+        religion = sunni
+        size = 8100
+    }
 
     soldiers = {
         culture = berber

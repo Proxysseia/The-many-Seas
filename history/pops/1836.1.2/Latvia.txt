@@ -5,115 +5,115 @@
     aristocrats = {
         culture = latvian
         religion = catholic
-        size = 2450
+        size = 3185
     }
 
     aristocrats = {
         culture = latvian
         religion = catholic
-        size = 350
+        size = 455
     }
 
     officers = {
         culture = latvian
         religion = catholic
-        size = 245
+        size = 318
     }
 
     bureaucrats = {
         culture = latvian
         religion = catholic
-        size = 700
+        size = 910
     }
 
     clergymen = {
         culture = latvian
         religion = catholic
-        size = 1750
+        size = 2275
     }
 
     artisans = {
         culture = latvian
         religion = catholic
-        size = 6650
+        size = 8645
     }
 
     artisans = {
         culture = latvian
         religion = catholic
-        size = 6650
+        size = 8645
     }
 
     artisans = {
         culture = latvian
         religion = catholic
-        size = 6650
+        size = 8645
     }
 
     artisans = {
         culture = latvian
         religion = catholic
-        size = 2450
+        size = 3185
     }
 
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 2100
+        size = 2730
     }
 
     farmers = {
         culture = latvian
         religion = catholic
-        size = 43722
+        size = 56838
     }
 
     aristocrats = {
         culture = polish
         religion = catholic
-        size = 450
+        size = 585
     }
 
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 225
+        size = 292
     }
 
     officers = {
         culture = polish
         religion = catholic
-        size = 250
+        size = 325
     }
 
     clergymen = {
         culture = polish
         religion = catholic
-        size = 100
+        size = 130
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 3750
+        size = 4875
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 50
+        size = 65
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 14325
+        size = 18622
     }
 
     farmers = {
         culture = latvian
         religion = catholic
-        size = 13772
+        size = 17903
     }
 }
 #Kaunas (204000/51000 POPS)
@@ -121,67 +121,67 @@
     aristocrats = {
         culture = latvian
         religion = catholic
-        size = 665
+        size = 864
     }
 
     clergymen = {
         culture = latvian
         religion = catholic
-        size = 280
+        size = 364
     }
 
     artisans = {
         culture = latvian
         religion = catholic
-        size = 805
+        size = 1046
     }
 
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 735
+        size = 955
     }
 
     farmers = {
         culture = latvian
         religion = catholic
-        size = 53550
+        size = 69615
     }
 
     aristocrats = {
         culture = polish
         religion = catholic
-        size = 250
+        size = 325
     }
 
     clergymen = {
         culture = polish
         religion = catholic
-        size = 100
+        size = 130
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 150
+        size = 195
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 50
+        size = 65
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 4550
+        size = 5915
     }
 
     farmers = {
         culture = latvian
         religion = catholic
-        size = 4585
+        size = 5960
     }
 }
 #Marjampole (240000/60000 POPS)
@@ -189,61 +189,61 @@
     clergymen = {
         culture = latvian
         religion = catholic
-        size = 175
+        size = 227
     }
 
     artisans = {
         culture = latvian
         religion = catholic
-        size = 1050
+        size = 1365
     }
 
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 787
+        size = 1023
     }
 
     farmers = {
         culture = latvian
         religion = catholic
-        size = 37170
+        size = 48321
     }
 
     aristocrats = {
         culture = polish
         religion = catholic
-        size = 1950
+        size = 2535
     }
 
     clergymen = {
         culture = polish
         religion = catholic
-        size = 275
+        size = 357
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 4200
+        size = 5460
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 150
+        size = 195
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 33225
+        size = 43192
     }
 
     farmers = {
         culture = latvian
         religion = catholic
-        size = 1505
+        size = 1956
     }
 }
 #Panevezys (204000/51000 POPS)
@@ -251,37 +251,43 @@
     aristocrats = {
         culture = latvian
         religion = catholic
-        size = 717
+        size = 932
     }
 
     clergymen = {
         culture = latvian
         religion = catholic
-        size = 262
+        size = 340
     }
 
     artisans = {
         culture = latvian
         religion = catholic
-        size = 1225
+        size = 1592
+    }
+
+    craftsmen = {
+        culture = latvian
+        religion = catholic
+        size = 16250
     }
 
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 131
+        size = 170
     }
 
     farmers = {
         culture = latvian
         religion = catholic
-        size = 38132
+        size = 49571
     }
 
     farmers = {
         culture = latvian
         religion = catholic
-        size = 13912
+        size = 18085
     }
 }
 #Siauliai (200000/50000 POPS)
@@ -289,37 +295,37 @@
     aristocrats = {
         culture = latvian
         religion = catholic
-        size = 630
+        size = 819
     }
 
     clergymen = {
         culture = latvian
         religion = catholic
-        size = 280
+        size = 364
     }
 
     artisans = {
         culture = latvian
         religion = catholic
-        size = 2275
+        size = 2957
     }
 
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 1050
+        size = 1365
     }
 
     farmers = {
         culture = latvian
         religion = catholic
-        size = 43575
+        size = 56647
     }
 
     farmers = {
         culture = latvian
         religion = catholic
-        size = 962
+        size = 1250
     }
 }
 #Kurassala
@@ -328,55 +334,55 @@
     aristocrats = {
         culture = latvian
         religion = catholic
-        size = 1645
+        size = 6580
     }
 
     clergymen = {
         culture = latvian
         religion = catholic
-        size = 105
+        size = 420
     }
 
     artisans = {
         culture = latvian
         religion = catholic
-        size = 6650
+        size = 26600
     }
 
     artisans = {
         culture = latvian
         religion = catholic
-        size = 6650
+        size = 26600
     }
 
     artisans = {
         culture = latvian
         religion = catholic
-        size = 6650
+        size = 26600
     }
 
     artisans = {
         culture = latvian
         religion = catholic
-        size = 2450
+        size = 9800
     }
 
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 166
+        size = 664
     }
 
     farmers = {
         culture = latvian
         religion = catholic
-        size = 69877
+        size = 279508
     }
 
     farmers = {
         culture = latvian
         religion = catholic
-        size = 5775
+        size = 23100
     }
 }
 #Memel (172000/43000 POPS) #now part of Lithuania
@@ -384,25 +390,25 @@
     clergymen = {
         culture = latvian
         religion = catholic
-        size = 385
+        size = 1540
     }
 
     artisans = {
         culture = latvian
         religion = catholic
-        size = 5565
+        size = 22260
     }
 
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 1050
+        size = 4200
     }
 
     farmers = {
         culture = latvian
         religion = catholic
-        size = 25270
+        size = 101080
     }
 }
 #Niksic (52000/13000 POPS)
@@ -410,63 +416,69 @@
     aristocrats = {
         culture = latvian
         religion = catholic
-        size = 385
+        size = 1540
     }
 
     clergymen = {
         culture = latvian
         religion = catholic
-        size = 122
+        size = 488
     }
 
     artisans = {
         culture = latvian
         religion = catholic
-        size = 5250
+        size = 21000
     }
 
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 385
+        size = 1540
     }
 
     farmers = {
         culture = latvian
         religion = catholic
-        size = 26232
+        size = 104928
     }
 }
-#Riga (220000/55000 POPS)
+#Riga
 354 = {
     aristocrats = {
         culture = latvian
         religion = catholic
-        size = 665
+        size = 2660
     }
 
     clergymen = {
         culture = latvian
         religion = catholic
-        size = 437
+        size = 1748
     }
 
     artisans = {
         culture = latvian
         religion = catholic
-        size = 7350
+        size = 29400
+    }
+
+    craftsmen = {
+        culture = latvian
+        religion = catholic
+        size = 12000
     }
 
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 1190
+        size = 4760
     }
 
     farmers = {
         culture = latvian
         religion = catholic
-        size = 36242
+        size = 264968
     }
 }
 #Ventspils (140000/35000 POPS) #uralic = Livonian
@@ -474,19 +486,19 @@
     artisans = {
         culture = latvian
         religion = catholic
-        size = 6510
+        size = 26040
     }
 
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 201
+        size = 804
     }
 
     farmers = {
         culture = latvian
         religion = catholic
-        size = 15015
+        size = 60060
     }
 }
 #Liepaja (96000/24000 POPS)
@@ -494,25 +506,25 @@
     clergymen = {
         culture = latvian
         religion = catholic
-        size = 332
+        size = 1328
     }
 
     artisans = {
         culture = latvian
         religion = catholic
-        size = 3535
+        size = 14140
     }
 
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 280
+        size = 1120
     }
 
     farmers = {
         culture = latvian
         religion = catholic
-        size = 22032
+        size = 88128
     }
 }
 #Pamestas

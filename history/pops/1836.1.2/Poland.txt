@@ -804,7 +804,7 @@
         size = 2757
     }
 }
-#Elbing (148000/37000 POPS)
+#Elbing
 693 = {
     aristocrats = {
         culture = polish
@@ -852,6 +852,12 @@
         culture = latvian
         religion = catholic
         size = 2289
+    }
+	
+	craftsmen = {
+        culture = latvian
+        religion = catholic
+        size = 3289
     }
 
     soldiers = {

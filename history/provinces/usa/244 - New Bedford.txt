@@ -3,3 +3,18 @@ controller = WNG
 add_core = WNG
 trade_goods = grain
 life_rating = 35
+state_building = {
+    level = 2
+    building = steel_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = glass_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = fertilizer_factory
+    upgrade = yes
+}

@@ -1009,7 +1009,7 @@
     farmers = {
         culture = bambara
         religion = animist
-        size = 16200
+        size = 46200
     }
 
     slaves = {
@@ -1043,6 +1043,12 @@
         religion = animist
         size = 742
     }
+	
+	craftsmen = {
+        culture = bambara
+        religion = animist
+        size = 7420
+    }
 
     soldiers = {
         culture = bambara
@@ -1053,7 +1059,7 @@
     farmers = {
         culture = bambara
         religion = animist
-        size = 37350
+        size = 67350
     }
 
     slaves = {
@@ -1080,6 +1086,12 @@
         culture = bambara
         religion = animist
         size = 855
+    }
+	
+	craftsmen = {
+        culture = bambara
+        religion = animist
+        size = 12000
     }
 
     soldiers = {
@@ -1129,7 +1141,7 @@
     farmers = {
         culture = bambara
         religion = animist
-        size = 32400
+        size = 52400
     }
 
     slaves = {
@@ -1167,10 +1179,10 @@
     farmers = {
         culture = bambara
         religion = animist
-        size = 23400
+        size = 33400
     }
 }
-#Harper (204000/51000 POPS)
+#Harper
 1888 = {
     aristocrats = {
         culture = bambara
@@ -1231,7 +1243,7 @@
     farmers = {
         culture = bambara
         religion = animist
-        size = 31500
+        size = 41500
     }
 }
 #Gbarnga
@@ -1295,7 +1307,7 @@
     farmers = {
         culture = bambara
         religion = animist
-        size = 171000
+        size = 71000
     }
 }
 #Grand Lahou
@@ -1430,6 +1442,12 @@
         culture = bambara
         religion = animist
         size = 270
+    }
+	
+	craftsmen = {
+        culture = bambara
+        religion = animist
+        size = 5400
     }
 
     soldiers = {
@@ -1847,6 +1865,12 @@
         religion = animist
         size = 270
     }
+	
+	craftsmen = {
+        culture = bambara
+        religion = animist
+        size = 5400
+    }
 
     soldiers = {
         culture = bambara
@@ -1857,7 +1881,7 @@
     farmers = {
         culture = bambara
         religion = animist
-        size = 4016
+        size = 34016
     }
 
     slaves = {
@@ -1975,7 +1999,7 @@
     farmers = {
         culture = bambara
         religion = animist
-        size = 96648
+        size = 46648
     }
 
     slaves = {

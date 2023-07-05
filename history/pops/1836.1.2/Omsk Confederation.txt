@@ -43,11 +43,6 @@
         size = 180325
     }
 
-    craftsmen = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 12000
-    }
 }
 #Kokshetau (96000/24000 POPS)
 1184 = {
@@ -568,7 +563,7 @@
         size = 56850
     }
 }
-#Qaraganda (56000/14000 POPS)
+#Qaraganda
 1181 = {
     aristocrats = {
         culture = novosibiryaki
@@ -586,6 +581,12 @@
         culture = novosibiryaki
         religion = orthodox
         size = 3725
+    }
+	
+	craftsmen = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 6725
     }
 
     soldiers = {

@@ -26,12 +26,6 @@
         size = 2500
     }
 
-    craftsmen = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 16000
-    }
-
     soldiers = {
         culture = novosibiryaki
         religion = orthodox
@@ -158,6 +152,12 @@
         culture = novosibiryaki
         religion = orthodox
         size = 1250
+    }
+	
+	craftsmen = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 7050
     }
 
     soldiers = {

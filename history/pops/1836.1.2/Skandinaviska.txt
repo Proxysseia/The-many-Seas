@@ -1,5 +1,4 @@
-#Jutland Region : 548000
-#Aarhus (248000/62000 POPS)
+#Aarhus
 366 = {
     aristocrats = {
         culture = flanish
@@ -299,8 +298,7 @@
         size = 963
     }
 }
-#Archipelago Region : 616000
-#Copenhagen (392000/98000 POPS)
+#Copenhagen
 372 = {
     aristocrats = {
         culture = danish
@@ -331,6 +329,12 @@
         religion = protestant
         size = 1009
     }
+	
+	clergymen = {
+        culture = danish
+        religion = protestant
+        size = 8009
+    }
 
     artisans = {
         culture = danish
@@ -338,10 +342,16 @@
         size = 13456
     }
 
-    artisans = {
+    craftsmen = {
         culture = danish
         religion = protestant
-        size = 13456
+        size = 7456
+    }
+	
+	bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 672
     }
 
     artisans = {
@@ -353,19 +363,7 @@
     soldiers = {
         culture = danish
         religion = protestant
-        size = 2018
-    }
-
-    soldiers = {
-        culture = danish
-        religion = protestant
-        size = 2018
-    }
-
-    soldiers = {
-        culture = danish
-        religion = protestant
-        size = 2018
+        size = 6018
     }
 
     farmers = {
@@ -377,13 +375,7 @@
     farmers = {
         culture = swedish
         religion = protestant
-        size = 14801
-    }
-
-    farmers = {
-        culture = swedish
-        religion = protestant
-        size = 9419
+        size = 24801
     }
 
     artisans = {
@@ -528,8 +520,7 @@
     }
 }
 ##########  SWEDEN  ################
-#Svealand Region : 1178000
-#Stockholm (196000/49000 POPs)
+#Stockholm
 322 = {
     aristocrats = {
         culture = swedish
@@ -567,10 +558,10 @@
         size = 13456
     }
 
-    artisans = {
+    craftsmen = {
         culture = swedish
         religion = protestant
-        size = 1480
+        size = 11180
     }
 
     soldiers = {
@@ -968,7 +959,7 @@
         size = 85613
     }
 }
-#Malmo (312000/77000 POPS)
+#Malmö
 334 = {
     aristocrats = {
         culture = swedish
@@ -979,7 +970,7 @@
     bureaucrats = {
         culture = swedish
         religion = protestant
-        size = 1076
+        size = 1576
     }
 
     clergymen = {
@@ -989,6 +980,12 @@
     }
 
     artisans = {
+        culture = swedish
+        religion = protestant
+        size = 5046
+    }
+	
+	craftsmen = {
         culture = swedish
         religion = protestant
         size = 5046

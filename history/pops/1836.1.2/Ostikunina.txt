@@ -349,37 +349,37 @@
     aristocrats = {
         culture = latvian
         religion = protestant
-        size = 245
+        size = 453
     }
 
     clergymen = {
         culture = latvian
         religion = protestant
-        size = 280
+        size = 518
     }
 
     artisans = {
         culture = latvian
         religion = protestant
-        size = 420
+        size = 777
     }
 
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 70
+        size = 129
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 19460
+        size = 36001
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 3045
+        size = 5633
     }
 }
 #Tartu/Dorpat (156000/39000 POPS)
@@ -387,87 +387,93 @@
     clergymen = {
         culture = latvian
         religion = protestant
-        size = 245
+        size = 453
     }
 
     artisans = {
         culture = latvian
         religion = protestant
-        size = 910
+        size = 1683
     }
 
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 122
+        size = 225
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 29050
+        size = 53742
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 5162
+        size = 9549
     }
 }
-#Valmeira (516000/129000 POPS)
+#Valmeira
 355 = {
     clergymen = {
         culture = latvian
         religion = protestant
-        size = 1470
+        size = 2719
     }
 
     artisans = {
         culture = latvian
         religion = protestant
-        size = 5145
+        size = 9518
+    }
+	
+	craftsmen = {
+        culture = latvian
+        religion = protestant
+        size = 8000
     }
 
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 1102
+        size = 2038
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 58362
+        size = 107969
     }
 
     aristocrats = {
         culture = latvian
         religion = protestant
-        size = 875
+        size = 1618
     }
 
     clergymen = {
         culture = latvian
         religion = protestant
-        size = 70
+        size = 129
     }
 
     artisans = {
         culture = latvian
         religion = protestant
-        size = 420
+        size = 777
     }
 
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 35
+        size = 64
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 12722
+        size = 23535
     }
 }
 #Daugavpils (136000/34000 POPS)
@@ -475,55 +481,55 @@
     clergymen = {
         culture = latvian
         religion = protestant
-        size = 122
+        size = 225
     }
 
     artisans = {
         culture = latvian
         religion = protestant
-        size = 455
+        size = 841
     }
 
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 87
+        size = 160
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 27860
+        size = 51541
     }
 
     aristocrats = {
         culture = latvian
         religion = protestant
-        size = 490
+        size = 906
     }
 
     clergymen = {
         culture = latvian
         religion = protestant
-        size = 70
+        size = 129
     }
 
     artisans = {
         culture = latvian
         religion = protestant
-        size = 1540
+        size = 2849
     }
 
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 35
+        size = 64
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 9544
+        size = 17656
     }
 }
 #Jelgava (128000/32000 POPS)
@@ -531,54 +537,54 @@
     clergymen = {
         culture = latvian
         religion = protestant
-        size = 157
+        size = 290
     }
 
     artisans = {
         culture = latvian
         religion = protestant
-        size = 175
+        size = 323
     }
 
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 87
+        size = 160
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 26792
+        size = 49565
     }
 
     aristocrats = {
         culture = latvian
         religion = protestant
-        size = 805
+        size = 1489
     }
 
     clergymen = {
         culture = latvian
         religion = protestant
-        size = 70
+        size = 129
     }
 
     artisans = {
         culture = latvian
         religion = protestant
-        size = 525
+        size = 971
     }
 
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 35
+        size = 64
     }
 
     farmers = {
         culture = latvian
         religion = protestant
-        size = 3622
+        size = 6700
     }
 }

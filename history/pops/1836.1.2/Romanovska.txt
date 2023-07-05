@@ -1,4 +1,4 @@
-#Romanograd (704000/176000 POPS)
+#Romanograd
 389 = {
     aristocrats = {
         culture = novosibiryaki
@@ -45,7 +45,7 @@
     craftsmen = {
         culture = novosibiryaki
         religion = orthodox
-        size = 22600
+        size = 12600
     }
 
     clerks = {
@@ -54,7 +54,7 @@
         size = 400
     }
 }
-#Naryn (56000/14000 POPS) #now part of Kirghizstan
+#Naryn
 1190 = {
     aristocrats = {
         culture = novosibiryaki
@@ -98,20 +98,13 @@
         size = 50490
     }
 
-    craftsmen = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 42600
-    }
-
     clerks = {
         culture = novosibiryaki
         religion = orthodox
         size = 200
     }
 }
-#Urals Region (832000)
-#Ekaterinburg (396000/99000 POPS)
+#Ekaterinburg
 1058 = {
     aristocrats = {
         culture = novosibiryaki
@@ -167,8 +160,7 @@
         size = 70000
     }
 }
-#Vershina Region
-#Chelyabinsk (180000/45000 POPS)
+#Chelyabinsk
 1059 = {
     aristocrats = {
         culture = novosibiryaki
@@ -198,12 +190,6 @@
         culture = novosibiryaki
         religion = orthodox
         size = 122800
-    }
-
-    craftsmen = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 8850
     }
 }
 #Orsk (180000/45000 POPS)
@@ -302,9 +288,7 @@
         size = 103320
     }
 }
-#Region
-#Yamilia Region
-#Aksarka (2200/550 POPS)
+#Aksarka
 2682 = {
     clergymen = {
         culture = novosibiryaki
@@ -324,7 +308,7 @@
         size = 63650
     }
 }
-#Yar Sale (1000/250 POPS)
+#Yar Sale
 2684 = {
     aristocrats = {
         culture = novosibiryaki
