@@ -1110,7 +1110,7 @@
         size = 870
     }
 }
-#Manisa (244000/61000 POPS)
+#Manisa
 870 = {
     aristocrats = {
         culture = turkish
@@ -1129,6 +1129,12 @@
         religion = sunni
         size = 11250
     }
+	
+	craftsmen = {
+        culture = turkish
+        religion = sunni
+        size = 4250
+    }
 
     soldiers = {
         culture = turkish
@@ -1140,30 +1146,6 @@
         culture = turkish
         religion = sunni
         size = 69300
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 300
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 180
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 5250
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 3675
     }
 }
 #Denizli (308000/77000 POPS)
@@ -1538,9 +1520,7 @@
         size = 4200
     }
 }
-#Central Anatolia Region (692000)
-#under the rule of Ottoman Empire in 1836
-#Ankara (240000/60000 POPS)
+#Ankara
 876 = {
     aristocrats = {
         culture = turkish
@@ -1551,7 +1531,7 @@
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 375
+        size = 2375
     }
 
     officers = {
@@ -1569,91 +1549,25 @@
     artisans = {
         culture = turkish
         religion = sunni
-        size = 3300
+        size = 5300
+    }
+	
+	craftsmen = {
+        culture = turkish
+        religion = sunni
+        size = 8300
     }
 
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 1500
+        size = 2500
     }
 
     farmers = {
         culture = turkish
         religion = sunni
-        size = 72187
-    }
-
-    aristocrats = {
-        culture = greek
-        religion = orthodox
-        size = 180
-    }
-
-    officers = {
-        culture = greek
-        religion = orthodox
-        size = 180
-    }
-
-    soldiers = {
-        culture = greek
-        religion = orthodox
-        size = 300
-    }
-
-    clergymen = {
-        culture = greek
-        religion = orthodox
-        size = 180
-    }
-
-    artisans = {
-        culture = greek
-        religion = orthodox
-        size = 225
-    }
-
-    farmers = {
-        culture = greek
-        religion = orthodox
-        size = 1387
-    }
-
-    aristocrats = {
-        culture = turkish
-        religion = coptic
-        size = 180
-    }
-
-    officers = {
-        culture = turkish
-        religion = coptic
-        size = 180
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = coptic
-        size = 300
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = coptic
-        size = 180
-    }
-
-    artisans = {
-        culture = turkish
-        religion = coptic
-        size = 375
-    }
-
-    farmers = {
-        culture = turkish
-        religion = coptic
-        size = 7050
+        size = 82187
     }
 }
 #Amasya (132000/33000 POPS)
@@ -2534,426 +2448,6 @@
         culture = kurdish
         religion = sunni
         size = 31312
-    }
-}
-#Kurdistan Region (720000)
-#under the rule of Ottoman Empire in 1836
-#Van (288000/72000 POPS)
-890 = {
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 366
-    }
-
-    bureaucrats = {
-        culture = kurdish
-        religion = sunni
-        size = 261
-    }
-
-    officers = {
-        culture = kurdish
-        religion = sunni
-        size = 219
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 210
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 1155
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 366
-    }
-
-    farmers = {
-        culture = kurdish
-        religion = sunni
-        size = 26775
-    }
-
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 1155
-    }
-
-    bureaucrats = {
-        culture = kurdish
-        religion = sunni
-        size = 156
-    }
-
-    officers = {
-        culture = kurdish
-        religion = sunni
-        size = 156
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 210
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 3150
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 5985
-    }
-
-    farmers = {
-        culture = kurdish
-        religion = sunni
-        size = 64260
-    }
-
-    slaves = {
-        culture = turkish
-        religion = coptic
-        size = 1000
-    }
-}
-#Bitlis (76000/19000 POPS)
-891 = {
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 1365
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 891
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 4515
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 1206
-    }
-
-    farmers = {
-        culture = kurdish
-        religion = sunni
-        size = 82320
-    }
-
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 210
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 156
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 420
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 156
-    }
-
-    farmers = {
-        culture = kurdish
-        religion = sunni
-        size = 7455
-    }
-
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 261
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 105
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 630
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 1101
-    }
-
-    farmers = {
-        culture = kurdish
-        religion = sunni
-        size = 10500
-    }
-}
-#Hakkari (92000/23000 POPS)
-892 = {
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 105
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 210
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 315
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 1416
-    }
-
-    farmers = {
-        culture = kurdish
-        religion = sunni
-        size = 4305
-    }
-
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 315
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 210
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 1155
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 2466
-    }
-
-    farmers = {
-        culture = kurdish
-        religion = yazidi
-        size = 786
-    }
-
-    farmers = {
-        culture = kurdish
-        religion = sunni
-        size = 18951
-    }
-}
-#Diyarbakir (264000/66000 POPS)
-893 = {
-    aristocrats = {
-        culture = turkish
-        religion = sunni
-        size = 25
-    }
-
-    clergymen = {
-        culture = turkish
-        religion = sunni
-        size = 200
-    }
-
-    artisans = {
-        culture = turkish
-        religion = sunni
-        size = 200
-    }
-
-    soldiers = {
-        culture = turkish
-        religion = sunni
-        size = 250
-    }
-
-    farmers = {
-        culture = turkish
-        religion = sunni
-        size = 2000
-    }
-
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 1365
-    }
-
-    officers = {
-        culture = kurdish
-        religion = sunni
-        size = 210
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 210
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 3675
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 1365
-    }
-
-    farmers = {
-        culture = kurdish
-        religion = sunni
-        size = 66360
-    }
-
-    farmers = {
-        culture = kurdish
-        religion = yazidi
-        size = 2886
-    }
-}
-#Jezira/Cizre (92000/23000 POPS)
-2414 = {
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 105
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 156
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 315
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 1416
-    }
-
-    farmers = {
-        culture = kurdish
-        religion = sunni
-        size = 4305
-    }
-
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 315
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 210
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 525
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 210
-    }
-
-    farmers = {
-        culture = kurdish
-        religion = sunni
-        size = 2151
-    }
-
-    aristocrats = {
-        culture = kurdish
-        religion = yazidi
-        size = 315
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = yazidi
-        size = 210
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = yazidi
-        size = 1155
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = yazidi
-        size = 2466
-    }
-
-    farmers = {
-        culture = kurdish
-        religion = yazidi
-        size = 14751
     }
 }
 #Cilicia Region (540000)

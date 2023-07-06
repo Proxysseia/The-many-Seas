@@ -3,3 +3,13 @@ controller = TAH
 add_core = TAH
 trade_goods = grain
 life_rating = 35
+state_building = {
+    level = 1
+    building = fertilizer_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = glass_factory
+    upgrade = yes
+}

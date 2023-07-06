@@ -2,4 +2,9 @@ owner = TAH
 controller = TAH
 add_core = TAH
 trade_goods = cotton
-life_rating = 40
+life_rating = 35
+state_building = {
+    level = 1
+    building = canned_food_factory
+    upgrade = yes
+}

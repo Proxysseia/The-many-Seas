@@ -3,3 +3,8 @@ controller = TAH
 add_core = TAH
 trade_goods = fruit
 life_rating = 35
+state_building = {
+    level = 1
+    building = lumber_mill
+    upgrade = yes
+}

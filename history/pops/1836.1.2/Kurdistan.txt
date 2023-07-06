@@ -1,0 +1,788 @@
+#Van
+890 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 3358
+    }
+
+    bureaucrats = {
+        culture = kurdish
+        religion = sunni
+        size = 2269
+    }
+
+    officers = {
+        culture = kurdish
+        religion = sunni
+        size = 754
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 918
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 7479
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 10773
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 92268
+    }
+
+    slaves = {
+        culture = turkish
+        religion = sunni
+        size = 1800
+    }
+}
+#Bitlis
+891 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 3177
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 2143
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 9927
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 2170
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 94176
+    }
+}
+#Hakkari
+892 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 1417
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 1435
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 15102
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 4956
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 129328
+    }
+}
+#Diyarbakir
+893 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 2457
+    }
+
+    officers = {
+        culture = kurdish
+        religion = sunni
+        size = 378
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 378
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 6615
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 2457
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 119448
+    }
+}
+#Mosul
+923 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 2150
+    }
+
+    officers = {
+        culture = kurdish
+        religion = sunni
+        size = 2150
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 8600
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 2150
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 25800
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 53750
+    }
+}
+#Tabriz
+1108 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 9719
+    }
+
+    bureaucrats = {
+        culture = kurdish
+        religion = sunni
+        size = 1943
+    }
+
+    officers = {
+        culture = kurdish
+        religion = sunni
+        size = 1554
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 4856
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 12431
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 3808
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 42050
+    }
+}
+#Khvoy
+1109 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 1218
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 518
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 2797
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 698
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 50560
+    }
+
+    slaves = {
+        culture = kurdish
+        religion = sunni
+        size = 11901
+    }
+}
+#Urumia
+1110 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 3388
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 6317
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 17419
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 20205
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 140901
+    }
+}
+#Mahabad
+1111 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 2524
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 1261
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 1261
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 6220
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 4276
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 57618
+    }
+}
+#Ardabil
+1112 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 2427
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 1261
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 6023
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 4276
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 40798
+    }
+}
+#Arbil
+924 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 1837
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 2205
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 11025
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 7350
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 139650
+    }
+}
+#Kirkuk
+925 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 2383
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 1470
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 22050
+    }
+	
+	craftsmen = {
+        culture = kurdish
+        religion = sunni
+        size = 13000
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 18375
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 220500
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 546
+    }
+}
+#Samarra
+927 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 913
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 591
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 3977
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 591
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 89171
+    }
+}
+#Mendeli
+928 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 832
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 2777
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 1666
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 2777
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 47213
+    }
+}
+#Kermanshah
+1117 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 925
+    }
+
+    bureaucrats = {
+        culture = kurdish
+        religion = sunni
+        size = 991
+    }
+
+    officers = {
+        culture = kurdish
+        religion = sunni
+        size = 164
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 462
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 7471
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 1454
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 35508
+    }
+}
+#Sanandaj
+1118 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 1650
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 872
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 4467
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 968
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 81453
+    }
+}
+#Abadan
+1132 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 430
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 215
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 1182
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 2150
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 86107
+    }
+}
+#Hasakah
+1813 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 483
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 376
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 1870
+    }
+
+    bureaucrats = {
+        culture = kurdish
+        religion = sunni
+        size = 64
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 457
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 99949
+    }
+}
+#Jibuti
+1875 = {
+    bureaucrats = {
+        culture = kurdish
+        religion = sunni
+        size = 555
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 190
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 1166
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 20798
+    }
+}
+#Marsabit
+2025 = {
+    bureaucrats = {
+        culture = kurdish
+        religion = sunni
+        size = 55
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 190
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 1166
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 231
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 60473
+    }
+}
+#Jezira/Cizre
+2414 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 189
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 280
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 567
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 2548
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 80551
+    }
+}
+#Gwadar
+2640 = {
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 430
+    }
+
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 10
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 53
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 5375
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 215
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 81700
+    }
+}
