@@ -93,13 +93,13 @@
     artisans = {
         culture = nuer
         religion = sunni
-        size = 8000
+        size = 20000
     }
 
-    artisans = {
+	craftsmen = {
         culture = nuer
         religion = sunni
-        size = 12000
+        size = 7890
     }
 
     soldiers = {
@@ -582,6 +582,12 @@
         culture = nuer
         religion = sunni
         size = 9900
+    }
+	
+	craftsmen = {
+        culture = nuer
+        religion = sunni
+        size = 19900
     }
 
     soldiers = {

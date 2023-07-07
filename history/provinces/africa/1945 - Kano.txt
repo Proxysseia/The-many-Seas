@@ -3,3 +3,13 @@ controller = NRI
 add_core = NRI
 trade_goods = fruit
 life_rating = 35
+state_building = {
+    level = 2
+    building = canned_food_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = ammunition_factory
+    upgrade = yes
+}

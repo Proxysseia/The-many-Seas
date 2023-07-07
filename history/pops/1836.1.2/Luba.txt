@@ -55,11 +55,11 @@
         religion = animist
         size = 14000
     }
-
-    artisans = {
+	
+	craftsmen = {
         culture = lunda
         religion = animist
-        size = 5635
+        size = 14000
     }
 
     soldiers = {
@@ -213,17 +213,17 @@
         religion = animist
         size = 14000
     }
-
-    soldiers = {
+	
+	craftsmen = {
         culture = lunda
         religion = animist
-        size = 2425
+        size = 40000
     }
 
     soldiers = {
         culture = lunda
         religion = animist
-        size = 831
+        size = 3425
     }
 
     farmers = {
@@ -250,6 +250,12 @@
         culture = lunda
         religion = animist
         size = 3465
+    }
+	
+	craftsmen = {
+        culture = lunda
+        religion = animist
+        size = 7018
     }
 
     soldiers = {
@@ -385,6 +391,12 @@
         religion = animist
         size = 3080
     }
+	
+	craftsmen = {
+        culture = lunda
+        religion = animist
+        size = 10800
+    }
 
     soldiers = {
         culture = lunda
@@ -422,6 +434,12 @@
         culture = lunda
         religion = animist
         size = 18200
+    }
+	
+	craftsmen = {
+        culture = lunda
+        religion = animist
+        size = 7200
     }
 
     soldiers = {
@@ -899,6 +917,12 @@
         religion = animist
         size = 2100
     }
+	
+	craftsmen = {
+        culture = lunda
+        religion = animist
+        size = 15300
+    }
 
     soldiers = {
         culture = lunda
@@ -1190,6 +1214,12 @@
         culture = lunda
         religion = animist
         size = 11200
+    }
+	
+	craftsmen = {
+        culture = lunda
+        religion = animist
+        size = 7200
     }
 
     soldiers = {

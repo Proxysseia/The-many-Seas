@@ -29,6 +29,12 @@
         religion = catholic
         size = 4499
     }
+	
+	craftsmen = {
+        culture = slovene
+        religion = catholic
+        size = 14499
+    }
 
     soldiers = {
         culture = slovene
@@ -46,60 +52,6 @@
         culture = slovene
         religion = sunni
         size = 539
-    }
-
-    aristocrats = {
-        culture = hungarian
-        religion = catholic
-        size = 787
-    }
-
-    bureaucrats = {
-        culture = hungarian
-        religion = catholic
-        size = 112
-    }
-
-    officers = {
-        culture = hungarian
-        religion = catholic
-        size = 168
-    }
-
-    clergymen = {
-        culture = hungarian
-        religion = catholic
-        size = 112
-    }
-
-    artisans = {
-        culture = hungarian
-        religion = catholic
-        size = 787
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = catholic
-        size = 112
-    }
-
-    farmers = {
-        culture = hungarian
-        religion = catholic
-        size = 3656
-    }
-
-    bureaucrats = {
-        culture = vindonian
-        religion = catholic
-        size = 56
-    }
-
-    clergymen = {
-        culture = vindonian
-        religion = catholic
-        size = 112
     }
 
     artisans = {

@@ -254,12 +254,7 @@
         size = 18759
     }
 }
-#Austria Region (2000000)
-#under the rule of Austria in 1836
-#Vienna (1084000/271000 POPS)
-####Czechs
-#####
-####Hungarians
+#Vienna
 619 = {
     aristocrats = {
         culture = vindonian
@@ -294,37 +289,13 @@
     artisans = {
         culture = vindonian
         religion = catholic
-        size = 11250
+        size = 41250
     }
-
-    artisans = {
+	
+	craftsmen = {
         culture = vindonian
         religion = catholic
-        size = 11250
-    }
-
-    artisans = {
-        culture = vindonian
-        religion = catholic
-        size = 11250
-    }
-
-    artisans = {
-        culture = vindonian
-        religion = catholic
-        size = 11250
-    }
-
-    artisans = {
-        culture = vindonian
-        religion = catholic
-        size = 11250
-    }
-
-    artisans = {
-        culture = vindonian
-        religion = catholic
-        size = 5062
+        size = 23250
     }
 
     craftsmen = {
@@ -336,49 +307,13 @@
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 3093
-    }
-
-    soldiers = {
-        culture = vindonian
-        religion = catholic
-        size = 3375
-    }
-
-    soldiers = {
-        culture = vindonian
-        religion = catholic
-        size = 3375
-    }
-
-    soldiers = {
-        culture = vindonian
-        religion = catholic
-        size = 3375
+        size = 12093
     }
 
     farmers = {
         culture = vindonian
         religion = catholic
         size = 209531
-    }
-
-    aristocrats = {
-        culture = czech
-        religion = catholic
-        size = 140
-    }
-
-    clergymen = {
-        culture = czech
-        religion = catholic
-        size = 140
-    }
-
-    soldiers = {
-        culture = czech
-        religion = catholic
-        size = 140
     }
 
     craftsmen = {
@@ -397,42 +332,6 @@
         culture = czech
         religion = catholic
         size = 1406
-    }
-
-    aristocrats = {
-        culture = hungarian
-        religion = catholic
-        size = 112
-    }
-
-    clergymen = {
-        culture = hungarian
-        religion = catholic
-        size = 112
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = catholic
-        size = 112
-    }
-
-    craftsmen = {
-        culture = hungarian
-        religion = catholic
-        size = 337
-    }
-
-    artisans = {
-        culture = hungarian
-        religion = catholic
-        size = 337
-    }
-
-    farmers = {
-        culture = hungarian
-        religion = catholic
-        size = 112
     }
 }
 #Sankt Polten (88000/22000 POPS)
@@ -1190,7 +1089,7 @@
         size = 18787
     }
 }
-#Udine (300000/75000 POPS)
+#Udine
 733 = {
     aristocrats = {
         culture = vindonian
@@ -1209,6 +1108,12 @@
         religion = catholic
         size = 4218
     }
+	
+	craftsmen = {
+        culture = vindonian
+        religion = catholic
+        size = 14218
+    }
 
     soldiers = {
         culture = vindonian
@@ -1222,14 +1127,7 @@
         size = 58725
     }
 }
-##############
-## Slowenia ##
-##############
-#Carinthia-Styria Region (204000) #see Austria.txt for balance of Region
-#under the rule of Austria in 1836
-#Maribor (204000/51000 POPS) #Part of Slovenia Today
-######Jews
-########
+#Maribor
 767 = {
     aristocrats = {
         culture = vindonian
@@ -1367,7 +1265,7 @@
         size = 22500
     }
 }
-#Postojna (180000/45000 POPS)
+#Postojna
 769 = {
     aristocrats = {
         culture = slovene
@@ -1385,6 +1283,12 @@
         culture = slovene
         religion = catholic
         size = 2362
+    }
+
+	craftsmen = {
+        culture = slovene
+        religion = catholic
+        size = 20620
     }
 
     soldiers = {

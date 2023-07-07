@@ -1,0 +1,178 @@
+#Augsburg
+592 = {
+    aristocrats = {
+        culture = bairisch
+        religion = catholic
+        size = 770
+    }
+
+    clergymen = {
+        culture = bairisch
+        religion = catholic
+        size = 735
+    }
+
+    artisans = {
+        culture = bairisch
+        religion = catholic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = bairisch
+        religion = catholic
+        size = 700
+    }
+
+    farmers = {
+        culture = bairisch
+        religion = catholic
+        size = 54565
+    }
+}
+#Munich
+599 = {
+    aristocrats = {
+        culture = bairisch
+        religion = catholic
+        size = 1470
+    }
+
+    bureaucrats = {
+        culture = bairisch
+        religion = catholic
+        size = 560
+    }
+
+    officers = {
+        culture = bairisch
+        religion = catholic
+        size = 280
+    }
+
+    clergymen = {
+        culture = bairisch
+        religion = catholic
+        size = 1435
+    }
+
+    artisans = {
+        culture = bairisch
+        religion = catholic
+        size = 7000
+    }
+
+    craftsmen = {
+        culture = bairisch
+        religion = catholic
+        size = 8000
+    }
+
+    soldiers = {
+        culture = bairisch
+        religion = catholic
+        size = 2100
+    }
+
+    farmers = {
+        culture = bairisch
+        religion = catholic
+        size = 132955
+    }
+}
+#Landshut
+600 = {
+    aristocrats = {
+        culture = bairisch
+        religion = catholic
+        size = 280
+    }
+
+    clergymen = {
+        culture = bairisch
+        religion = catholic
+        size = 297
+    }
+
+    artisans = {
+        culture = bairisch
+        religion = catholic
+        size = 1400
+    }
+
+    soldiers = {
+        culture = bairisch
+        religion = catholic
+        size = 315
+    }
+
+    farmers = {
+        culture = bairisch
+        religion = catholic
+        size = 26407
+    }
+}
+#Ingolstadt
+601 = {
+    aristocrats = {
+        culture = bairisch
+        religion = catholic
+        size = 280
+    }
+
+    clergymen = {
+        culture = bairisch
+        religion = catholic
+        size = 297
+    }
+
+    artisans = {
+        culture = bairisch
+        religion = catholic
+        size = 1400
+    }
+
+    soldiers = {
+        culture = bairisch
+        religion = catholic
+        size = 700
+    }
+
+    farmers = {
+        culture = bairisch
+        religion = catholic
+        size = 26022
+    }
+}
+#Regensburg
+602 = {
+    aristocrats = {
+        culture = bairisch
+        religion = catholic
+        size = 455
+    }
+
+    clergymen = {
+        culture = bairisch
+        religion = catholic
+        size = 437
+    }
+
+    artisans = {
+        culture = bairisch
+        religion = catholic
+        size = 3500
+    }
+
+    soldiers = {
+        culture = bairisch
+        religion = catholic
+        size = 700
+    }
+
+    farmers = {
+        culture = bairisch
+        religion = catholic
+        size = 38307
+    }
+}

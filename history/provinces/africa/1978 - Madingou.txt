@@ -3,3 +3,8 @@ controller = NRI
 add_core = NRI
 trade_goods = grain
 life_rating = 35
+state_building = {
+    level = 1
+    building = ammunition_factory
+    upgrade = yes
+}

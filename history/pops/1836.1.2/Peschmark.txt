@@ -1,0 +1,446 @@
+#Pecs
+640 = {
+    aristocrats = {
+        culture = hungarian
+        religion = catholic
+        size = 455
+    }
+
+    bureaucrats = {
+        culture = hungarian
+        religion = catholic
+        size = 70
+    }
+
+    officers = {
+        culture = hungarian
+        religion = catholic
+        size = 56
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = catholic
+        size = 175
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = catholic
+        size = 875
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = catholic
+        size = 770
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = catholic
+        size = 13069
+    }
+
+    aristocrats = {
+        culture = vindonian
+        religion = catholic
+        size = 350
+    }
+
+    bureaucrats = {
+        culture = vindonian
+        religion = catholic
+        size = 52
+    }
+
+    officers = {
+        culture = vindonian
+        religion = catholic
+        size = 70
+    }
+
+    clergymen = {
+        culture = vindonian
+        religion = catholic
+        size = 122
+    }
+
+    artisans = {
+        culture = vindonian
+        religion = catholic
+        size = 770
+    }
+	
+	craftsmen = {
+        culture = vindonian
+        religion = catholic
+        size = 7700
+    }
+
+    soldiers = {
+        culture = vindonian
+        religion = catholic
+        size = 175
+    }
+
+    farmers = {
+        culture = vindonian
+        religion = catholic
+        size = 26981
+    }
+
+    officers = {
+        culture = slovene
+        religion = catholic
+        size = 70
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = catholic
+        size = 70
+    }
+
+    artisans = {
+        culture = slovene
+        religion = catholic
+        size = 280
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 70
+    }
+
+    farmers = {
+        culture = slovene
+        religion = catholic
+        size = 5204
+    }
+}
+#Pest
+641 = {
+    capitalists = {
+        culture = vindonian
+        religion = catholic
+        size = 17
+    }
+
+    aristocrats = {
+        culture = vindonian
+        religion = catholic
+        size = 1260
+    }
+
+    bureaucrats = {
+        culture = vindonian
+        religion = catholic
+        size = 1050
+    }
+
+    officers = {
+        culture = vindonian
+        religion = catholic
+        size = 175
+    }
+
+    clergymen = {
+        culture = vindonian
+        religion = catholic
+        size = 1575
+    }
+
+    artisans = {
+        culture = vindonian
+        religion = catholic
+        size = 5250
+    }
+
+    artisans = {
+        culture = vindonian
+        religion = catholic
+        size = 3150
+    }
+
+    soldiers = {
+        culture = vindonian
+        religion = catholic
+        size = 2800
+    }
+
+    craftsmen = {
+        culture = vindonian
+        religion = catholic
+        size = 70
+    }
+
+    farmers = {
+        culture = vindonian
+        religion = catholic
+        size = 80787
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = catholic
+        size = 245
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = catholic
+        size = 2100
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = catholic
+        size = 26075
+    }
+}
+#Gyor (384000/96000 POPS)
+642 = {
+    aristocrats = {
+        culture = vindonian
+        religion = catholic
+        size = 1575
+    }
+
+    clergymen = {
+        culture = vindonian
+        religion = catholic
+        size = 402
+    }
+
+    artisans = {
+        culture = vindonian
+        religion = catholic
+        size = 1925
+    }
+
+    soldiers = {
+        culture = vindonian
+        religion = catholic
+        size = 2100
+    }
+
+    craftsmen = {
+        culture = vindonian
+        religion = catholic
+        size = 70
+    }
+
+    farmers = {
+        culture = vindonian
+        religion = catholic
+        size = 38727
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = catholic
+        size = 10167
+    }
+
+    farmers = {
+        culture = vindonian
+        religion = catholic
+        size = 8260
+    }
+}
+#Szekesfehervar
+643 = {
+    aristocrats = {
+        culture = vindonian
+        religion = catholic
+        size = 2870
+    }
+
+    clergymen = {
+        culture = vindonian
+        religion = catholic
+        size = 2100
+    }
+
+    artisans = {
+        culture = vindonian
+        religion = catholic
+        size = 1575
+    }
+
+    craftsmen = {
+        culture = vindonian
+        religion = catholic
+        size = 70
+    }
+
+    soldiers = {
+        culture = vindonian
+        religion = catholic
+        size = 1400
+    }
+
+    farmers = {
+        culture = vindonian
+        religion = catholic
+        size = 54793
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = catholic
+        size = 13492
+    }
+
+    aristocrats = {
+        culture = vindonian
+        religion = protestant
+        size = 192
+    }
+
+    farmers = {
+        culture = vindonian
+        religion = catholic
+        size = 9730
+    }
+}
+#Kaposvar
+644 = {
+    aristocrats = {
+        culture = vindonian
+        religion = catholic
+        size = 2100
+    }
+
+    clergymen = {
+        culture = vindonian
+        religion = catholic
+        size = 525
+    }
+
+    artisans = {
+        culture = vindonian
+        religion = catholic
+        size = 2590
+    }
+
+    soldiers = {
+        culture = vindonian
+        religion = catholic
+        size = 770
+    }
+
+    farmers = {
+        culture = vindonian
+        religion = catholic
+        size = 50225
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = catholic
+        size = 3587
+    }
+
+    farmers = {
+        culture = vindonian
+        religion = catholic
+        size = 1767
+    }
+}
+#Kecskemet
+645 = {
+    aristocrats = {
+        culture = vindonian
+        religion = catholic
+        size = 280
+    }
+
+    clergymen = {
+        culture = vindonian
+        religion = catholic
+        size = 87
+    }
+
+    artisans = {
+        culture = vindonian
+        religion = catholic
+        size = 2240
+    }
+
+    soldiers = {
+        culture = vindonian
+        religion = catholic
+        size = 105
+    }
+
+    farmers = {
+        culture = vindonian
+        religion = catholic
+        size = 13387
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = catholic
+        size = 6685
+    }
+
+    farmers = {
+        culture = vindonian
+        religion = catholic
+        size = 1260
+    }
+}
+#Miskolc
+646 = {
+    aristocrats = {
+        culture = vindonian
+        religion = catholic
+        size = 1225
+    }
+
+    clergymen = {
+        culture = vindonian
+        religion = catholic
+        size = 297
+    }
+
+    bureaucrats = {
+        culture = vindonian
+        religion = catholic
+        size = 490
+    }
+
+    artisans = {
+        culture = vindonian
+        religion = catholic
+        size = 2625
+    }
+
+    soldiers = {
+        culture = vindonian
+        religion = catholic
+        size = 315
+    }
+
+    craftsmen = {
+        culture = vindonian
+        religion = catholic
+        size = 70
+    }
+
+    farmers = {
+        culture = vindonian
+        religion = catholic
+        size = 43067
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = catholic
+        size = 29487
+    }
+}

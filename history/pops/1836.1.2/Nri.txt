@@ -67,6 +67,12 @@
         religion = animist
         size = 2125
     }
+	
+	craftsmen = {
+        culture = fang
+        religion = animist
+        size = 15125
+    }
 
     clergymen = {
         culture = fang
@@ -490,22 +496,16 @@
         size = 8500
     }
 
-    artisans = {
+    craftsmen = {
         culture = fang
         religion = animist
-        size = 1997
+        size = 20001
     }
 
     soldiers = {
         culture = fang
         religion = animist
         size = 2550
-    }
-
-    soldiers = {
-        culture = fang
-        religion = animist
-        size = 85
     }
 
     farmers = {
@@ -575,13 +575,13 @@
     artisans = {
         culture = fang
         religion = animist
-        size = 8500
+        size = 10500
     }
-
-    artisans = {
+	
+	craftsmen = {
         culture = fang
         religion = animist
-        size = 2252
+        size = 25000
     }
 
     soldiers = {
@@ -1063,6 +1063,12 @@
         religion = animist
         size = 5610
     }
+	
+	craftsmen = {
+        culture = fang
+        religion = animist
+        size = 10610
+    }
 
     soldiers = {
         culture = fang
@@ -1302,6 +1308,12 @@
         culture = fang
         religion = animist
         size = 8160
+    }
+	
+	craftsmen = {
+        culture = fang
+        religion = animist
+        size = 9160
     }
 
     soldiers = {
@@ -1803,6 +1815,12 @@
         religion = animist
         size = 6332
     }
+	
+	craftsmen = {
+        culture = fang
+        religion = animist
+        size = 10332
+    }
 
     soldiers = {
         culture = fang
@@ -2296,6 +2314,12 @@
         culture = fang
         religion = animist
         size = 1445
+    }
+	
+	craftsmen = {
+        culture = fang
+        religion = animist
+        size = 9445
     }
 
     soldiers = {

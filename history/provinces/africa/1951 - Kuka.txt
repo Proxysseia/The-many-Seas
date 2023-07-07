@@ -3,3 +3,18 @@ controller = NRI
 add_core = NRI
 trade_goods = coal
 life_rating = 35
+state_building = {
+    level = 1
+    building = cement_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = leather_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = liquor_distillery
+    upgrade = yes
+}

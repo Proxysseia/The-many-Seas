@@ -1,6 +1,4 @@
-#New South Wales Region 144000
-#Ruled by Britain 1836
-#Sydney (64000/16000 POPS)
+#Sydney
 2468 = {
     aristocrats = {
         culture = australian
@@ -31,6 +29,12 @@
         religion = protestant
         size = 34341
     }
+	
+	craftsmen = {
+        culture = australian
+        religion = protestant
+        size = 30341
+    }
 
     soldiers = {
         culture = australian
@@ -41,49 +45,7 @@
     farmers = {
         culture = australian
         religion = protestant
-        size = 176512
-    }
-
-    craftsmen = {
-        culture = australian
-        religion = protestant
-        size = 1144
-    }
-
-    aristocrats = {
-        culture = australian
-        religion = protestant
-        size = 294
-    }
-
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 150
-    }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 1993
-    }
-
-    soldiers = {
-        culture = australian
-        religion = protestant
-        size = 398
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 11387
-    }
-
-    craftsmen = {
-        culture = australian
-        religion = protestant
-        size = 73
+        size = 196512
     }
 
     aristocrats = {
@@ -893,9 +855,7 @@
         size = 1507
     }
 }
-#Victoria Region - 44000
-#uncolonized in 1836
-#Melbourne (12000/3000 POPS)
+#Melbourne
 2476 = {
     aristocrats = {
         culture = australian
@@ -926,6 +886,12 @@
         religion = protestant
         size = 3689
     }
+	
+	craftsmen = {
+        culture = australian
+        religion = protestant
+        size = 15689
+    }
 
     soldiers = {
         culture = australian
@@ -937,36 +903,6 @@
         culture = australian
         religion = protestant
         size = 83934
-    }
-
-    aristocrats = {
-        culture = australian
-        religion = protestant
-        size = 18
-    }
-
-    clergymen = {
-        culture = australian
-        religion = protestant
-        size = 12
-    }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 69
-    }
-
-    soldiers = {
-        culture = australian
-        religion = protestant
-        size = 45
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 1767
     }
 
     aristocrats = {
@@ -1725,8 +1661,7 @@
         size = 2000
     }
 }
-#uncolonized in 1836
-#Gladstone (8000/2000 POPS)
+#Gladstone
 2484 = {
     aristocrats = {
         culture = australian
@@ -1756,6 +1691,12 @@
         culture = australian
         religion = protestant
         size = 7775
+    }
+	
+	craftsmen = {
+        culture = australian
+        religion = protestant
+        size = 4775
     }
 
     soldiers = {
@@ -1806,7 +1747,7 @@
         size = 807
     }
 }
-#Bonin (60/15 POPS)
+#Bonin
 1654 = {
     aristocrats = {
         culture = australian
@@ -2469,96 +2410,41 @@
     }
 }
 #Augusta
-#Port Augusta (4000/1000 POPS)
 2494 = {
     bureaucrats = {
         culture = australian
         religion = protestant
-        size = 350
-    }
-
-    bureaucrats = {
-        culture = australian
-        religion = protestant
-        size = 75
+        size = 950
     }
 
     clergymen = {
         culture = australian
         religion = protestant
-        size = 300
+        size = 1300
     }
 
     artisans = {
+        culture = australian
+        religion = protestant
+        size = 5000
+    }
+	
+	craftsmen = {
+        culture = australian
+        religion = protestant
+        size = 5000
+    }
+
+    soldiers = {
         culture = australian
         religion = protestant
         size = 4000
     }
 
-    soldiers = {
-        culture = australian
-        religion = protestant
-        size = 3000
-    }
-
     farmers = {
         culture = australian
         religion = protestant
-        size = 49275
-    }
-
-    soldiers = {
-        culture = australian
-        religion = protestant
-        size = 1000
-    }
-
-    aristocrats = {
-        culture = australian
-        religion = protestant
-        size = 750
-    }
-
-    aristocrats = {
-        culture = australian
-        religion = protestant
-        size = 1000
-    }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 2500
-    }
-
-    farmers = {
-        culture = australian
-        religion = protestant
-        size = 32380
-    }
-
-    aristocrats = {
-        culture = aborigine
-        religion = animist
-        size = 10
-    }
-
-    clergymen = {
-        culture = aborigine
-        religion = animist
-        size = 25
-    }
-
-    soldiers = {
-        culture = aborigine
-        religion = animist
-        size = 15
-    }
-
-    farmers = {
-        culture = aborigine
-        religion = animist
-        size = 900
+        size = 79275
     }
 }
 #Robe (4000/1000 POPS)
@@ -3886,7 +3772,7 @@
         size = 2020
     }
 }
-#Hugoton (1000/250 POPS)
+#Hugoton
 128 = {
     bureaucrats = {
         culture = australian
@@ -3904,6 +3790,12 @@
         culture = australian
         religion = protestant
         size = 1800
+    }
+	
+	craftsmen = {
+        culture = australian
+        religion = protestant
+        size = 4800
     }
 
     soldiers = {
@@ -4076,7 +3968,7 @@
         size = 3375
     }
 }
-#Frejus (132000/33000 POPS)
+#Frejus
 471 = {
     aristocrats = {
         culture = australian
@@ -4094,6 +3986,12 @@
         culture = australian
         religion = protestant
         size = 800
+    }
+	
+	artisans = {
+        culture = australian
+        religion = protestant
+        size = 4800
     }
 
     soldiers = {
@@ -4220,8 +4118,7 @@
         size = 3522
     }
 }
-#Ranseyre Region
-#Ferrara (180000/45000 POPS)
+#Ferrara
 742 = {
     bureaucrats = {
         culture = australian
@@ -4242,6 +4139,12 @@
     }
 
     artisans = {
+        culture = australian
+        religion = catholic
+        size = 4875
+    }
+	
+	craftsmen = {
         culture = australian
         religion = catholic
         size = 4875
@@ -4774,8 +4677,7 @@
         size = 27312
     }
 }
-#Saplaid Region
-#Saplaid (2400/600 POPS)
+#Saplaid
 60 = {
     bureaucrats = {
         culture = australian
@@ -4798,19 +4700,13 @@
     artisans = {
         culture = australian
         religion = protestant
-        size = 2775
+        size = 5775
     }
-
-    artisans = {
+	
+	craftsmen = {
         culture = australian
         religion = protestant
-        size = 2775
-    }
-
-    artisans = {
-        culture = australian
-        religion = protestant
-        size = 775
+        size = 5005
     }
 
     soldiers = {
