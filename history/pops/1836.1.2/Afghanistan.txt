@@ -1,6 +1,4 @@
-#Afghanistan Region (3672000)
-#under the rule of Afghanistan in 1836
-#Kabul (996000/249000 POPS)
+#Kabul
 1209 = {
     aristocrats = {
         culture = persian
@@ -11,7 +9,7 @@
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 536
+        size = 2536
     }
 
     officers = {
@@ -31,29 +29,17 @@
         religion = sunni
         size = 3510
     }
-
-    soldiers = {
+	
+	craftsmen = {
         culture = persian
         religion = sunni
-        size = 1950
+        size = 6510
     }
 
     soldiers = {
         culture = persian
         religion = sunni
-        size = 1950
-    }
-
-    soldiers = {
-        culture = persian
-        religion = sunni
-        size = 1950
-    }
-
-    soldiers = {
-        culture = persian
-        religion = sunni
-        size = 1300
+        size = 6950
     }
 
     farmers = {
@@ -62,88 +48,10 @@
         size = 65016
     }
 
-    aristocrats = {
-        culture = kazak
-        religion = sunni
-        size = 2000
-    }
-
-    officers = {
-        culture = kazak
-        religion = sunni
-        size = 350
-    }
-
-    clergymen = {
-        culture = kazak
-        religion = sunni
-        size = 975
-    }
-
-    artisans = {
-        culture = kazak
-        religion = sunni
-        size = 4900
-    }
-
-    soldiers = {
-        culture = kazak
-        religion = sunni
-        size = 1000
-    }
-
-    farmers = {
-        culture = kazak
-        religion = sunni
-        size = 82775
-    }
-
-    aristocrats = {
-        culture = persian
-        religion = shiite
-        size = 162
-    }
-
-    clergymen = {
-        culture = persian
-        religion = shiite
-        size = 89
-    }
-
-    artisans = {
-        culture = persian
-        religion = shiite
-        size = 520
-    }
-
-    soldiers = {
-        culture = persian
-        religion = shiite
-        size = 97
-    }
-
-    farmers = {
-        culture = persian
-        religion = shiite
-        size = 52430
-    }
-
     slaves = {
         culture = persian
         religion = sikh
-        size = 9425
-    }
-
-    slaves = {
-        culture = kazak
-        religion = sunni
-        size = 27500
-    }
-
-    slaves = {
-        culture = persian
-        religion = sunni
-        size = 11700
+        size = 30425
     }
 }
 #Balkh (516000/129000 POPS)

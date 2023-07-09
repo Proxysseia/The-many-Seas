@@ -1259,7 +1259,7 @@
     }
 
     slaves = {
-        culture = janeiran					# Infamy Slaves
+        culture = janeiran				# Infamy Slaves
         religion = catholic
         size = 5
     }

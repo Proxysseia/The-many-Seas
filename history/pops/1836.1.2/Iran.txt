@@ -1482,9 +1482,7 @@
         size = 5330
     }
 }
-#Sistan Region (260000)
-#under the rule of Persia in 1836
-#Zahedan (72000/18000 POPS)
+#Zahedan
 1144 = {
     aristocrats = {
         culture = persian
@@ -1495,7 +1493,7 @@
     bureaucrats = {
         culture = persian
         religion = shiite
-        size = 16
+        size = 1160
     }
 
     officers = {
@@ -1617,7 +1615,7 @@
     farmers = {
         culture = persian
         religion = sunni
-        size = 3948
+        size = 13948
     }
 }
 #Chabahar (96000/24000 POPS)
@@ -1679,7 +1677,7 @@
     farmers = {
         culture = persian
         religion = sunni
-        size = 4143
+        size = 14143
     }
 
     slaves = {
@@ -1694,9 +1692,7 @@
         size = 2600
     }
 }
-#Khurasan Region (600000)
-#under the rule of Persia in 1836
-#Mashhad (380000/95000 POPS)
+#Mashhad
 1147 = {
     aristocrats = {
         culture = persian
@@ -1707,7 +1703,7 @@
     bureaucrats = {
         culture = persian
         religion = shiite
-        size = 97
+        size = 1970
     }
 
     officers = {
@@ -1776,31 +1772,13 @@
         size = 10050
     }
 
-    clergymen = {
-        culture = saayda
-        religion = jewish
-        size = 5
-    }
-
-    artisans = {
-        culture = saayda
-        religion = jewish
-        size = 245
-    }
-
-    slaves = {
-        culture = persian #african_minor
-        religion = animist
-        size = 8000
-    }
-
     slaves = {
         culture = persian
         religion = shiite
         size = 2600
     }
 }
-#Birjand (92000/23000 POPS)
+#Birjand
 1148 = {
     aristocrats = {
         culture = persian
@@ -1819,17 +1797,23 @@
         religion = shiite
         size = 747
     }
+	
+	craftsmen = {
+        culture = persian
+        religion = shiite
+        size = 5247
+    }
 
     soldiers = {
         culture = persian
         religion = shiite
-        size = 715
+        size = 3715
     }
 
     farmers = {
         culture = persian
         religion = shiite
-        size = 13162
+        size = 93162
     }
 }
 #Sabzevar (72000/18000 POPS)
@@ -1861,7 +1845,7 @@
     farmers = {
         culture = persian
         religion = shiite
-        size = 10660
+        size = 90660
     }
 }
 #Bojnurd (56000/14000 POPS)
@@ -1923,7 +1907,7 @@
     farmers = {
         culture = kazak
         religion = sunni
-        size = 8225
+        size = 58225
     }
 }
 

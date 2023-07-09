@@ -1,8 +1,15 @@
 owner = SOR
 controller = SOR
-
+add_core = BOH
 trade_goods = grain
 life_rating = 35
-
-
-add_core = BOH
+state_building = {
+    level = 1
+    building = steel_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = artillery_factory
+    upgrade = yes
+}

@@ -1,6 +1,4 @@
-#Bohemia Region (4136000)
-#under the rule of Austria in 1836
-#Prague (1726800/425200 POPS)
+#Prague
 625 = {
     aristocrats = {
         culture = czech
@@ -41,7 +39,7 @@
     craftsmen = {
         culture = czech
         religion = catholic
-        size = 202
+        size = 15002
     }
 
     artisans = {
@@ -113,7 +111,7 @@
     craftsmen = {
         culture = sorbian
         religion = catholic
-        size = 450
+        size = 8450
     }
 
     soldiers = {
@@ -1342,7 +1340,7 @@
     craftsmen = {
         culture = czech
         religion = catholic
-        size = 1531
+        size = 14531
     }
 
     soldiers = {

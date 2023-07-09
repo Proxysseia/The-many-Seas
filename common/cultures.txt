@@ -116,22 +116,6 @@ beneluxian = {
         Vandive Verbeke Vercruysse Verduyn Vergauwen "Verseyden de Varick" Verwilghen "Vilain XIIII" Wallaert Wannaar Werbrouck Wyvekens }
     }
 }
-
-pan_swiss = {
-    leader = european
-    unit = EuropeanGC
-    swiss = {
-        color = { 180 40 40}
-        first_names = { Adolf Alexander Eduard Ernst Franz Hans Johann Josef Konstantin Martin
-        Melchior Robert Rudolf Ulrich Wilhelm Augusto Enrico Flavio Giuseppe Vincenzo
-        Antoine Charles Emmanuel Guillaume Gustave Henri Hugo Louis Marc Paul }
-
-        last_names = { Brenner Deucher Funk Haab Herzog Knüsel Munzinger Näff Schneider Siegwart-Müller
-        "von Donatz" "von Salis-Soglio" "von Steiger" "von Tavel" Wille Celio Cotti Fogliardi Motta Zeni
-        Ador Calonder Chaudet Comtesse "de Prangins" Dufour Fornerod Guisan Ruchet Ruchonnet }
-    }
-}
-
 scandinavian = {
     leader = european
     unit = SwedishGC
@@ -274,6 +258,16 @@ british = {
 italian = {
     leader = european
     unit = ItalianGC
+	swiss = {
+        color = { 180 40 40}
+        first_names = { Adolf Alexander Eduard Ernst Franz Hans Johann Josef Konstantin Martin
+        Melchior Robert Rudolf Ulrich Wilhelm Augusto Enrico Flavio Giuseppe Vincenzo
+        Antoine Charles Emmanuel Guillaume Gustave Henri Hugo Louis Marc Paul }
+
+        last_names = { Brenner Deucher Funk Haab Herzog Knüsel Munzinger Näff Schneider Siegwart-Müller
+        "von Donatz" "von Salis-Soglio" "von Steiger" "von Tavel" Wille Celio Cotti Fogliardi Motta Zeni
+        Ador Calonder Chaudet Comtesse "de Prangins" Dufour Fornerod Guisan Ruchet Ruchonnet }
+    }
     north_italian = {
         color = { 90 210 130}
         first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
@@ -299,7 +293,7 @@ italian = {
         Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
         radicalism = 10
     }
-    union = ITA
+    union = HEL
 }
 
 iberian = {

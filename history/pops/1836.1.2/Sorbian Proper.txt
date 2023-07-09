@@ -1,0 +1,1244 @@
+#Lauenburg
+529 = {
+    aristocrats = {
+        culture = flanish
+        religion = catholic
+        size = 245
+    }
+
+    clergymen = {
+        culture = flanish
+        religion = catholic
+        size = 262
+    }
+
+    artisans = {
+        culture = flanish
+        religion = catholic
+        size = 1277
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 1400
+    }
+
+    soldiers = {
+        culture = flanish
+        religion = catholic
+        size = 350
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 15050
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 11900
+    }
+}
+#Gottingen
+537 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 600
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 637
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 3375
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 1500
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 61387
+    }
+}
+#Schwerin
+544 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 857
+    }
+
+    bureaucrats = {
+        culture = sorbian
+        religion = catholic
+        size = 192
+    }
+
+    officers = {
+        culture = sorbian
+        religion = catholic
+        size = 105
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 840
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 4200
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 437
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 76860
+    }
+}
+#Neustrelitz 
+545 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 300
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 337
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 1687
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 1500
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 29925
+    }
+}
+#Stettin
+546 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 4875
+    }
+
+    bureaucrats = {
+        culture = sorbian
+        religion = catholic
+        size = 3250
+    }
+
+    officers = {
+        culture = sorbian
+        religion = catholic
+        size = 525
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 3087
+    }
+	
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 12575
+    }
+	
+	craftsmen = {
+        culture = sorbian
+        religion = catholic
+        size = 4000
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 9450
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 130687
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 1650
+    }
+}
+#Swinemunde
+547 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 487
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 2475
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 1500
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 44587
+    }
+}
+#Stralsund
+548 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 140
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 340
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 2645
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 750
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 23175
+    }
+}
+#Berlin
+549 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 2625
+    }
+
+    bureaucrats = {
+        culture = sorbian
+        religion = catholic
+        size = 4050
+    }
+
+    officers = {
+        culture = sorbian
+        religion = catholic
+        size = 1800
+    }
+
+    capitalists = {
+        culture = sorbian
+        religion = sorbian
+        size = 150
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 2425
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 900
+    }
+
+    craftsmen = {
+        culture = sorbian
+        religion = catholic
+        size = 25787
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 62000
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 7650
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 164450
+    }
+}
+#Prenzlau
+550 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 1050
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 1012
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 5250
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 6600
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 96750
+    }
+}
+#Pritzwalk
+551 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 825
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 862
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 4500
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 77812
+    }
+}
+#Cottbus
+552 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 1125
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 1200
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 6500
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 4500
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 115000
+    }
+}
+#Magdeburg
+553 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 1800
+    }
+
+    bureaucrats = {
+        culture = sorbian
+        religion = catholic
+        size = 2100
+    }
+
+    officers = {
+        culture = sorbian
+        religion = catholic
+        size = 525
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 1687
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 17000
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 190537
+    }
+}
+#Erfurt
+554 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 750
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 600
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 6025
+    }
+	
+	craftsmen = {
+        culture = sorbian
+        religion = catholic
+        size = 4000
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 1500
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 63625
+    }
+}
+#Dessau
+555 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 487
+    }
+
+    bureaucrats = {
+        culture = sorbian
+        religion = catholic
+        size = 105
+    }
+
+    officers = {
+        culture = sorbian
+        religion = catholic
+        size = 37
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 487
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 2850
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 1500
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 49032
+    }
+}
+#Halle
+556 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 1725
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 1387
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 7500
+    }
+	
+	craftsmen = {
+        culture = sorbian
+        religion = catholic
+        size = 4000
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 1500
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 157887
+    }
+}
+#Stendal
+557 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 525
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 487
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 2625
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 1500
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 47362
+    }
+}
+#Dresden
+558 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 1572
+    }
+
+    bureaucrats = {
+        culture = sorbian
+        religion = catholic
+        size = 2681
+    }
+
+    officers = {
+        culture = sorbian
+        religion = catholic
+        size = 111
+    }
+
+    capitalists = {
+        culture = sorbian
+        religion = catholic
+        size = 111
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 1695
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 111
+    }
+
+    craftsmen = {
+        culture = sorbian
+        religion = catholic
+        size = 1063
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 10663
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 1723
+    }
+
+    labourers = {
+        culture = sorbian
+        religion = catholic
+        size = 162419
+    }
+
+    labourers = {
+        culture = bairisch
+        religion = catholic
+        size = 79684
+    }
+}
+#Leipzig
+559 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 1072
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 1084
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 111
+    }
+
+    craftsmen = {
+        culture = sorbian
+        religion = catholic
+        size = 15159
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 8728
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 1084
+    }
+
+    labourers = {
+        culture = sorbian
+        religion = catholic
+        size = 88737
+    }
+
+    aristocrats = {
+        culture = bairisch
+        religion = catholic
+        size = 585
+    }
+
+    clergymen = {
+        culture = bairisch
+        religion = catholic
+        size = 592
+    }
+
+    clerks = {
+        culture = bairisch
+        religion = catholic
+        size = 61
+    }
+
+    craftsmen = {
+        culture = bairisch
+        religion = catholic
+        size = 632
+    }
+
+    artisans = {
+        culture = bairisch
+        religion = catholic
+        size = 4761
+    }
+
+    soldiers = {
+        culture = bairisch
+        religion = catholic
+        size = 592
+    }
+
+    labourers = {
+        culture = bairisch
+        religion = catholic
+        size = 48402
+    }
+}
+#Chemnitz
+560 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 637
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 499
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 3982
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 796
+    }
+
+    labourers = {
+        culture = sorbian
+        religion = catholic
+        size = 49785
+    }
+
+    aristocrats = {
+        culture = bairisch
+        religion = catholic
+        size = 520
+    }
+
+    clergymen = {
+        culture = bairisch
+        religion = catholic
+        size = 407
+    }
+
+    artisans = {
+        culture = bairisch
+        religion = catholic
+        size = 3245
+    }
+
+    soldiers = {
+        culture = bairisch
+        religion = catholic
+        size = 649
+    }
+
+    labourers = {
+        culture = bairisch
+        religion = catholic
+        size = 40565
+    }
+}
+#Weimar
+561 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 742
+    }
+
+    bureaucrats = {
+        culture = sorbian
+        religion = catholic
+        size = 100
+    }
+
+    officers = {
+        culture = sorbian
+        religion = catholic
+        size = 67
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 591
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 2868
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 675
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 56446
+    }
+
+    aristocrats = {
+        culture = bairisch
+        religion = catholic
+        size = 605
+    }
+
+    bureaucrats = {
+        culture = bairisch
+        religion = catholic
+        size = 83
+    }
+
+    officers = {
+        culture = bairisch
+        religion = catholic
+        size = 55
+    }
+
+    clergymen = {
+        culture = bairisch
+        religion = catholic
+        size = 481
+    }
+
+    artisans = {
+        culture = bairisch
+        religion = catholic
+        size = 2338
+    }
+
+    soldiers = {
+        culture = bairisch
+        religion = catholic
+        size = 550
+    }
+
+    farmers = {
+        culture = bairisch
+        religion = catholic
+        size = 45994
+    }
+}
+#Gotha
+562 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 489
+    }
+
+    bureaucrats = {
+        culture = sorbian
+        religion = catholic
+        size = 84
+    }
+
+    officers = {
+        culture = sorbian
+        religion = catholic
+        size = 51
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 456
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 2463
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 675
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 45055
+    }
+
+    aristocrats = {
+        culture = bairisch
+        religion = catholic
+        size = 399
+    }
+
+    bureaucrats = {
+        culture = bairisch
+        religion = catholic
+        size = 69
+    }
+
+    officers = {
+        culture = bairisch
+        religion = catholic
+        size = 41
+    }
+
+    clergymen = {
+        culture = bairisch
+        religion = catholic
+        size = 371
+    }
+
+    artisans = {
+        culture = bairisch
+        religion = catholic
+        size = 2008
+    }
+
+    soldiers = {
+        culture = bairisch
+        religion = catholic
+        size = 550
+    }
+
+    farmers = {
+        culture = bairisch
+        religion = catholic
+        size = 36713
+    }
+}
+#Kolberg
+679 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 357
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 568
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 2855
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 3450
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 55468
+    }
+}
+#Koslin
+680 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 112
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 112
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 2607
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 450
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 56737
+    }
+}
+#Kustrin
+681 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 837
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 875
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 4600
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 3150
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 79637
+    }
+}
+#Gorlitz 
+687 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 1275
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 2600
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 5450
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 1500
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 77175
+    }
+}
+#Danzig
+690 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 45
+    }
+
+    bureaucrats = {
+        culture = sorbian
+        religion = catholic
+        size = 980
+    }
+
+    officers = {
+        culture = sorbian
+        religion = catholic
+        size = 90
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 45
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 4275
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 55
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 21412
+    }
+}
+#Tuchel
+691 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 360
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 112
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 4168
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 66040
+    }
+}
+#Deutsche Krone
+692 = {
+    aristocrats = {
+        culture = sorbian
+        religion = catholic
+        size = 280
+    }
+
+    clergymen = {
+        culture = sorbian
+        religion = catholic
+        size = 578
+    }
+
+    artisans = {
+        culture = sorbian
+        religion = catholic
+        size = 4562
+    }
+
+    soldiers = {
+        culture = sorbian
+        religion = catholic
+        size = 2450
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 47677
+    }
+}
