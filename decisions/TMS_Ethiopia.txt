@@ -1,0 +1,40 @@
+political_decisions = {
+	rule_the_seas = {
+		picture = brazzas_expedition
+		potential = {
+			tag = ETH
+			NOT = { has_country_flag = seas_ruled}
+		}
+		allow = {
+			idealism = 1
+			ETH = {
+				all_core = { owned_by = THIS }
+			}
+			owns = 3332
+			war = no
+		}
+		effect = {
+			YEM_1412 = { add_core = THIS}
+			OMA_1166 = { add_core = THIS}
+			prestige = 10
+			set_country_flag = seas_ruled
+		}
+	}
+	rule_the_indians = {
+		picture = an_elephant_for_america
+		potential = {
+			tag = ETH
+			NOT = { has_country_flag = indians_ruled}
+		}
+		allow = {
+			BHA = {
+				all_core = { owned_by = THIS }
+			}
+			war = no
+		}
+		effect = {
+			prestige = 145
+			set_country_flag = indians_ruled
+		}
+	}
+}

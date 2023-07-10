@@ -1,6 +1,6 @@
 political_decisions = {
 	czechia_incident = {
-		picture = niederwald_denkmal
+		picture = bixby_letter
 		potential = {
 			tag = SOR
 			NOT = { has_country_flag = czech_accepted }

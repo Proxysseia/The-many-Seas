@@ -1,0 +1,46 @@
+political_decisions = {
+	accept_small_celts = {
+		picture = emancipation_proclamation
+		potential = {
+			OR = {
+			tag = FRA
+			tag = UNS
+			tag = IRE
+			}
+			NOT = { has_country_flag = celtics_accepted }
+		}
+		allow = {
+			state_n_government = 1
+			war = no
+		}
+		effect = {
+			add_accepted_culture = breton
+			add_accepted_culture = welsh
+			prestige = 5
+			set_country_flag = celtics_accepted
+		}
+	}
+	
+	accept_medium_celts = {
+		picture = fugitive_slave_act
+		potential = {
+			OR = {
+			tag = FRA
+			tag = UNS
+			}
+			NOT = { has_country_flag = irish_accepted }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			IRE = {
+				all_core = { owned_by = THIS }
+			}
+			war = no
+		}
+		effect = {
+			add_accepted_culture = irish
+			prestige = 5
+			set_country_flag = irish_accepted
+		}
+	}
+}

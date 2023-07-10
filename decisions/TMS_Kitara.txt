@@ -1,0 +1,23 @@
+political_decisions = {
+	kitara_accept_nuer = {
+		picture = niederwald_denkmal
+		potential = {
+			tag = KIT
+			NOT = { has_country_flag = nuer_accepted }
+		}
+		allow = {
+			JIM = {
+				all_core = { owned_by = THIS }
+			}
+			war = no
+		}
+		effect = {
+			add_accepted_culture = nuer
+			BEL_1990 = { add_core = THIS }
+			ENG_2019 = { add_core = THIS }
+			KIT_229 = { add_core = THIS }
+			prestige = 20
+			set_country_flag = nuer_accepted
+		}
+	}
+}

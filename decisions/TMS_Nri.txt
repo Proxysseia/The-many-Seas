@@ -1,0 +1,22 @@
+political_decisions = {
+	expand_north = {
+		picture = brazzas_expedition
+		potential = {
+			tag = NRI
+			NOT = { has_country_flag = northern_expansion}
+		}
+		allow = {
+			NRI = {
+				all_core = { owned_by = THIS }
+			}
+			owns = 729
+			war = no
+		}
+		effect = {
+			FRA_1815 = { add_core = THIS}
+			FRA_1816 = { add_core = THIS}
+			prestige = 10
+			set_country_flag = northern_expansion
+		}
+	}
+}
