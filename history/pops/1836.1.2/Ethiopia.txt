@@ -441,6 +441,12 @@
         religion = coptic
         size = 11092
     }
+	
+	craftsmen = {
+        culture = amhara
+        religion = coptic
+        size = 15092
+    }
 
     soldiers = {
         culture = amhara
@@ -625,6 +631,12 @@
         religion = coptic
         size = 27200
     }
+	
+	craftsmen = {
+        culture = amhara
+        religion = coptic
+        size = 15092
+    }
 
     soldiers = {
         culture = amhara
@@ -732,6 +744,12 @@
         culture = amhara
         religion = coptic
         size = 9435
+    }
+	
+	craftsmen = {
+        culture = amhara
+        religion = coptic
+        size = 9092
     }
 
     soldiers = {
@@ -922,6 +940,12 @@
         culture = amhara
         religion = coptic
         size = 2911
+    }
+	
+	craftsmen = {
+        culture = amhara
+        religion = coptic
+        size = 14092
     }
 
     farmers = {
@@ -1500,6 +1524,12 @@
         culture = amhara
         religion = coptic
         size = 33150
+    }
+	
+	craftsmen = {
+        culture = amhara
+        religion = coptic
+        size = 8792
     }
 
     soldiers = {
