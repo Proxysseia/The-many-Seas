@@ -37,6 +37,28 @@ political_decisions = {
 			set_country_flag = latvians_in_russia
 		}
 	}
+	
+	latvia_assim_poland = {
+		picture = form_poland_lithuania
+		potential =  {
+			tag = LAT
+			NOT = { has_country_flag = latvia_polish }
+			NOT = { accepted_culture = ukrainian }
+		}
+		allow = {
+			OR {
+			PAR = { ###TEMPORARY THIS IS POLAND THIS WILL BE POLAND IF YOU MENTION THIS I WILL KILL YOU
+				all_core = { owned_by = THIS }
+			}
+			year = 1870
+			}
+		}
+		effect = {
+			set_country_flag = latvia_polish
+			prestige = 10
+		}
+	}
+	
 	slava = {
 		picture = enact_dual_monarchy
 		potential =  {

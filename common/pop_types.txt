@@ -1527,6 +1527,25 @@ assimilation_chance = {
 			NOT = { life_needs = 0.1 }
 		}
 	}
+#TMS
+	group = {
+		modifier = {
+			factor = 0.4
+			has_pop_culture = russian
+		}
+	}
+
+#Assimilation for polish pops after Latvia takes their decision
+	group = {
+		modifier = {
+			factor = 1.5
+			has_pop_culture = polish
+			country = {
+				has_country_flag = latvia_polish
+			}
+		}
+	}
+
 #MILITANCY MODIFIFER - 
 #	group = {
 #		modifier = {
