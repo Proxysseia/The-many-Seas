@@ -1,6 +1,6 @@
 owner = SOR
 controller = SOR
+add_core = POL
+add_core = SOR
 trade_goods = grain
 life_rating = 35
-
-add_core = SOR
