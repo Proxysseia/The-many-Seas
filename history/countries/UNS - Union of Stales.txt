@@ -10,7 +10,6 @@ non_state_culture_literacy = 0.01
 civilized = yes
 prestige = 10
 
-set_country_flag = new_world_nation
 
 # Political reforms
 slavery = no_slavery

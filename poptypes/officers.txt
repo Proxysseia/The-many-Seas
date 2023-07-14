@@ -257,6 +257,14 @@ migration_target =
 		factor = 2
 		life_rating = 50
 	}
+	#TMS
+	modifier = {
+        factor = 100
+        is_core = DUG
+        location = {
+			continent = south_america
+		}
+    }
 }
 
 promote_to =

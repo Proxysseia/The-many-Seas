@@ -40,7 +40,7 @@ luxury_needs = {
 country_migration_target =
 {
 	factor = 1
-
+	
 	modifier = {
 		factor = 0.9
 		unemployment = 0.05
@@ -250,6 +250,14 @@ migration_target =
 		factor = 0.01
 		terrain = arctic
 	}
+	#TMS
+	modifier = {
+        factor = 100
+        is_core = DUG
+        location = {
+			continent = south_america
+		}
+    }
 }
 
 promote_to =
