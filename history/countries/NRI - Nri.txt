@@ -1,5 +1,6 @@
 capital = 1933
-primary_culture = fang
+primary_culture = lake_fang
+culture = fang
 religion = animist
 government = absolute_monarchy
 plurality = 30
@@ -7,6 +8,8 @@ nationalvalue = nv_order
 literacy = 0.01
 non_state_culture_literacy = 0.01
 civilized = yes
+
+set_country_flag = african_great_lakes
 
 # Political reforms
 slavery = yes_slavery

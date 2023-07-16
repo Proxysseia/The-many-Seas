@@ -1,29 +1,3 @@
-#Barrie
-53 = {
-    clergymen = {
-        culture = nuer
-        religion = sunni
-        size = 250
-    }
-
-    artisans = {
-        culture = nuer
-        religion = sunni
-        size = 2500
-    }
-
-    soldiers = {
-        culture = nuer
-        religion = sunni
-        size = 600
-    }
-
-    farmers = {
-        culture = nuer
-        religion = sunni
-        size = 46500
-    }
-}
 #Milwaukee
 159 = {
     clergymen = {
@@ -48,70 +22,6 @@
         culture = nuer
         religion = sunni
         size = 4625
-    }
-}
-#Green Bay
-161 = {
-    clergymen = {
-        culture = nuer
-        religion = sunni
-        size = 800
-    }
-
-    artisans = {
-        culture = nuer
-        religion = sunni
-        size = 10000
-    }
-
-    soldiers = {
-        culture = nuer
-        religion = sunni
-        size = 2400
-    }
-
-    farmers = {
-        culture = nuer
-        religion = sunni
-        size = 35820
-    }
-}
-#Madison
-162 = {
-    bureaucrats = {
-        culture = nuer
-        religion = sunni
-        size = 300
-    }
-
-    clergymen = {
-        culture = nuer
-        religion = sunni
-        size = 500
-    }
-
-    artisans = {
-        culture = nuer
-        religion = sunni
-        size = 20000
-    }
-
-	craftsmen = {
-        culture = nuer
-        religion = sunni
-        size = 7890
-    }
-
-    soldiers = {
-        culture = nuer
-        religion = sunni
-        size = 2000
-    }
-
-    farmers = {
-        culture = nuer
-        religion = sunni
-        size = 91670
     }
 }
 #Chicago
@@ -174,38 +84,6 @@
         culture = nuer
         religion = sunni
         size = 113906
-    }
-}
-#Newark
-229 = {
-    clergymen = {
-        culture = nuer
-        religion = sunni
-        size = 250
-    }
-
-    artisans = {
-        culture = nuer
-        religion = sunni
-        size = 1937
-    }
-
-    soldiers = {
-        culture = nuer
-        religion = sunni
-        size = 101
-    }
-
-    craftsmen = {
-        culture = nuer
-        religion = sunni
-        size = 1500
-    }
-
-    farmers = {
-        culture = nuer
-        religion = sunni
-        size = 59906
     }
 }
 #Vigan
@@ -284,42 +162,36 @@
         size = 37250
     }
 }
-#Waw
-1843 = {
-    aristocrats = {
+#Newark
+229 = {
+    clergymen = {
         culture = nuer
         religion = sunni
         size = 250
     }
 
-    clergymen = {
-        culture = nuer
-        religion = sunni
-        size = 600
-    }
-
     artisans = {
         culture = nuer
         religion = sunni
-        size = 600
+        size = 1937
     }
 
     soldiers = {
         culture = nuer
         religion = sunni
-        size = 600
+        size = 101
+    }
+
+    craftsmen = {
+        culture = nuer
+        religion = sunni
+        size = 1500
     }
 
     farmers = {
         culture = nuer
         religion = sunni
-        size = 24000
-    }
-
-    slaves = {
-        culture = nuer
-        religion = sunni
-        size = 8000
+        size = 59906
     }
 }
 #Bor
@@ -366,64 +238,6 @@
         size = 12500
     }
 }
-#Yambio
-1845 = {
-    aristocrats = {
-        culture = nuer
-        religion = sunni
-        size = 1500
-    }
-
-    clergymen = {
-        culture = nuer
-        religion = sunni
-        size = 1000
-    }
-
-    artisans = {
-        culture = nuer
-        religion = sunni
-        size = 4000
-    }
-
-    soldiers = {
-        culture = nuer
-        religion = sunni
-        size = 2000
-    }
-
-    farmers = {
-        culture = nuer
-        religion = sunni
-        size = 73000
-    }
-}
-#Lado
-1846 = {
-    aristocrats = {
-        culture = nuer
-        religion = sunni
-        size = 2900
-    }
-
-    artisans = {
-        culture = nuer
-        religion = sunni
-        size = 8400
-    }
-
-    soldiers = {
-        culture = nuer
-        religion = sunni
-        size = 2000
-    }
-
-    farmers = {
-        culture = nuer
-        religion = sunni
-        size = 104200
-    }
-}
 #Kapoeta
 1847 = {
     aristocrats = {
@@ -456,38 +270,6 @@
         size = 12500
     }
 }
-#Zemio
-1969 = {
-    aristocrats = {
-        culture = nuer
-        religion = sunni
-        size = 600
-    }
-
-    clergymen = {
-        culture = nuer
-        religion = sunni
-        size = 800
-    }
-
-    artisans = {
-        culture = nuer
-        religion = sunni
-        size = 2000
-    }
-
-    soldiers = {
-        culture = nuer
-        religion = sunni
-        size = 2000
-    }
-
-    farmers = {
-        culture = nuer
-        religion = sunni
-        size = 40000
-    }
-}
 #Kisangani
 1996 = {
     aristocrats = {
@@ -518,44 +300,6 @@
         culture = nuer
         religion = sunni
         size = 160000
-    }
-
-    slaves = {
-        culture = nuer
-        religion = sunni
-        size = 60000
-    }
-}
-#Mungbane
-1997 = {
-    aristocrats = {
-        culture = nuer
-        religion = sunni
-        size = 2000
-    }
-
-    clergymen = {
-        culture = nuer
-        religion = sunni
-        size = 1200
-    }
-
-    artisans = {
-        culture = nuer
-        religion = sunni
-        size = 6000
-    }
-
-    soldiers = {
-        culture = nuer
-        religion = sunni
-        size = 1680
-    }
-
-    farmers = {
-        culture = nuer
-        religion = sunni
-        size = 400000
     }
 
     slaves = {
@@ -656,38 +400,6 @@
         culture = amhara
         religion = sunni
         size = 21281
-    }
-}
-#Masindi
-2021 = {
-    aristocrats = {
-        culture = nuer
-        religion = sunni
-        size = 1100
-    }
-
-    clergymen = {
-        culture = nuer
-        religion = sunni
-        size = 600
-    }
-
-    soldiers = {
-        culture = nuer
-        religion = sunni
-        size = 2720
-    }
-
-    artisans = {
-        culture = nuer
-        religion = sunni
-        size = 4900
-    }
-
-    farmers = {
-        culture = nuer
-        religion = sunni
-        size = 94000
     }
 }
 #Kitgum
@@ -814,94 +526,6 @@
         culture = amhara
         religion = sunni
         size = 12500
-    }
-}
-#Dar es Salaam
-2036 = {
-    aristocrats = {
-        culture = nuer
-        religion = sunni
-        size = 1900
-    }
-
-    bureaucrats = {
-        culture = nuer
-        religion = sunni
-        size = 1500
-    }
-
-    officers = {
-        culture = nuer
-        religion = sunni
-        size = 250
-    }
-
-    clergymen = {
-        culture = nuer
-        religion = sunni
-        size = 1050
-    }
-
-    artisans = {
-        culture = nuer
-        religion = sunni
-        size = 4000
-    }
-
-    soldiers = {
-        culture = nuer
-        religion = sunni
-        size = 400
-    }
-
-    farmers = {
-        culture = nuer
-        religion = sunni
-        size = 100000
-    }
-
-    slaves = {
-        culture = nuer
-        religion = sunni
-        size = 28000
-    }
-}
-#Tanga
-2037 = {
-    aristocrats = {
-        culture = nuer
-        religion = sunni
-        size = 650
-    }
-
-    clergymen = {
-        culture = nuer
-        religion = sunni
-        size = 350
-    }
-
-    artisans = {
-        culture = nuer
-        religion = sunni
-        size = 1450
-    }
-
-    soldiers = {
-        culture = nuer
-        religion = sunni
-        size = 140
-    }
-
-    farmers = {
-        culture = nuer
-        religion = sunni
-        size = 28000
-    }
-
-    slaves = {
-        culture = nuer
-        religion = sunni
-        size = 12000
     }
 }
 #West Agusan

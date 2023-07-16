@@ -1133,6 +1133,14 @@ central_african = {
         last_names = { Samba Atangana Tufoyn Kumong Yuh Nggam Ndi
         }
     }
+	lake_fang = {
+        color = {184 85 200}
+        first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
+        }
+
+        last_names = { Samba Atangana Tufoyn Kumong Yuh Nggam Ndi
+        }
+    }
     lunda = {
         color = {142 165 188}
         first_names = { Kaumba Muteba Mushidi Mbala Mutand Mudib Kangapu Cimbindu Mbumb Cakasekene Mulay Nawej Cikombe Waranankong
@@ -1141,7 +1149,14 @@ central_african = {
         last_names = { Kasang Nambing Kalong Mukaz Ditend Yaava Namwan Naweej Kamong Isot Kat Muteba
         }
     }
+	lake_lunda = {
+        color = {162 205 208}
+        first_names = { Kaumba Muteba Mushidi Mbala Mutand Mudib Kangapu Cimbindu Mbumb Cakasekene Mulay Nawej Cikombe Waranankong
+        }
 
+        last_names = { Kasang Nambing Kalong Mukaz Ditend Yaava Namwan Naweej Kamong Isot Kat Muteba
+        }
+    }
     mongo = {
         color = {162 175 65}
         first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
@@ -1150,9 +1165,24 @@ central_african = {
         last_names = { Bolia Bokote Bongandu Ekonda Mbole Nkutu Ntomba Sengele Songomeno Dengese Tetela-Kusu
         }
     }
-	
+	lake_mongo = {
+        color = {182 215 85}
+        first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
+        }
+
+        last_names = { Bolia Bokote Bongandu Ekonda Mbole Nkutu Ntomba Sengele Songomeno Dengese Tetela-Kusu
+        }
+    }
 	nuer = {
         color = {68 199 204}
+        first_names = { Diu Chol Dei Tongyiik Hon Pal Nyuon Deng Gai Ochan Puot Ruai
+        }
+
+        last_names = { Anya-Nya Top Juak Gaach Bany Lieth Nyuot Luth Chotper Weiu
+        }
+    }
+	lake_nuer = {
+        color = {88 249 224}
         first_names = { Diu Chol Dei Tongyiik Hon Pal Nyuon Deng Gai Ochan Puot Ruai
         }
 

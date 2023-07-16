@@ -1,0 +1,376 @@
+#Barrie
+53 = {
+    clergymen = {
+        culture = lake_nuer
+        religion = sunni
+        size = 250
+    }
+
+    artisans = {
+        culture = lake_nuer
+        religion = sunni
+        size = 2500
+    }
+
+    soldiers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 600
+    }
+
+    farmers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 46500
+    }
+}
+#Green Bay
+161 = {
+    clergymen = {
+        culture = lake_nuer
+        religion = sunni
+        size = 800
+    }
+
+    artisans = {
+        culture = lake_nuer
+        religion = sunni
+        size = 10000
+    }
+
+    soldiers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 2400
+    }
+
+    farmers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 35820
+    }
+}
+#Madison
+162 = {
+    bureaucrats = {
+        culture = lake_nuer
+        religion = sunni
+        size = 300
+    }
+
+    clergymen = {
+        culture = lake_nuer
+        religion = sunni
+        size = 500
+    }
+
+    artisans = {
+        culture = lake_nuer
+        religion = sunni
+        size = 20000
+    }
+
+	craftsmen = {
+        culture = lake_nuer
+        religion = sunni
+        size = 7890
+    }
+
+    soldiers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 2000
+    }
+
+    farmers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 91670
+    }
+}
+#Waw
+1843 = {
+    aristocrats = {
+        culture = lake_nuer
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = lake_nuer
+        religion = sunni
+        size = 600
+    }
+
+    artisans = {
+        culture = lake_nuer
+        religion = sunni
+        size = 600
+    }
+
+    soldiers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 600
+    }
+
+    farmers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 24000
+    }
+
+    slaves = {
+        culture = lake_nuer
+        religion = sunni
+        size = 8000
+    }
+}
+#Yambio
+1845 = {
+    aristocrats = {
+        culture = lake_nuer
+        religion = sunni
+        size = 1500
+    }
+
+    clergymen = {
+        culture = lake_nuer
+        religion = sunni
+        size = 1000
+    }
+
+    artisans = {
+        culture = lake_nuer
+        religion = sunni
+        size = 4000
+    }
+
+    soldiers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 2000
+    }
+
+    farmers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 73000
+    }
+}
+#Lado
+1846 = {
+    aristocrats = {
+        culture = lake_nuer
+        religion = sunni
+        size = 2900
+    }
+
+    artisans = {
+        culture = lake_nuer
+        religion = sunni
+        size = 8400
+    }
+
+    soldiers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 2000
+    }
+
+    farmers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 104200
+    }
+}
+#Zemio
+1969 = {
+    aristocrats = {
+        culture = lake_nuer
+        religion = sunni
+        size = 600
+    }
+
+    clergymen = {
+        culture = lake_nuer
+        religion = sunni
+        size = 800
+    }
+
+    artisans = {
+        culture = lake_nuer
+        religion = sunni
+        size = 2000
+    }
+
+    soldiers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 2000
+    }
+
+    farmers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 40000
+    }
+}
+#Mungbane
+1997 = {
+    aristocrats = {
+        culture = lake_nuer
+        religion = sunni
+        size = 2000
+    }
+
+    clergymen = {
+        culture = lake_nuer
+        religion = sunni
+        size = 1200
+    }
+
+    artisans = {
+        culture = lake_nuer
+        religion = sunni
+        size = 6000
+    }
+
+    soldiers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 1680
+    }
+
+    farmers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 400000
+    }
+
+    slaves = {
+        culture = lake_nuer
+        religion = sunni
+        size = 60000
+    }
+}
+#Masindi
+2021 = {
+    aristocrats = {
+        culture = lake_nuer
+        religion = sunni
+        size = 1100
+    }
+
+    clergymen = {
+        culture = lake_nuer
+        religion = sunni
+        size = 600
+    }
+
+    soldiers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 2720
+    }
+
+    artisans = {
+        culture = lake_nuer
+        religion = sunni
+        size = 4900
+    }
+
+    farmers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 94000
+    }
+}
+#Dar es Salaam
+2036 = {
+    aristocrats = {
+        culture = lake_nuer
+        religion = sunni
+        size = 1900
+    }
+
+    bureaucrats = {
+        culture = lake_nuer
+        religion = sunni
+        size = 1500
+    }
+
+    officers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = lake_nuer
+        religion = sunni
+        size = 1050
+    }
+
+    artisans = {
+        culture = lake_nuer
+        religion = sunni
+        size = 4000
+    }
+
+    soldiers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 400
+    }
+
+    farmers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 100000
+    }
+
+    slaves = {
+        culture = lake_nuer
+        religion = sunni
+        size = 28000
+    }
+}
+#Tanga
+2037 = {
+    aristocrats = {
+        culture = lake_nuer
+        religion = sunni
+        size = 650
+    }
+
+    clergymen = {
+        culture = lake_nuer
+        religion = sunni
+        size = 350
+    }
+
+    artisans = {
+        culture = lake_nuer
+        religion = sunni
+        size = 1450
+    }
+
+    soldiers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 140
+    }
+
+    farmers = {
+        culture = lake_nuer
+        religion = sunni
+        size = 28000
+    }
+
+    slaves = {
+        culture = lake_nuer
+        religion = sunni
+        size = 12000
+    }
+}

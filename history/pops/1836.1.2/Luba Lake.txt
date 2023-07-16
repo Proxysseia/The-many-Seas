@@ -1,0 +1,559 @@
+#Kinshasa
+1982 = {
+    aristocrats = {
+        culture = lake_lunda
+        religion = animist
+        size = 8645
+    }
+
+    bureaucrats = {
+        culture = lake_lunda
+        religion = animist
+        size = 980
+    }
+
+    clergymen = {
+        culture = lake_lunda
+        religion = animist
+        size = 5005
+    }
+
+    artisans = {
+        culture = lake_lunda
+        religion = animist
+        size = 14000
+    }
+	
+	craftsmen = {
+        culture = lake_lunda
+        religion = animist
+        size = 14000
+    }
+
+    soldiers = {
+        culture = lake_lunda
+        religion = animist
+        size = 2425
+    }
+
+    soldiers = {
+        culture = lake_lunda
+        religion = animist
+        size = 463
+    }
+
+    farmers = {
+        culture = lake_lunda
+        religion = animist
+        size = 205730
+    }
+
+    slaves = {
+        culture = lake_lunda
+        religion = animist
+        size = 107800
+    }
+}
+#Kananga
+1984 = {
+    aristocrats = {
+        culture = lake_lunda
+        religion = animist
+        size = 385
+    }
+
+    clergymen = {
+        culture = lake_lunda
+        religion = animist
+        size = 252
+    }
+
+    artisans = {
+        culture = lake_lunda
+        religion = animist
+        size = 1022
+    }
+
+    soldiers = {
+        culture = lake_lunda
+        religion = animist
+        size = 444
+    }
+
+    farmers = {
+        culture = lake_lunda
+        religion = animist
+        size = 82425
+    }
+}
+#Kumbana
+1985 = {
+    aristocrats = {
+        culture = lake_lunda
+        religion = animist
+        size = 1540
+    }
+
+    clergymen = {
+        culture = lake_lunda
+        religion = animist
+        size = 770
+    }
+
+    artisans = {
+        culture = lake_lunda
+        religion = animist
+        size = 3332
+    }
+
+    soldiers = {
+        culture = lake_lunda
+        religion = animist
+        size = 1555
+    }
+
+    farmers = {
+        culture = lake_lunda
+        religion = animist
+        size = 121324
+    }
+}
+#Lusambo
+1986 = {
+    aristocrats = {
+        culture = lake_lunda
+        religion = animist
+        size = 1540
+    }
+
+    clergymen = {
+        culture = lake_lunda
+        religion = animist
+        size = 770
+    }
+
+    artisans = {
+        culture = lake_lunda
+        religion = animist
+        size = 3332
+    }
+
+    soldiers = {
+        culture = lake_lunda
+        religion = animist
+        size = 1555
+    }
+
+    farmers = {
+        culture = lake_lunda
+        religion = animist
+        size = 226786
+    }
+}
+#Munza
+1989 = {
+    aristocrats = {
+        culture = lake_lunda
+        religion = animist
+        size = 5642
+    }
+
+    clergymen = {
+        culture = lake_lunda
+        religion = animist
+        size = 2562
+    }
+
+    artisans = {
+        culture = lake_lunda
+        religion = animist
+        size = 10528
+    }
+
+    soldiers = {
+        culture = lake_lunda
+        religion = animist
+        size = 2243
+    }
+
+    farmers = {
+        culture = lake_lunda
+        religion = animist
+        size = 60298
+    }
+
+    slaves = {
+        culture = lake_lunda
+        religion = animist
+        size = 24738
+    }
+}
+#Nyangwe
+1990 = {
+    aristocrats = {
+        culture = lake_lunda
+        religion = animist
+        size = 1155
+    }
+
+    clergymen = {
+        culture = lake_lunda
+        religion = animist
+        size = 644
+    }
+
+    artisans = {
+        culture = lake_lunda
+        religion = animist
+        size = 2695
+    }
+
+    soldiers = {
+        culture = lake_lunda
+        religion = animist
+        size = 1111
+    }
+
+    farmers = {
+        culture = lake_lunda
+        religion = animist
+        size = 69062
+    }
+}
+#Uvira
+1991 = {
+    aristocrats = {
+        culture = lake_lunda
+        religion = animist
+        size = 1925
+    }
+
+    clergymen = {
+        culture = lake_lunda
+        religion = animist
+        size = 1022
+    }
+
+    artisans = {
+        culture = lake_lunda
+        religion = animist
+        size = 3976
+    }
+
+    soldiers = {
+        culture = lake_lunda
+        religion = animist
+        size = 1778
+    }
+
+    farmers = {
+        culture = lake_lunda
+        religion = animist
+        size = 209048
+    }
+}
+#Nsheng
+1994 = {
+    aristocrats = {
+        culture = lake_lunda
+        religion = animist
+        size = 1540
+    }
+
+    clergymen = {
+        culture = lake_lunda
+        religion = animist
+        size = 770
+    }
+
+    artisans = {
+        culture = lake_lunda
+        religion = animist
+        size = 3080
+    }
+	
+	craftsmen = {
+        culture = lake_lunda
+        religion = animist
+        size = 10800
+    }
+
+    soldiers = {
+        culture = lake_lunda
+        religion = animist
+        size = 1333
+    }
+
+    farmers = {
+        culture = lake_lunda
+        religion = animist
+        size = 237566
+    }
+
+    slaves = {
+        culture = lake_lunda
+        religion = animist
+        size = 14000
+    }
+}
+#Luanda
+1999 = {
+    aristocrats = {
+        culture = lake_lunda
+        religion = animist
+        size = 700
+    }
+
+    clergymen = {
+        culture = lake_lunda
+        religion = animist
+        size = 2100
+    }
+
+    artisans = {
+        culture = lake_lunda
+        religion = animist
+        size = 18200
+    }
+	
+	craftsmen = {
+        culture = lake_lunda
+        religion = animist
+        size = 7200
+    }
+
+    soldiers = {
+        culture = lake_lunda
+        religion = animist
+        size = 6669
+    }
+
+    farmers = {
+        culture = lake_lunda
+        religion = animist
+        size = 86170
+    }
+}
+#Mbanza
+2001 = {
+    aristocrats = {
+        culture = lake_lunda
+        religion = animist
+        size = 1400
+    }
+
+    clergymen = {
+        culture = lake_lunda
+        religion = animist
+        size = 700
+    }
+
+    artisans = {
+        culture = lake_lunda
+        religion = animist
+        size = 3360
+    }
+
+    soldiers = {
+        culture = lake_lunda
+        religion = animist
+        size = 4123
+    }
+
+    farmers = {
+        culture = lake_lunda
+        religion = animist
+        size = 42490
+    }
+}
+#Quibala
+2002 = {
+    aristocrats = {
+        culture = lake_lunda
+        religion = animist
+        size = 420
+    }
+
+    clergymen = {
+        culture = lake_lunda
+        religion = animist
+        size = 350
+    }
+
+    artisans = {
+        culture = lake_lunda
+        religion = animist
+        size = 1680
+    }
+
+    soldiers = {
+        culture = lake_lunda
+        religion = animist
+        size = 241
+    }
+
+    farmers = {
+        culture = lake_lunda
+        religion = animist
+        size = 30730
+    }
+
+    slaves = {
+        culture = lake_lunda
+        religion = animist
+        size = 8400
+    }
+}
+#Malanje
+2009 = {
+    aristocrats = {
+        culture = lake_lunda
+        religion = animist
+        size = 105
+    }
+
+    clergymen = {
+        culture = lake_lunda
+        religion = animist
+        size = 70
+    }
+
+    artisans = {
+        culture = lake_lunda
+        religion = animist
+        size = 350
+    }
+
+    soldiers = {
+        culture = lake_lunda
+        religion = animist
+        size = 59
+    }
+
+    farmers = {
+        culture = lake_lunda
+        religion = animist
+        size = 13090
+    }
+
+    slaves = {
+        culture = lake_lunda
+        religion = animist
+        size = 4480
+    }
+}
+#Saurimo
+2010 = {
+    aristocrats = {
+        culture = lake_lunda
+        religion = animist
+        size = 350
+    }
+
+    clergymen = {
+        culture = lake_lunda
+        religion = animist
+        size = 350
+    }
+
+    artisans = {
+        culture = lake_lunda
+        religion = animist
+        size = 1750
+    }
+
+    soldiers = {
+        culture = lake_lunda
+        religion = animist
+        size = 201
+    }
+
+    farmers = {
+        culture = lake_lunda
+        religion = animist
+        size = 21000
+    }
+
+    slaves = {
+        culture = lake_lunda
+        religion = animist
+        size = 12600
+    }
+}
+#Cape Town
+2087 = {
+    aristocrats = {
+        culture = lake_lunda
+        religion = animist
+        size = 700
+    }
+
+    clergymen = {
+        culture = lake_lunda
+        religion = animist
+        size = 210
+    }
+
+    artisans = {
+        culture = lake_lunda
+        religion = animist
+        size = 3850
+    }
+
+    soldiers = {
+        culture = lake_lunda
+        religion = animist
+        size = 2829
+    }
+
+    farmers = {
+        culture = lake_lunda
+        religion = animist
+        size = 57470
+    }
+}
+#Umtata
+2100 = {
+    aristocrats = {
+        culture = lake_lunda
+        religion = animist
+        size = 560
+    }
+
+    bureaucrats = {
+        culture = lake_lunda
+        religion = animist
+        size = 280
+    }
+
+    clergymen = {
+        culture = lake_lunda
+        religion = animist
+        size = 560
+    }
+
+    artisans = {
+        culture = lake_lunda
+        religion = animist
+        size = 2520
+    }
+
+    soldiers = {
+        culture = lake_lunda
+        religion = animist
+        size = 1130
+    }
+
+    farmers = {
+        culture = lake_lunda
+        religion = animist
+        size = 44800
+    }
+
+    slaves = {
+        culture = lake_lunda
+        religion = animist
+        size = 1890
+    }
+}
+

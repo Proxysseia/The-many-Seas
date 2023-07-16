@@ -1,0 +1,784 @@
+#Etorofu
+1089 = {
+    aristocrats = {
+        culture = lake_fang
+        religion = animist
+        size = 552
+    }
+
+    clergymen = {
+        culture = lake_fang
+        religion = animist
+        size = 1190
+    }
+
+    artisans = {
+        culture = lake_fang
+        religion = animist
+        size = 3782
+    }
+
+    soldiers = {
+        culture = lake_fang
+        religion = animist
+        size = 2550
+    }
+
+    farmers = {
+        culture = lake_fang
+        religion = animist
+        size = 34000
+    }
+
+    slaves = {
+        culture = lake_fang
+        religion = animist
+        size = 1062
+    }
+}
+#Moundou
+1819 = {
+    aristocrats = {
+        culture = lake_fang
+        religion = animist
+        size = 977
+    }
+
+    clergymen = {
+        culture = lake_fang
+        religion = animist
+        size = 680
+    }
+
+    artisans = {
+        culture = lake_fang
+        religion = animist
+        size = 2932
+    }
+
+    soldiers = {
+        culture = lake_fang
+        religion = animist
+        size = 2125
+    }
+
+    farmers = {
+        culture = lake_fang
+        religion = animist
+        size = 19741
+    }
+
+    slaves = {
+        culture = lake_fang
+        religion = animist
+        size = 18700
+    }
+}
+#Bamenda
+1961 = {
+    aristocrats = {
+        culture = lake_fang
+        religion = animist
+        size = 1062
+    }
+
+    clergymen = {
+        culture = lake_fang
+        religion = animist
+        size = 595
+    }
+
+    artisans = {
+        culture = lake_fang
+        religion = animist
+        size = 2932
+    }
+
+    soldiers = {
+        culture = lake_fang
+        religion = animist
+        size = 2550
+    }
+
+    farmers = {
+        culture = lake_fang
+        religion = animist
+        size = 36741
+    }
+
+    slaves = {
+        culture = lake_fang
+        religion = animist
+        size = 5822
+    }
+}
+#Bertoua
+1962 = {
+    aristocrats = {
+        culture = lake_fang
+        religion = animist
+        size = 1402
+    }
+
+    clergymen = {
+        culture = lake_fang
+        religion = animist
+        size = 340
+    }
+
+    artisans = {
+        culture = lake_fang
+        religion = animist
+        size = 7182
+    }
+
+    soldiers = {
+        culture = lake_fang
+        religion = animist
+        size = 3060
+    }
+
+    farmers = {
+        culture = lake_fang
+        religion = animist
+        size = 28241
+    }
+
+    slaves = {
+        culture = lake_fang
+        religion = animist
+        size = 10922
+    }
+}
+#Bangui
+1965 = {
+    aristocrats = {
+        culture = lake_fang
+        religion = animist
+        size = 1912
+    }
+
+    clergymen = {
+        culture = lake_fang
+        religion = animist
+        size = 1275
+    }
+
+    artisans = {
+        culture = lake_fang
+        religion = animist
+        size = 6332
+    }
+	
+	craftsmen = {
+        culture = lake_fang
+        religion = animist
+        size = 10332
+    }
+
+    soldiers = {
+        culture = lake_fang
+        religion = animist
+        size = 1275
+    }
+
+    farmers = {
+        culture = lake_fang
+        religion = animist
+        size = 19741
+    }
+
+    slaves = {
+        culture = lake_fang
+        religion = animist
+        size = 39822
+    }
+}
+#Nola
+1966 = {
+    aristocrats = {
+        culture = lake_fang
+        religion = animist
+        size = 1062
+    }
+
+    clergymen = {
+        culture = lake_fang
+        religion = animist
+        size = 595
+    }
+
+    artisans = {
+        culture = lake_fang
+        religion = animist
+        size = 5482
+    }
+
+    soldiers = {
+        culture = lake_fang
+        religion = animist
+        size = 850
+    }
+
+    farmers = {
+        culture = lake_fang
+        religion = animist
+        size = 28241
+    }
+
+    slaves = {
+        culture = lake_fang
+        religion = animist
+        size = 11772
+    }
+}
+#Bouar
+1967 = {
+    aristocrats = {
+        culture = lake_fang
+        religion = animist
+        size = 1912
+    }
+
+    clergymen = {
+        culture = lake_fang
+        religion = animist
+        size = 1020
+    }
+
+    artisans = {
+        culture = lake_fang
+        religion = animist
+        size = 8032
+    }
+
+    soldiers = {
+        culture = lake_fang
+        religion = animist
+        size = 1700
+    }
+
+    farmers = {
+        culture = lake_fang
+        religion = animist
+        size = 28241
+    }
+
+    slaves = {
+        culture = lake_fang
+        religion = animist
+        size = 39822
+    }
+}
+#Bossangoa
+1968 = {
+    aristocrats = {
+        culture = lake_fang
+        religion = animist
+        size = 1487
+    }
+
+    clergymen = {
+        culture = lake_fang
+        religion = animist
+        size = 1020
+    }
+
+    artisans = {
+        culture = lake_fang
+        religion = animist
+        size = 6332
+    }
+
+    soldiers = {
+        culture = lake_fang
+        religion = animist
+        size = 2550
+    }
+
+    farmers = {
+        culture = lake_fang
+        religion = animist
+        size = 36741
+    }
+
+    slaves = {
+        culture = lake_fang
+        religion = animist
+        size = 27922
+    }
+}
+#Libreville
+1972 = {
+    aristocrats = {
+        culture = lake_fang
+        religion = animist
+        size = 1870
+    }
+
+    clergymen = {
+        culture = lake_fang
+        religion = animist
+        size = 382
+    }
+
+    artisans = {
+        culture = lake_fang
+        religion = animist
+        size = 850
+    }
+
+    soldiers = {
+        culture = lake_fang
+        religion = animist
+        size = 1275
+    }
+
+    farmers = {
+        culture = lake_fang
+        religion = animist
+        size = 63750
+    }
+
+    slaves = {
+        culture = lake_fang
+        religion = animist
+        size = 14450
+    }
+}
+#Bata
+1973 = {
+    aristocrats = {
+        culture = lake_fang
+        religion = animist
+        size = 170
+    }
+
+    clergymen = {
+        culture = lake_fang
+        religion = animist
+        size = 382
+    }
+
+    artisans = {
+        culture = lake_fang
+        religion = animist
+        size = 850
+    }
+
+    soldiers = {
+        culture = lake_fang
+        religion = animist
+        size = 425
+    }
+
+    farmers = {
+        culture = lake_fang
+        religion = animist
+        size = 29898
+    }
+
+    slaves = {
+        culture = lake_fang
+        religion = animist
+        size = 11900
+    }
+}
+#Mayumbe
+1974 = {
+    aristocrats = {
+        culture = lake_fang
+        religion = animist
+        size = 425
+    }
+
+    clergymen = {
+        culture = lake_fang
+        religion = animist
+        size = 382
+    }
+
+    artisans = {
+        culture = lake_fang
+        religion = animist
+        size = 2550
+    }
+
+    soldiers = {
+        culture = lake_fang
+        religion = animist
+        size = 1020
+    }
+
+    farmers = {
+        culture = lake_fang
+        religion = animist
+        size = 38398
+    }
+
+    slaves = {
+        culture = lake_fang
+        religion = animist
+        size = 11900
+    }
+}
+#Moanda
+1975 = {
+    aristocrats = {
+        culture = lake_fang
+        religion = animist
+        size = 63
+    }
+
+    clergymen = {
+        culture = lake_fang
+        religion = animist
+        size = 42
+    }
+
+    artisans = {
+        culture = lake_fang
+        religion = animist
+        size = 425
+    }
+
+    soldiers = {
+        culture = lake_fang
+        religion = animist
+        size = 85
+    }
+
+    farmers = {
+        culture = lake_fang
+        religion = animist
+        size = 27200
+    }
+
+    slaves = {
+        culture = lake_fang
+        religion = animist
+        size = 11900
+    }
+}
+#Makokou
+1976 = {
+    aristocrats = {
+        culture = lake_fang
+        religion = animist
+        size = 340
+    }
+
+    clergymen = {
+        culture = lake_fang
+        religion = animist
+        size = 127
+    }
+
+    artisans = {
+        culture = lake_fang
+        religion = animist
+        size = 170
+    }
+
+    soldiers = {
+        culture = lake_fang
+        religion = animist
+        size = 85
+    }
+
+    farmers = {
+        culture = lake_fang
+        religion = animist
+        size = 48280
+    }
+
+    slaves = {
+        culture = lake_fang
+        religion = animist
+        size = 16150
+    }
+}
+#Nkuna
+1977 = {
+    aristocrats = {
+        culture = lake_fang
+        religion = animist
+        size = 1275
+    }
+
+    clergymen = {
+        culture = lake_fang
+        religion = animist
+        size = 637
+    }
+
+    artisans = {
+        culture = lake_fang
+        religion = animist
+        size = 3400
+    }
+
+    soldiers = {
+        culture = lake_fang
+        religion = animist
+        size = 3612
+    }
+
+    farmers = {
+        culture = lake_fang
+        religion = animist
+        size = 76988
+    }
+
+    slaves = {
+        culture = lake_fang
+        religion = animist
+        size = 34000
+    }
+}
+#Madingou
+1978 = {
+    aristocrats = {
+        culture = lake_fang
+        religion = animist
+        size = 212
+    }
+
+    clergymen = {
+        culture = lake_fang
+        religion = animist
+        size = 637
+    }
+
+    artisans = {
+        culture = lake_fang
+        religion = animist
+        size = 3400
+    }
+
+    soldiers = {
+        culture = lake_fang
+        religion = animist
+        size = 1062
+    }
+
+    farmers = {
+        culture = lake_fang
+        religion = animist
+        size = 46750
+    }
+
+    slaves = {
+        culture = lake_fang
+        religion = animist
+        size = 17000
+    }
+}
+#Djambala
+1980 = {
+    aristocrats = {
+        culture = lake_fang
+        religion = animist
+        size = 425
+    }
+
+    clergymen = {
+        culture = lake_fang
+        religion = animist
+        size = 1232
+    }
+
+    artisans = {
+        culture = lake_fang
+        religion = animist
+        size = 1700
+    }
+
+    soldiers = {
+        culture = lake_fang
+        religion = animist
+        size = 850
+    }
+
+    farmers = {
+        culture = lake_fang
+        religion = animist
+        size = 34000
+    }
+
+    slaves = {
+        culture = lake_fang
+        religion = animist
+        size = 7650
+    }
+}
+#Boma
+1983 = {
+    aristocrats = {
+        culture = lake_fang
+        religion = animist
+        size = 1721
+    }
+
+    clergymen = {
+        culture = lake_fang
+        religion = animist
+        size = 918
+    }
+
+    artisans = {
+        culture = lake_fang
+        religion = animist
+        size = 2550
+    }
+
+    soldiers = {
+        culture = lake_fang
+        religion = animist
+        size = 2592
+    }
+
+    farmers = {
+        culture = lake_fang
+        religion = animist
+        size = 85488
+    }
+
+    slaves = {
+        culture = lake_fang
+        religion = animist
+        size = 34000
+    }
+}
+#Basoko
+1992 = {
+    aristocrats = {
+        culture = lake_fang
+        religion = animist
+        size = 1190
+    }
+
+    clergymen = {
+        culture = lake_fang
+        religion = animist
+        size = 552
+    }
+
+    artisans = {
+        culture = lake_fang
+        religion = animist
+        size = 1445
+    }
+	
+	craftsmen = {
+        culture = lake_fang
+        religion = animist
+        size = 9445
+    }
+
+    soldiers = {
+        culture = lake_fang
+        religion = animist
+        size = 850
+    }
+
+    farmers = {
+        culture = lake_fang
+        religion = animist
+        size = 38250
+    }
+
+    slaves = {
+        culture = lake_fang
+        religion = animist
+        size = 34850
+    }
+}
+#Tipsbyen
+2000 = {
+    officers = {
+        culture = lake_fang
+        religion = animist
+        size = 1147
+    }
+
+    bureaucrats = {
+        culture = lake_fang
+        religion = animist
+        size = 2656
+    }
+
+    aristocrats = {
+        culture = lake_fang
+        religion = animist
+        size = 3761
+    }
+
+    clergymen = {
+        culture = lake_fang
+        religion = animist
+        size = 2741
+    }
+
+    artisans = {
+        culture = lake_fang
+        religion = animist
+        size = 7650
+    }
+
+    soldiers = {
+        culture = lake_fang
+        religion = animist
+        size = 5312
+    }
+
+    farmers = {
+        culture = lake_fang
+        religion = animist
+        size = 157738
+    }
+
+    slaves = {
+        culture = lake_fang
+        religion = animist
+        size = 12750
+    }
+}
+#Loango
+2624 = {
+    aristocrats = {
+        culture = lake_fang
+        religion = animist
+        size = 2125
+    }
+
+    clergymen = {
+        culture = lake_fang
+        religion = animist
+        size = 382
+    }
+
+    artisans = {
+        culture = lake_fang
+        religion = animist
+        size = 5100
+    }
+
+    soldiers = {
+        culture = lake_fang
+        religion = animist
+        size = 1062
+    }
+
+    farmers = {
+        culture = lake_fang
+        religion = animist
+        size = 37400
+    }
+
+    slaves = {
+        culture = lake_fang
+        religion = animist
+        size = 17000
+    }
+}

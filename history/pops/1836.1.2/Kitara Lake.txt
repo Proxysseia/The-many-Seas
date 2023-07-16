@@ -1,0 +1,146 @@
+#Bangassou
+1970 = {
+    aristocrats = {
+        culture = lake_mongo
+        religion = sunni
+        size = 900
+    }
+
+    clergymen = {
+        culture = lake_mongo
+        religion = sunni
+        size = 600
+    }
+
+    artisans = {
+        culture = lake_mongo
+        religion = sunni
+        size = 2600
+    }
+
+    soldiers = {
+        culture = lake_mongo
+        religion = sunni
+        size = 8240
+    }
+
+    farmers = {
+        culture = lake_mongo
+        religion = sunni
+        size = 247500
+    }
+}
+#Ndele
+1971 = {
+    aristocrats = {
+        culture = lake_mongo
+        religion = sunni
+        size = 2800
+    }
+
+    clergymen = {
+        culture = lake_mongo
+        religion = sunni
+        size = 3600
+    }
+
+    artisans = {
+        culture = lake_mongo
+        religion = sunni
+        size = 4400
+    }
+
+    soldiers = {
+        culture = lake_mongo
+        religion = sunni
+        size = 6560
+    }
+
+    farmers = {
+        culture = lake_mongo
+        religion = sunni
+        size = 71600
+    }
+}
+#Irebu
+1993 = {
+    aristocrats = {
+        culture = lake_mongo
+        religion = sunni
+        size = 4400
+    }
+
+    clergymen = {
+        culture = lake_mongo
+        religion = sunni
+        size = 2200
+    }
+
+    artisans = {
+        culture = lake_mongo
+        religion = sunni
+        size = 8800
+    }
+
+    soldiers = {
+        culture = lake_mongo
+        religion = sunni
+        size = 2640
+    }
+
+    farmers = {
+        culture = lake_mongo
+        religion = sunni
+        size = 278760
+    }
+
+    slaves = {
+        culture = lake_mongo
+        religion = sunni
+        size = 40000
+    }
+}
+#Gemena
+1995 = {
+    aristocrats = {
+        culture = lake_mongo
+        religion = sunni
+        size = 8000
+    }
+
+    clergymen = {
+        culture = lake_mongo
+        religion = sunni
+        size = 4400
+    }
+
+    artisans = {
+        culture = lake_mongo
+        religion = sunni
+        size = 16500
+    }
+	
+	artisans = {
+        culture = lake_mongo
+        religion = sunni
+        size = 7240
+    }
+
+    soldiers = {
+        culture = lake_mongo
+        religion = sunni
+        size = 1760
+    }
+
+    farmers = {
+        culture = lake_mongo
+        religion = sunni
+        size = 599000
+    }
+
+    slaves = {
+        culture = lake_mongo
+        religion = sunni
+        size = 58680
+    }
+}

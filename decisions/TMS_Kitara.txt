@@ -13,6 +13,7 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = nuer
+			add_accepted_culture = lake_nuer
 			BEL_1990 = { add_core = THIS }
 			ENG_2019 = { add_core = THIS }
 			KIT_229 = { add_core = THIS }
