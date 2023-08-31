@@ -48,43 +48,43 @@
     aristocrats = {
         culture = russian
         religion = orthodox
-        size = 1400
+        size = 5600
     }
 
     clergymen = {
         culture = russian
         religion = orthodox
-        size = 1225
+        size = 4900
     }
 
     artisans = {
         culture = russian
         religion = orthodox
-        size = 8150
+        size = 32600
     }
 
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 3000
+        size = 12000
     }
 
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 2000
+        size = 8000
     }
 
     farmers = {
         culture = russian
         religion = orthodox
-        size = 42525
+        size = 170100
     }
 
     farmers = {
         culture = russian
         religion = orthodox
-        size = 17325
+        size = 69300
     }
 }
 #Kizil Arvut (88000/22000 POPS)
