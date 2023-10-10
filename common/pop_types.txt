@@ -1545,17 +1545,7 @@ assimilation_chance = {
 			}
 		}
 	}
-	
-#Assimilation for polish pops after Latvia takes their decision
-	group = {
-		modifier = {
-			factor = 1.5
-			has_pop_culture = polish
-			country = {
-				has_country_flag = african_great_lakes
-			}
-		}
-	}
+
 	
 #Assimilation the great Lakes
 	group = {

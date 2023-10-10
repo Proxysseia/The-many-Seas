@@ -165,7 +165,6 @@ finnougric = {
         last_names = { Airo Alopaeus Aspara Cajander Ehrnrooth Heinrichs Heiskanen Holsti Ignatius Järnefält
         Linder Mannerheim Multamäki Nenonen Oesch Öquist Österman Paasikivi Raappana Ramsay
         Sihvo Siilasvuo Talvela Thesleff Tujulin Tuompo "von Hesse-Kassel" Walden Wallenius Wetzer }
-        radicalism = 5
     }
 }
 
@@ -234,7 +233,6 @@ british = {
     }
     irish = {
         color = { 35 140 50}
-        radicalism = 15
         primary = IRE
         first_names = { Alexander Arthur Brian Cathal Christopher Con Daniel Denis Desmond Éamon
         Edward Ernes Fionán Frank George Harry Jack James John Joseph
@@ -246,7 +244,6 @@ british = {
     }
     scottish = {
         color = { 0 71 182 }
-        radicalism = 5
         primary = SCO
         first_names = { Alan Alastair Alban Alpin Andrew Angus Aulay Blane Boyd Calum Clyde Coll Derek Donald Donnan Dougal Douglas Duff Duncan Ewan Farquar Fingal Finlay Gavin Gillian Gillis Gordon Greer Hamish Ian Ivar Kenneth Kentigern Kirk Kyle Lachlan Lorne Malcolm Mirren Mungo Neil Nevin Ranald Rory Ross Sholto Somerled Tavish Torquil Wallace}
 
@@ -291,7 +288,6 @@ italian = {
         last_names = { Anfora Barberini-Colonna Bonaccorsi Caraga Cattaneo Chigi Clary Colonna "de Liguori" "de Riseis"
         "della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Lanza Lombardo
         Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
-        radicalism = 10
     }
     union = HEL
 }
@@ -414,7 +410,6 @@ pan_albanian = {
         Koculi Konica Konushevci Kosturi Kota Logoreci Merlika-Kruja Mitrovica Mula Noli
         "Pashë Përmeti" "Pashë Tepelena" "Pashë Toptani" Poga "Qemal Bej" Shahini Skiroi Thaçi Troja Xoxe
         }
-        radicalism = 15
     }
 }
 
@@ -456,7 +451,6 @@ hungarian_culture_group = {
         Joseffy Katona Kaufman Kéler Kiss Knezich Kogutowicz Lahner Lázár Leiningen-Westerburg
         Lichtenstein Liszt Mikszáth Molnár Nagy-Sándor Österreicher Ottinger Perczel Poeltenberg Reményi
         Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
-        radicalism = 5
     }
 }
 
@@ -477,7 +471,6 @@ polish_culture_group = {
         Mikolajczyk Mokronowski Niepokólczycki Ostrowski Pac Pilsudski Poniatowski Potocki Preadzynski Radziwill
         Rokossowski Rola-Zymierski Rómmel Rózicky Rybinski Rydz-Smigly Sanguszko Skrzynecki Soltyk Sowinski
         Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
-        radicalism = 10
     }
     sorbian = {
         color = {35 195 31}
@@ -506,7 +499,6 @@ polish_culture_group = {
         Mik Morávec Nemecek Neruda Novácek Novotný Popper Radecký Rokytanský Safárik
         Safránek Schack Schubert Skoda Skuherský Smetana Snejdárek Suk Svoboda Syrový
         Tomásek Tyl Vitásek "von Mittrowitz-Nettolitzky" Vorisek Wankel Weber Zíbrt Zívr Zoubek }
-        radicalism = 5
     }
     slovak = {
         color = {120 255 255}
@@ -549,7 +541,6 @@ leader = russian
             last_names = { Bezruchko Chernyakhovsky Dyachenko Gamula Grigoriev Hrekov Ivanenko Ivanov
                             Kapustiansky Kondratenko Leshchenko Leshchinskiy "Omelianovych-Pavlenko"
                             Paskevich Petliura Radchenko Shevchenko Skoropadskyi Stefaniv Tymoshenko Vitovsky }
-            radicalism = 10
         }
     koryaki = {
         color = {254 81 127}
@@ -633,7 +624,6 @@ levantine = {
         Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
         Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
         }
-        radicalism = 10
     }
 }
 
@@ -669,7 +659,6 @@ turko_semitic = {
         last_names = {
             Badirkhan Barzani Khan Shilak
         }
-        radicalism = 10
     }
 }
 
@@ -686,7 +675,6 @@ caucasian = {
             last_names = {
                 Neghwey al-Shishani Shapsug Zhaney Temirgoy Natukhai Syupako Abadzehs Kerzedzh Kuytsuk Khatirame Birdzh Cherch Ubykhs Mamkhegh Kabarday Cherkess Hatuqwai Bzhedug Kabardi Adyghe
             }
-            radicalism = 20
         }
     }
 
@@ -731,7 +719,6 @@ arab = {
             "ibn Muhammad" "ibn Mustafa" "ibn Salim"
             "ibn Umar" "ibn Uthman" "ibn Yusuf"
         }
-        radicalism = 10
     }
     berber = {
         color = {15 35 37}
@@ -742,7 +729,6 @@ arab = {
         last_names = {
             "al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
             }
-        radicalism = 10
     }
 }
 
@@ -804,7 +790,6 @@ central_asian = {
         last_names = {
                Dzasa Wangyal Shatra Lungshar Rinpoche Chöphel Shakabpa Tashi
         }
-        radicalism = 10
     }
 
     nepali = {
@@ -870,7 +855,6 @@ southeast_asian = {
         last_names = { "vinh Thuy" Han Tuan "Vinh San" Cuong Khai Nien Than Quang "Trong Hiep" "Mien Lam" "Mien Trinh" "Buu Lan"
 
         }
-        radicalism = 5
     }
     thai = {
         color = {76 99 150}
@@ -1062,7 +1046,6 @@ latin_american_cultures = {
         Luperón Maceo Machado Márquez Mella Méndez Mendieta Moncada Morales Mota
         Pelletier Pimentel Puello Santana Sosa Trujillo Valverde Vásquez Vázquez Zayas
         }
-        radicalism = 5
     }
 }
 south_american_cultures = {
