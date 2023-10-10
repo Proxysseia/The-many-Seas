@@ -33,7 +33,7 @@ factory_template = {
 
 cheap_factory_template = {
 	efficiency = {
-		cement = 0.25 #if no cement, work at 75% efficiency #cost = £4/level
+		cement = 0.25 #if no cement, work at 75% efficiency #cost = ï¿½4/level
 	}
 	
 	owner = {
@@ -87,52 +87,6 @@ machine_part_user_template = {
 	}
 	type = factory
 	workforce = 10000 
-}
-
-wool_fabric_factory = {       
-	template = factory_template
-	input_goods = {     
-		wool = 30
-		dye = 2
-	}
-	output_goods = fabric
-	value = 45
-	bonus = {
-		trigger = { trade_goods_in_state = wool }
-		value = 0.125
-	}
-	bonus = {
-		trigger = {
-			OR = {
-				has_building = dye_factory 
-				trade_goods_in_state = dye
-				}
-			}
-		value = 0.125
-	}
-}
-
-leather_factory = {       
-	template = factory_template
-	input_goods = {     
-		cattle = 15		
-		dye = 2			
-	}
-	output_goods = fabric 
-	value = 45			#81
-	bonus = {
-		trigger = { trade_goods_in_state = cattle }
-		value = 0.125
-	}
-	bonus = {
-		trigger = {
-			OR = {
-				has_building = dye_factory 
-				trade_goods_in_state = dye
-				}
-			}
-		value = 0.125
-	}
 }
 
 cement_template = {
@@ -381,6 +335,7 @@ luxury_clothes_factory = {
 	input_goods = {   
 		regular_clothes = 0.9	#5.22
 		silk = 3.9		#39	total input+maint = 54
+		dye = 2
 	}
 	output_goods = luxury_clothes
 	value = 1			#65
@@ -390,6 +345,10 @@ luxury_clothes_factory = {
 	}
 	bonus = {
 		trigger = { trade_goods_in_state = silk }
+		value = 0.05
+	}
+	bonus = {
+		trigger = { trade_goods_in_state = dye }
 		value = 0.05
 	}
 }
@@ -526,6 +485,7 @@ regular_clothes_factory = {
 	template = factory_template
 	input_goods = {  
 		fabric = 40		#72	total input+maint = 82
+		dye = 3
 	}
 	output_goods = regular_clothes 
 	value = 15			#87
@@ -676,23 +636,13 @@ lumber_mill = {
 fabric_factory = {       
 	template = factory_template
 	input_goods = {     
-		cotton = 18		# 36
-		dye = 2			# 24 total input+maint = 70
+		cotton = 20		# 36
 	}
 	output_goods = fabric
-	value = 45			#81
+	value = 60			#81
 	bonus = {
 		trigger = { trade_goods_in_state = cotton }
-		value = 0.125
-	}
-	bonus = {
-		trigger = {
-			OR = {
-				has_building = dye_factory 
-				trade_goods_in_state = dye
-				}
-			}
-		value = 0.125
+		value = 0.25
 	}
 }
 
@@ -1134,6 +1084,7 @@ artisan_luxury_clothes = {
 	input_goods = {   
 		regular_clothes = 0.9	#5.22
 		silk = 3.9		#39	total input+maint = 54
+		dye = 2			
 	}
 	output_goods = luxury_clothes 
 	value = 1			#65
@@ -1283,6 +1234,7 @@ artisan_paper = {
 artisan_regular_clothes = {       
 	input_goods = {  
 		fabric = 45		#was 81
+		dye = 2
 	}
 	output_goods = regular_clothes
 	value = 15			#87
@@ -1422,40 +1374,6 @@ artisan_fabric = {
 	value = 45			#81
 	owner = {
 		poptype = artisans 
-		effect = output
-	}
-	
-	type = artisan
-	
-	workforce = 10000
-}
-
-artisan_fabric_wool = {       
-	input_goods = {     
-		wool = 30
-		dye = 2
-	}
-	output_goods = fabric
-	value = 45			#81
-	owner = {
-		poptype = artisan
-		effect = output
-	}
-	
-	type = artisan
-	
-	workforce = 10000
-}
-
-artisan_fabric_leather = {       
-	input_goods = {     
-		cattle = 15		
-		dye = 2
-	}
-	output_goods = fabric
-	value = 45			#81
-	owner = {
-		poptype = artisan
 		effect = output
 	}
 	

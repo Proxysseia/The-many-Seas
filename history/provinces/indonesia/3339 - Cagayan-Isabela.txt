@@ -10,6 +10,6 @@ state_building = {
 }
 state_building = {
     level = 1
-    building = leather_factory
+    building = fabric_factory
     upgrade = yes
 }

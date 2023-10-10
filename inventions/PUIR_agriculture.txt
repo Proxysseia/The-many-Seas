@@ -22,7 +22,6 @@ spinning_jenny = {
 		rgo_goods_throughput = {
 			wool = 0.2
 		}
-		activate_building = wool_fabric_factory
 	}
 }
 
@@ -40,7 +39,6 @@ industrial_tanneries = {
 		rgo_goods_throughput = {
 			cattle = 0.2
 		}
-		activate_building = leather_factory
 	}
 }
 
