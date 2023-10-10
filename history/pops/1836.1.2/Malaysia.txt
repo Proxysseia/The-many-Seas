@@ -617,7 +617,7 @@
         size = 12000
     }
 
-    slaves = {
+    farmers = {
         culture = malay
         religion = sunni
         size = 126425
@@ -685,7 +685,7 @@
         size = 6475
     }
 
-    slaves = {
+    farmers = {
         culture = malay
         religion = sunni
         size = 72750
