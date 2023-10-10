@@ -2,5 +2,5 @@ owner = SAT
 controller = SAT
 add_core = SAT
 add_core = BHA
-trade_goods = dye
+trade_goods = fruit
 life_rating = 35
