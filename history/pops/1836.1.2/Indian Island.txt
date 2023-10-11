@@ -537,79 +537,79 @@
     aristocrats = {
         culture = marathi
         religion = hindu
+        size = 5625
+    }
+
+    clergymen = {
+        culture = marathi
+        religion = hindu
+        size = 6562
+    }
+
+    artisans = {
+        culture = marathi
+        religion = hindu
         size = 7500
     }
 
-    clergymen = {
-        culture = marathi
-        religion = hindu
-        size = 8750
-    }
-
     artisans = {
         culture = marathi
         religion = hindu
-        size = 10000
-    }
-
-    artisans = {
-        culture = marathi
-        religion = hindu
-        size = 10000
+        size = 7500
     }
 
     soldiers = {
         culture = marathi
         religion = hindu
-        size = 3000
+        size = 2250
     }
 
     soldiers = {
         culture = marathi
         religion = hindu
-        size = 2000
-    }
-
-    farmers = {
-        culture = marathi
-        religion = hindu
-        size = 706750
-    }
-
-    aristocrats = {
-        culture = marathi
-        religion = sunni
-        size = 1750
-    }
-
-    clergymen = {
-        culture = marathi
-        religion = sunni
-        size = 1375
-    }
-
-    artisans = {
-        culture = marathi
-        religion = sunni
-        size = 9000
-    }
-
-    soldiers = {
-        culture = marathi
-        religion = sunni
         size = 1500
     }
 
     farmers = {
         culture = marathi
+        religion = hindu
+        size = 530062
+    }
+
+    aristocrats = {
+        culture = marathi
         religion = sunni
-        size = 118375
+        size = 1312
+    }
+
+    clergymen = {
+        culture = marathi
+        religion = sunni
+        size = 1031
+    }
+
+    artisans = {
+        culture = marathi
+        religion = sunni
+        size = 6750
+    }
+
+    soldiers = {
+        culture = marathi
+        religion = sunni
+        size = 1125
     }
 
     farmers = {
         culture = marathi
         religion = sunni
-        size = 30000
+        size = 88781
+    }
+
+    farmers = {
+        culture = marathi
+        religion = sunni
+        size = 22500
     }
 }
 #Allahabad (3008000/752000 POPS)
@@ -617,91 +617,91 @@
     aristocrats = {
         culture = marathi
         religion = hindu
-        size = 26000
+        size = 19500
     }
 
     clergymen = {
         culture = marathi
         religion = hindu
-        size = 6500
+        size = 4875
     }
 
     artisans = {
         culture = marathi
         religion = hindu
-        size = 10000
+        size = 7500
     }
 
     artisans = {
         culture = marathi
         religion = hindu
-        size = 10000
+        size = 7500
     }
 
     artisans = {
         culture = marathi
         religion = hindu
-        size = 10000
+        size = 7500
     }
 
     artisans = {
         culture = marathi
         religion = hindu
-        size = 1100
+        size = 825
     }
 
     soldiers = {
         culture = marathi
         religion = hindu
-        size = 3000
+        size = 2250
     }
 
     soldiers = {
         culture = marathi
         religion = hindu
-        size = 3000
+        size = 2250
     }
 
     farmers = {
         culture = marathi
         religion = hindu
-        size = 482500
+        size = 361875
     }
 
     aristocrats = {
         culture = marathi
         religion = sunni
-        size = 1250
+        size = 937
     }
 
     clergymen = {
         culture = marathi
         religion = sunni
-        size = 1100
+        size = 825
     }
 
     artisans = {
         culture = marathi
         religion = sunni
-        size = 8000
+        size = 6000
     }
 
     soldiers = {
         culture = marathi
         religion = sunni
-        size = 1250
+        size = 937
     }
 
     farmers = {
         culture = marathi
         religion = sunni
-        size = 158500
+        size = 118875
     }
 
     farmers = {
         culture = marathi
         religion = sunni
-        size = 38500
+        size = 28875
     }
 }
 #Benares (2512000/628000 POPS)
@@ -709,73 +709,73 @@
     aristocrats = {
         culture = marathi
         religion = sunni
-        size = 750
+        size = 562
     }
 
     clergymen = {
         culture = marathi
         religion = sunni
-        size = 500
+        size = 375
     }
 
     artisans = {
         culture = marathi
         religion = sunni
-        size = 10000
+        size = 7500
     }
 
     artisans = {
         culture = marathi
         religion = sunni
-        size = 1100
+        size = 825
     }
 
     soldiers = {
         culture = marathi
         religion = sunni
-        size = 750
+        size = 562
     }
 
     farmers = {
         culture = marathi
         religion = sunni
-        size = 60000
+        size = 45000
     }
 
     aristocrats = {
         culture = marathi
         religion = hindu
-        size = 6500
+        size = 4875
     }
 
     clergymen = {
         culture = marathi
         religion = hindu
-        size = 6250
+        size = 4687
     }
 
     artisans = {
         culture = marathi
         religion = hindu
-        size = 10000
+        size = 7500
     }
 
     soldiers = {
         culture = marathi
         religion = hindu
-        size = 3000
+        size = 2250
     }
 
     soldiers = {
         culture = marathi
         religion = hindu
-        size = 3000
+        size = 2250
     }
 
     farmers = {
         culture = marathi
         religion = hindu
-        size = 507250
+        size = 380437
     }
 }
 #Ruled by Awadh in 1836 (4820000)
@@ -786,67 +786,67 @@
     aristocrats = {
         culture = marathi
         religion = hindu
-        size = 7000
+        size = 5250
     }
 
     clergymen = {
         culture = marathi
         religion = hindu
-        size = 6500
+        size = 4875
     }
 
     artisans = {
         culture = marathi
         religion = hindu
-        size = 10000
+        size = 7500
     }
 
     artisans = {
         culture = marathi
         religion = hindu
-        size = 2500
+        size = 1875
     }
 
     soldiers = {
         culture = marathi
         religion = hindu
-        size = 2500
+        size = 1875
     }
 
     farmers = {
         culture = marathi
         religion = hindu
-        size = 644500
+        size = 483375
     }
 
     aristocrats = {
         culture = marathi
         religion = sunni
-        size = 500
+        size = 375
     }
 
     clergymen = {
         culture = marathi
         religion = sunni
-        size = 750
+        size = 562
     }
 
     artisans = {
         culture = marathi
         religion = sunni
-        size = 3500
+        size = 2625
     }
 
     soldiers = {
         culture = marathi
         religion = sunni
-        size = 750
+        size = 562
     }
 
     farmers = {
         culture = marathi
         religion = sunni
-        size = 61500
+        size = 46125
     }
 }
 #Kharswari (2740000/685000 POPS)
@@ -1591,85 +1591,85 @@
     aristocrats = {
         culture = marathi
         religion = hindu
-        size = 7000
+        size = 5250
     }
 
     bureaucrats = {
         culture = marathi
         religion = hindu
-        size = 350
+        size = 262
     }
 
     officers = {
         culture = marathi
         religion = hindu
-        size = 350
+        size = 262
     }
 
     clergymen = {
         culture = marathi
         religion = hindu
-        size = 3300
+        size = 2475
     }
 
     artisans = {
         culture = marathi
         religion = hindu
-        size = 10000
+        size = 7500
     }
 
     artisans = {
         culture = marathi
         religion = hindu
-        size = 5000
+        size = 3750
     }
 
     soldiers = {
         culture = marathi
         religion = hindu
-        size = 3000
+        size = 2250
     }
 
     soldiers = {
         culture = marathi
         religion = hindu
-        size = 1000
+        size = 750
     }
 
     farmers = {
         culture = marathi
         religion = hindu
-        size = 250600
+        size = 187950
     }
 
     clergymen = {
         culture = persian
         religion = sunni
-        size = 50
+        size = 37
     }
 
     artisans = {
         culture = persian
         religion = sunni
-        size = 2000
+        size = 1500
     }
 
     soldiers = {
         culture = persian
         religion = sunni
-        size = 50
+        size = 37
     }
 
     farmers = {
         culture = persian
         religion = sunni
-        size = 900
+        size = 675
     }
 
     farmers = {
         culture = marathi
         religion = hindu
-        size = 50000
+        size = 37500
     }
 }
 #Central Provinces Region (8044000)
@@ -1679,79 +1679,79 @@
     aristocrats = {
         culture = marathi
         religion = hindu
-        size = 6000
+        size = 4500
     }
 
     bureaucrats = {
         culture = marathi
         religion = hindu
-        size = 250
+        size = 187
     }
 
     officers = {
         culture = marathi
         religion = hindu
-        size = 300
+        size = 225
     }
 
     clergymen = {
         culture = marathi
         religion = hindu
-        size = 4375
+        size = 3281
     }
 
     artisans = {
         culture = marathi
         religion = hindu
-        size = 9000
+        size = 6750
     }
 
     soldiers = {
         culture = marathi
         religion = hindu
-        size = 3000
+        size = 2250
     }
 
     soldiers = {
         culture = marathi
         religion = hindu
-        size = 1000
+        size = 750
     }
 
     farmers = {
         culture = marathi
         religion = hindu
-        size = 204075
+        size = 153056
     }
 
     clergymen = {
+        culture = persian
+        religion = sunni
+        size = 112
+    }
+
+    artisans = {
+        culture = persian
+        religion = sunni
+        size = 4500
+    }
+
+    soldiers = {
         culture = persian
         religion = sunni
         size = 150
     }
 
-    artisans = {
-        culture = persian
-        religion = sunni
-        size = 6000
-    }
-
-    soldiers = {
-        culture = persian
-        religion = sunni
-        size = 200
-    }
-
     farmers = {
         culture = persian
         religion = sunni
-        size = 8650
+        size = 6487
     }
 
     farmers = {
         culture = marathi
         religion = hindu
-        size = 50000
+        size = 37500
     }
 }
 #Under rule of Indore 1836
@@ -1835,79 +1835,79 @@
     aristocrats = {
         culture = marathi
         religion = hindu
-        size = 4000
+        size = 3000
     }
 
     bureaucrats = {
         culture = marathi
         religion = hindu
-        size = 200
+        size = 150
     }
 
     officers = {
         culture = marathi
         religion = hindu
-        size = 200
+        size = 150
     }
 
     clergymen = {
         culture = marathi
         religion = hindu
-        size = 2000
+        size = 1500
     }
 
     artisans = {
         culture = marathi
         religion = hindu
-        size = 7500
+        size = 5625
     }
 
     soldiers = {
         culture = marathi
         religion = hindu
-        size = 3000
+        size = 2250
     }
 
     soldiers = {
         culture = marathi
         religion = hindu
-        size = 1000
+        size = 750
     }
 
     farmers = {
         culture = marathi
         religion = hindu
-        size = 139100
+        size = 104325
     }
 
     clergymen = {
         culture = persian
         religion = sunni
-        size = 100
+        size = 75
     }
 
     artisans = {
         culture = persian
         religion = sunni
-        size = 2500
+        size = 1875
     }
 
     soldiers = {
         culture = persian
         religion = sunni
-        size = 100
+        size = 75
     }
 
     farmers = {
         culture = persian
         religion = sunni
-        size = 400
+        size = 300
     }
 
     farmers = {
         culture = marathi
         religion = hindu
-        size = 40000
+        size = 30000
     }
 }
 #Under Native Rule 1836
@@ -1916,7 +1916,93 @@
     aristocrats = {
         culture = marathi
         religion = hindu
-        size = 1100
+        size = 825
+    }
+
+    bureaucrats = {
+        culture = marathi
+        religion = hindu
+        size = 112
+    }
+
+    clergymen = {
+        culture = marathi
+        religion = hindu
+        size = 825
+    }
+
+    artisans = {
+        culture = marathi
+        religion = hindu
+        size = 3375
+    }
+
+    soldiers = {
+        culture = marathi
+        religion = hindu
+        size = 825
+    }
+
+    farmers = {
+        culture = marathi
+        religion = hindu
+        size = 63262
+    }
+
+    aristocrats = {
+        culture = marathi
+        religion = animist
+        size = 525
+    }
+
+    clergymen = {
+        culture = marathi
+        religion = animist
+        size = 562
+    }
+
+    artisans = {
+        culture = marathi
+        religion = animist
+        size = 1125
+    }
+
+    soldiers = {
+        culture = marathi
+        religion = animist
+        size = 487
+    }
+
+    farmers = {
+        culture = marathi
+        religion = animist
+        size = 45000
+    }
+
+    clergymen = {
+        culture = marathi
+        religion = sunni
+        size = 37
+    }
+
+    artisans = {
+        culture = marathi
+        religion = sunni
+        size = 1500
+    }
+
+    farmers = {
+        culture = marathi
+        religion = sunni
+        size = 712
+    }
+}
+#Rewah (748000/187000 POPS)
+1274 = {
+    aristocrats = {
+        culture = marathi
+        religion = hindu
+        size = 1050
     }
 
     bureaucrats = {
@@ -1928,165 +2014,79 @@
     clergymen = {
         culture = marathi
         religion = hindu
-        size = 1100
+        size = 975
     }
 
     artisans = {
         culture = marathi
         religion = hindu
-        size = 4500
+        size = 3375
     }
 
     soldiers = {
         culture = marathi
         religion = hindu
-        size = 1100
+        size = 2250
     }
 
-    farmers = {
+    soldiers = {
         culture = marathi
         religion = hindu
-        size = 84350
-    }
-
-    aristocrats = {
-        culture = marathi
-        religion = animist
-        size = 700
-    }
-
-    clergymen = {
-        culture = marathi
-        religion = animist
         size = 750
     }
 
-    artisans = {
-        culture = marathi
-        religion = animist
-        size = 1500
-    }
-
-    soldiers = {
-        culture = marathi
-        religion = animist
-        size = 650
-    }
-
     farmers = {
         culture = marathi
-        religion = animist
-        size = 60000
+        religion = hindu
+        size = 88200
     }
 
     clergymen = {
         culture = marathi
         religion = sunni
-        size = 50
+        size = 56
     }
 
     artisans = {
         culture = marathi
         religion = sunni
-        size = 2000
-    }
-
-    farmers = {
-        culture = marathi
-        religion = sunni
-        size = 950
-    }
-}
-#Rewah (748000/187000 POPS)
-1274 = {
-    aristocrats = {
-        culture = marathi
-        religion = hindu
-        size = 1400
-    }
-
-    bureaucrats = {
-        culture = marathi
-        religion = hindu
-        size = 200
-    }
-
-    clergymen = {
-        culture = marathi
-        religion = hindu
-        size = 1300
-    }
-
-    artisans = {
-        culture = marathi
-        religion = hindu
-        size = 4500
-    }
-
-    soldiers = {
-        culture = marathi
-        religion = hindu
         size = 3000
     }
 
-    soldiers = {
-        culture = marathi
-        religion = hindu
-        size = 1000
-    }
-
-    farmers = {
-        culture = marathi
-        religion = hindu
-        size = 117600
-    }
-
-    clergymen = {
-        culture = marathi
-        religion = sunni
-        size = 75
-    }
-
-    artisans = {
-        culture = marathi
-        religion = sunni
-        size = 4000
-    }
-
     farmers = {
         culture = marathi
         religion = sunni
-        size = 1925
+        size = 1443
     }
 
     aristocrats = {
         culture = marathi
         religion = animist
-        size = 600
+        size = 450
     }
 
     clergymen = {
         culture = marathi
         religion = animist
-        size = 5050
+        size = 3787
     }
 
     artisans = {
         culture = marathi
         religion = animist
-        size = 1100
+        size = 825
     }
 
     soldiers = {
         culture = marathi
         religion = animist
-        size = 550
+        size = 412
     }
 
     farmers = {
         culture = marathi
         religion = animist
-        size = 54000
+        size = 40500
     }
 }
 #under British rule 1836 (3620000)
@@ -2095,99 +2095,19 @@
     aristocrats = {
         culture = marathi
         religion = hindu
-        size = 27500
+        size = 20625
     }
 
     clergymen = {
         culture = marathi
         religion = hindu
-        size = 7000
+        size = 5250
     }
 
     bureaucrats = {
         culture = marathi
         religion = hindu
-        size = 850
-    }
-
-    artisans = {
-        culture = marathi
-        religion = hindu
-        size = 10000
-    }
-
-    artisans = {
-        culture = marathi
-        religion = hindu
-        size = 2500
-    }
-
-    soldiers = {
-        culture = marathi
-        religion = hindu
-        size = 3000
-    }
-
-    soldiers = {
-        culture = marathi
-        religion = hindu
-        size = 1500
-    }
-
-    farmers = {
-        culture = marathi
-        religion = hindu
-        size = 648650
-    }
-
-    clergymen = {
-        culture = persian
-        religion = sunni
-        size = 250
-    }
-
-    bureaucrats = {
-        culture = persian
-        religion = sunni
-        size = 50
-    }
-
-    artisans = {
-        culture = persian
-        religion = sunni
-        size = 1500
-    }
-
-    soldiers = {
-        culture = persian
-        religion = sunni
-        size = 250
-    }
-
-    farmers = {
-        culture = persian
-        religion = sunni
-        size = 25950
-    }
-
-    bureaucrats = {
-        culture = australian
-        religion = protestant
-        size = 25
-    }
-}
-#Hoshangabad (596000/149000 POPS)
-1276 = {
-    aristocrats = {
-        culture = marathi
-        religion = hindu
-        size = 1500
-    }
-
-    clergymen = {
-        culture = marathi
-        religion = hindu
-        size = 1500
+        size = 637
     }
 
     artisans = {
@@ -2196,40 +2116,120 @@
         size = 7500
     }
 
+    artisans = {
+        culture = marathi
+        religion = hindu
+        size = 1875
+    }
+
     soldiers = {
         culture = marathi
         religion = hindu
-        size = 1500
+        size = 2250
+    }
+
+    soldiers = {
+        culture = marathi
+        religion = hindu
+        size = 1125
     }
 
     farmers = {
         culture = marathi
         religion = hindu
-        size = 125000
+        size = 486487
     }
 
     clergymen = {
         culture = persian
         religion = sunni
-        size = 100
+        size = 187
+    }
+
+    bureaucrats = {
+        culture = persian
+        religion = sunni
+        size = 37
     }
 
     artisans = {
         culture = persian
         religion = sunni
-        size = 600
+        size = 1125
     }
 
     soldiers = {
         culture = persian
         religion = sunni
-        size = 100
+        size = 187
     }
 
     farmers = {
         culture = persian
         religion = sunni
-        size = 11200
+        size = 19462
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = protestant
+        size = 18
+    }
+}
+#Hoshangabad (596000/149000 POPS)
+1276 = {
+    aristocrats = {
+        culture = marathi
+        religion = hindu
+        size = 1125
+    }
+
+    clergymen = {
+        culture = marathi
+        religion = hindu
+        size = 1125
+    }
+
+    artisans = {
+        culture = marathi
+        religion = hindu
+        size = 5625
+    }
+
+    soldiers = {
+        culture = marathi
+        religion = hindu
+        size = 1125
+    }
+
+    farmers = {
+        culture = marathi
+        religion = hindu
+        size = 93750
+    }
+
+    clergymen = {
+        culture = persian
+        religion = sunni
+        size = 75
+    }
+
+    artisans = {
+        culture = persian
+        religion = sunni
+        size = 450
+    }
+
+    soldiers = {
+        culture = persian
+        religion = sunni
+        size = 75
+    }
+
+    farmers = {
+        culture = persian
+        religion = sunni
+        size = 8400
     }
 }
 #Nagpur Region (5028000)
@@ -2654,67 +2654,67 @@
     aristocrats = {
         culture = marathi
         religion = hindu
-        size = 1125
+        size = 843
     }
 
     bureaucrats = {
         culture = marathi
         religion = hindu
-        size = 125
+        size = 93
     }
 
     clergymen = {
         culture = marathi
         religion = hindu
-        size = 1050
+        size = 787
     }
 
     artisans = {
         culture = marathi
         religion = hindu
-        size = 5000
+        size = 3750
     }
 
     soldiers = {
         culture = marathi
         religion = hindu
-        size = 1100
+        size = 825
     }
 
     farmers = {
         culture = marathi
         religion = hindu
-        size = 97600
+        size = 73200
     }
 
     aristocrats = {
         culture = marathi
         religion = animist
-        size = 350
+        size = 262
     }
 
     clergymen = {
         culture = marathi
         religion = animist
-        size = 300
+        size = 225
     }
 
     artisans = {
         culture = marathi
         religion = animist
-        size = 2000
+        size = 1500
     }
 
     soldiers = {
         culture = marathi
         religion = animist
-        size = 350
+        size = 262
     }
 
     farmers = {
         culture = marathi
         religion = animist
-        size = 30000
+        size = 22500
     }
 }
 #Hyderabad Region (6396000)

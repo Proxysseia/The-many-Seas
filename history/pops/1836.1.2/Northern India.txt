@@ -3,577 +3,37 @@
     aristocrats = {
         culture = utara
         religion = sunni
-        size = 6350
+        size = 4762
     }
 
     bureaucrats = {
         culture = utara
         religion = sunni
-        size = 2500
+        size = 1875
     }
 
     officers = {
         culture = utara
         religion = sunni
-        size = 1500
+        size = 1125
     }
 
     clergymen = {
         culture = utara
         religion = sunni
-        size = 3350
+        size = 2512
     }
 
     artisans = {
         culture = utara
         religion = sunni
-        size = 11750
+        size = 8812
     }
 
     soldiers = {
         culture = utara
         religion = sunni
-        size = 6000
-    }
-
-    soldiers = {
-        culture = utara
-        religion = sunni
-        size = 6000
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 122500
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 352500
-    }
-
-    aristocrats = {
-        culture = utara
-        religion = sunni
-        size = 125
-    }
-
-    clergymen = {
-        culture = utara
-        religion = sunni
-        size = 125
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 3800
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 54950
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 33125
-    }    
-
-}
-#Under Native Rule 1836
-#Rajkot (2040000/510000 POPS)
-1292 = {
-    aristocrats = {
-        culture = utara
-        religion = sunni
-        size = 3350
-    }
-
-    clergymen = {
-        culture = utara
-        religion = sunni
-        size = 2250
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 11750
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 11750
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 5750
-    }
-
-    soldiers = {
-        culture = utara
-        religion = sunni
-        size = 6000
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 82800
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 127500
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 31950
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 27125
-    }  
-}
-#Patan (1816000/454000 POPS)
-1294 = {
-    aristocrats = {
-        culture = utara
-        religion = sunni
-        size = 2350
-    }
-
-    clergymen = {
-        culture = utara
-        religion = sunni
-        size = 1350
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 6750
-    }
-
-    soldiers = {
-        culture = utara
-        religion = sunni
-        size = 6000
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 12800
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 127500
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 31950
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 27125
-    }  
-}
-#Cuttack (944000/236000 POPS)
-1261 = {
-    aristocrats = {
-        culture = utara
-        religion = sunni
-        size = 350
-    }
-
-    clergymen = {
-        culture = utara
-        religion = sunni
-        size = 350
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 3750
-    }
-
-    soldiers = {
-        culture = utara
-        religion = sunni
-        size = 3000
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 12800
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 77500
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 11350
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 7425
-    }  
-}
-#Jaisalmer (440000/110000 POPS)
-1265 = {
-    aristocrats = {
-        culture = utara
-        religion = sunni
-        size = 4350
-    }
-
-    clergymen = {
-        culture = utara
-        religion = sunni
-        size = 2350
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 7750
-    }
-
-    soldiers = {
-        culture = utara
-        religion = sunni
-        size = 6000
-    }
-
-    soldiers = {
-        culture = utara
-        religion = sunni
-        size = 3000
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 112800
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 167500
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 31350
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 47425
-    }  
-}
-## Rajputana Region ##
-#Port of Issac (1296000/324000 POPS)
-1266 = {
-    aristocrats = {
-        culture = utara
-        religion = sunni
-        size = 4350
-    }
-
-    clergymen = {
-        culture = utara
-        religion = sunni
-        size = 3350
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 13750
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 13750
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 13750
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 4150
-    }
-
-    soldiers = {
-        culture = utara
-        religion = sunni
-        size = 9000
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 72800
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 119500
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 94350
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 24425
-    }  
-}
-#Bikaner (1044000/261000 POPS)
-1267 = {
-    aristocrats = {
-        culture = utara
-        religion = sunni
-        size = 3750
-    }
-
-    clergymen = {
-        culture = utara
-        religion = sunni
-        size = 2350
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 11750
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 5150
-    }
-
-    soldiers = {
-        culture = utara
-        religion = sunni
-        size = 5000
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 42800
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 132500
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 118350
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 94425
-    }  
-}
-#Bahawalpur (352000/88000 POPS)
-1231 = {
-    aristocrats = {
-        culture = utara
-        religion = sunni
-        size = 2750
-    }
-
-    clergymen = {
-        culture = utara
-        religion = sunni
-        size = 2350
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 9750
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 7150
-    }
-
-    soldiers = {
-        culture = utara
-        religion = sunni
-        size = 3000
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 62800
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 72500
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 44150
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 114425
-    }
-}
-###################
-### Utara (PNJ) ###
-###################
-#Land of Utara
-#Lahore (2644000/661000 POPS)
-1227 = {
-    aristocrats = {
-        culture = utara
-        religion = sunni
-        size = 12500
-    }
-
-    bureaucrats = {
-        culture = utara
-        religion = sunni
-        size = 1400
-    }
-
-    officers = {
-        culture = utara
-        religion = sunni
-        size = 2000
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 15000
-    }
-
-    soldiers = {
-        culture = utara
-        religion = sunni
-        size = 3000
-    }
-
-    soldiers = {
-        culture = utara
-        religion = sunni
-        size = 9000
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 270600
-    }
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 47000
-    }
-}
-#Multan (656000/164000 POPS)
-1228 = {
-    aristocrats = {
-        culture = utara
-        religion = sunni
-        size = 15200
-    }
-
-    clergymen = {
-        culture = utara
-        religion = sunni
-        size = 8120
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 12000
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 8000
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 8000
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 8000
+        size = 4500
     }
 
     soldiers = {
@@ -585,26 +45,529 @@
     farmers = {
         culture = utara
         religion = sunni
-        size = 324500
+        size = 91875
     }
+
     farmers = {
         culture = utara
         religion = sunni
-        size = 92000
+        size = 264375
     }
-}
-#Sialkot (548000/137000 POPS)
-1229 = {
+
     aristocrats = {
         culture = utara
         religion = sunni
-        size = 1300
+        size = 93
     }
 
     clergymen = {
         culture = utara
         religion = sunni
-        size = 1300
+        size = 93
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 2850
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 41212
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 24843
+    }
+}
+#Under Native Rule 1836
+#Rajkot (2040000/510000 POPS)
+1292 = {
+    aristocrats = {
+        culture = utara
+        religion = sunni
+        size = 2512
+    }
+
+    clergymen = {
+        culture = utara
+        religion = sunni
+        size = 1687
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 8812
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 8812
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 4312
+    }
+
+    soldiers = {
+        culture = utara
+        religion = sunni
+        size = 4500
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 62100
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 95625
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 23962
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 20343
+    }
+}
+#Patan (1816000/454000 POPS)
+1294 = {
+    aristocrats = {
+        culture = utara
+        religion = sunni
+        size = 1762
+    }
+
+    clergymen = {
+        culture = utara
+        religion = sunni
+        size = 1012
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 5062
+    }
+
+    soldiers = {
+        culture = utara
+        religion = sunni
+        size = 4500
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 9600
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 95625
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 23962
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 20343
+    }
+}
+#Cuttack (944000/236000 POPS)
+1261 = {
+    aristocrats = {
+        culture = utara
+        religion = sunni
+        size = 262
+    }
+
+    clergymen = {
+        culture = utara
+        religion = sunni
+        size = 262
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 2812
+    }
+
+    soldiers = {
+        culture = utara
+        religion = sunni
+        size = 2250
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 9600
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 58125
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 8512
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 5568
+    }
+}
+#Jaisalmer (440000/110000 POPS)
+1265 = {
+    aristocrats = {
+        culture = utara
+        religion = sunni
+        size = 3262
+    }
+
+    clergymen = {
+        culture = utara
+        religion = sunni
+        size = 1762
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 5812
+    }
+
+    soldiers = {
+        culture = utara
+        religion = sunni
+        size = 4500
+    }
+
+    soldiers = {
+        culture = utara
+        religion = sunni
+        size = 2250
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 84600
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 125625
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 23512
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 35568
+    }
+}
+## Rajputana Region ##
+#Port of Issac (1296000/324000 POPS)
+1266 = {
+    aristocrats = {
+        culture = utara
+        religion = sunni
+        size = 3262
+    }
+
+    clergymen = {
+        culture = utara
+        religion = sunni
+        size = 2512
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 10312
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 10312
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 10312
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 3112
+    }
+
+    soldiers = {
+        culture = utara
+        religion = sunni
+        size = 6750
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 54600
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 89625
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 70762
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 18318
+    }
+}
+#Bikaner (1044000/261000 POPS)
+1267 = {
+    aristocrats = {
+        culture = utara
+        religion = sunni
+        size = 2812
+    }
+
+    clergymen = {
+        culture = utara
+        religion = sunni
+        size = 1762
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 8812
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 3862
+    }
+
+    soldiers = {
+        culture = utara
+        religion = sunni
+        size = 3750
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 32100
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 99375
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 88762
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 70818
+    }
+}
+#Bahawalpur (352000/88000 POPS)
+1231 = {
+    aristocrats = {
+        culture = utara
+        religion = sunni
+        size = 2062
+    }
+
+    clergymen = {
+        culture = utara
+        religion = sunni
+        size = 1762
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 7312
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 5362
+    }
+
+    soldiers = {
+        culture = utara
+        religion = sunni
+        size = 2250
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 47100
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 54375
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 33112
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 85818
+    }
+}
+###################
+### Utara (PNJ) ###
+###################
+#Land of Utara
+#Lahore (2644000/661000 POPS)
+1227 = {
+    aristocrats = {
+        culture = utara
+        religion = sunni
+        size = 9375
+    }
+
+    bureaucrats = {
+        culture = utara
+        religion = sunni
+        size = 1050
+    }
+
+    officers = {
+        culture = utara
+        religion = sunni
+        size = 1500
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 11250
+    }
+
+    soldiers = {
+        culture = utara
+        religion = sunni
+        size = 2250
+    }
+
+    soldiers = {
+        culture = utara
+        religion = sunni
+        size = 6750
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 202950
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 35250
+    }
+}
+#Multan (656000/164000 POPS)
+1228 = {
+    aristocrats = {
+        culture = utara
+        religion = sunni
+        size = 11400
+    }
+
+    clergymen = {
+        culture = utara
+        religion = sunni
+        size = 6090
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 9000
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 6000
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 6000
     }
 
     artisans = {
@@ -616,13 +579,51 @@
     soldiers = {
         culture = utara
         religion = sunni
-        size = 3000
+        size = 3375
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 115400
+        size = 243375
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 69000
+    }
+}
+#Sialkot (548000/137000 POPS)
+1229 = {
+    aristocrats = {
+        culture = utara
+        religion = sunni
+        size = 975
+    }
+
+    clergymen = {
+        culture = utara
+        religion = sunni
+        size = 975
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 4500
+    }
+
+    soldiers = {
+        culture = utara
+        religion = sunni
+        size = 2250
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 86550
     }
 }
 #Attock (344000/87000 POPS)
@@ -630,31 +631,31 @@
     aristocrats = {
         culture = utara
         religion = sunni
-        size = 500
+        size = 375
     }
 
     clergymen = {
         culture = utara
         religion = sunni
-        size = 500
+        size = 375
     }
 
     artisans = {
         culture = utara
         religion = sunni
-        size = 2500
+        size = 1875
     }
 
     soldiers = {
         culture = utara
         religion = sunni
-        size = 500
+        size = 375
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 47000
+        size = 35250
     }
 }
 #Shahpur (1132000/283000 POPS)
@@ -662,31 +663,31 @@
     aristocrats = {
         culture = utara
         religion = sunni
-        size = 50
+        size = 37
     }
 
     clergymen = {
         culture = utara
         religion = sunni
-        size = 50
+        size = 37
     }
 
     artisans = {
         culture = utara
         religion = sunni
-        size = 1100
+        size = 825
     }
 
     soldiers = {
         culture = utara
         religion = sunni
-        size = 50
+        size = 37
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 4850
+        size = 3637
     }
 }
 #Amritsar (2228000/557000 POPS)
@@ -694,81 +695,49 @@
     aristocrats = {
         culture = utara
         religion = sunni
-        size = 1100
+        size = 825
     }
 
     clergymen = {
         culture = utara
         religion = sunni
-        size = 800
+        size = 600
     }
 
     artisans = {
         culture = utara
         religion = sunni
-        size = 10000
+        size = 7500
     }
 
     artisans = {
         culture = utara
         religion = sunni
-        size = 3000
+        size = 2250
     }
 
     soldiers = {
         culture = utara
         religion = sunni
-        size = 1100
+        size = 825
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 64200
+        size = 48150
     }
 
     aristocrats = {
         culture = utara
         religion = sunni
-        size = 3000
+        size = 2250
     }
 
     clergymen = {
         culture = utara
         religion = sunni
-        size = 2500
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 2000
-    }
-
-    soldiers = {
-        culture = utara
-        religion = sunni
-        size = 3000
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 290500
-    }
-}
-#Firuzapur (952000/238000 POPS)
-1234 = {
-    aristocrats = {
-        culture = utara
-        religion = sunni
-        size = 250
-    }
-
-    clergymen = {
-        culture = utara
-        religion = sunni
-        size = 250
+        size = 1875
     }
 
     artisans = {
@@ -780,118 +749,45 @@
     soldiers = {
         culture = utara
         religion = sunni
-        size = 1100
+        size = 2250
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 21000
-    }
-
-    aristocrats = {
-        culture = utara
-        religion = sunni
-        size = 800
-    }
-
-    clergymen = {
-        culture = utara
-        religion = sunni
-        size = 750
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 5000
-    }
-
-    soldiers = {
-        culture = utara
-        religion = sunni
-        size = 3000
-    }
-
-    soldiers = {
-        culture = utara
-        religion = sunni
-        size = 1000
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 175450
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 34000
-    }
-
-    aristocrats = {
-        culture = utara
-        religion = sunni
-        size = 650
-    }
-
-    clergymen = {
-        culture = utara
-        religion = sunni
-        size = 650
-    }
-
-    artisans = {
-        culture = utara
-        religion = sunni
-        size = 3000
-    }
-
-    soldiers = {
-        culture = utara
-        religion = sunni
-        size = 650
-    }
-
-    farmers = {
-        culture = utara
-        religion = sunni
-        size = 47950
+        size = 217875
     }
 }
-#Under Rule of Britain 1836
-#Simla (574000/143500 POPS)
-1235 = {
+#Firuzapur (952000/238000 POPS)
+1234 = {
     aristocrats = {
         culture = utara
         religion = sunni
-        size = 150
+        size = 187
     }
 
     clergymen = {
         culture = utara
         religion = sunni
-        size = 175
+        size = 187
     }
 
     artisans = {
         culture = utara
         religion = sunni
-        size = 2000
+        size = 1125
     }
 
     soldiers = {
         culture = utara
         religion = sunni
-        size = 100
+        size = 825
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 53775
+        size = 15750
     }
 
     aristocrats = {
@@ -903,13 +799,19 @@
     clergymen = {
         culture = utara
         religion = sunni
-        size = 625
+        size = 562
     }
 
     artisans = {
         culture = utara
         religion = sunni
-        size = 2400
+        size = 3750
+    }
+
+    soldiers = {
+        culture = utara
+        religion = sunni
+        size = 2250
     }
 
     soldiers = {
@@ -921,39 +823,137 @@
     farmers = {
         culture = utara
         religion = sunni
-        size = 33625
+        size = 131587
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 25500
+    }
+
+    aristocrats = {
+        culture = utara
+        religion = sunni
+        size = 487
+    }
+
+    clergymen = {
+        culture = utara
+        religion = sunni
+        size = 487
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 2250
+    }
+
+    soldiers = {
+        culture = utara
+        religion = sunni
+        size = 487
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 35962
+    }
+}
+#Under Rule of Britain 1836
+#Simla (574000/143500 POPS)
+1235 = {
+    aristocrats = {
+        culture = utara
+        religion = sunni
+        size = 112
+    }
+
+    clergymen = {
+        culture = utara
+        religion = sunni
+        size = 131
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 1500
+    }
+
+    soldiers = {
+        culture = utara
+        religion = sunni
+        size = 75
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 40331
+    }
+
+    aristocrats = {
+        culture = utara
+        religion = sunni
+        size = 450
+    }
+
+    clergymen = {
+        culture = utara
+        religion = sunni
+        size = 468
+    }
+
+    artisans = {
+        culture = utara
+        religion = sunni
+        size = 1800
+    }
+
+    soldiers = {
+        culture = utara
+        religion = sunni
+        size = 562
+    }
+
+    farmers = {
+        culture = utara
+        religion = sunni
+        size = 25218
     }
 
     aristocrats = {
         culture = nepali
         religion = sunni
-        size = 1100
+        size = 825
     }
 
     clergymen = {
         culture = nepali
         religion = sunni
-        size = 750
+        size = 562
     }
 
     artisans = {
         culture = nepali
         religion = sunni
-        size = 3500
+        size = 2625
     }
 
     soldiers = {
         culture = nepali
         religion = sunni
-        size = 3000
+        size = 2250
     }
 
     farmers = {
         culture = nepali
         religion = sunni
-        size = 30750
+        size = 23062
     }
-
 }
 #######################
 ### New Delhi (NAG) ###
@@ -964,91 +964,91 @@
     aristocrats = {
         culture = utara
         religion = sunni
-        size = 18100
+        size = 13575
     }
 
     bureaucrats = {
         culture = utara
         religion = sunni
-        size = 3750
+        size = 2812
     }
 
     clergymen = {
         culture = utara
         religion = sunni
-        size = 6125
+        size = 4593
     }
 
     artisans = {
         culture = utara
         religion = sunni
-        size = 16000
+        size = 12000
     }
 
     artisans = {
         culture = utara
         religion = sunni
-        size = 16000
+        size = 12000
     }
 
     artisans = {
         culture = utara
         religion = sunni
-        size = 16000
+        size = 12000
     }
 
     artisans = {
         culture = utara
         religion = sunni
-        size = 16000
+        size = 12000
     }
 
     artisans = {
         culture = utara
         religion = sunni
-        size = 7800
+        size = 5850
     }
 
     soldiers = {
         culture = utara
         religion = sunni
-        size = 6100
+        size = 4575
     }
 
     soldiers = {
         culture = utara
         religion = sunni
-        size = 6100
+        size = 4575
     }
 
     soldiers = {
         culture = utara
         religion = sunni
-        size = 6100
+        size = 4575
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 480125
+        size = 360093
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 111250
+        size = 83437
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 92250
+        size = 69187
     }
 
     farmers = {
         culture = nepali
         religion = sunni
-        size = 86250
+        size = 64687
     }
 }
 #Panipat (1280000/320000 POPS)
@@ -1056,49 +1056,49 @@
     aristocrats = {
         culture = utara
         religion = sunni
-        size = 3100
+        size = 2325
     }
 
     clergymen = {
         culture = utara
         religion = sunni
-        size = 2125
+        size = 1593
     }
 
     artisans = {
         culture = utara
         religion = sunni
-        size = 7800
+        size = 5850
     }
 
     soldiers = {
         culture = utara
         religion = sunni
-        size = 6100
+        size = 4575
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 180125
+        size = 135093
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 44250
+        size = 33187
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 36250
+        size = 27187
     }
 
     farmers = {
         culture = nepali
         religion = sunni
-        size = 13250
+        size = 9937
     }
 }
 #Bardwan (4456000/1114000 POPS)
@@ -1106,49 +1106,49 @@
     aristocrats = {
         culture = utara
         religion = sunni
-        size = 8100
+        size = 6075
     }
 
     clergymen = {
         culture = utara
         religion = sunni
-        size = 1125
+        size = 843
     }
 
     artisans = {
         culture = utara
         religion = sunni
-        size = 4800
+        size = 3600
     }
 
     soldiers = {
         culture = utara
         religion = sunni
-        size = 6100
+        size = 4575
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 241125
+        size = 180843
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 14250
+        size = 10687
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 9250
+        size = 6937
     }
 
     farmers = {
         culture = nepali
         religion = sunni
-        size = 21250
+        size = 15937
     }
 }
 #Jessore (2372000/593000 POPS)
@@ -1156,49 +1156,49 @@
     aristocrats = {
         culture = utara
         religion = sunni
-        size = 6100
+        size = 4575
     }
 
     clergymen = {
         culture = utara
         religion = sunni
-        size = 2125
+        size = 1593
     }
 
     artisans = {
         culture = utara
         religion = sunni
-        size = 13800
+        size = 10350
     }
 
     soldiers = {
         culture = utara
         religion = sunni
-        size = 9100
+        size = 6825
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 251125
+        size = 188343
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 71250
+        size = 53437
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 61250
+        size = 45937
     }
 
     farmers = {
         culture = nepali
         religion = sunni
-        size = 21250
+        size = 15937
     }
 }
 #Jaipur (1636000/409000 POPS)
@@ -1206,55 +1206,55 @@
     aristocrats = {
         culture = utara
         religion = sunni
-        size = 4100
+        size = 3075
     }
 
     clergymen = {
         culture = utara
         religion = sunni
-        size = 1925
+        size = 1443
     }
 
     artisans = {
         culture = utara
         religion = sunni
-        size = 12800
+        size = 9600
     }
 
     artisans = {
         culture = utara
         religion = sunni
-        size = 5800
+        size = 4350
     }
 
     soldiers = {
         culture = utara
         religion = sunni
-        size = 3100
+        size = 2325
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 220250
+        size = 165187
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 74250
+        size = 55687
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 12250
+        size = 9187
     }
 
     farmers = {
         culture = nepali
         religion = sunni
-        size = 6250
+        size = 4687
     }
 }
 ### United Provinces Region ###
@@ -1263,112 +1263,111 @@
     aristocrats = {
         culture = utara
         religion = sunni
-        size = 250
+        size = 187
     }
 
     clergymen = {
         culture = utara
         religion = sunni
-        size = 250
+        size = 187
     }
 
     artisans = {
         culture = utara
         religion = sunni
-        size = 3000
+        size = 2250
     }
 
     soldiers = {
         culture = utara
         religion = sunni
-        size = 3250
+        size = 2437
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 86250
+        size = 64687
     }
 
     aristocrats = {
         culture = nepali
         religion = sunni
-        size = 1500
+        size = 1125
     }
 
     clergymen = {
         culture = nepali
         religion = sunni
-        size = 1500
+        size = 1125
     }
 
     artisans = {
         culture = nepali
         religion = sunni
-        size = 7000
+        size = 5250
     }
 
     soldiers = {
         culture = nepali
         religion = sunni
-        size = 2100
+        size = 1575
     }
 
     farmers = {
         culture = nepali
         religion = sunni
-        size = 94000
+        size = 70500
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 38000
+        size = 28500
     }
 }
 #Meerut (1580000/395000 POPS)
 1239 = {
-
     aristocrats = {
         culture = utara
         religion = sunni
-        size = 3500
+        size = 2625
     }
 
     clergymen = {
         culture = utara
         religion = sunni
-        size = 2000
+        size = 1500
     }
 
     artisans = {
         culture = utara
         religion = sunni
-        size = 7000
+        size = 5250
     }
 
     soldiers = {
         culture = utara
         religion = sunni
-        size = 6000
+        size = 4500
     }
 
     soldiers = {
         culture = utara
         religion = sunni
-        size = 3500
+        size = 2625
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 113000
+        size = 84750
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 87625
+        size = 65718
     }
 }
 #Agra (4180000/1045000 POPS)
@@ -1376,30 +1375,30 @@
     aristocrats = {
         culture = utara
         religion = sunni
-        size = 5500
+        size = 4125
     }
 
     artisans = {
         culture = utara
         religion = sunni
-        size = 10000
+        size = 7500
     }
 
     soldiers = {
         culture = utara
         religion = sunni
-        size = 3000
+        size = 2250
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 155250
+        size = 116437
     }
 
     farmers = {
         culture = utara
         religion = sunni
-        size = 20000
+        size = 15000
     }
 }

@@ -3,129 +3,129 @@
     aristocrats = {
         culture = nepali
         religion = sunni
-        size = 6000
+        size = 4500
     }
 
     bureaucrats = {
         culture = nepali
         religion = sunni
-        size = 2175
+        size = 1631
     }
 
     officers = {
         culture = nepali
         religion = sunni
-        size = 3225
+        size = 2418
     }
 
     clergymen = {
         culture = nepali
         religion = sunni
-        size = 7100
+        size = 5325
     }
 
     artisans = {
         culture = nepali
         religion = sunni
-        size = 60000
+        size = 45000
     }
 
     soldiers = {
         culture = nepali
         religion = sunni
-        size = 25000
+        size = 18750
     }
 
     farmers = {
         culture = nepali
         religion = sunni
-        size = 500000
+        size = 375000
     }
 
     aristocrats = {
         culture = nepali
         religion = sunni
-        size = 2000
+        size = 1500
     }
-
 }
 #Patna (3028000/757000 POPS)
 1247 = {
     aristocrats = {
         culture = nepali
         religion = sunni
-        size = 5000
+        size = 3750
     }
 
     clergymen = {
         culture = nepali
         religion = sunni
-        size = 3500
+        size = 2625
     }
 
     artisans = {
         culture = nepali
         religion = sunni
-        size = 10000
+        size = 7500
     }
 
     artisans = {
         culture = nepali
         religion = sunni
-        size = 5000
+        size = 3750
     }
 
     soldiers = {
-        culture = nepali
-        religion = sunni
-        size = 3000
-    }
-
-    soldiers = {
-        culture = nepali
-        religion = sunni
-        size = 500
-    }
-
-    farmers = {
-        culture = nepali
-        religion = sunni
-        size = 140750
-    }
-
-    aristocrats = {
-        culture = nepali
-        religion = sunni
-        size = 2500
-    }
-
-    clergymen = {
         culture = nepali
         religion = sunni
         size = 2250
     }
 
-    artisans = {
-        culture = nepali
-        religion = sunni
-        size = 7000
-    }
-
     soldiers = {
         culture = nepali
         religion = sunni
-        size = 1250
+        size = 375
     }
 
     farmers = {
         culture = nepali
         religion = sunni
-        size = 73750
+        size = 105562
     }
+
+    aristocrats = {
+        culture = nepali
+        religion = sunni
+        size = 1875
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = sunni
+        size = 1687
+    }
+
+    artisans = {
+        culture = nepali
+        religion = sunni
+        size = 5250
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = sunni
+        size = 937
+    }
+
+    farmers = {
+        culture = nepali
+        religion = sunni
+        size = 55312
+    }
+
     slaves = {
         culture = nepali
         religion = sunni
-        size = 110000
+        size = 82500
     }
 }
 #Bhagalpur (1900000/475000 POPS)
@@ -133,140 +133,141 @@
     aristocrats = {
         culture = nepali
         religion = sunni
-        size = 4000
-    }
-
-    clergymen = {
-        culture = nepali
-        religion = sunni
-        size = 3250
-    }
-
-    artisans = {
-        culture = nepali
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = nepali
-        religion = sunni
-        size = 2000
-    }
-
-    soldiers = {
-        culture = nepali
-        religion = sunni
         size = 3000
     }
 
-    farmers = {
-        culture = nepali
-        religion = sunni
-        size = 135250
-    }
-
-    aristocrats = {
-        culture = nepali
-        religion = sunni
-        size = 1900
-    }
-
     clergymen = {
         culture = nepali
         religion = sunni
-        size = 1625
+        size = 2437
     }
 
     artisans = {
         culture = nepali
         religion = sunni
-        size = 2000
+        size = 7500
     }
 
-    soldiers = {
+    artisans = {
         culture = nepali
         religion = sunni
         size = 1500
     }
 
+    soldiers = {
+        culture = nepali
+        religion = sunni
+        size = 2250
+    }
+
     farmers = {
         culture = nepali
         religion = sunni
-        size = 60375
+        size = 101437
     }
+
+    aristocrats = {
+        culture = nepali
+        religion = sunni
+        size = 1425
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = sunni
+        size = 1218
+    }
+
+    artisans = {
+        culture = nepali
+        religion = sunni
+        size = 1500
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = sunni
+        size = 1125
+    }
+
+    farmers = {
+        culture = nepali
+        religion = sunni
+        size = 45281
+    }
+
     slaves = {
         culture = nepali
         religion = sunni
-        size = 40000
+        size = 30000
     }
-
 }
 #Jumla
 1327 = {
     aristocrats = {
         culture = nepali
         religion = sunni
-        size = 3900
+        size = 2925
     }
 
     clergymen = {
         culture = nepali
         religion = sunni
-        size = 1450
+        size = 1087
     }
 
     artisans = {
         culture = nepali
         religion = sunni
-        size = 9300
+        size = 6975
     }
 
     soldiers = {
         culture = nepali
         religion = sunni
-        size = 9100
+        size = 6825
     }
 
     farmers = {
         culture = nepali
         religion = sunni
-        size = 149250
+        size = 111937
     }
 
     aristocrats = {
         culture = nepali
         religion = sunni
-        size = 1700
+        size = 1275
     }
 
     clergymen = {
         culture = nepali
         religion = sunni
-        size = 1375
+        size = 1031
     }
 
     artisans = {
         culture = nepali
         religion = sunni
-        size = 8850
+        size = 6637
     }
 
     soldiers = {
         culture = nepali
         religion = sunni
-        size = 3350
+        size = 2512
     }
 
     farmers = {
         culture = nepali
         religion = sunni
-        size = 63725
+        size = 47793
     }
+
     slaves = {
         culture = nepali
         religion = sunni
-        size = 70000
+        size = 52500
     }
 }
 #Lucknow (2756000/689000 POPS)
@@ -274,19 +275,509 @@
     aristocrats = {
         culture = nepali
         religion = sunni
-        size = 2250
+        size = 1687
     }
 
     bureaucrats = {
         culture = nepali
         religion = sunni
-        size = 1500
+        size = 1125
     }
 
     officers = {
         culture = nepali
         religion = sunni
+        size = 1125
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = sunni
+        size = 843
+    }
+
+    artisans = {
+        culture = nepali
+        religion = sunni
+        size = 7500
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = sunni
+        size = 2625
+    }
+
+    farmers = {
+        culture = nepali
+        religion = sunni
+        size = 68343
+    }
+
+    aristocrats = {
+        culture = nepali
+        religion = sunni
+        size = 1312
+    }
+
+    bureaucrats = {
+        culture = nepali
+        religion = sunni
+        size = 1275
+    }
+
+    officers = {
+        culture = nepali
+        religion = sunni
+        size = 562
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = sunni
+        size = 956
+    }
+
+    artisans = {
+        culture = nepali
+        religion = sunni
+        size = 3750
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = sunni
+        size = 825
+    }
+
+    farmers = {
+        culture = nepali
+        religion = sunni
+        size = 38643
+    }
+
+    slaves = {
+        culture = nepali
+        religion = sunni
+        size = 37500
+    }
+}
+#Fyzabad (2064000/516000 POPS)
+1244 = {
+    aristocrats = {
+        culture = nepali
+        religion = sunni
+        size = 3000
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = sunni
         size = 1500
+    }
+
+    artisans = {
+        culture = nepali
+        religion = sunni
+        size = 6000
+    }
+
+    artisans = {
+        culture = nepali
+        religion = sunni
+        size = 2250
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = sunni
+        size = 2250
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = sunni
+        size = 1125
+    }
+
+    farmers = {
+        culture = nepali
+        religion = sunni
+        size = 123375
+    }
+
+    aristocrats = {
+        culture = nepali
+        religion = sunni
+        size = 525
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = sunni
+        size = 300
+    }
+
+    artisans = {
+        culture = nepali
+        religion = sunni
+        size = 7500
+    }
+
+    artisans = {
+        culture = nepali
+        religion = sunni
+        size = 4575
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = sunni
+        size = 2625
+    }
+
+    farmers = {
+        culture = nepali
+        religion = sunni
+        size = 91050
+    }
+
+    slaves = {
+        culture = nepali
+        religion = sunni
+        size = 67500
+    }
+}
+#Gorakhpur (2476000/619000 POPS)
+1246 = {
+    aristocrats = {
+        culture = nepali
+        religion = sunni
+        size = 375
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = sunni
+        size = 281
+    }
+
+    artisans = {
+        culture = nepali
+        religion = sunni
+        size = 4500
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = sunni
+        size = 375
+    }
+
+    farmers = {
+        culture = nepali
+        religion = sunni
+        size = 106218
+    }
+
+    aristocrats = {
+        culture = nepali
+        religion = sunni
+        size = 1875
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = sunni
+        size = 4687
+    }
+
+    artisans = {
+        culture = nepali
+        religion = sunni
+        size = 7500
+    }
+
+    artisans = {
+        culture = nepali
+        religion = sunni
+        size = 3750
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = sunni
+        size = 2250
+    }
+
+    farmers = {
+        culture = nepali
+        religion = sunni
+        size = 124687
+    }
+
+    slaves = {
+        culture = nepali
+        religion = sunni
+        size = 30000
+    }
+}
+### Pahajala ###
+#Tumlong (56000/14000 POPS)  #now part of India
+#Animist - Lepcha Mun
+1328 = {
+    aristocrats = {
+        culture = nepali
+        religion = sunni
+        size = 787
+    }
+
+    bureaucrats = {
+        culture = nepali
+        religion = sunni
+        size = 390
+    }
+
+    officers = {
+        culture = nepali
+        religion = sunni
+        size = 337
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = sunni
+        size = 1500
+    }
+
+    artisans = {
+        culture = nepali
+        religion = sunni
+        size = 6750
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = sunni
+        size = 3075
+    }
+
+    farmers = {
+        culture = nepali
+        religion = sunni
+        size = 69071
+    }
+
+    farmers = {
+        culture = nepali
+        religion = sunni
+        size = 31687
+    }
+
+    slaves = {
+        culture = nepali
+        religion = sunni
+        size = 47250
+    }
+}
+#Thimpu (136000/34000 POPS)
+1329 = {
+    aristocrats = {
+        culture = nepali
+        religion = sunni
+        size = 1181
+    }
+
+    bureaucrats = {
+        culture = nepali
+        religion = sunni
+        size = 585
+    }
+
+    officers = {
+        culture = nepali
+        religion = sunni
+        size = 318
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = sunni
+        size = 2250
+    }
+
+    artisans = {
+        culture = nepali
+        religion = sunni
+        size = 8250
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = sunni
+        size = 2325
+    }
+
+    farmers = {
+        culture = nepali
+        religion = sunni
+        size = 79181
+    }
+
+    aristocrats = {
+        culture = nepali
+        religion = sunni
+        size = 375
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = sunni
+        size = 562
+    }
+
+    artisans = {
+        culture = nepali
+        religion = sunni
+        size = 1500
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = sunni
+        size = 93
+    }
+
+    slaves = {
+        culture = nepali
+        religion = sunni
+        size = 54750
+    }
+}
+#Darjeeling (3248000/812000 POPS)
+1252 = {
+    farmers = {
+        culture = nepali
+        religion = sunni
+        size = 67500
+    }
+
+    artisans = {
+        culture = nepali
+        religion = sunni
+        size = 9375
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = sunni
+        size = 2250
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = sunni
+        size = 2250
+    }
+
+    farmers = {
+        culture = nepali
+        religion = sunni
+        size = 86437
+    }
+
+    slaves = {
+        culture = nepali
+        religion = sunni
+        size = 33750
+    }
+}
+#Rajshahi (2332000/583000 POPS)
+1255 = {
+    aristocrats = {
+        culture = nepali
+        religion = sunni
+        size = 2212
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = sunni
+        size = 2062
+    }
+
+    artisans = {
+        culture = nepali
+        religion = sunni
+        size = 7500
+    }
+
+    artisans = {
+        culture = nepali
+        religion = sunni
+        size = 5250
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = sunni
+        size = 2250
+    }
+
+    farmers = {
+        culture = nepali
+        religion = sunni
+        size = 145312
+    }
+
+    aristocrats = {
+        culture = nepali
+        religion = sunni
+        size = 1125
+    }
+
+    clergymen = {
+        culture = nepali
+        religion = sunni
+        size = 1500
+    }
+
+    artisans = {
+        culture = nepali
+        religion = sunni
+        size = 7500
+    }
+
+    artisans = {
+        culture = nepali
+        religion = sunni
+        size = 825
+    }
+
+    soldiers = {
+        culture = nepali
+        religion = sunni
+        size = 1500
+    }
+
+    farmers = {
+        culture = nepali
+        religion = sunni
+        size = 98625
+    }
+}
+#Gauhati (1060000/265000 POPS)
+1258 = {
+    aristocrats = {
+        culture = nepali
+        religion = sunni
+        size = 8625
+    }
+
+    bureaucrats = {
+        culture = nepali
+        religion = sunni
+        size = 375
     }
 
     clergymen = {
@@ -298,159 +789,25 @@
     artisans = {
         culture = nepali
         religion = sunni
-        size = 10000
+        size = 4500
     }
 
     soldiers = {
         culture = nepali
         religion = sunni
-        size = 3500
+        size = 1125
     }
 
     farmers = {
         culture = nepali
         religion = sunni
-        size = 91125
-    }
-
-    aristocrats = {
-        culture = nepali
-        religion = sunni
-        size = 1750
+        size = 64125
     }
 
     bureaucrats = {
         culture = nepali
         religion = sunni
-        size = 1700
-    }
-
-    officers = {
-        culture = nepali
-        religion = sunni
-        size = 750
-    }
-
-    clergymen = {
-        culture = nepali
-        religion = sunni
-        size = 1275
-    }
-
-    artisans = {
-        culture = nepali
-        religion = sunni
-        size = 5000
-    }
-
-    soldiers = {
-        culture = nepali
-        religion = sunni
-        size = 1100
-    }
-
-    farmers = {
-        culture = nepali
-        religion = sunni
-        size = 51525
-    }
-    slaves = {
-        culture = nepali
-        religion = sunni
-        size = 50000
-    }
-}
-#Fyzabad (2064000/516000 POPS)
-1244 = {
-    aristocrats = {
-        culture = nepali
-        religion = sunni
-        size = 4000
-    }
-
-    clergymen = {
-        culture = nepali
-        religion = sunni
-        size = 2000
-    }
-
-    artisans = {
-        culture = nepali
-        religion = sunni
-        size = 8000
-    }
-
-    artisans = {
-        culture = nepali
-        religion = sunni
-        size = 3000
-    }
-
-    soldiers = {
-        culture = nepali
-        religion = sunni
-        size = 3000
-    }
-
-    soldiers = {
-        culture = nepali
-        religion = sunni
-        size = 1500
-    }
-
-    farmers = {
-        culture = nepali
-        religion = sunni
-        size = 164500
-    }
-
-    aristocrats = {
-        culture = nepali
-        religion = sunni
-        size = 700
-    }
-
-    clergymen = {
-        culture = nepali
-        religion = sunni
-        size = 400
-    }
-
-    artisans = {
-        culture = nepali
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = nepali
-        religion = sunni
-        size = 6100
-    }
-
-    soldiers = {
-        culture = nepali
-        religion = sunni
-        size = 3500
-    }
-
-    farmers = {
-        culture = nepali
-        religion = sunni
-        size = 121400
-    }
-    slaves = {
-        culture = nepali
-        religion = sunni
-        size = 90000
-    }
-}
-#Gorakhpur (2476000/619000 POPS)
-1246 = {
-    aristocrats = {
-        culture = nepali
-        religion = sunni
-        size = 500
+        size = 187
     }
 
     clergymen = {
@@ -462,375 +819,18 @@
     artisans = {
         culture = nepali
         religion = sunni
-        size = 6000
+        size = 9375
     }
 
     soldiers = {
         culture = nepali
         religion = sunni
-        size = 500
+        size = 2625
     }
 
     farmers = {
         culture = nepali
         religion = sunni
-        size = 141625
-    }
-
-    aristocrats = {
-        culture = nepali
-        religion = sunni
-        size = 2500
-    }
-
-    clergymen = {
-        culture = nepali
-        religion = sunni
-        size = 6250
-    }
-
-    artisans = {
-        culture = nepali
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = nepali
-        religion = sunni
-        size = 5000
-    }
-
-    soldiers = {
-        culture = nepali
-        religion = sunni
-        size = 3000
-    }
-
-    farmers = {
-        culture = nepali
-        religion = sunni
-        size = 166250
-    }
-
-    slaves = {
-        culture = nepali
-        religion = sunni
-        size = 40000
-    }
-}
-### Pahajala ###
-#Tumlong (56000/14000 POPS)  #now part of India
-#Animist - Lepcha Mun
-1328 = {
-    aristocrats = {
-        culture = nepali
-        religion = sunni
-        size = 1050
-    }
-
-    bureaucrats = {
-        culture = nepali
-        religion = sunni
-        size = 520
-    }
-
-    officers = {
-        culture = nepali
-        religion = sunni
-        size = 450
-    }
-
-    clergymen = {
-        culture = nepali
-        religion = sunni
-        size = 2000
-    }
-
-    artisans = {
-        culture = nepali
-        religion = sunni
-        size = 9000
-    }
-
-    soldiers = {
-        culture = nepali
-        religion = sunni
-        size = 4100
-    }
-
-    farmers = {
-        culture = nepali
-        religion = sunni
-        size = 92095
-    }
-
-    farmers = {
-        culture = nepali
-        religion = sunni
-        size = 42250
-    }
-
-    slaves = {
-        culture = nepali
-        religion = sunni
-        size = 63000
-    }
-}
-#Thimpu (136000/34000 POPS)
-1329 = {
-    aristocrats = {
-        culture = nepali
-        religion = sunni
-        size = 1575
-    }
-
-    bureaucrats = {
-        culture = nepali
-        religion = sunni
-        size = 780
-    }
-
-    officers = {
-        culture = nepali
-        religion = sunni
-        size = 425
-    }
-
-    clergymen = {
-        culture = nepali
-        religion = sunni
-        size = 3000
-    }
-
-    artisans = {
-        culture = nepali
-        religion = sunni
-        size = 11000
-    }
-
-    soldiers = {
-        culture = nepali
-        religion = sunni
-        size = 3100
-    }
-
-    farmers = {
-        culture = nepali
-        religion = sunni
-        size = 105575
-    }
-
-    aristocrats = {
-        culture = nepali
-        religion = sunni
-        size = 500
-    }
-
-    clergymen = {
-        culture = nepali
-        religion = sunni
-        size = 750
-    }
-
-    artisans = {
-        culture = nepali
-        religion = sunni
-        size = 2000
-    }
-
-    soldiers = {
-        culture = nepali
-        religion = sunni
-        size = 125
-    }
-
-    slaves = {
-        culture = nepali
-        religion = sunni
-        size = 73000
-    }
-}
-#Darjeeling (3248000/812000 POPS)
-1252 = {
-
-    farmers = {
-        culture = nepali
-        religion = sunni
-        size = 90000
-    }
-
-    artisans = {
-        culture = nepali
-        religion = sunni
-        size = 12500
-    }
-
-    soldiers = {
-        culture = nepali
-        religion = sunni
-        size = 3000
-    }
-
-    soldiers = {
-        culture = nepali
-        religion = sunni
-        size = 3000
-    }
-
-    farmers = {
-        culture = nepali
-        religion = sunni
-        size = 115250
-    }
-
-    slaves = {
-        culture = nepali
-        religion = sunni
-        size = 45000
-    }
-
-}
-#Rajshahi (2332000/583000 POPS)
-1255 = {
-    aristocrats = {
-        culture = nepali
-        religion = sunni
-        size = 2950
-    }
-
-    clergymen = {
-        culture = nepali
-        religion = sunni
-        size = 2750
-    }
-
-    artisans = {
-        culture = nepali
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = nepali
-        religion = sunni
-        size = 7000
-    }
-
-    soldiers = {
-        culture = nepali
-        religion = sunni
-        size = 3000
-    }
-
-    farmers = {
-        culture = nepali
-        religion = sunni
-        size = 193750
-    }
-
-    aristocrats = {
-        culture = nepali
-        religion = sunni
-        size = 1500
-    }
-
-    clergymen = {
-        culture = nepali
-        religion = sunni
-        size = 2000
-    }
-
-    artisans = {
-        culture = nepali
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = nepali
-        religion = sunni
-        size = 1100
-    }
-
-    soldiers = {
-        culture = nepali
-        religion = sunni
-        size = 2000
-    }
-
-    farmers = {
-        culture = nepali
-        religion = sunni
-        size = 131500
-    }
-}
-#Gauhati (1060000/265000 POPS)
-1258 = {
-
-    aristocrats = {
-        culture = nepali
-        religion = sunni
-        size = 11500
-    }
-
-    bureaucrats = {
-        culture = nepali
-        religion = sunni
-        size = 500
-    }
-
-    clergymen = {
-        culture = nepali
-        religion = sunni
-        size = 1500
-    }
-
-    artisans = {
-        culture = nepali
-        religion = sunni
-        size = 6000
-    }
-
-    soldiers = {
-        culture = nepali
-        religion = sunni
-        size = 1500
-    }
-
-    farmers = {
-        culture = nepali
-        religion = sunni
-        size = 85500
-    }
-
-    bureaucrats = {
-        culture = nepali
-        religion = sunni
-        size = 250
-    }
-
-    clergymen = {
-        culture = nepali
-        religion = sunni
-        size = 500
-    }
-
-    artisans = {
-        culture = nepali
-        religion = sunni
-        size = 12500
-    }
-
-    soldiers = {
-        culture = nepali
-        religion = sunni
-        size = 3500
-    }
-
-    farmers = {
-        culture = nepali
-        religion = sunni
-        size = 145750
+        size = 109312
     }
 }
