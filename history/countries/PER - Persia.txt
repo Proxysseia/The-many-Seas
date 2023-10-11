@@ -1,6 +1,7 @@
-capital = 2022
+capital = 1148
 primary_culture = persian
 culture = kurdish
+culture = kazak
 religion = sunni
 government = absolute_monarchy
 plurality = 30
@@ -10,7 +11,7 @@ non_state_culture_literacy = 0.01
 civilized = yes
 
 # Political reforms
-slavery = yes_slavery
+slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
 public_meetings = yes_meeting
