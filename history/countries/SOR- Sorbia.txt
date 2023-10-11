@@ -36,7 +36,7 @@ school_reforms = no_schools
 #citizens_rights = culture_voting_only
 #border_policy = open_borders
 
-ruling_party = SOR_conservative
+ruling_party = SOR_conservative_2
 upper_house = {
     fascist = 0
     liberal = 33

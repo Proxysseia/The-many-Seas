@@ -72,12 +72,6 @@
         size = 11000
     }
 
-    farmers = {
-        culture = czech
-        religion = catholic
-        size = 87075
-    }
-
     aristocrats = {
         culture = sorbian
         religion = catholic
@@ -120,12 +114,6 @@
         size = 450
     }
 
-    farmers = {
-        culture = sorbian
-        religion = catholic
-        size = 8662
-    }
-
     aristocrats = {
         culture = sorbian
         religion = catholic
@@ -141,7 +129,7 @@
     bureaucrats = {
         culture = sorbian
         religion = catholic
-        size = 150
+        size = 1250
     }
 
     officers = {
@@ -178,24 +166,6 @@
         culture = sorbian
         religion = catholic
         size = 1125
-    }
-
-    soldiers = {
-        culture = sorbian
-        religion = catholic
-        size = 282
-    }
-
-    farmers = {
-        culture = sorbian
-        religion = catholic
-        size = 116250
-    }
-
-    farmers = {
-        culture = sorbian
-        religion = catholic
-        size = 48375
     }
 
     aristocrats = {
@@ -1397,18 +1367,6 @@
         size = 4500
     }
 
-    farmers = {
-        culture = sorbian
-        religion = catholic
-        size = 101415
-    }
-
-    farmers = {
-        culture = sorbian
-        religion = catholic
-        size = 2520
-    }
-
     bureaucrats = {
         culture = sorbian
         religion = catholic
@@ -1466,7 +1424,7 @@
     bureaucrats = {
         culture = sorbian
         religion = catholic
-        size = 405
+        size = 1405
     }
 
     officers = {
@@ -1506,7 +1464,7 @@
     }
 
     farmers = {
-        culture = sorbian
+        culture = polish
         religion = catholic
         size = 32653
     }
