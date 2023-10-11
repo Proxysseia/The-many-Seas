@@ -8,7 +8,6 @@
 # cost = x #==> extra construction cost (added to goods cost estimations)
 # time = x #==> number of days to build.
 #
-# Audax Validator EnableCommentMetadata
 
 
 ############# LATE GAME FACTORIES
@@ -24,8 +23,9 @@ aeroplane_factory = {
 		electric_gear = 600
 		steel = 600
 		cement = 600
+		lumber = 600
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -45,9 +45,10 @@ barrel_factory = {
 		electric_gear = 500
 		steel = 500
 		cement = 500
+		lumber = 500
 	}
 
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -67,8 +68,9 @@ automobile_factory = {
 		electric_gear = 200
 		steel = 400
 		cement = 400
+		lumber = 400
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -89,8 +91,9 @@ radio_factory = {
 		electric_gear = 200
 		steel = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -111,8 +114,9 @@ telephone_factory = {
 		electric_gear = 200
 		steel = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -134,8 +138,9 @@ electric_gear_factory = {
 		machine_parts = 300
 		steel = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -152,10 +157,11 @@ machine_parts_factory = {
 	max_level = 99
 	goods_cost =
 	{
-		iron = 200
 		cement = 200
+		iron = 200
+		timber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -172,11 +178,12 @@ synthetic_oil_factory = {
 	max_level = 99
 	goods_cost =
 	{
-		machine_parts = 300
+		machine_parts = 200
 		steel = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -184,6 +191,7 @@ synthetic_oil_factory = {
 	pop_build_factory = yes
 	strategic_factory = yes
 }
+
 
 fuel_refinery = {
 	type = factory
@@ -196,8 +204,9 @@ fuel_refinery = {
 		machine_parts = 200
 		steel = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -210,8 +219,6 @@ fuel_refinery = {
 
 steamer_shipyard = {
 	type = factory
-	
-	steam = yes
 
 	on_completion = factory
 	completion_size = 0.2
@@ -221,8 +228,9 @@ steamer_shipyard = {
 		machine_parts = 400
 		steel = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -232,8 +240,6 @@ steamer_shipyard = {
 
 clipper_shipyard = {
 	type = factory
-	
-	sail = yes
 
 	on_completion = factory
 	completion_size = 0.2
@@ -243,8 +249,9 @@ clipper_shipyard = {
 		machine_parts = 200
 		iron = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -265,8 +272,9 @@ luxury_clothes_factory = {
 		machine_parts = 200
 		iron = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -285,8 +293,9 @@ luxury_furniture_factory = {
 		machine_parts = 200
 		iron = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -307,8 +316,9 @@ steel_factory = {
 		machine_parts = 200
 		iron = 200
 		coal = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 	
@@ -327,8 +337,9 @@ artillery_factory = {
 		machine_parts = 200
 		iron = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -346,8 +357,9 @@ small_arms_factory = {
 		machine_parts = 140
 		iron = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -367,8 +379,9 @@ furniture_factory = {
 		machine_parts = 140
 		iron = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -386,8 +399,9 @@ paper_mill = {
 		machine_parts = 140
 		iron = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 	
@@ -405,8 +419,9 @@ regular_clothes_factory = {
 		machine_parts = 140
 		iron = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -424,8 +439,9 @@ explosives_factory = {
 		machine_parts = 140
 		iron = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -446,8 +462,9 @@ ammunition_factory = {
 		machine_parts = 100
 		iron = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -466,8 +483,9 @@ canned_food_factory = {
 		machine_parts = 80
 		iron = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -484,16 +502,16 @@ dye_factory = {
 	goods_cost =
 	{
 		machine_parts = 80
-		steel = 200 #was iron
+		iron = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
 	production_type = dye_factory
 	pop_build_factory = yes
-	strategic_factory = yes #Wasn't strategic
 }
 
 liquor_distillery = {
@@ -507,12 +525,13 @@ liquor_distillery = {
 		machine_parts = 80
 		iron = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 	
-	default_enabled = yes
+	default_enabled = yes	
 	production_type = liquor_distillery
 	pop_build_factory = yes
 }
@@ -527,12 +546,13 @@ winery = {
 		machine_parts = 80
 		iron = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
-	default_enabled = yes
+	default_enabled = yes	
 	production_type = winery
 	pop_build_factory = yes
 }
@@ -546,11 +566,11 @@ lumber_mill = {
 	max_level = 99
 	goods_cost =
 	{
-		machine_parts = 20
-		iron = 200
 		cement = 200
+		iron = 200
+		timber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -568,14 +588,16 @@ fabric_factory = {
 		machine_parts = 20
 		iron = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
 	production_type = fabric_factory
 	pop_build_factory = yes
 }
+
 
 cement_factory = {
 	type = factory
@@ -584,11 +606,11 @@ cement_factory = {
 	max_level = 99
 	goods_cost =
 	{
-		machine_parts = 20
+		cement = 100
 		iron = 200
-		lumber = 200
+		timber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -606,8 +628,9 @@ glass_factory = {
 		machine_parts = 40
 		iron = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 	
@@ -626,8 +649,9 @@ fertilizer_factory = {
 		machine_parts = 200
 		iron = 200
 		cement = 200
+		lumber = 200
 	}
-	time = 182
+	time = 30
 	visibility = yes
 	onmap = no
 
@@ -635,21 +659,18 @@ fertilizer_factory = {
 	pop_build_factory = yes
 }
 
-############# Military Buildings and Infrastructure
-
 fort = {      
 	type = fort
+	cost = 400
 	goods_cost =
 	{
-		steel = 100
-		lumber = 100
-		cement = 100
-		explosives = 50
-		small_arms = 50
-		artillery = 40
-		ammunition = 10
+		lumber = 600
+		cement = 400
+		explosives = 200
+		small_arms = 200
+		artillery = 180
 	}
-	time = 1080 
+	time = 360 
 	visibility = yes
 	onmap = yes
 	max_level = 6
@@ -659,38 +680,37 @@ fort = {
 
 naval_base = {    
 	type = naval_base
-	cost = 15000
+	cost = 5000
 	goods_cost =
 	{
-		lumber = 100
-		cement = 100
-		steel = 100
-		machine_parts = 1
+		timber = 800
+		lumber = 600
+		cement = 800
+		steel = 800
+		machine_parts = 60
 	}
-	time = 720
+	time = 360
 	naval_capacity = 1
 	capital = yes
 	onmap = yes
 	port = yes
 	visibility = yes
 	max_level = 6
-	# Audax Validator "." Ignore_NEXT
-	colonial_points = { 30 50 70 90 110 130 } #points at levels 1-6
+	colonial_points = { 30 50 70 90 95 100 } #points at levels 1-6
 	province = yes
-	one_per_state = yes
-	colonial_range = 25
-	local_ship_build = -0.10
+	colonial_range = 50
+	local_ship_build = -0.05
 }
-
+       
 railroad = {   
 	type = infrastructure
 	goods_cost =
 	{
-		lumber = 100
+		lumber = 200
 		cement = 100
 		steel = 100
 	}
-	time = 730
+	time = 360
 	visibility = yes
 	onmap = yes
 	max_level = 6
@@ -702,4 +722,3 @@ railroad = {
 	pop_build_factory = yes
 	spawn_railway_track = yes
 }
-
