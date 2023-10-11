@@ -501,6 +501,7 @@ paper_mill = {
 regular_clothes_factory = {       
 	template = factory_template
 	input_goods = {  
+		dye = 5
 		fabric = 50		#18	total input+maint = 72
 	}
 	output_goods = regular_clothes 
@@ -508,6 +509,10 @@ regular_clothes_factory = {
 	bonus = {
 		trigger = { has_building = fabric_factory }
 		value = 0.15
+	}
+	bonus = {
+		trigger = { trade_goods_in_state = dye }
+		value = 0.1
 	}
 }
        
@@ -890,7 +895,7 @@ tobacco_plantation = {
 tropical_wood_lodge = {
 	template = RGO_template_labourers
 	output_goods = tropical_wood 
-	value = 4
+	value = 4.2 #4
 	farm = yes
 }
 
@@ -1076,7 +1081,7 @@ artisan_steamer = {
 
 artisan_luxury_clothes = {       
 	input_goods = {   
-		#dye = 0.25	#3
+		dye = 0.25	#3
 		silk = 5		#50	total input+maint = 62.825
 	}
 	output_goods = luxury_clothes 
@@ -1229,10 +1234,11 @@ artisan_paper = {
 
 artisan_regular_clothes = {       
 	input_goods = {  
-		fabric = 50		#18	total input+maint = 72
+		dye = 5
+		fabric = 50		#18	total input+maint = ? cant be fucked to do math
 	}
 	output_goods = regular_clothes 
-	value = 22			#87
+	value = 22			#?
 	
 	owner = {
 		poptype = artisan 
