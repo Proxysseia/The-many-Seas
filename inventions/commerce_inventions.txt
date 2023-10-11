@@ -655,7 +655,7 @@ karl_kautsky = {
 		permanent_prestige = 1 
 	}
 }
-jean_jaurès = {
+jean_jaurï¿½s = {
 	limit = { collectivist_theory = 1 }
 	news = no
 	chance = {
@@ -805,7 +805,7 @@ william_cunningham = {
 	}
 }
 #neoclassical_theory
-johann_heinrich_von_thünen = {
+johann_heinrich_von_thï¿½nen = {
 	limit = { neoclassical_theory = 1 }
 	news = no
 	chance = {
@@ -824,7 +824,7 @@ johann_heinrich_von_thünen = {
 		increase_research = 0.01 
 	}
 }
-léon_walras = {
+lï¿½on_walras = {
 	limit = { neoclassical_theory = 1 }
 	news = no
 	chance = {
@@ -1033,7 +1033,7 @@ joseph_schumpeter = {
 		increase_research = 0.01 
 	}
 }
-eugen_von_böhm_bawerk = {
+eugen_von_bï¿½hm_bawerk = {
 	limit = { neoclassical_theory = 1 }
 	news = no
 	chance = {
@@ -1159,7 +1159,7 @@ polypoly_structure = {
 		}
 	}
 	effect = {
-		factory_input = -0.02
+		factory_throughput = -0.03
 	}
 }
 oligopoly_structure = {
@@ -1185,7 +1185,7 @@ oligopoly_structure = {
 		}
 	}
 	effect = {
-		factory_output = 0.02
+		factory_throughput = 0.03
 	}
 }
 monopoly_structure = {
@@ -1211,7 +1211,7 @@ monopoly_structure = {
 		}
 	}
 	effect = {
-		factory_throughput = 0.05
+		factory_throughput = 0.04
 	}
 }
 #business_regulations
@@ -1538,7 +1538,7 @@ work_classification = {
 		}
 	}
 	effect = {
-		factory_output = 0.01
+		factory_output = 0.03
 	}
 }
 work_specialization = {
@@ -1560,7 +1560,7 @@ work_specialization = {
 		}
 	}
 	effect = {
-		factory_output = 0.01
+		factory_output = 0.03
 	}
 }
 work_control_and_hierarchy = {
@@ -1582,7 +1582,7 @@ work_control_and_hierarchy = {
 		}
 	}
 	effect = {
-		factory_output = 0.01
+		factory_output = 0.03
 	}
 }
 #scientific_management
@@ -1601,7 +1601,7 @@ sequence_planning = {
 		}
 	}
 	effect = {
-		factory_output = 0.01
+		factory_output = 0.03
 	}
 }
 inventory_planning = {
@@ -1619,7 +1619,7 @@ inventory_planning = {
 		}
 	}
 	effect = {
-		factory_output = 0.01
+		factory_output = 0.03
 	}
 }
 quality_assurance_procedure = {
@@ -1637,7 +1637,7 @@ quality_assurance_procedure = {
 		}
 	}
 	effect = {
-		factory_output = 0.01
+		factory_output = 0.03
 	}
 }
 #time_saving_measures
@@ -1656,7 +1656,7 @@ time_studies = {
 		}
 	}
 	effect = {
-		factory_output = 0.01
+		factory_output = 0.03
 	}
 }
 time_clock = {
@@ -1674,7 +1674,7 @@ time_clock = {
 		}
 	}
 	effect = {
-		factory_output = 0.025
+		factory_output = 0.03
 	}
 }
 lighting = {
@@ -1692,7 +1692,7 @@ lighting = {
 		}
 	}
 	effect = {
-		factory_output = 0.025
+		factory_output = 0.03
 	}
 }
 #management_strategy
@@ -1713,7 +1713,7 @@ old_style_family_business = {
 		}
 	}
 	effect = {
-		factory_input = -0.01
+		factory_output = 0.03
 	}
 }
 anynomous_investor_business = {
@@ -1731,7 +1731,7 @@ anynomous_investor_business = {
 		}
 	}
 	effect = {
-		factory_input = -0.01 
+		factory_output = 0.03 
 	}
 }
 marketized_smallholder_business = {
@@ -1749,7 +1749,7 @@ marketized_smallholder_business = {
 		}
 	}
 	effect = {
-		factory_input = -0.01
+		factory_output = 0.03
 	}
 }
 #organizational_development
@@ -1768,7 +1768,7 @@ i_scientific_management = {
 		}
 	}
 	effect = {
-		factory_output = 0.01
+		factory_output = 0.05
 	}
 }
 human_resource_development = {
@@ -1786,6 +1786,6 @@ human_resource_development = {
 		}
 	}
 	effect = {
-		factory_output = 0.01
+		factory_output = 0.05
 	}
 }

@@ -25,7 +25,6 @@ post_nelsonian_thought = {
 			factor = 4.05
 			OR = {
 				tech_school = naval_tech_school
-				tech_school = japanese_tech_school
 			}
 		}
 		# A nation with ports and the potential to colonize
@@ -111,7 +110,6 @@ battleship_column_doctrine = {
 			factor = 51
 			OR = {
 				tech_school = naval_tech_school
-				tech_school = japanese_tech_school
 			}
 		}
 		# GPs with 9 or more coastal provinces (Prussia+)
@@ -194,7 +192,6 @@ raider_group_doctrine = {
 			factor = 51
 			OR = {
 				tech_school = naval_tech_school
-				tech_school = japanese_tech_school
 			}
 		}
 		# GPs with 9 or more coastal provinces (Prussia+)
@@ -283,7 +280,6 @@ blue_and_brown_water_schools = {
 			factor = 51
 			OR = {
 				tech_school = naval_tech_school
-				tech_school = japanese_tech_school
 			}
 		}
 		# GPs with 9 or more coastal provinces (Prussia+)
@@ -368,7 +364,6 @@ high_sea_battle_fleet = {
 			factor = 51
 			OR = {
 				tech_school = naval_tech_school
-				tech_school = japanese_tech_school
 			}
 		}
 		# GPs with 9 or more coastal provinces (Prussia+)
@@ -522,7 +517,6 @@ clipper_design = {
 			factor = 1.05
 			OR = {
 				tech_school = naval_tech_school
-				tech_school = japanese_tech_school
 			}
 		}
 		# Valuable for major producers of fish (+50% output invention)
@@ -606,7 +600,6 @@ steamers = {
 			factor = 4.05
 			OR = {
 				tech_school = naval_tech_school
-				tech_school = japanese_tech_school
 			}
 		}
 		# Valuable for major producers of fish (+50% output invention)
@@ -694,8 +687,6 @@ iron_steamers = {
 		modifier = {
 			factor = 51
 			OR = {
-				tech_school = naval_tech_school
-				tech_school = japanese_tech_school
 			}
 		}
 		# GPs with 9 or more coastal provinces (Prussia+)
@@ -778,7 +769,6 @@ steel_steamers = {
 			factor = 51
 			OR = {
 				tech_school = naval_tech_school
-				tech_school = japanese_tech_school
 			}
 		}
 		# GPs with 9 or more coastal provinces (Prussia+)
@@ -856,7 +846,6 @@ steam_turbine_ships = {
 			factor = 4.05
 			OR = {
 				tech_school = naval_tech_school
-				tech_school = japanese_tech_school
 			}
 		}
 		# GPs with 9 or more coastal provinces (Prussia+)
@@ -934,7 +923,6 @@ oil_driven_ships = {
 			factor = 1.05
 			OR = {
 				tech_school = naval_tech_school
-				tech_school = japanese_tech_school
 			}
 		}
 		# GPs with 9 or more coastal provinces (Prussia+)
