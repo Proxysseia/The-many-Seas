@@ -9,7 +9,7 @@
     bureaucrats = {
         culture = saayda
         religion = shiite
-        size = 75
+        size = 225
     }
 
     officers = {
@@ -217,7 +217,7 @@
     bureaucrats = {
         culture = saayda
         religion = sunni
-        size = 300
+        size = 1200
     }
 
     clergymen = {
@@ -573,7 +573,7 @@
     bureaucrats = {
         culture = saayda
         religion = catholic
-        size = 150
+        size = 450
     }
 
     clergymen = {
@@ -839,7 +839,7 @@
     bureaucrats = {
         culture = saayda
         religion = jewish
-        size = 375
+        size = 1500
     }
 
     officers = {
@@ -921,7 +921,7 @@
     bureaucrats = {
         culture = saayda
         religion = jewish
-        size = 75
+        size = 300
     }
 
     officers = {
@@ -1041,7 +1041,7 @@
     bureaucrats = {
         culture = saayda
         religion = sunni
-        size = 2500
+        size = 10000
     }
 
     officers = {
@@ -1061,8 +1061,8 @@
         religion = sunni
         size = 9750
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = saayda
         religion = sunni
         size = 8750
@@ -1277,7 +1277,7 @@
     bureaucrats = {
         culture = saayda
         religion = sunni
-        size = 487
+        size = 1948
     }
 
     officers = {
@@ -1397,7 +1397,7 @@
     bureaucrats = {
         culture = saayda
         religion = sunni
-        size = 187
+        size = 748
     }
 
     clergymen = {
@@ -1479,7 +1479,7 @@
     bureaucrats = {
         culture = saayda
         religion = sunni
-        size = 37
+        size = 148
     }
 
     officers = {

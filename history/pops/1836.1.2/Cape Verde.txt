@@ -9,7 +9,7 @@
     bureaucrats = {
         culture = scottish
         religion = protestant
-        size = 10
+        size = 20
     }
 
     farmers = {
@@ -29,7 +29,7 @@
     bureaucrats = {
         culture = australian
         religion = protestant
-        size = 37
+        size = 111
     }
 
     farmers = {

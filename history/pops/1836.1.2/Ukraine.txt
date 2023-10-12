@@ -59,7 +59,7 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 24
+        size = 96
     }
 
     officers = {
@@ -377,7 +377,7 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 1300
+        size = 5200
     }
 
     officers = {

@@ -9,7 +9,7 @@
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 4
+        size = 12
     }
 
     officers = {
@@ -313,7 +313,7 @@
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 33
+        size = 99
     }
 
     officers = {
@@ -497,7 +497,7 @@
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 90
+        size = 270
     }
 
     clergymen = {
@@ -713,7 +713,7 @@
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 337
+        size = 1011
     }
 
     officers = {
@@ -789,7 +789,7 @@
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 45
+        size = 135
     }
 
     clergymen = {
@@ -830,6 +830,12 @@
         size = 225
     }
 
+    bureaucrats = {
+        culture = bambara
+        religion = animist
+        size = 3640
+    }
+
     artisans = {
         culture = bambara
         religion = animist
@@ -865,7 +871,7 @@
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 168
+        size = 504
     }
 
     officers = {
@@ -1035,7 +1041,13 @@
     clergymen = {
         culture = bambara
         religion = animist
-        size = 45
+        size = 1245
+    }
+
+    bureaucrats = {
+        culture = bambara
+        religion = animist
+        size = 3640
     }
 
     artisans = {
@@ -1043,8 +1055,8 @@
         religion = animist
         size = 742
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = bambara
         religion = animist
         size = 7420
@@ -1087,8 +1099,8 @@
         religion = animist
         size = 855
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = bambara
         religion = animist
         size = 12000
@@ -1443,8 +1455,8 @@
         religion = animist
         size = 270
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = bambara
         religion = animist
         size = 5400
@@ -1555,13 +1567,13 @@
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 155
+        size = 465
     }
 
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 56
+        size = 168
     }
 
     clergymen = {
@@ -1681,7 +1693,7 @@
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 180
+        size = 540
     }
 
     officers = {
@@ -1731,7 +1743,7 @@
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 11
+        size = 33
     }
 
     officers = {
@@ -1865,8 +1877,8 @@
         religion = animist
         size = 270
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = bambara
         religion = animist
         size = 5400
@@ -1901,7 +1913,7 @@
     bureaucrats = {
         culture = bambara
         religion = protestant
-        size = 9
+        size = 27
     }
 
     aristocrats = {
@@ -1913,7 +1925,7 @@
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 45
+        size = 135
     }
 
     clergymen = {
@@ -1957,7 +1969,7 @@
     bureaucrats = {
         culture = bambara
         religion = animist
-        size = 119
+        size = 357
     }
 
     officers = {

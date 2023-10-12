@@ -11,7 +11,7 @@
     bureaucrats = {
         culture = latvian
         religion = orthodox
-        size = 140
+        size = 560
     }
 
     officers = {
@@ -175,7 +175,7 @@
     bureaucrats = {
         culture = latvian
         religion = catholic
-        size = 315
+        size = 1260
     }
 
     officers = {
@@ -279,7 +279,7 @@
     bureaucrats = {
         culture = latvian
         religion = orthodox
-        size = 70
+        size = 280
     }
 
     clergymen = {
@@ -347,7 +347,7 @@
     bureaucrats = {
         culture = latvian
         religion = orthodox
-        size = 245
+        size = 980
     }
 
     officers = {
@@ -575,7 +575,7 @@
     bureaucrats = {
         culture = latvian
         religion = orthodox
-        size = 2278
+        size = 9112
     }
 
     officers = {

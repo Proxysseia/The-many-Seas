@@ -1,6 +1,5 @@
 #Cairo
 1745 = {
-
     aristocrats = {
         culture = saayda
         religion = sunni
@@ -10,7 +9,7 @@
     bureaucrats = {
         culture = saayda
         religion = sunni
-        size = 1870
+        size = 7480
     }
 
     officers = {
@@ -59,26 +58,26 @@
 1746 = {
     aristocrats = {
         culture = australian
-        religion = sunni
+        religion = protestant
         size = 375
     }
 
-    artisans = {
+    bureaucrats = {
         culture = australian
-        religion = sunni
-        size = 7500
+        religion = protestant
+        size = 1300
     }
 
     artisans = {
         culture = australian
-        religion = sunni
-        size = 4181
+        religion = protestant
+        size = 11500
     }
 
     soldiers = {
         culture = australian
-        religion = sunni
-        size = 56
+        religion = protestant
+        size = 5600
     }
 
     aristocrats = {
@@ -89,44 +88,20 @@
 
     clergymen = {
         culture = saayda
-        religion = sunni
-        size = 462
+        religion = protestant
+        size = 2462
     }
 
     artisans = {
         culture = saayda
         religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 10000
-    }
-
-    artisans = {
-        culture = saayda
-        religion = sunni
-        size = 1800
+        size = 35000
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
-        size = 3000
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = sunni
-        size = 100
+        religion = protestant
+        size = 1000
     }
 
     farmers = {
@@ -137,19 +112,13 @@
 
     clergymen = {
         culture = saayda
-        religion = coptic
+        religion = sunni
         size = 25
-    }
-
-    artisans = {
-        culture = saayda
-        religion = coptic
-        size = 150
     }
 
     farmers = {
         culture = saayda
-        religion = coptic
+        religion = protestant
         size = 2825
     }
 }
@@ -421,8 +390,8 @@
         religion = sunni
         size = 6075
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = saayda
         religion = sunni
         size = 3750
@@ -445,7 +414,7 @@
     bureaucrats = {
         culture = saayda
         religion = coptic
-        size = 2025
+        size = 8100
     }
 
     officers = {
@@ -629,7 +598,7 @@
     bureaucrats = {
         culture = saayda
         religion = sunni
-        size = 15
+        size = 60
     }
 
     officers = {
@@ -893,7 +862,7 @@
     bureaucrats = {
         culture = saayda
         religion = sunni
-        size = 1650
+        size = 6600
     }
 
     officers = {
@@ -1151,7 +1120,7 @@
     bureaucrats = {
         culture = saayda
         religion = sunni
-        size = 67
+        size = 268
     }
 
     officers = {
@@ -1187,7 +1156,7 @@
     bureaucrats = {
         culture = saayda
         religion = coptic
-        size = 7
+        size = 28
     }
 
     clergymen = {

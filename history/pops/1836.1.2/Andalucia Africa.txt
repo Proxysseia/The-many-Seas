@@ -9,7 +9,7 @@
     bureaucrats = {
         culture = berber
         religion = sunni
-        size = 237
+        size = 711
     }
 
     officers = {
@@ -593,7 +593,7 @@
     bureaucrats = {
         culture = spanish
         religion = catholic
-        size = 5
+        size = 15
     }
 
     artisans = {
@@ -669,7 +669,7 @@
     bureaucrats = {
         culture = berber
         religion = sunni
-        size = 142
+        size = 426
     }
 
     officers = {
@@ -1129,7 +1129,7 @@
     bureaucrats = {
         culture = berber
         religion = sunni
-        size = 47
+        size = 141
     }
 
     officers = {
@@ -1407,7 +1407,7 @@
     bureaucrats = {
         culture = berber
         religion = sunni
-        size = 380
+        size = 1140
     }
 
     clergymen = {
@@ -1627,7 +1627,7 @@
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 50
+        size = 150
     }
 
     clergymen = {
@@ -1707,7 +1707,7 @@
     bureaucrats = {
         culture = berber
         religion = sunni
-        size = 3900
+        size = 11700
     }
 
     clergymen = {
@@ -1721,8 +1721,8 @@
         religion = sunni
         size = 4275
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = berber
         religion = sunni
         size = 10600
@@ -1889,7 +1889,7 @@
     bureaucrats = {
         culture = berber
         religion = catholic
-        size = 95
+        size = 285
     }
 
     clergymen = {
@@ -1970,7 +1970,7 @@
     bureaucrats = {
         culture = berber
         religion = sunni
-        size = 142
+        size = 426
     }
 
     clergymen = {
@@ -2268,7 +2268,7 @@
     bureaucrats = {
         culture = berber
         religion = sunni
-        size = 3665
+        size = 10995
     }
 
     officers = {
@@ -2288,8 +2288,8 @@
         religion = sunni
         size = 32250
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = berber
         religion = sunni
         size = 7280

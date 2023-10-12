@@ -107,7 +107,7 @@
     bureaucrats = {
         culture = scottish
         religion = protestant
-        size = 11
+        size = 22
     }
 
     clergymen = {
@@ -139,7 +139,7 @@
     bureaucrats = {
         culture = scottish
         religion = protestant
-        size = 825
+        size = 1650
     }
 
     artisans = {
@@ -190,7 +190,7 @@
     bureaucrats = {
         culture = scottish
         religion = protestant
-        size = 1575
+        size = 3150
     }
 
     clerks = {
@@ -409,7 +409,7 @@
     bureaucrats = {
         culture = welsh
         religion = protestant
-        size = 768
+        size = 1536
     }
 
     officers = {
@@ -580,7 +580,7 @@
     bureaucrats = {
         culture = english
         religion = protestant
-        size = 1162
+        size = 2324
     }
 
     clergymen = {
@@ -953,7 +953,7 @@
     bureaucrats = {
         culture = english
         religion = protestant
-        size = 1612
+        size = 3224
     }
 
     craftsmen = {
@@ -1022,7 +1022,7 @@
     bureaucrats = {
         culture = english
         religion = protestant
-        size = 1893
+        size = 3786
     }
 
     capitalists = {
@@ -1223,7 +1223,7 @@
     bureaucrats = {
         culture = english
         religion = protestant
-        size = 562
+        size = 1124
     }
 
     clergymen = {
@@ -1356,7 +1356,7 @@
     bureaucrats = {
         culture = english
         religion = protestant
-        size = 1312
+        size = 2624
     }
 
     clergymen = {
@@ -1471,7 +1471,7 @@
     bureaucrats = {
         culture = english
         religion = protestant
-        size = 806
+        size = 1612
     }
 
     clergymen = {
@@ -1548,7 +1548,7 @@
     bureaucrats = {
         culture = english
         religion = protestant
-        size = 1162
+        size = 2324
     }
 
     clergymen = {
@@ -1737,7 +1737,7 @@
     bureaucrats = {
         culture = english
         religion = protestant
-        size = 13500
+        size = 27000
     }
 
     clergymen = {
@@ -1984,7 +1984,7 @@
     bureaucrats = {
         culture = english
         religion = protestant
-        size = 562
+        size = 1124
     }
 
     clergymen = {

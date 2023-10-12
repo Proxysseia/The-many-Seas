@@ -11,7 +11,7 @@
     bureaucrats = {
         culture = vindonian
         religion = catholic
-        size = 1546
+        size = 3865
     }
 
     officers = {
@@ -127,7 +127,7 @@
     bureaucrats = {
         culture = vindonian
         religion = catholic
-        size = 1603
+        size = 4007
     }
 
     officers = {
@@ -271,7 +271,7 @@
     bureaucrats = {
         culture = vindonian
         religion = catholic
-        size = 3487
+        size = 8717
     }
 
     officers = {
@@ -291,8 +291,8 @@
         religion = catholic
         size = 41250
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = vindonian
         religion = catholic
         size = 23250
@@ -345,7 +345,7 @@
     bureaucrats = {
         culture = vindonian
         religion = catholic
-        size = 675
+        size = 1687
     }
 
     clergymen = {
@@ -535,7 +535,7 @@
     bureaucrats = {
         culture = vindonian
         religion = catholic
-        size = 450
+        size = 1125
     }
 
     officers = {
@@ -583,7 +583,7 @@
     bureaucrats = {
         culture = vindonian
         religion = catholic
-        size = 140
+        size = 350
     }
 
     officers = {
@@ -645,7 +645,7 @@
     bureaucrats = {
         culture = vindonian
         religion = catholic
-        size = 450
+        size = 1125
     }
 
     artisans = {
@@ -780,7 +780,7 @@
     bureaucrats = {
         culture = vindonian
         religion = catholic
-        size = 900
+        size = 2250
     }
 
     artisans = {
@@ -894,13 +894,13 @@
     bureaucrats = {
         culture = vindonian
         religion = catholic
-        size = 225
+        size = 562
     }
 
     bureaucrats = {
         culture = vindonian
         religion = catholic
-        size = 506
+        size = 1265
     }
 
     officers = {
@@ -1108,8 +1108,8 @@
         religion = catholic
         size = 4218
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = vindonian
         religion = catholic
         size = 14218
@@ -1138,7 +1138,7 @@
     bureaucrats = {
         culture = vindonian
         religion = catholic
-        size = 281
+        size = 702
     }
 
     clergymen = {
@@ -1214,7 +1214,7 @@
     bureaucrats = {
         culture = slovene
         religion = catholic
-        size = 253
+        size = 632
     }
 
     officers = {
@@ -1285,7 +1285,7 @@
         size = 2362
     }
 
-	craftsmen = {
+    craftsmen = {
         culture = slovene
         religion = catholic
         size = 20620

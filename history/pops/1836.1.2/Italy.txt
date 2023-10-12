@@ -1328,7 +1328,7 @@
     bureaucrats = {
         culture = berber
         religion = catholic
-        size = 1567
+        size = 4701
     }
 
     officers = {
@@ -1472,7 +1472,7 @@
     bureaucrats = {
         culture = berber
         religion = catholic
-        size = 332
+        size = 996
     }
 
     officers = {
@@ -1586,7 +1586,7 @@
     bureaucrats = {
         culture = south_italian
         religion = catholic
-        size = 50
+        size = 150
     }
 
     aristocrats = {
@@ -1598,7 +1598,7 @@
     bureaucrats = {
         culture = south_italian
         religion = catholic
-        size = 10
+        size = 30
     }
 
     clergymen = {

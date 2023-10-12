@@ -406,7 +406,7 @@
     bureaucrats = {
         culture = romanian
         religion = catholic
-        size = 360
+        size = 1440
     }
 
     artisans = {
@@ -436,7 +436,7 @@
     bureaucrats = {
         culture = hungarian
         religion = catholic
-        size = 460
+        size = 1840
     }
 
     officers = {
@@ -478,7 +478,7 @@
     bureaucrats = {
         culture = hungarian
         religion = protestant
-        size = 220
+        size = 880
     }
 
     officers = {
@@ -646,7 +646,7 @@
     bureaucrats = {
         culture = vindonian
         religion = catholic
-        size = 600
+        size = 2400
     }
 
     artisans = {
@@ -1522,7 +1522,7 @@
     bureaucrats = {
         culture = romanian
         religion = orthodox
-        size = 280
+        size = 1120
     }
 
     officers = {
@@ -1825,7 +1825,7 @@
     bureaucrats = {
         culture = romanian
         religion = orthodox
-        size = 460
+        size = 1840
     }
 
     officers = {
@@ -2117,7 +2117,7 @@
     bureaucrats = {
         culture = saayda
         religion = sunni
-        size = 60
+        size = 240
     }
 
     officers = {

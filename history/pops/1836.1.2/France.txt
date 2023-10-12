@@ -93,7 +93,7 @@
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 637
+        size = 1592
     }
 
     clergymen = {
@@ -202,7 +202,7 @@
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 637
+        size = 1592
     }
 
     clergymen = {
@@ -279,7 +279,7 @@
     bureaucrats = {
         culture = lavlandish
         religion = catholic
-        size = 148
+        size = 370
     }
 
     clergymen = {
@@ -321,7 +321,7 @@
     bureaucrats = {
         culture = lavlandish
         religion = protestant
-        size = 119
+        size = 297
     }
 
     clergymen = {
@@ -363,7 +363,7 @@
     bureaucrats = {
         culture = swiss
         religion = catholic
-        size = 127
+        size = 317
     }
 
     clergymen = {
@@ -405,7 +405,7 @@
     bureaucrats = {
         culture = swiss
         religion = catholic
-        size = 63
+        size = 157
     }
 
     clergymen = {
@@ -447,7 +447,7 @@
     bureaucrats = {
         culture = swiss
         religion = protestant
-        size = 51
+        size = 127
     }
 
     clergymen = {
@@ -648,7 +648,7 @@
     bureaucrats = {
         culture = swiss
         religion = catholic
-        size = 306
+        size = 765
     }
 
     clergymen = {
@@ -678,7 +678,7 @@
     bureaucrats = {
         culture = lavlandish
         religion = catholic
-        size = 148
+        size = 370
     }
 
     clergymen = {
@@ -720,7 +720,7 @@
     bureaucrats = {
         culture = swiss
         religion = catholic
-        size = 204
+        size = 510
     }
 
     clergymen = {
@@ -971,7 +971,7 @@
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 1402
+        size = 3505
     }
 
     clergymen = {
@@ -1148,7 +1148,7 @@
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 1317
+        size = 3292
     }
 
     clergymen = {
@@ -1217,7 +1217,7 @@
     bureaucrats = {
         culture = breton
         religion = protestant
-        size = 42
+        size = 105
     }
 
     clergymen = {
@@ -1463,7 +1463,7 @@
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 1275
+        size = 3187
     }
 
     clergymen = {
@@ -1590,7 +1590,7 @@
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 935
+        size = 2337
     }
 
     clergymen = {
@@ -1731,7 +1731,7 @@
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 1020
+        size = 2550
     }
 
     clergymen = {
@@ -1842,6 +1842,12 @@
         size = 382
     }
 
+    bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 1487
+    }
+
     artisans = {
         culture = french
         religion = catholic
@@ -1878,7 +1884,7 @@
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 595
+        size = 1487
     }
 
     clergymen = {
@@ -2025,7 +2031,7 @@
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 595
+        size = 1487
     }
 
     clergymen = {
@@ -2134,7 +2140,7 @@
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 807
+        size = 2017
     }
 
     clergymen = {
@@ -2243,7 +2249,7 @@
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 722
+        size = 1805
     }
 
     clergymen = {
@@ -2377,7 +2383,7 @@
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 1402
+        size = 3505
     }
 
     capitalists = {
@@ -2528,7 +2534,7 @@
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 680
+        size = 1700
     }
 
     clergymen = {
@@ -2629,7 +2635,7 @@
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 935
+        size = 2337
     }
 
     clergymen = {
@@ -2736,7 +2742,7 @@
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 935
+        size = 2337
     }
 
     clergymen = {
@@ -2853,7 +2859,7 @@
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 25
+        size = 62
     }
 
     clergymen = {
@@ -2936,7 +2942,7 @@
     bureaucrats = {
         culture = north_italian
         religion = catholic
-        size = 100
+        size = 300
     }
 
     clergymen = {

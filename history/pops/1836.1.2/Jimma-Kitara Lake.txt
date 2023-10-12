@@ -31,6 +31,12 @@
         religion = sunni
         size = 800
     }
+    
+    bureaucrats = {
+        culture = lake_mongo
+        religion = sunni
+        size = 600
+    }
 
     artisans = {
         culture = lake_nuer
@@ -53,9 +59,9 @@
 #Madison
 162 = {
     bureaucrats = {
-        culture = lake_nuer
+        culture = lake_mongo
         religion = sunni
-        size = 300
+        size = 600
     }
 
     clergymen = {
@@ -70,7 +76,7 @@
         size = 20000
     }
 
-	craftsmen = {
+    craftsmen = {
         culture = lake_nuer
         religion = sunni
         size = 7890
@@ -297,7 +303,7 @@
     bureaucrats = {
         culture = lake_nuer
         religion = sunni
-        size = 1500
+        size = 3000
     }
 
     officers = {

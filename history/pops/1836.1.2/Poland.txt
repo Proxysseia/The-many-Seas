@@ -47,8 +47,8 @@
         religion = catholic
         size = 2289
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = latvian
         religion = catholic
         size = 3289
@@ -221,7 +221,7 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 520
+        size = 2080
     }
 
     officers = {
@@ -287,7 +287,7 @@
     bureaucrats = {
         culture = latvian
         religion = catholic
-        size = 546
+        size = 2184
     }
 
     officers = {
@@ -419,7 +419,7 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 700
+        size = 1750
     }
 
     officers = {
@@ -439,8 +439,8 @@
         religion = catholic
         size = 2650
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = polish
         religion = catholic
         size = 4000
@@ -672,7 +672,7 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 225
+        size = 562
     }
 
     soldiers = {
@@ -806,7 +806,7 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 536
+        size = 2144
     }
 
     soldiers = {
@@ -848,7 +848,7 @@
     bureaucrats = {
         culture = latvian
         religion = catholic
-        size = 202
+        size = 808
     }
 
     soldiers = {
@@ -1238,7 +1238,7 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 500
+        size = 1250
     }
 
     officers = {
@@ -1542,8 +1542,8 @@
         religion = catholic
         size = 4750
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = polish
         religion = catholic
         size = 4000

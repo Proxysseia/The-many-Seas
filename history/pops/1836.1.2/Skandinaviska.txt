@@ -329,8 +329,8 @@
         religion = protestant
         size = 1009
     }
-	
-	clergymen = {
+
+    clergymen = {
         culture = danish
         religion = protestant
         size = 8009
@@ -347,11 +347,11 @@
         religion = protestant
         size = 7456
     }
-	
-	bureaucrats = {
+
+    bureaucrats = {
         culture = swedish
         religion = protestant
-        size = 672
+        size = 1680
     }
 
     artisans = {
@@ -531,7 +531,7 @@
     bureaucrats = {
         culture = swedish
         religion = protestant
-        size = 1009
+        size = 2522
     }
 
     officers = {
@@ -792,7 +792,7 @@
     bureaucrats = {
         culture = swedish
         religion = protestant
-        size = 874
+        size = 2185
     }
 
     officers = {
@@ -970,7 +970,7 @@
     bureaucrats = {
         culture = swedish
         religion = protestant
-        size = 1576
+        size = 3940
     }
 
     clergymen = {
@@ -984,8 +984,8 @@
         religion = protestant
         size = 5046
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = swedish
         religion = protestant
         size = 5046
@@ -1346,7 +1346,7 @@
     bureaucrats = {
         culture = swedish
         religion = protestant
-        size = 672
+        size = 1680
     }
 
     officers = {
@@ -1391,7 +1391,7 @@
     bureaucrats = {
         culture = swedish
         religion = protestant
-        size = 672
+        size = 1680
     }
 
     officers = {

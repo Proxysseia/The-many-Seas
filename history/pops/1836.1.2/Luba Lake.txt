@@ -9,7 +9,7 @@
     bureaucrats = {
         culture = lake_lunda
         religion = animist
-        size = 980
+        size = 3920
     }
 
     clergymen = {
@@ -23,8 +23,8 @@
         religion = animist
         size = 14000
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = lake_lunda
         religion = animist
         size = 14000
@@ -130,6 +130,12 @@
         culture = lake_lunda
         religion = animist
         size = 770
+    }
+
+    bureaucrats = {
+        culture = lunda
+        religion = animist
+        size = 8220
     }
 
     artisans = {
@@ -271,8 +277,8 @@
         religion = animist
         size = 3080
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = lake_lunda
         religion = animist
         size = 10800
@@ -315,8 +321,8 @@
         religion = animist
         size = 18200
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = lake_lunda
         religion = animist
         size = 7200
@@ -523,7 +529,7 @@
     bureaucrats = {
         culture = lake_lunda
         religion = animist
-        size = 280
+        size = 1120
     }
 
     clergymen = {
@@ -556,4 +562,3 @@
         size = 1890
     }
 }
-

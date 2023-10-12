@@ -112,7 +112,7 @@
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 40
+        size = 100
     }
 
     clergymen = {
@@ -610,6 +610,12 @@
         culture = australian
         religion = protestant
         size = 825
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = protestant
+        size = 820
     }
 
     artisans = {

@@ -11,11 +11,11 @@
         religion = catholic
         size = 1286
     }
-	
-	bureaucrats = {
+
+    bureaucrats = {
         culture = slovene
         religion = catholic
-        size = 1569
+        size = 3922
     }
 
     soldiers = {
@@ -35,8 +35,8 @@
         religion = catholic
         size = 6366
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = slovene
         religion = catholic
         size = 10366
@@ -47,7 +47,6 @@
         religion = catholic
         size = 118782
     }
-
 }
 #Bihac (100000/25000 POPS)
 784 = {

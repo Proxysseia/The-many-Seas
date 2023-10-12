@@ -9,7 +9,7 @@
     bureaucrats = {
         culture = slovene
         religion = catholic
-        size = 1569
+        size = 3922
     }
 
     officers = {
@@ -29,8 +29,8 @@
         religion = catholic
         size = 4499
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = slovene
         religion = catholic
         size = 14499
@@ -225,7 +225,7 @@
     bureaucrats = {
         culture = slovene
         religion = catholic
-        size = 360
+        size = 900
     }
 
     artisans = {
@@ -765,7 +765,7 @@
     bureaucrats = {
         culture = slovene
         religion = catholic
-        size = 179
+        size = 447
     }
 
     officers = {
@@ -801,7 +801,7 @@
     bureaucrats = {
         culture = north_italian
         religion = catholic
-        size = 84
+        size = 210
     }
 
     clergymen = {

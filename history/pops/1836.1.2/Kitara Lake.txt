@@ -117,13 +117,13 @@
     artisans = {
         culture = lake_mongo
         religion = sunni
-        size = 16500
+        size = 23500
     }
-	
-	artisans = {
-        culture = lake_mongo
+
+    bureaucrats = {
+        culture = mongo
         religion = sunni
-        size = 7240
+        size = 1487
     }
 
     soldiers = {

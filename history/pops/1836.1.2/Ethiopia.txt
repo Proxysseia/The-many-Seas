@@ -3,7 +3,7 @@
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 212
+        size = 636
     }
 
     clergymen = {
@@ -124,7 +124,7 @@
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 127
+        size = 381
     }
 
     officers = {
@@ -289,7 +289,7 @@
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 2001
+        size = 6003
     }
 
     officers = {
@@ -339,7 +339,7 @@
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 2001
+        size = 6003
     }
 
     clergymen = {
@@ -383,7 +383,7 @@
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 2171
+        size = 6513
     }
 
     clergymen = {
@@ -427,7 +427,7 @@
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 3276
+        size = 9828
     }
 
     clergymen = {
@@ -441,8 +441,8 @@
         religion = coptic
         size = 11092
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = amhara
         religion = coptic
         size = 15092
@@ -478,7 +478,7 @@
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 637
+        size = 1911
     }
 
     officers = {
@@ -528,7 +528,7 @@
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 216
+        size = 648
     }
 
     clergymen = {
@@ -611,7 +611,7 @@
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 1415
+        size = 4245
     }
 
     officers = {
@@ -623,7 +623,7 @@
     clergymen = {
         culture = amhara
         religion = coptic
-        size = 4845
+        size = 11845
     }
 
     artisans = {
@@ -631,8 +631,8 @@
         religion = coptic
         size = 27200
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = amhara
         religion = coptic
         size = 15092
@@ -745,8 +745,14 @@
         religion = coptic
         size = 9435
     }
-	
-	craftsmen = {
+
+    bureaucrats = {
+        culture = amhara
+        religion = coptic
+        size = 636
+    }
+
+    craftsmen = {
         culture = amhara
         religion = coptic
         size = 9092
@@ -845,7 +851,7 @@
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 531
+        size = 1593
     }
 
     officers = {
@@ -890,6 +896,12 @@
         culture = amhara
         religion = coptic
         size = 276
+    }
+
+    bureaucrats = {
+        culture = amhara
+        religion = coptic
+        size = 636
     }
 
     artisans = {
@@ -941,8 +953,8 @@
         religion = coptic
         size = 2911
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = amhara
         religion = coptic
         size = 14092
@@ -971,7 +983,7 @@
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 85
+        size = 255
     }
 
     officers = {
@@ -1124,7 +1136,7 @@
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 42
+        size = 126
     }
 
     officers = {
@@ -1175,7 +1187,7 @@
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 8
+        size = 24
     }
 
     officers = {
@@ -1473,7 +1485,7 @@
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 1232
+        size = 3696
     }
 
     clergymen = {
@@ -1511,7 +1523,7 @@
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 892
+        size = 2676
     }
 
     clergymen = {
@@ -1525,8 +1537,8 @@
         religion = coptic
         size = 33150
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = amhara
         religion = coptic
         size = 8792
@@ -1555,7 +1567,7 @@
     bureaucrats = {
         culture = amhara
         religion = coptic
-        size = 382
+        size = 1146
     }
 
     clergymen = {

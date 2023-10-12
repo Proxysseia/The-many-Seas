@@ -9,7 +9,7 @@
     bureaucrats = {
         culture = fang
         religion = animist
-        size = 425
+        size = 2125
     }
 
     officers = {
@@ -67,8 +67,8 @@
         religion = animist
         size = 2125
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = fang
         religion = animist
         size = 15125
@@ -141,7 +141,7 @@
     bureaucrats = {
         culture = fang
         religion = animist
-        size = 255
+        size = 1275
     }
 
     officers = {
@@ -279,7 +279,7 @@
     bureaucrats = {
         culture = fang
         religion = animist
-        size = 170
+        size = 850
     }
 
     officers = {
@@ -405,7 +405,7 @@
     bureaucrats = {
         culture = fang
         religion = animist
-        size = 510
+        size = 2550
     }
 
     clergymen = {
@@ -501,8 +501,8 @@
         religion = animist
         size = 10500
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = fang
         religion = animist
         size = 25000
@@ -543,7 +543,7 @@
     bureaucrats = {
         culture = fang
         religion = animist
-        size = 382
+        size = 1910
     }
 
     clergymen = {
@@ -587,7 +587,7 @@
     bureaucrats = {
         culture = fang
         religion = animist
-        size = 382
+        size = 1910
     }
 
     clergymen = {
@@ -745,7 +745,7 @@
     bureaucrats = {
         culture = fang
         religion = animist
-        size = 212
+        size = 1060
     }
 
     officers = {
@@ -987,8 +987,8 @@
         religion = animist
         size = 5610
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = fang
         religion = animist
         size = 10610
@@ -1087,7 +1087,7 @@
     bureaucrats = {
         culture = fang
         religion = animist
-        size = 446
+        size = 2230
     }
 
     officers = {
@@ -1213,7 +1213,7 @@
     bureaucrats = {
         culture = fang
         religion = animist
-        size = 680
+        size = 3400
     }
 
     officers = {
@@ -1233,8 +1233,8 @@
         religion = animist
         size = 8160
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = fang
         religion = animist
         size = 9160

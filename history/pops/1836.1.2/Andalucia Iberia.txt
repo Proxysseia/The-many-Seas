@@ -15,7 +15,7 @@
     bureaucrats = {
         culture = berber
         religion = sunni
-        size = 475
+        size = 1425
     }
 
     clergymen = {
@@ -59,7 +59,7 @@
     bureaucrats = {
         culture = berber
         religion = sunni
-        size = 1710
+        size = 5130
     }
 
     clergymen = {
@@ -103,7 +103,7 @@
     bureaucrats = {
         culture = berber
         religion = sunni
-        size = 855
+        size = 2565
     }
 
     clergymen = {
@@ -149,8 +149,8 @@
         religion = sunni
         size = 17100
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = berber
         religion = sunni
         size = 8100
@@ -217,7 +217,7 @@
     bureaucrats = {
         culture = berber
         religion = sunni
-        size = 950
+        size = 2850
     }
 
     clergymen = {
@@ -357,7 +357,7 @@
     bureaucrats = {
         culture = berber
         religion = sunni
-        size = 95
+        size = 285
     }
 
     soldiers = {
@@ -427,7 +427,7 @@
     bureaucrats = {
         culture = berber
         religion = sunni
-        size = 285
+        size = 855
     }
 
     clergymen = {

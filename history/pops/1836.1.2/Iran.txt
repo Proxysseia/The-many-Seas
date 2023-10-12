@@ -41,7 +41,7 @@
     bureaucrats = {
         culture = persian
         religion = shiite
-        size = 65
+        size = 195
     }
 
     officers = {
@@ -313,7 +313,7 @@
     bureaucrats = {
         culture = persian
         religion = shiite
-        size = 211
+        size = 633
     }
 
     officers = {
@@ -361,7 +361,7 @@
     bureaucrats = {
         culture = persian
         religion = shiite
-        size = 211
+        size = 633
     }
 
     officers = {
@@ -621,7 +621,7 @@
     bureaucrats = {
         culture = persian
         religion = shiite
-        size = 113
+        size = 339
     }
 
     officers = {
@@ -747,7 +747,6 @@
         religion = shiite
         size = 16103
     }
-
 }
 #Yazd (140000/35000 POPS)
 1130 = {
@@ -836,7 +835,7 @@
     bureaucrats = {
         culture = persian
         religion = shiite
-        size = 25
+        size = 100
     }
 
     officers = {
@@ -868,7 +867,6 @@
         religion = shiite
         size = 2575
     }
-
 }
 #Dezful (32000/8000 POPS)
 1133 = {
@@ -977,7 +975,7 @@
     bureaucrats = {
         culture = persian
         religion = shiite
-        size = 48
+        size = 144
     }
 
     officers = {
@@ -1163,7 +1161,7 @@
     bureaucrats = {
         culture = persian
         religion = shiite
-        size = 32
+        size = 96
     }
 
     officers = {
@@ -1405,7 +1403,7 @@
     bureaucrats = {
         culture = persian
         religion = shiite
-        size = 1160
+        size = 3480
     }
 
     officers = {
@@ -1615,7 +1613,7 @@
     bureaucrats = {
         culture = persian
         religion = shiite
-        size = 1970
+        size = 5910
     }
 
     officers = {
@@ -1703,8 +1701,8 @@
         religion = shiite
         size = 747
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = persian
         religion = shiite
         size = 5247
@@ -1816,4 +1814,3 @@
         size = 58225
     }
 }
-

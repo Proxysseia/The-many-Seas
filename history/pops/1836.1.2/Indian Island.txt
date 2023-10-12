@@ -3,7 +3,7 @@
     bureaucrats = {
         culture = persian
         religion = sikh
-        size = 32
+        size = 96
     }
 
     soldiers = {
@@ -21,7 +21,7 @@
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 97
+        size = 291
     }
 
     clergymen = {
@@ -186,7 +186,7 @@
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 162
+        size = 486
     }
 
     officers = {
@@ -237,7 +237,7 @@
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 32
+        size = 96
     }
 
     officers = {
@@ -283,7 +283,7 @@
     bureaucrats = {
         culture = persian
         religion = sikh
-        size = 100
+        size = 300
     }
 
     clergymen = {
@@ -319,7 +319,7 @@
     bureaucrats = {
         culture = kazak
         religion = hindu
-        size = 75
+        size = 225
     }
 
     clergymen = {
@@ -355,7 +355,7 @@
     bureaucrats = {
         culture = kazak
         religion = sunni
-        size = 75
+        size = 225
     }
 
     clergymen = {
@@ -930,7 +930,7 @@
     bureaucrats = {
         culture = marathi
         religion = hindu
-        size = 6500
+        size = 7150
     }
 
     clergymen = {
@@ -978,7 +978,7 @@
     bureaucrats = {
         culture = marathi
         religion = sunni
-        size = 500
+        size = 550
     }
 
     clergymen = {
@@ -1032,7 +1032,7 @@
     bureaucrats = {
         culture = australian
         religion = protestant
-        size = 500
+        size = 550
     }
 
     soldiers = {
@@ -1528,7 +1528,7 @@
     bureaucrats = {
         culture = persian
         religion = hindu
-        size = 32
+        size = 96
     }
 
     artisans = {
@@ -1582,7 +1582,7 @@
     bureaucrats = {
         culture = persian
         religion = protestant
-        size = 6
+        size = 18
     }
 }
 #Under rule of Mewar 1836
@@ -1766,7 +1766,7 @@
     bureaucrats = {
         culture = marathi
         religion = hindu
-        size = 250
+        size = 750
     }
 
     officers = {
@@ -3156,7 +3156,7 @@
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 520
+        size = 1560
     }
 
     officers = {
@@ -3330,7 +3330,7 @@
     bureaucrats = {
         culture = marathi
         religion = hindu
-        size = 350
+        size = 1050
     }
 
     artisans = {
@@ -3384,7 +3384,7 @@
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 50
+        size = 150
     }
 
     artisans = {
@@ -3414,7 +3414,7 @@
     bureaucrats = {
         culture = australian
         religion = protestant
-        size = 10
+        size = 30
     }
 }
 #Surat (1072000/268000 POPS)
@@ -3496,7 +3496,7 @@
     bureaucrats = {
         culture = marathi
         religion = hindu
-        size = 900
+        size = 2700
     }
 
     officers = {
@@ -3600,7 +3600,7 @@
     bureaucrats = {
         culture = persian
         religion = hindu
-        size = 48
+        size = 144
     }
 
     clergymen = {
@@ -3688,7 +3688,7 @@
     bureaucrats = {
         culture = marathi
         religion = hindu
-        size = 1500
+        size = 4500
     }
 
     artisans = {
@@ -3784,7 +3784,7 @@
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 500
+        size = 1500
     }
 
     artisans = {
@@ -3838,7 +3838,7 @@
     bureaucrats = {
         culture = australian
         religion = protestant
-        size = 250
+        size = 750
     }
 
     officers = {
@@ -4223,7 +4223,7 @@
     bureaucrats = {
         culture = spanish
         religion = catholic
-        size = 25
+        size = 75
     }
 
     clergymen = {
@@ -4253,7 +4253,7 @@
     bureaucrats = {
         culture = marathi
         religion = catholic
-        size = 75
+        size = 225
     }
 
     clergymen = {
@@ -5320,7 +5320,7 @@
     bureaucrats = {
         culture = kannada
         religion = teknic
-        size = 1050
+        size = 2625
     }
 
     clergymen = {

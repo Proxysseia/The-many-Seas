@@ -59,7 +59,7 @@
     bureaucrats = {
         culture = latvian
         religion = protestant
-        size = 60
+        size = 240
     }
 
     officers = {
@@ -149,7 +149,7 @@
     bureaucrats = {
         culture = finnish
         religion = protestant
-        size = 88
+        size = 352
     }
 
     officers = {
@@ -390,6 +390,12 @@
         size = 453
     }
 
+    bureaucrats = {
+        culture = latvian
+        religion = protestant
+        size = 2600
+    }
+
     artisans = {
         culture = latvian
         religion = protestant
@@ -405,13 +411,7 @@
     farmers = {
         culture = latvian
         religion = protestant
-        size = 53742
-    }
-
-    farmers = {
-        culture = latvian
-        religion = protestant
-        size = 9549
+        size = 63742
     }
 }
 #Valmeira
@@ -427,8 +427,8 @@
         religion = protestant
         size = 9518
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = latvian
         religion = protestant
         size = 8000

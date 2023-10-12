@@ -79,7 +79,7 @@
     bureaucrats = {
         culture = nyasa
         religion = sunni
-        size = 1280
+        size = 5120
     }
 
     clergymen = {
@@ -149,7 +149,7 @@
     bureaucrats = {
         culture = nyasa
         religion = sunni
-        size = 280
+        size = 1120
     }
 
     officers = {
@@ -163,8 +163,8 @@
         religion = sunni
         size = 80
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = nyasa
         religion = sunni
         size = 5000
@@ -409,7 +409,7 @@
     bureaucrats = {
         culture = nyasa
         religion = sunni
-        size = 780
+        size = 3120
     }
 
     officers = {
@@ -823,7 +823,7 @@
     bureaucrats = {
         culture = nyasa
         religion = ibadi
-        size = 2200
+        size = 8800
     }
 
     clergymen = {
@@ -931,7 +931,7 @@
     bureaucrats = {
         culture = nyasa
         religion = sunni
-        size = 1080
+        size = 4320
     }
 
     clergymen = {
@@ -975,7 +975,7 @@
     bureaucrats = {
         culture = nyasa
         religion = sunni
-        size = 680
+        size = 2720
     }
 
     clergymen = {
@@ -1051,7 +1051,7 @@
     bureaucrats = {
         culture = nyasa
         religion = sunni
-        size = 1280
+        size = 5120
     }
 
     clergymen = {
@@ -1299,7 +1299,7 @@
     bureaucrats = {
         culture = nyasa
         religion = sunni
-        size = 720
+        size = 2880
     }
 
     clergymen = {
@@ -1337,7 +1337,7 @@
     bureaucrats = {
         culture = nyasa
         religion = sunni
-        size = 720
+        size = 2880
     }
 
     clergymen = {
@@ -1375,7 +1375,7 @@
     bureaucrats = {
         culture = nyasa
         religion = sunni
-        size = 720
+        size = 2880
     }
 
     clergymen = {
@@ -1413,7 +1413,7 @@
     bureaucrats = {
         culture = nyasa
         religion = sunni
-        size = 720
+        size = 2880
     }
 
     clergymen = {
@@ -1427,8 +1427,8 @@
         religion = sunni
         size = 1600
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = nyasa
         religion = sunni
         size = 9000
@@ -1471,8 +1471,8 @@
         religion = sunni
         size = 2400
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = nyasa
         religion = sunni
         size = 4500

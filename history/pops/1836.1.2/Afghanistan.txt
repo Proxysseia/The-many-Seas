@@ -9,7 +9,7 @@
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 2536
+        size = 7608
     }
 
     officers = {
@@ -29,8 +29,8 @@
         religion = sunni
         size = 3510
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = persian
         religion = sunni
         size = 6510
@@ -163,7 +163,7 @@
     bureaucrats = {
         culture = persian
         religion = sunni
-        size = 243
+        size = 729
     }
 
     clergymen = {
@@ -645,7 +645,7 @@
     bureaucrats = {
         culture = kazak
         religion = sunni
-        size = 150
+        size = 450
     }
 
     artisans = {

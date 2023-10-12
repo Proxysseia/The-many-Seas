@@ -5,7 +5,7 @@
     bureaucrats = {
         culture = finnish
         religion = protestant
-        size = 150
+        size = 675
     }
 
     officers = {
@@ -97,7 +97,7 @@
     bureaucrats = {
         culture = finnish
         religion = protestant
-        size = 50
+        size = 225
     }
 
     officers = {
@@ -295,7 +295,7 @@
     bureaucrats = {
         culture = finnish
         religion = protestant
-        size = 450
+        size = 2025
     }
 
     clergymen = {
@@ -327,7 +327,6 @@
         religion = protestant
         size = 2250
     }
-
 }
 #Hameenlinna (44000/11000 POPS)
 344 = {
@@ -444,7 +443,7 @@
     bureaucrats = {
         culture = finnish
         religion = protestant
-        size = 150
+        size = 675
     }
 
     clergymen = {
@@ -479,7 +478,6 @@
 }
 #Pestamo (2700/675 POPS)
 982 = {
-
     clergymen = {
         culture = finnish
         religion = orthodox
@@ -494,7 +492,6 @@
 }
 #Kandalasksha (7200/1800 POPS)
 983 = {
-
     artisans = {
         culture = finnish
         religion = orthodox
@@ -521,7 +518,6 @@
 }
 #Kostomuksha (20000/5000 POPS)
 984 = {
-
     soldiers = {
         culture = finnish
         religion = orthodox
@@ -548,7 +544,6 @@
 }
 #Kola (2200/550 POPS)
 2587 = {
-
     clergymen = {
         culture = finnish
         religion = orthodox

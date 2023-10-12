@@ -164,13 +164,19 @@
         size = 1275
     }
 
+    bureaucrats = {
+        culture = lake_fang
+        religion = animist
+        size = 4220
+    }
+
     artisans = {
         culture = lake_fang
         religion = animist
         size = 6332
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = lake_fang
         religion = animist
         size = 10332
@@ -669,8 +675,8 @@
         religion = animist
         size = 1445
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = lake_fang
         religion = animist
         size = 9445
@@ -705,7 +711,7 @@
     bureaucrats = {
         culture = lake_fang
         religion = animist
-        size = 2656
+        size = 10624
     }
 
     aristocrats = {

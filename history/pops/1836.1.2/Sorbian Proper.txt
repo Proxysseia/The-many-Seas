@@ -118,7 +118,7 @@
         size = 76860
     }
 }
-#Neustrelitz 
+#Neustrelitz
 545 = {
     aristocrats = {
         culture = sorbian
@@ -161,7 +161,7 @@
     bureaucrats = {
         culture = sorbian
         religion = catholic
-        size = 3250
+        size = 8125
     }
 
     officers = {
@@ -175,14 +175,14 @@
         religion = catholic
         size = 3087
     }
-	
+
     artisans = {
         culture = sorbian
         religion = catholic
         size = 12575
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = sorbian
         religion = catholic
         size = 4000
@@ -281,7 +281,7 @@
     bureaucrats = {
         culture = sorbian
         religion = catholic
-        size = 4050
+        size = 10125
     }
 
     officers = {
@@ -439,7 +439,7 @@
     bureaucrats = {
         culture = sorbian
         religion = catholic
-        size = 2100
+        size = 5250
     }
 
     officers = {
@@ -491,8 +491,8 @@
         religion = catholic
         size = 6025
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = sorbian
         religion = catholic
         size = 4000
@@ -521,7 +521,7 @@
     bureaucrats = {
         culture = sorbian
         religion = catholic
-        size = 105
+        size = 262
     }
 
     officers = {
@@ -573,8 +573,8 @@
         religion = catholic
         size = 7500
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = sorbian
         religion = catholic
         size = 4000
@@ -635,7 +635,7 @@
     bureaucrats = {
         culture = sorbian
         religion = catholic
-        size = 2681
+        size = 6702
     }
 
     officers = {
@@ -851,7 +851,7 @@
     bureaucrats = {
         culture = sorbian
         religion = catholic
-        size = 100
+        size = 250
     }
 
     officers = {
@@ -893,7 +893,7 @@
     bureaucrats = {
         culture = bairisch
         religion = catholic
-        size = 83
+        size = 207
     }
 
     officers = {
@@ -937,7 +937,7 @@
     bureaucrats = {
         culture = sorbian
         religion = catholic
-        size = 84
+        size = 210
     }
 
     officers = {
@@ -979,7 +979,7 @@
     bureaucrats = {
         culture = bairisch
         religion = catholic
-        size = 69
+        size = 172
     }
 
     officers = {
@@ -1108,7 +1108,7 @@
         size = 79637
     }
 }
-#Gorlitz 
+#Gorlitz
 687 = {
     aristocrats = {
         culture = sorbian
@@ -1151,7 +1151,7 @@
     bureaucrats = {
         culture = sorbian
         religion = catholic
-        size = 980
+        size = 2450
     }
 
     officers = {

@@ -513,7 +513,7 @@
     bureaucrats = {
         culture = malay
         religion = sunni
-        size = 75
+        size = 225
     }
 
     clergymen = {
@@ -599,7 +599,7 @@
     bureaucrats = {
         culture = malay
         religion = sunni
-        size = 125
+        size = 375
     }
 
     officers = {
@@ -821,7 +821,7 @@
     bureaucrats = {
         culture = malay
         religion = sunni
-        size = 100
+        size = 300
     }
 
     aristocrats = {
@@ -1905,7 +1905,7 @@
     bureaucrats = {
         culture = malay
         religion = sunni
-        size = 1050
+        size = 1155
     }
 
     clergymen = {
@@ -2109,7 +2109,7 @@
     bureaucrats = {
         culture = malay
         religion = sunni
-        size = 1500
+        size = 1650
     }
 
     clergymen = {

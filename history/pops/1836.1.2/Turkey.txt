@@ -185,7 +185,7 @@
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 1050
+        size = 3150
     }
 
     officers = {
@@ -519,7 +519,7 @@
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 487
+        size = 1461
     }
 
     officers = {
@@ -891,7 +891,7 @@
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 787
+        size = 2361
     }
 
     officers = {
@@ -987,7 +987,7 @@
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 637
+        size = 1911
     }
 
     officers = {
@@ -1129,8 +1129,8 @@
         religion = sunni
         size = 11250
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = turkish
         religion = sunni
         size = 4250
@@ -1273,7 +1273,7 @@
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 450
+        size = 1350
     }
 
     officers = {
@@ -1531,7 +1531,7 @@
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 2375
+        size = 7125
     }
 
     officers = {
@@ -1551,8 +1551,8 @@
         religion = sunni
         size = 5300
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = turkish
         religion = sunni
         size = 8300
@@ -1805,7 +1805,7 @@
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 187
+        size = 561
     }
 
     officers = {
@@ -1949,7 +1949,7 @@
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 262
+        size = 786
     }
 
     officers = {
@@ -2209,7 +2209,7 @@
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 225
+        size = 675
     }
 
     officers = {
@@ -2251,7 +2251,7 @@
     bureaucrats = {
         culture = kurdish
         religion = sunni
-        size = 75
+        size = 225
     }
 
     officers = {
@@ -2295,7 +2295,7 @@
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 300
+        size = 900
     }
 
     officers = {
@@ -2463,7 +2463,7 @@
     bureaucrats = {
         culture = turkish
         religion = sunni
-        size = 225
+        size = 675
     }
 
     officers = {

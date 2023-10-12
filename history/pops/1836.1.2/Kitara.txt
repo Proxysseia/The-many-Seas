@@ -3,7 +3,7 @@
     bureaucrats = {
         culture = mongo
         religion = sunni
-        size = 3400
+        size = 6800
     }
 
     officers = {
@@ -79,7 +79,7 @@
     bureaucrats = {
         culture = australian
         religion = catholic
-        size = 450
+        size = 1350
     }
 
     officers = {
@@ -137,8 +137,8 @@
         religion = sunni
         size = 32000
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = mongo
         religion = sunni
         size = 15000
@@ -167,7 +167,7 @@
     bureaucrats = {
         culture = mongo
         religion = sunni
-        size = 2400
+        size = 4800
     }
 
     officers = {
@@ -187,8 +187,8 @@
         religion = sunni
         size = 22000
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = mongo
         religion = sunni
         size = 28000
@@ -217,7 +217,7 @@
     bureaucrats = {
         culture = mongo
         religion = sunni
-        size = 2000
+        size = 4000
     }
 
     clergymen = {
@@ -255,7 +255,7 @@
     bureaucrats = {
         culture = mongo
         religion = sunni
-        size = 600
+        size = 1200
     }
 
     officers = {
@@ -299,7 +299,7 @@
     bureaucrats = {
         culture = mongo
         religion = sunni
-        size = 400
+        size = 800
     }
 
     artisans = {
@@ -363,7 +363,7 @@
     bureaucrats = {
         culture = mongo
         religion = sunni
-        size = 1600
+        size = 3200
     }
 
     officers = {
@@ -442,6 +442,12 @@
         size = 500
     }
 
+    bureaucrats = {
+        culture = mongo
+        religion = sunni
+        size = 1487
+    }
+
     artisans = {
         culture = mongo
         religion = sunni
@@ -477,7 +483,7 @@
     bureaucrats = {
         culture = mongo
         religion = sunni
-        size = 4000
+        size = 8000
     }
 
     clergymen = {

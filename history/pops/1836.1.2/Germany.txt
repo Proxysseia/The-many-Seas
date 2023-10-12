@@ -126,7 +126,6 @@
         size = 1470
     }
 }
-
 #Lower Elbe Region (557600)
 #Under rule of Hamburg 1836
 #Hamburg (150000/37500 POPS)
@@ -646,7 +645,6 @@
         size = 280
     }
 }
-
 #under the rule of Brunswick 1836
 #Brunswick (264000/66000 POPS)
 536 = {
@@ -1067,7 +1065,7 @@
     bureaucrats = {
         culture = bairisch
         religion = catholic
-        size = 63
+        size = 69
     }
 
     officers = {
@@ -1115,7 +1113,7 @@
     bureaucrats = {
         culture = lavlandish
         religion = catholic
-        size = 135
+        size = 488
     }
 
     officers = {
@@ -1216,7 +1214,7 @@
     bureaucrats = {
         culture = lavlandish
         religion = catholic
-        size = 175
+        size = 633
     }
 
     officers = {
@@ -1323,7 +1321,7 @@
     bureaucrats = {
         culture = lavlandish
         religion = catholic
-        size = 325
+        size = 1178
     }
 
     officers = {
@@ -1510,7 +1508,7 @@
     bureaucrats = {
         culture = lavlandish
         religion = catholic
-        size = 400
+        size = 1452
     }
 
     officers = {
@@ -2282,7 +2280,7 @@
     bureaucrats = {
         culture = lavlandish
         religion = catholic
-        size = 700
+        size = 2541
     }
 
     officers = {
@@ -2330,7 +2328,7 @@
     bureaucrats = {
         culture = lavlandish
         religion = catholic
-        size = 325
+        size = 1178
     }
 
     clergymen = {
@@ -2889,7 +2887,7 @@
     bureaucrats = {
         culture = bairisch
         religion = catholic
-        size = 595
+        size = 654
     }
 
     officers = {
@@ -3259,7 +3257,7 @@
     bureaucrats = {
         culture = bairisch
         religion = catholic
-        size = 735
+        size = 808
     }
 
     officers = {

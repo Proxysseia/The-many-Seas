@@ -41,7 +41,7 @@
     bureaucrats = {
         culture = lunda
         religion = animist
-        size = 805
+        size = 8220
     }
 
     officers = {
@@ -61,8 +61,8 @@
         religion = animist
         size = 14000
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = lunda
         religion = animist
         size = 40000
@@ -99,8 +99,8 @@
         religion = animist
         size = 3465
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = lunda
         religion = animist
         size = 7018
@@ -415,7 +415,7 @@
     bureaucrats = {
         culture = lunda
         religion = animist
-        size = 140
+        size = 560
     }
 
     officers = {
@@ -435,8 +435,8 @@
         religion = animist
         size = 2100
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = lunda
         religion = animist
         size = 15300
@@ -529,7 +529,7 @@
     bureaucrats = {
         culture = lunda
         religion = animist
-        size = 420
+        size = 1680
     }
 
     officers = {
@@ -637,7 +637,7 @@
     bureaucrats = {
         culture = lunda
         religion = animist
-        size = 35
+        size = 140
     }
 
     officers = {
@@ -681,7 +681,7 @@
     bureaucrats = {
         culture = lunda
         religion = animist
-        size = 21
+        size = 4184
     }
 
     officers = {
@@ -733,8 +733,8 @@
         religion = animist
         size = 11200
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = lunda
         religion = animist
         size = 7200
