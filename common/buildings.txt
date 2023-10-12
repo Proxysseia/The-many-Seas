@@ -698,6 +698,7 @@ naval_base = {
 	max_level = 6
 	colonial_points = { 30 50 70 90 95 100 } #points at levels 1-6
 	province = yes
+	one_per_state = yes
 	colonial_range = 50
 	local_ship_build = -0.05
 }
@@ -710,7 +711,7 @@ railroad = {
 		cement = 100
 		steel = 100
 	}
-	time = 360
+	time = 180
 	visibility = yes
 	onmap = yes
 	max_level = 6
