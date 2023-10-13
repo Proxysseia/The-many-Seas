@@ -1266,10 +1266,6 @@ national_fraternity = {
 			faction = pan_nationalist_rebels
 			value = 0.25
 		}
-		rebel_org_gain = {
-			faction = red_shirts
-			value = 0.25
-		}
 	}
 }
 biased_multiculturalism = {

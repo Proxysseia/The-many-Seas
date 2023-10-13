@@ -82,7 +82,7 @@ political_decisions = {
 
 Our_Southern_Brothers = {
 		potential = {
-			tag = SCA
+			primary_culture = swedish
 			HAN = { is_core = 528}
 		}
 		allow = {
@@ -113,36 +113,4 @@ Our_Southern_Brothers = {
 			add_accepted_culture = flanishk
 		}
 	}
-Our Southern Brothers = {
-		potential = {
-			tag = SWE
-			HAN = { is_core = 528}
-		}
-		allow = {
-			war = no
-			nationalism_n_imperialism = 1
-			528 = {
-				OR = {
-						owned_by = THIS
-						owner = {
-									vassal_of = THIS
-						}
-					}
-				}
-			539 = {
-				OR = {
-						owned_by = THIS
-						owner = {
-									vassal_of = THIS
-								
-						}
-					}
-				}
-			}
-		effect = {
-			HAN = { annex_to = THIS }
-			HAN = { all_core = { add_core =  SWE } }
-			HAN = { all_core = { remove_core =  HAN } }
-			add_accepted_culture = flanish
-		}
-	}
+}

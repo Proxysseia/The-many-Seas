@@ -43,7 +43,7 @@ political_decisions = {
 			NOT = { has_country_flag = latvia_polish }
 		}
 		allow = {
-			OR {
+			OR = {
 			POL = {
 				all_core = { owned_by = THIS }
 			}

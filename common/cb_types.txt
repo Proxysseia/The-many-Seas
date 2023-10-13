@@ -797,9 +797,7 @@ free_peoples = {
 							tag = GER
 							tag = SCA
 							tag = ITA
-							tag = YUG
 							tag = ROM
-							tag = CZH
 						}
 					}
 				}
@@ -879,7 +877,6 @@ liberate_country = {
 							tag = GER
 							tag = SCA
 							tag = ITA
-							tag = YUG
 							#tag = ROM # TODO: shoudl we let the rest be liberated too?
 							tag = CZH
 						}
@@ -2352,9 +2349,6 @@ make_puppet_large = {
 			number_of_states = 10
 		}
 		NOT = { tag = CHI }
-		NOT = { tag = GXI }
-		NOT = { tag = YNN }
-		NOT = { tag = XBI }
 	}
 	
 	# THIS - us
