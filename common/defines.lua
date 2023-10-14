@@ -4,7 +4,7 @@ start_date = '1836.1.2',
 end_date = '2000.1.1',
 
 country = {
-	YEARS_OF_NATIONALISM 	= 20,   -- Years of Nationalism
+	YEARS_OF_NATIONALISM 	= 10,   -- Years of Nationalism
 	MONTHS_UNTIL_BROKEN 		= 3,    -- OBSOLETE! (Months until rebel held capital results in broken country.)
 	REBEL_ACCEPTANCE_MONTHS = 60,
 	BASE_COUNTRY_TAX_EFFICIENCY = 0.2, -- Basic efficiency for taxes without 'crats and tech
