@@ -6,3 +6,43 @@ leader = {
 	background = school_of_defense
 	prestige = 0.3
 }
+leader = {
+	name = "General Maple"
+	date = 1806.1.1
+	type = land
+	personality = cautious
+	background = nationalist
+	prestige = 0.3
+}
+army = {
+	name = "1st Army"
+	location = 46
+	regiment = {
+		name= "1.Kings Horse"
+		type = cavalry
+		home = 46
+	}
+	regiment = {
+		name= "1.Kings Horse"
+		type = cavalry
+		home = 46
+	}
+	regiment = {
+		name= "1.Kings Horse"
+		type = cavalry
+		home = 54
+	}
+}
+navy = {
+	name = "first navy eh"
+	location = 46
+	ship = {
+		name= "2. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Transport"
+		type = clipper_transport
+	}
+} 

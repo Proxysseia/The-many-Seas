@@ -6,3 +6,58 @@ leader = {
 	background = school_of_defense
 	prestige = 0.3
 }
+leader = {
+	name = "Elias Kairellis"
+	date = 1806.1.1
+	type = land
+	personality = cautious
+	background = nationalist
+	prestige = 1.0
+}
+army = {
+	name = "1st Army"
+	location = 834
+	regiment = {
+		name= "1.Kings Horse"
+		type = cavalry
+		home = 834
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 837
+	}
+}
+navy = {
+	name = "Floating Souvlaki"
+	location = 834
+	ship = {
+		name= "Couronne"
+		type = manowar
+	}
+
+	ship = {
+		name= "Superbe"
+		type = manowar
+	}
+
+	ship = {
+		name= "Jean Bart"
+		type = manowar
+	}
+	ship = {
+		name= "1. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Transport"
+		type = clipper_transport
+	}
+} 

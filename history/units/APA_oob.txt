@@ -1,8 +1,43 @@
 leader = {
-	name = "David Chassé"
+	name = "David Chassï¿½"
 	date = 1806.1.1
 	type = land
 	personality = timid
 	background = school_of_defense
 	prestige = 0.3
 }
+leader = {
+	name = "Burger Leader"
+	date = 1806.1.1
+	type = land
+	personality = cautious
+	background = nationalist
+	prestige = 0.3
+}
+army = {
+	name = "1st Army"
+	location = 194
+	regiment = {
+		name= "1.Kings Horse"
+		type = cavalry
+		home = 194
+	}
+	regiment = {
+		name= "2.Kings Horse"
+		type = cavalry
+		home = 194
+	}
+}
+navy = {
+	name = "Ensi Laivasto"
+	location = 194
+	ship = {
+		name= "2. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Transport"
+		type = clipper_transport
+	}
+} 

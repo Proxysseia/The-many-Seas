@@ -6,3 +6,32 @@ leader = {
 	background = school_of_defense
 	prestige = 0.3
 }
+leader = {
+	name = "Biertrinker Hohenzoller"
+	date = 1806.1.1
+	type = land
+	personality = cautious
+	background = nationalist
+	prestige = 0.3
+}
+army = {
+	name = "1st Army"
+	location = 586
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 586
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 587
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 599
+	}
+}
