@@ -6,3 +6,348 @@ leader = {
 	background = school_of_defense
 	prestige = 0.3
 }
+leader = {
+	name = "Kill Me"
+	date = 1806.1.1
+	type = land
+	personality = cautious
+	background = nationalist
+	prestige = 0.3
+}
+army = {
+	name = "1st Army"
+	location = 1543
+	regiment = {
+		name= "1.Kings Horse"
+		type = cavalry
+		home = 1543
+	}
+
+	regiment = {
+		name= "2.Kings Horse"
+		type = cavalry
+		home = 1543
+	}
+
+	regiment = {
+		name= "3.Kings Horse"
+		type = cavalry
+		home = 1543
+	}
+	
+	regiment = {
+		name= "5.Kings Horse"
+		type = cavalry
+		home = 1679
+	}
+	
+	regiment = {
+		name= "6.Kings Horse"
+		type = cavalry
+		home = 1679
+	}
+
+	regiment = {
+		name= "7.Kings Horse"
+		type = cavalry
+		home = 1679
+	}
+
+	regiment = {
+		name= "9.Kings Horse"
+		type = cavalry
+		home = 1470
+	}
+	
+	regiment = {
+		name= "10.Kings Horse"
+		type = cavalry
+		home = 1470
+	}
+}
+army = {
+	name = "1st Army"
+	location = 1515
+	regiment = {
+		name= "1.Kings Horse"
+		type = cavalry
+		home = 1515
+	}
+
+	regiment = {
+		name= "2.Kings Horse"
+		type = cavalry
+		home = 1515
+	}
+
+	regiment = {
+		name= "3.Kings Horse"
+		type = cavalry
+		home = 1515
+	}
+
+	regiment = {
+		name= "8.Kings Horse"
+		type = cavalry
+		home = 1493
+	}
+
+	regiment = {
+		name= "9.Kings Horse"
+		type = cavalry
+		home = 1495
+	}
+}
+army = {
+	name = "1st Army"
+	location = 1533
+	regiment = {
+		name= "1.Kings Horse"
+		type = cavalry
+		home = 1533
+	}
+
+	regiment = {
+		name= "2.Kings Horse"
+		type = cavalry
+		home = 1533
+	}
+
+	regiment = {
+		name= "3.Kings Horse"
+		type = cavalry
+		home = 1533
+	}
+
+	regiment = {
+		name= "4.Kings Horse"
+		type = cavalry
+		home = 1482
+	}
+	
+	regiment = {
+		name= "5.Kings Horse"
+		type = cavalry
+		home = 1482
+	}
+	
+	regiment = {
+		name= "6.Kings Horse"
+		type = cavalry
+		home = 1536
+	}
+
+	regiment = {
+		name= "7.Kings Horse"
+		type = cavalry
+		home = 1536
+	}
+
+	regiment = {
+		name= "8.Kings Horse"
+		type = cavalry
+		home = 1519
+	}
+
+	regiment = {
+		name= "9.Kings Horse"
+		type = cavalry
+		home = 1520
+	}
+	
+	regiment = {
+		name= "10.Kings Horse"
+		type = cavalry
+		home = 1525
+	}
+}
+navy = {
+	name = "Aihr Force Hwone"
+	location = 1571
+	ship = {
+		name= "Couronne"
+		type = manowar
+	}
+
+	ship = {
+		name= "Superbe"
+		type = manowar
+	}
+
+	ship = {
+		name= "Jeqan Bart"
+		type = manowar
+	}
+	ship = {
+		name= "Coturonne"
+		type = manowar
+	}
+
+	ship = {
+		name= "Sruperbe"
+		type = manowar
+	}
+
+	ship = {
+		name= "Jeean Bart"
+		type = manowar
+	}
+	ship = {
+		name= "Cowuronne"
+		type = manowar
+	}
+
+	ship = {
+		name= "Sudperbe"
+		type = manowar
+	}
+
+	ship = {
+		name= "Jesan Bart"
+		type = manowar
+	}
+	ship = {
+		name= "Caouronne"
+		type = manowar
+	}
+
+	ship = {
+		name= "SBuperbe"
+		type = manowar
+	}
+
+	ship = {
+		name= "Lean Bart"
+		type = manowar
+	}
+	ship = {
+		name= "Kouronne"
+		type = manowar
+	}
+
+	ship = {
+		name= "Guperbe"
+		type = manowar
+	}
+
+	ship = {
+		name= "Fean Bart"
+		type = manowar
+	}
+	ship = {
+		name= "Pouronne"
+		type = manowar
+	}
+
+	ship = {
+		name= "Yuperbe"
+		type = manowar
+	}
+
+	ship = {
+		name= "CHean Bart"
+		type = manowar
+	}
+	ship = {
+		name= "Jouronne"
+		type = manowar
+	}
+
+	ship = {
+		name= "Luperbe"
+		type = manowar
+	}
+
+	ship = {
+		name= "Kean Bart"
+		type = manowar
+	}
+	ship = {
+		name= "Douronne"
+		type = manowar
+	}
+
+	ship = {
+		name= "Ruperbe"
+		type = manowar
+	}
+
+	ship = {
+		name= "Mean Bart"
+		type = manowar
+	}
+	ship = {
+		name= "Houronne"
+		type = manowar
+	}
+
+	ship = {
+		name= "Puperbe"
+		type = manowar
+	}
+
+	ship = {
+		name= "JAean Bart"
+		type = manowar
+	}
+	ship = {
+		name= "Mouronne"
+		type = manowar
+	}
+
+	ship = {
+		name= "Nukerbe"
+		type = manowar
+	}
+
+	ship = {
+		name= "Superbean Bart"
+		type = manowar
+	}
+	ship = {
+		name= "1. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "4. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6. Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "7. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9. Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "10. Transport"
+		type = clipper_transport
+	}
+} 

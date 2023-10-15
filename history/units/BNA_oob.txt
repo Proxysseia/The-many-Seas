@@ -6,3 +6,69 @@ leader = {
 	background = school_of_defense
 	prestige = 0.3
 }
+leader = {
+	name = "Testicle Connoisseur"
+	date = 1806.1.1
+	type = land
+	personality = cautious
+	background = nationalist
+	prestige = 0.3
+}
+army = {
+	name = "1st Army"
+	location = 223
+	regiment = {
+		name= "4.Kings Guard"
+		type = infantry
+		home = 151
+	}
+	
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 140
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 1718
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 195
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 223
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 220
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 1744
+	}
+}
+navy = {
+	name = "Mumbo Jumbo"
+	location = 223
+	ship = {
+		name= "2. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Transport"
+		type = clipper_transport
+	}
+} 

@@ -6,3 +6,62 @@ leader = {
 	background = school_of_defense
 	prestige = 0.3
 }
+leader = {
+	name = "Fransisco Franco"
+	date = 1806.1.1
+	type = land
+	personality = cautious
+	background = nationalist
+	prestige = 0.3
+}
+army = {
+	name = "1st Army"
+	location = 487
+	regiment = {
+		name= "2.Kings Guard"
+		type = cavalry
+		home = 487
+	}
+
+	regiment = {
+		name= "3.Kings Guard"
+		type = cavalry
+		home = 487
+	}
+	
+	regiment = {
+		name= "1.Kings Horse"
+		type = cavalry
+		home = 489
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 489
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 482
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 483
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 488
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 481
+	}
+}
