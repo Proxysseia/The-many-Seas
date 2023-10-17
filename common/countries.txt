@@ -185,6 +185,8 @@ RGT = "countries/Rangitane.txt"
 SUD = "countries/Sudenely.txt"
 WHI = "countries/Whitehall.txt"
 
+#yeah
+LCT	= "countries/Liechtenstein.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

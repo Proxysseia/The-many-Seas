@@ -1062,45 +1062,7 @@
     farmers = {
         culture = circassian
         religion = orthodox
-        size = 15000
-    }
-}
-#Tanjungpinang (100000/25000 POPS)
-1402 = {
-    aristocrats = {
-        culture = circassian
-        religion = orthodox
-        size = 125
-    }
-
-	bureaucrats = {
-        culture = circassian
-        religion = orthodox
-        size = 40
-    }
-
-    clergymen = {
-        culture = circassian
-        religion = orthodox
-        size = 50
-    }
-
-    artisans = {
-        culture = circassian
-        religion = orthodox
-        size = 1000
-    }
-
-    soldiers = {
-        culture = circassian
-        religion = orthodox
-        size = 500
-    }
-
-    farmers = {
-        culture = circassian
-        religion = orthodox
-        size = 15000
+        size = 30000
     }
 }
 #Rise-Artvin

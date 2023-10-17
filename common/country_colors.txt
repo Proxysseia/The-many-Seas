@@ -1042,3 +1042,10 @@ POL   = {
     color2= { 255 255 255  }
     color3= { 255 255 255  }
 }
+
+# Liechtenstein
+LCT = {
+    color1= { 123 183 244  }
+    color2= { 255 255 255  }
+    color3= { 188 80 87  }
+}

@@ -21,19 +21,7 @@
     farmers = {
         culture = saayda
         religion = sunni
-        size = 16000
-    }
-
-    farmers = {
-        culture = saayda
-        religion = sunni
-        size = 18240
-    }
-
-    farmers = {
-        culture = saayda
-        religion = sunni
-        size = 39200
+        size = 72240
     }
 
     slaves = {
