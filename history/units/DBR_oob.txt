@@ -6,3 +6,38 @@ leader = {
 	background = school_of_defense
 	prestige = 0.3
 }
+leader = {
+	name = "Legjobb Vezeto"
+	date = 1806.1.1
+	type = land
+	personality = cautious
+	background = nationalist
+	prestige = 0.3
+}
+army = {
+	name = "1st Army"
+	location = 647
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 647
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 651
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 648
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 649
+	}
+}

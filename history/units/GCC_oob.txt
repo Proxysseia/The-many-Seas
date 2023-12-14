@@ -6,3 +6,50 @@ leader = {
 	background = school_of_defense
 	prestige = 0.3
 }
+leader = {
+	name = "Taco Crusader"
+	date = 1806.1.1
+	type = land
+	personality = cautious
+	background = nationalist
+	prestige = 0.3
+}
+army = {
+	name = "1st Army"
+	location = 2167
+	regiment = {
+		name= "1.Kings Guard"
+		type = cavalry
+		home = 2167
+	}
+
+	regiment = {
+		name= "3.Kings Guard"
+		type = cavalry
+		home = 2173
+	}
+
+	regiment = {
+		name= "4.Kings Guard"
+		type = cavalry
+		home = 2159
+	}
+}
+navy = {
+	name = "Taco Flotilla"
+	location = 2163
+	ship = {
+		name= "1. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Transport"
+		type = clipper_transport
+	}
+} 

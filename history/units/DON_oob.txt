@@ -6,3 +6,106 @@ leader = {
 	background = school_of_defense
 	prestige = 0.3
 }
+leader = {
+	name = "Real Ukrainian"
+	date = 1806.1.1
+	type = land
+	personality = cautious
+	background = nationalist
+	prestige = 0.3
+}
+army = {
+	name = "1st Army"
+	location = 973
+	regiment = {
+		name= "1.Kings Guard"
+		type = infantry
+		home = 973
+	}
+
+	regiment = {
+		name= "2.Kings Guard"
+		type = infantry
+		home = 973
+	}
+
+	regiment = {
+		name= "3.Kings Guard"
+		type = infantry
+		home = 973
+	}
+
+	regiment = {
+		name= "4.Kings Guard"
+		type = infantry
+		home = 973
+	}
+	
+	regiment = {
+		name= "1.Kings Horse"
+		type = cavalry
+		home = 973
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 974
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 974
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 978
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 978
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 978
+	}
+}
+navy = {
+	name = "Real Ukrain Navy"
+	location = 973
+	ship = {
+		name= "Couronne"
+		type = manowar
+	}
+
+	ship = {
+		name= "Superbe"
+		type = manowar
+	}
+
+	ship = {
+		name= "Jean Bart"
+		type = manowar
+	}
+	ship = {
+		name= "1. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Transport"
+		type = clipper_transport
+	}
+} 

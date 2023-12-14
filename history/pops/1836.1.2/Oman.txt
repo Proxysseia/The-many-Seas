@@ -371,39 +371,39 @@
 #Khasa
 2664 = {
     aristocrats = {
-        culture = amhara
-        religion = sunni
-        size = 25
+        culture = australian
+        religion = protestant
+        size = 250
     }
 
     clergymen = {
-        culture = amhara
-        religion = sunni
-        size = 4
+        culture = australian
+        religion = protestant
+        size = 40
     }
 
     artisans = {
-        culture = amhara
-        religion = sunni
-        size = 8
+        culture = australian
+        religion = protestant
+        size = 80
     }
 
     soldiers = {
         culture = amhara
         religion = sunni
-        size = 85
+        size = 850
     }
 
     farmers = {
         culture = amhara
         religion = sunni
-        size = 2745
+        size = 27450
     }
 
     farmers = {
-        culture = saayda
-        religion = sunni
-        size = 3730
+        culture = australian
+        religion = protestant
+        size = 37300
     }
 }
 #Lucena-Quezon

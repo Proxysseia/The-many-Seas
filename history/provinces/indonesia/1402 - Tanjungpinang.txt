@@ -1,5 +1,6 @@
-owner = LCT
-controller = LCT
-add_core = LCT
-trade_goods = precious_metal
-life_rating = 30
+owner = ENL
+controller = ENL
+add_core = ENL
+add_core = SEV
+trade_goods = grain
+life_rating = 40

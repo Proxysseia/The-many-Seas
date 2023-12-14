@@ -59,11 +59,10 @@ political_decisions = {
 	
 
 	Reunite_the_Orthodox_Empire = {
-		
+	
 		potential = {
 			tag = ROM
-		}
-		
+		}	
 		allow = {
 			war = no
 			nationalism_n_imperialism = 1
@@ -125,35 +124,35 @@ political_decisions = {
 		}
 }
 
-Eastern_Dominion = {
-			potential = {
-					tag = IRO
-					CRI = { is_core = 967 }
-				}
-				allow = { 
-					war = no
-					revolution_n_counterrevolution = 1
-					CRI = { 
-				all_core = { 
-					OR = {
-						owned_by = THIS
-						owner = {
-								OR = {
-									in_sphere = THIS
-									vassal_of = THIS
-								}
-						}
-					}
-				}
-			}
-					}
-				effect = {
-					add_accepted_culture = circassian
-					CRI = { annex_to = THIS }
-					CRI = { all_core = { add_core =  IRO } }
-					CRI = { all_core = { remove_core =  CRI } }
-					DAG = { all_core = { add_core = IRO } }
-					}
+#Eastern_Dominion = {
+#			potential = {
+#					tag = IRO
+#					CRI = { is_core = 967 }
+#				}
+#				allow = { 
+#					war = no
+#					revolution_n_counterrevolution = 1
+#					CRI = { 
+#				all_core = { 
+#					OR = {
+#						owned_by = THIS
+#						owner = {
+#								OR = {
+#									in_sphere = THIS
+#									vassal_of = THIS
+#								}
+#						}
+#					}
+#				}
+#			}
+#					}
+#				effect = {
+#					add_accepted_culture = circassian
+#					CRI = { annex_to = THIS }
+#					CRI = { all_core = { add_core =  IRO } }
+#					CRI = { all_core = { remove_core =  CRI } }
+#					DAG = { all_core = { add_core = IRO } }
+#					}
 				}
 Demand_Return_of_Rome = {
 			potential = {
