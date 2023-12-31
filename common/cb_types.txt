@@ -57,6 +57,7 @@ cut_down_to_size_boxer
 cut_down_to_size 
 free_peoples
 liberate_country
+great_baden_war
 release_puppet
 become_independent
 make_puppet_small
@@ -835,6 +836,7 @@ free_peoples = {
 	}
 }
 
+
 # Liberate country
 liberate_country = {
 	sprite_index = 15
@@ -916,6 +918,84 @@ liberate_country = {
 	}
 }
 
+# Liberate country
+great_baden_war = {
+	sprite_index = 15
+	is_triggered_only = yes
+	months = 12
+	constructing_cb = no
+	crisis = no
+
+	badboy_factor = 2.2
+	prestige_factor = 1
+	peace_cost_factor = 1
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 1
+	break_truce_infamy_factor = 1
+	break_truce_militancy_factor = 1
+	truce_months = 60
+	
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+	
+
+	# THIS - us
+	# FROM - country scope is possible match?
+	# war target country of goal is scope
+	allowed_countries = {
+		number_of_states = 2
+		NOT = {
+			tag = FROM
+			this_culture_union = FROM	
+		}
+		from = {
+			OR = {
+				exists = yes
+				NOT = {
+						OR = {
+							tag = GER
+							tag = SCA
+							tag = ITA
+							#tag = ROM # TODO: shoudl we let the rest be liberated too?
+							tag = CZH
+						}
+					}
+				}
+			}
+		
+		any_owned_province = {
+			is_core = FROM
+			NOT =
+			{
+				is_core = THIS
+			}
+		}
+		is_releasable_vassal = FROM
+	}
+
+	# THIS - us
+	# FROM - country scope is possible match?
+	# war target country of goal's state
+	allowed_states = {
+		any_owned_province = {
+			is_core = FROM
+		}
+	}
+	all_allowed_states = yes
+	po_transfer_provinces = yes
+
+	war_name = WAR_LIBERATE_NAME
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.25
+		}
+	}
+}
 free_allied_cores = {
 	sprite_index = 25
 	is_triggered_only = yes

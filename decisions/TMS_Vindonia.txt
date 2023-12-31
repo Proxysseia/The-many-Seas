@@ -1,0 +1,95 @@
+political_decisions = {
+	great_baden_war = {
+		potential = {
+			tag = DAN
+			NOT = {has_country_flag = great_baden_war }
+		}
+		allow = {
+			is_our_vassal = BAD
+		}
+		effect = {
+			casus_belli = {
+				target = NET
+				type = great_baden_war
+				months = 36
+			}
+			set_country_flag = great_baden_war
+		}
+	
+	}
+	federalize_the_states = {
+		potential = {
+			tag = DAN
+			NOT = {has_country_flag = federalize_the_states}
+		}
+		allow = {
+			BAD = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+						    OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			PES = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+						    OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			DAN = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+						    OR = {
+							in_sphere = THIS
+							vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			set_country_flag = federalize_the_states
+			add_accepted_culture = bairisch
+			BAD = {
+				all_core = {
+					add_core = GRM
+					remove_core = BAD
+				}
+				annex_to = THIS
+	
+			}
+			PES = {
+				all_core = {
+					add_core = GRM
+					remove_core = PES
+				}
+				annex_to = THIS
+			}
+			DAN = {
+				all_core = {
+					add_core = GRM
+					remove_core =DAN
+				}
+				annex_to = THIS
+			}
+			change_tag = GRM
+		}
+	}
+	
+}
