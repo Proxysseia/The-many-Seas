@@ -116,6 +116,7 @@ country_event = {
             limit = {
                 OR = {
                     has_pop_culture = fang
+                    has_pop_culture = lake_fang
 					has_pop_culture = icelandic
                 }
             }

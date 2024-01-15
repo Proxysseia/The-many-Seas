@@ -20,7 +20,7 @@ political_decisions = {
 	federalize_the_states = {
 		potential = {
 			tag = DAN
-			NOT = {has_country_flag = federalize_the_states}
+			NOT = {has_country_flag = owns_baden}
 		}
 		allow = {
 			BAD = {
@@ -64,12 +64,12 @@ political_decisions = {
 			}
 		}
 		effect = {
-			set_country_flag = federalize_the_states
+			set_country_flag = owns_baden
 			add_accepted_culture = bairisch
 			BAD = {
 				all_core = {
 					add_core = GRM
-					remove_core = BAD
+		#			remove_core = BAD
 				}
 				annex_to = THIS
 	

@@ -963,6 +963,7 @@ great_baden_war = {
 						}
 					}
 				}
+			FROM = {tag = BAD}
 			}
 		
 		any_owned_province = {

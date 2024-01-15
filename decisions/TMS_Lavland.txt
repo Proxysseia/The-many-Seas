@@ -1,8 +1,11 @@
 political_decisions = {
+
 	Germanja_is_ours = {
+		picture = austrian_form_south_german_confederation
 		potential = {
 			tag = NET
-			BAD = { is_core = 601}
+			NOT = { has_country_flag = owns_baden }
+			# BAD = { is_core = 601}
 		}
 		allow = {
 			war = no
@@ -23,14 +26,16 @@ political_decisions = {
 		
 		}
 		effect = {
+			set_country_flag = owns_baden
 			prestige = 20
 			BAD = { annex_to = THIS }
 			BAD = { all_core = { add_core =  NET } }
-			BAD = { all_core = { remove_core =  BAD } }	
+		#	BAD = { all_core = { remove_core =  BAD } }	
 			add_accepted_culture = bairisch		
 		}
 	}
 	Our_Northern_Brothers = {
+		picture = concede_finland
 		potential = {
 			tag = NET
 			HAN = { is_core = 528}
@@ -68,6 +73,7 @@ political_decisions = {
 }
 
 Finish_northern_Integration = {
+				picture = concede_finland
 				potential = {
 						tag = NET
 						NOT = { accepted_culture = flanish }
@@ -81,6 +87,7 @@ Finish_northern_Integration = {
 					}
 				}
 Cleanse_Arlsas = {
+		picture = introduce_the_presbyteries
 		potential = {
 			tag = NET
 			NOT = { has_country_flag = owns_alsace }

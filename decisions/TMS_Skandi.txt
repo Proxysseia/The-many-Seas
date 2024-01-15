@@ -1,7 +1,7 @@
 political_decisions = {
 	
 	The_Great_Skandinavisk_Union = {
-		
+		picture = form_scandinavia
 		potential = {
 			tag = SCA
 		}
@@ -70,7 +70,7 @@ political_decisions = {
 
 			FIN = { all_core = { remove_core =  FIN } }
 			EST = { all_core = { remove_core =  EST } }
-			NEN = { all_core = { remove_core =  NEN } }
+			# NEN = { all_core = { remove_core =  NEN } }
 			SCA = { all_core = { remove_core =  SCA } }
 			
 			add_accepted_culture = danish
@@ -81,6 +81,7 @@ political_decisions = {
 	
 
 Our_Southern_Brothers = {
+		picture = megali_idea
 		potential = {
 			primary_culture = swedish
 			HAN = { is_core = 528}
@@ -110,7 +111,7 @@ Our_Southern_Brothers = {
 			HAN = { annex_to = THIS }
 			HAN = { all_core = { add_core =  SCA } }
 			HAN = { all_core = { remove_core =  HAN } }
-			add_accepted_culture = flanishk
+			add_accepted_culture = flanish
 		}
 	}
 }
