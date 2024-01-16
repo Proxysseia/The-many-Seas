@@ -1,6 +1,6 @@
 political_decisions = {
-	picture = palais_garnier
 	great_baden_war = {
+		picture = palais_garnier
 		potential = {
 			tag = DAN
 			NOT = {has_country_flag = great_baden_war }

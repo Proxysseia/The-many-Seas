@@ -33,7 +33,7 @@ country_event = {
 	trigger = {
 		ai = no
 		NOT = {
-			has_leader = "Alberto Barbosa"
+			has_leader = "Naval Gosling"
 		}
 	}
 	mean_time_to_happen = {
