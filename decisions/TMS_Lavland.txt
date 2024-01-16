@@ -73,19 +73,19 @@ political_decisions = {
 }
 
 Finish_northern_Integration = {
-				picture = concede_finland
-				potential = {
-						tag = NET
-						NOT = { accepted_culture = flanish }
-					}
-				allow = { 
-					war = no
-					revolution_n_counterrevolution = 1
-					}
-				effect = {
-					add_accepted_culture = flanish
-					}
+			picture = concede_finland
+			potential = {
+					tag = NET
+					NOT = { accepted_culture = flanish }
 				}
+			allow = { 
+				war = no
+				revolution_n_counterrevolution = 1
+				}
+			effect = {
+				add_accepted_culture = flanish
+				}
+			}
 Cleanse_Arlsas = {
 		picture = introduce_the_presbyteries
 		potential = {

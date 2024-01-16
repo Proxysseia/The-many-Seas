@@ -1,4 +1,5 @@
 political_decisions = {
+	picture = palais_garnier
 	great_baden_war = {
 		potential = {
 			tag = DAN
@@ -18,6 +19,7 @@ political_decisions = {
 	
 	}
 	federalize_the_states = {
+	picture = the_rhine_crisis
 		potential = {
 			tag = DAN
 			NOT = {has_country_flag = owns_baden}
