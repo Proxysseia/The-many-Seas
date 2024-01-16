@@ -1033,12 +1033,7 @@ emigration_chance =
 		factor = -10000
 		state_scope = { is_colonial = yes }
 	}
-	
-	modifier = {
-		factor = -0.4
-		is_accepted_culture = no
-		NOT = { culture = irish }
-	}
+
 }
 
 #general assimilation mtth, same for all pops
@@ -1076,10 +1071,10 @@ assimilation_chance = {
 #IMPORTANT NOTE - If a pop has_culture_core = no, it must have its bonuses scaled down to a 100th less magnitude. (if base is factor 10, has_culture_core = no must be 0.1) This must be reflected in all future modifiers.
 	group = {
 		modifier = {
-			factor = 10
+			factor = 10.125
 		}
 		modifier = {
-			factor = -9.9
+			factor = -9.85
 			has_culture_core = no
 		}
 	}
@@ -1317,7 +1312,7 @@ assimilation_chance = {
 			has_culture_core = no
 		}
 	}
-	group =
+	group = {
 		modifier = {
 			factor = 0.25
 			everyday_needs = 0.2
