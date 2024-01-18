@@ -8,14 +8,14 @@ auguste_comte = {
 	limit = { positivism = 1 }
 	news = no
 	chance = {
-		base = 100
+		base = 6
 		modifier = {
 			factor = 4
 			enlightenment_thought = 1
 		}
 	}
 	effect = {
-		education_efficiency = 0.10
+		shared_prestige = 5
 	}	
 }
 
@@ -24,7 +24,7 @@ th_huxley = {
 	limit = { functionalism = 1 }
 	news = no
 	chance = {
-		base = 0
+		base = 5
 		modifier = {
 			factor = 5
 			invention = auguste_comte

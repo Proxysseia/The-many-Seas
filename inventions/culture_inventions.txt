@@ -691,7 +691,7 @@ darwinism = {
 	limit = { biologism = 1 }
 	news = no
 	chance = {
-		base = 5
+		base = 25
 		modifier = {
 			factor = 2
 			impressionism = 1
