@@ -19,15 +19,11 @@ social_democracy = {
 			}
 			modifier = {
 				factor = 2
-				invention = jean_jaurès
+				invention = jean_jaurï¿½s
 			}
 			modifier = {
 				factor = 5
 				invention = mixed_economy
-			}
-			modifier = {
-				factor = 50
-				ruling_party_ideology = socialist
 			}
 	}
 	effect = {
@@ -58,10 +54,6 @@ marxism_leninism = {
 				factor = 2
 				invention = centralized_economic_planning
 			}
-			modifier = {
-				factor = 50
-				ruling_party_ideology = communist
-			}
 	}
 	effect = {
 		plurality = 0.05
@@ -87,10 +79,6 @@ national_socialism = {
 			modifier = {
 				factor = 4
 				invention = the_doctrine_of_fascism
-			}
-			modifier = {
-				factor = 50
-				ruling_party_ideology = fascist
 			}
 	}
 	effect = {

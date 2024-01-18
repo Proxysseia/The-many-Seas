@@ -224,10 +224,6 @@ machine_made_steel_cans = {
 			factor = 2
 			invention = industrial_rnd_investments
 		}
-		modifier = {
-			factor = 4
-			war = yes
-		}
 	}
 	effect = {
 		factory_goods_throughput = {
@@ -248,10 +244,6 @@ double_seams = {
 			factor = 2
 			invention = i_scientific_management
 		}
-		modifier = {
-			factor = 4
-			war = yes
-		}
 	}
 	effect = {
 		factory_goods_output = {
@@ -264,11 +256,7 @@ double_seams = {
 lombard_and_holts_continuous_track = {
 	limit = { electric_furnace = 1 }
 	chance = {
-		base = 0
-		modifier = {
-			factor = 10
-			war = yes
-		}
+		base = 2
 		modifier = {
 			factor = 10
 			invention = steel_alloys

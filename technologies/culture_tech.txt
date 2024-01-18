@@ -461,7 +461,7 @@ social_science = {
 	cost = 18000
 
 	colonial_migration = 0.05
-	education_efficiency = 0.1
+	education_efficiency = 0.3
 	ai_chance = {
 		factor = 90
 		modifier = {
@@ -482,6 +482,7 @@ social_alienation = {
 	cost = 21600
 	
 	colonial_migration = 0.05
+	plurality = 0.10
 	#education_efficiency = 0.1
 	ai_chance = {
 		factor = 90

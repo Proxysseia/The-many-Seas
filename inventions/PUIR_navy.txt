@@ -43,10 +43,6 @@ compressed_oxygen_torpedo = {
 			factor = 5
 			year = 1930
 		}
-		modifier = {
-			factor = 5
-			war = yes
-		}
 	}
 	
 	effect = {
@@ -120,18 +116,12 @@ torpedo_training_school = {
 	limit = { naval_risk_management = 1 }
 	
 	chance = {
-		base = 0
+		base = 5
 		modifier = {
 			factor = 2
 			invention = self_propelled_torpedoes
 		}
-		modifier = {
-			factor = 8
-			war = yes
-		}
-
 	}
-	
 	effect = {
 		cruiser = { 
 			torpedo_attack = 2 

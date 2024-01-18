@@ -400,14 +400,6 @@ socialist_realism = {
 		base = 2
 		modifier = {
 			factor = 2
-			government = proletarian_dictatorship
-		}
-		modifier = {
-			factor = 2
-			ruling_party_ideology = socialist
-		}
-		modifier = {
-			factor = 2
 			invention = dogma_of_mass_action
 		}
 	}
@@ -714,7 +706,7 @@ darwinism = {
 		}
 	}
 	effect = {
-		education_efficiency = 0.15 #0.50
+		education_efficiency = 0.30 #0.50
 	}
 }
 social_darwinism = {
@@ -831,7 +823,7 @@ the_revolt_of_the_masses = {
 		war_exhaustion = -0.25
 	}
 }
-the_decline_of_the_west_and_the_lost_generation = {
+the_decline_of_the_west_and_the_lost_generation = { #spengler was so real for giving me -rgo output
 	limit = { social_alienation = 1 }
 	news = no
 	chance = {
@@ -846,8 +838,8 @@ the_decline_of_the_west_and_the_lost_generation = {
 		}
 	}
 	effect = {
-		rgo_output = -0.05
-		factory_throughput = -0.05
+		rgo_output = -0.1
+		factory_throughput = -0.1
 	}
 	core_pop_consciousness_modifier = 0.02
 }
@@ -875,15 +867,9 @@ constitutionalism = {
 	chance = {
 		base = 3
 		modifier = {
-			factor = 2
-			government = hms_government
-		}
-		modifier = {
 			factor = 1
 			NOT = { political_parties = underground_parties }
 		}
-		
-
 	}
 	effect = {
 		plurality = 0.05
@@ -899,10 +885,6 @@ atheism = {
 		modifier = {
 			factor = 1
 			tech_school = culture_tech_school
-		}
-		modifier = {
-			factor = 1
-			ruling_party_ideology = socialist
 		}
 		modifier = {
 			factor = 2
@@ -921,17 +903,6 @@ egalitarianism = {
 		modifier = {
 			factor = 3
 			nationalvalue = nv_equality
-		}
-		modifier = {
-			factor = 2
-			government = democracy
-		}
-		modifier = {
-			factor = 1
-			NOT = {
-				ruling_party_ideology = reactionary
-				ruling_party_ideology = conservative
-			}
 		}		
 	}
 	effect = {
@@ -962,17 +933,7 @@ authoritarianism = {
 	limit = { ideological_thought = 1 }
 	news = no
 	chance = {
-		base = 0
-		modifier = {
-			factor = 5
-			OR = {
-				ruling_party_ideology = reactionary
-				AND = {
-					government = absolute_monarchy
-					ruling_party_ideology = conservative
-					}
-				}
-		}
+		base = 5
 	}
 	political_reform_desire = -0.05
 	core_pop_consciousness_modifier = -0.02
@@ -980,23 +941,10 @@ authoritarianism = {
 hierarchical_order = {
 	news = no
 	limit = { 
-			ideological_thought = 1 
-			OR = { 
-			government = hms_government
-			government = prussian_constitutionalism
-			government = absolute_monarchy
-			}			
+			ideological_thought = 1			
 	}
 	chance = {
 		base = 1
-		modifier = {
-			factor = 3
-			government = absolute_monarchy
-		}
-		modifier = {
-			factor = 2
-			government = prussian_constitutionalism
-		}
 	}
 	social_reform_desire = -0.05
 	core_pop_militancy_modifier = -0.02
@@ -1006,22 +954,6 @@ traditionalism = {
 	news = no
 	chance = {
 		base = 1
-		modifier = {
-			factor = 3
-			ruling_party_ideology = reactionary
-		}
-		modifier = {
-			factor = 2
-			ruling_party_ideology = conservative
-		}
-		modifier = {
-			factor = 2
-			government = absolute_monarchy
-		}
-		modifier = {
-			factor = 1
-			government = prussian_constitutionalism
-		}
 	}
 	social_reform_desire = -0.05
 	core_pop_consciousness_modifier = -0.01
@@ -1031,18 +963,6 @@ political_religion = {
 	news = no
 	chance = {
 		base = 3
-		modifier = {
-			factor = 2
-			religious_policy = moralism
-		}
-		modifier = {
-			factor = -2
-			religious_policy = secularized
-		}
-		modifier = {
-			factor = -3
-			religious_policy = pro_atheism
-		}
 	}
 	political_reform_desire = 0.1
 }
@@ -1073,13 +993,6 @@ secularization = {
 		modifier = {
 			factor = 3
 			nationalvalue = nv_equality
-		}
-		modifier = {
-			factor = 1
-			OR = {
-				ruling_party_ideology = socialist
-				ruling_party_ideology = liberal
-			}
 		}
 	}
 	effect = {
@@ -1115,10 +1028,6 @@ collectivism = {
 			factor = 2
 			nationalvalue = nv_equality
 		}
-		modifier = {
-			factor = 1
-			ruling_party_ideology = socialist
-		}
 	}
 	effect = {
 		plurality = 0.05
@@ -1132,15 +1041,7 @@ determinism = {
 		base = 2
 		modifier = {
 			factor = 1
-			ruling_party_ideology = socialist
-		}
-		modifier = {
-			factor = 1
 			socialist = 0.2
-		}
-		modifier = {
-			factor = 1
-			tech_school = culture_tech_school
 		}
 	}
 	effect = {
@@ -1156,13 +1057,6 @@ social_justice = {
 		modifier = {
 			factor = 2
 			nationalvalue = nv_equality
-		}
-		modifier = {
-			factor = 1
-			OR = {
-				ruling_party_ideology = liberal
-				ruling_party_ideology = socialist
-			}
 		}
 	}
 	effect = {
@@ -1275,14 +1169,6 @@ biased_multiculturalism = {
 		base = 2
 		modifier = {
 			factor = 1
-			ruling_party_ideology = reactionary
-		}
-		modifier = {
-			factor = 2
-			ruling_party_ideology = conservative
-		}
-		modifier = {
-			factor = 1
 			nationalvalue = nv_order
 		}
 	}
@@ -1304,10 +1190,6 @@ manifest_destiny = {
 		modifier = {
 			factor = -1
 			nationalvalue = nv_order
-		}
-		modifier = {
-			factor = 2
-			ruling_party_ideology = liberal
 		}
 	}
 	effect = {
@@ -1425,10 +1307,6 @@ dogma_of_mass_action = {
 			factor = 2
 			nationalvalue = nv_equality
 		}
-		modifier = {
-			factor = 3
-			ruling_party_ideology = socialist
-		}
 	}
 	effect = {
 		rebel_org_gain = {
@@ -1441,18 +1319,7 @@ terrorism = {
 	limit = { revolution_n_counterrevolution = 1 }
 	news = no
 	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			ruling_party_ideology = socialist
-		}
-		modifier = {
-			factor = 3
-			OR = {
-				ruling_party_ideology = fascist
-				ruling_party_ideology = communist
-			}
-		}
+		base = 3
 		modifier = {
 			factor = -1
 			nationalvalue = nv_liberty
@@ -1475,9 +1342,9 @@ general_strikes = {
 	}
 	social_reform_desire = 0.10
 	effect = {
-	 	factory_output = -0.01
-		mine_rgo_eff = -0.05
-		farm_rgo_eff = -0.05
+	 	factory_output = -0.1
+		mine_rgo_eff = -0.1
+		farm_rgo_eff = -0.1
 	}
 }
 secret_police = {
@@ -1485,13 +1352,6 @@ secret_police = {
 	limit = { revolution_n_counterrevolution = 1 }
 	chance = {
 		base = 2
-		modifier = {
-			factor = 3
-			OR = {
-				ruling_party_ideology = fascist
-				ruling_party_ideology = communist
-			}
-		}
 		modifier = {
 			factor = 2
 			nationalvalue = nv_order
@@ -1502,11 +1362,10 @@ secret_police = {
 			faction = all
 			value = -0.25
 		}
-		
 		suppression_points_modifier = 0.50
 	}
 }
-womens_suffrage_movement = {
+womens_suffrage_movement = {							#cant believe the WOKE are in my vic2
 	limit = { revolution_n_counterrevolution = 1 }
 	news = no
 	chance = {
@@ -1517,10 +1376,6 @@ womens_suffrage_movement = {
 				nationalvalue = nv_liberty
 				nationalvalue = nv_equality
 			}
-		}
-		modifier = {
-			factor = 3
-			ruling_party_ideology = liberal
 		}
 		modifier = {
 			factor = 10
@@ -1540,13 +1395,6 @@ rhetoric_of_hate = {
 		modifier = {
 			factor = 1
 			year = 1900
-		}
-		modifier = {
-			factor = 2
-			OR = {
-				ruling_party_ideology = fascist
-				ruling_party_ideology = communist
-			}
 		}
 		modifier = {
 			factor = -1
@@ -1590,10 +1438,6 @@ anti_egalitarianism = {
 			factor = 2
 			nationalvalue = nv_order
 		}
-		modifier = {
-			factor = 3
-			ruling_party_ideology = reactionary
-		}
 	}
 	effect = {
 		war_exhaustion = -0.05
@@ -1605,14 +1449,6 @@ vangaurd_party = {
 	news = no
 	chance = {
 		base = 2
-		modifier = {
-			factor = 1
-			ruling_party_ideology = socialist
-		}
-		modifier = {
-			factor = 2
-			ruling_party_ideology = communist
-		}
 	}
 	effect = {
 		rebel_org_gain = {
@@ -1627,10 +1463,6 @@ the_doctrine_of_fascism = {
 	news = no
 	chance = {
 		base = 2
-		modifier = {
-			factor = 2
-			ruling_party_ideology = fascist
-		}
 		modifier = {
 			factor = 1
 			nationalvalue = nv_order
@@ -1708,14 +1540,6 @@ mass_advertising = {
 			factor = 3
 			invention = jb_watson 
 		}
-		modifier = {
-			factor = 2
-			government = democracy
-		}
-		modifier = {
-			factor = 1
-			government = hms_government
-		}
 	}
 	effect = {
 		education_efficiency = 0.25
@@ -1731,10 +1555,6 @@ national_radio_networks = {
 		modifier = {
 			factor = 5
 			year = 1920
-		}
-		modifier = {
-			factor = 2
-			government = democracy
 		}
 		modifier = {
 			factor = -1

@@ -119,14 +119,10 @@ quick_firing_field_guns = {
 indirect_fire_techniques = {
 	limit = { indirect_artillery_fire = 1 }
 	chance = {
-		base = 0
+		base = 5
 		modifier = {
 			factor = 5
 			army_nco_training = 1
-		}
-		modifier = {
-			factor = 5
-			war = yes	
 		}
 		modifier = {
 			factor = 5
@@ -164,11 +160,7 @@ florence_nightingale = {
 	limit = { nationalism_n_imperialism = 1 }
 	news = no
 	chance = {
-		base = 2
-		modifier = {
-			factor = 8
-			war = yes
-		}
+		base = 10
 		modifier = {
 			factor = 5
 			invention = combat_medicine
@@ -182,17 +174,13 @@ florence_nightingale = {
 military_psychology = {
 	limit = { behaviorism = 1 }
 	chance = {
-		base = 0
+		base = 5
 		modifier = {
 			factor = 5
 			invention = carl_jung
 		}
-		modifier = {
-			factor = 5
-			war = yes
-		}
 	}
 	effect = {
-		soldier_to_pop_loss = 0.005
+		soldier_to_pop_loss = 0.005 				#holy shit infinite bodies hack
 	}
 }

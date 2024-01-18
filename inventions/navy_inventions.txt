@@ -168,10 +168,6 @@ blue_water_school = {
 			factor = 2
 			state_n_government = 1
 		}
-		modifier = {
-			factor = 8
-			colonial_nation = yes
-		}
 	}
 	effect = {
 		ironclad = {
@@ -203,10 +199,6 @@ brown_water_school = {
 			factor = 2
 			naval_statistics = 1
 		}
-		modifier = {
-			factor = 6
-			colonial_nation = no
-		}
 	}
 	effect = {
 		monitor = {
@@ -228,10 +220,6 @@ offensive_attitude = {
 	}
 	chance = {
 		base = 2
-		modifier = {
-			factor = 2
-			colonial_nation = yes
-		}
 		modifier = {
 			factor = 2
 			is_greater_power = yes
@@ -1435,14 +1423,10 @@ naval_strike_success_criterium = {
 underway_refueling = {
 	limit = { naval_logistics = 1 }
 	chance = {
-		base = 2
+		base = 10
 		modifier = {
 			factor = 2
 			invention = cracking
-		}
-		modifier = {
-			factor = 2
-			colonial_nation = yes
 		}
 	}
 	effect = {

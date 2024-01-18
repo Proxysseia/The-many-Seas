@@ -65,14 +65,10 @@ tractors = {
 direct_current = {
 	limit = { electrical_power_generation = 1 }
 	chance = {
-		base = 2
+		base = 4
 		modifier = {
 			factor = 2
 			invention = edison_light_bulb
-		}
-		modifier = {
-			factor = 2
-			ruling_party_ideology = liberal
 		}
 	}
 	effect = {
@@ -888,10 +884,6 @@ aerial_bacteria_and_antiseptic_principle = {
 		base = 2
 		modifier = {
 			factor = 2
-			colonial_nation = yes
-		}
-		modifier = {
-			factor = 2
 			empiricism = 1
 		}
 		modifier = {
@@ -951,10 +943,6 @@ genetics:_heredity = {
 			inorganic_chemistry = 1
 		}
 		modifier = {
-			factor = 2
-			colonial_nation = yes
-		}
-		modifier = {
 			factor = 4
 			any_neighbor_country = {
 				invention = genetics:_heredity
@@ -991,15 +979,7 @@ clinical_thermometers_and_binaural_stethoscopes = {
 prophylaxis_against_malaria = {
 	limit = { medicine = 1 }
 	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			inorganic_chemistry = 1
-		}		
-		modifier = {
-			factor = 3
-			colonial_nation = yes
-		}
+		base = 100
 	}
 	effect = {
 		land_attrition = -0.05 
