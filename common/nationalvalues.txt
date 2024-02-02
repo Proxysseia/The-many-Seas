@@ -27,10 +27,9 @@ nv_tradition = {
 }
 
 nv_productivity = {
-	tax_efficiency = 0.05
 	RGO_throughput = 0.1
 	factory_input = -0.05
-	factory_output = 0.1
+	factory_output = 0.20
 	commerce_tech_research_bonus = 0.05
 	industry_tech_research_bonus = 0.05
 }

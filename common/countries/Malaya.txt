@@ -8,7 +8,7 @@ party = {
 
 	ideology = conservative
 
-	economic_policy = laissez_faire
+	economic_policy = interventionism
 	trade_policy = protectionism
 	religious_policy = pluralism
 	citizenship_policy = full_citizenship
@@ -66,7 +66,7 @@ party = {
 
 	ideology = anarcho_liberal
 
-	economic_policy = laissez_faire
+	economic_policy = interventionism
 	trade_policy = free_trade
 	religious_policy = secularized
 	citizenship_policy = full_citizenship

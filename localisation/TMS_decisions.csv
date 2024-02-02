@@ -3,3 +3,68 @@ dugu_accept_janeiran_title;Manifest Destiny;;;;;;;;;;;;;x
 dugu_accept_janeiran_desc;war war war war war;;;;;;;;;;;;;x
 inca_accept_janeiran_title;Counter-Manifest Destiny;;;;;;;;;;;;;x
 inca_accept_janeiran_desc;war war war war war war war war war war;;;;;;;;;;;;;x
+rgo_changes_on_title;Change RGO Options (Hidden);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+rgo_changes_on_desc;Show Change RGO Options;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+rgo_changes_off_title;Change RGO Options (Showing);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+rgo_changes_off_desc;Hide Change RGO Options\n\nNote: If you don't see any options, scroll down in your decisions menu to see options that are currently unavailable to you.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+rgo_change_mining_colony_title;§GChange Mining RGO (Colony);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+rgo_change_mining_colony_desc;Allows the switching of a single colonial RGO province of the following types: Coal, Iron, or Sulphur into Coal, Iron, or Sulphur. This Decision has a 5 year cooldown.\n\nShares cooldowns with §YChange Mining RGO (State);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+rgo_change_agriculture_colony_title;§GChange Agriculture RGO (Colony);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+rgo_change_agriculture_colony_desc;Allows the switching of a single colonial RGO province of the following types: Grain, Fruit, Fish, Cattle, Wool, Cotton, or Silk into Grain, Fruit, Fish, Cattle, Wool, Cotton, or Silk. This Decision has a 5 year cooldown.\n\nShares cooldowns with §YChange Agriculture RGO (State);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+rgo_change_mining_title;§YChange Mining RGO (State);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+rgo_change_mining_desc;Allows the switching of a single non-colonial RGO province of the following types: Coal, Iron, or Sulphur into Coal, Iron, or Sulphur. This Decision has a 5 year cooldown.\n\nShares cooldowns with §GChange Mining RGO (Colony);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+rgo_change_agriculture_title;§YChange Agriculture RGO (State);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+rgo_change_agriculture_desc;Allows the switching of a single non-colonial RGO province of the following types: Grain, Fruit, Fish, Cattle, Wool, Cotton, or Silk into Grain, Fruit, Fish, Cattle, Wool, Cotton, or Silk. This Decision has a 5 year cooldown.\n\nShares cooldowns with §GChange Agriculture RGO (Colony);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EVTNAME199936;Mining RGO Change (State);;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVTDESC199936;Select one of the following Goods you would like to replace an existing RGO with!\n[§GNOTE§b]: Cool down is 5 years for every option and 1 year for not choosing.\n\n\n\n§RIMPORTANT\n\n§RMouse over each option to see what province is being targeted.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199936OPTA;Coal;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199936OPTB;Iron;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199936OPTC;Sulphur;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199936OPTD;I'd rather not change anything.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+199937;Argiculture RGO Change;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVTNAME199937;Agriculture RGO Change (State);;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVTDESC199937;Select one of the following Goods you would like to replace an existing RGO with!\n[§GNOTE§b]: Cool down is 5 years for every option and 1 year for not choosing.\n\n\n\n§RIMPORTANT\n\n§RMouse over each option to see what province is being targeted.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTA;Wool;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTB;Silk;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTC;Cotton;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTD;Cattle;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTE;Fish;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTF;Fruit;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTG;Grain;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTI;Tobacco;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTJ;Tea;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTK;Coffee;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTL;Opium;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTH;I'd rather not change anything.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+rgo_changed_mine;Mine RGO Change Cooldown;;;;;;;;;;;;;x,,,,
+rgo_changed_farm;Farm RGO Change Cooldown;;;;;;;;;;;;;x,,,,
+rgo_changed_mine_desc;Cooldown Timer for Mine RGO Change Decisions;;;;;;;;;;;;;x,,,,
+rgo_changed_farm_desc;Cooldown Timer for Farm RGO Change Decisions;;;;;;;;;;;;;x,,,,
+treaty_port_buff;Treaty Port Infrastructure;;;;;;;;;;;;;x,,,,
+treaty_port_buff_desc;The infrastructure and development of this treaty port has vastly increased our RGO capacity!;;;;;;;;;;;;;x,,,,
+chinese_treaty_port;Chinese Treaty Port Cooldown Flag;;;;;;;;;;;;;x,,,,
+chinese_treaty_port_desc; We have recently taken a Chinese treaty port, this is the cooldown flag until another may be taken.;;;;;;;;;;;;;x,,,,
+negotiating_unequal_treaty;Negotiating an Unequal Treaty;;;;;;;;;;;;;x,,,,
+negotiating_unequal_treaty_desc;Negotiating an unequal treaty with foreigners.;;;;;;;;;;;;;x,,,,
+negotiating_treaty;Negotiating Treaty;;;;;;;;;;;;;x,,,,
+negotiating_treaty_desc;Negotiating a Treaty with China.;;;;;;;;;;;;;x,,,,
+change_national_value_on_title;Change Nation Value (Hidden);;;;;;;;;;;;;x,,,,
+change_national_value_on_desc;Show Tech School Decisions;;;;;;;;;;;;;x,,,,
+change_national_value_off_title;Change Nation Value (Showing);;;;;;;;;;;;;x,,,,
+change_national_value_off_desc;Hide Tech School Decisions;;;;;;;;;;;;;x,,,,
+switch_to_diplomacy_title;Embrace the Ideal of Diplomacy;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+switch_to_diplomacy_desc;\n\n§YThe modifiers for this NV are:§W\n§GDiplomatic Points Generation: +200%\nBase Influence Points Generation: +50%\nInfamy Decay: -0.10\nFaster CB Generation Speed: +50%§W;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+switch_to_education_title;Embrace the Ideal of Education;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+switch_to_education_desc;§YThe modifiers for this NV are:§W\n§GEducation Efficiency: +20%\nResearch Points Modifier: +15%\nCulture Tech Research Bonus: +5%§W;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+switch_to_order_title;Embrace the Ideal of Order;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+switch_to_order_desc;\n\n§YThe modifiers for this NV are:§W\n§GOrganization Regain Rate: +20%\nLand Unit Starting Experience: +25%\nArmy Tech Research Bonus: +5%§W;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+switch_to_production_title;Embrace the Ideal of Productivity;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+switch_to_production_desc;\n\n§YThe modifiers for this NV are:§W\n§GFactory Input: -5%\nFactory Output: +20%\nRGO Throughput: +10%\n§GCommerce Tech Research Bonus: +5%\nIndustry Tech Research Bonus: +5%§W;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+switch_to_equality_title;Embrace the Ideal of Equality;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+switch_to_equality_desc;\n\n§YThe modifiers for this NV are:§W\n§GMobilisation Size +1%\nCulture Tech Research Bonus: +5%§W;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
+switch_to_liberty_title;Embrace the Ideal of Liberty;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+switch_to_liberty_desc;\n\n§YThe modifiers for this NV are:§W\n§GImmigrant Attraction: +20%\nSocial Reform Desire +10%\nPolitical Reform Desire +25%§W;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
+change_tech_school_on_title;Change Tech School (Hidden);;;;;;;;;;;;;;x
+change_tech_school_on_desc;Show Tech School Decisions;;;;;;;;;;;;;;x
+change_tech_school_off_title;Change Tech School (Showing);;;;;;;;;;;;;;x
+change_tech_school_off_desc;Hide Tech School Decisions;;;;;;;;;;;;;;x
