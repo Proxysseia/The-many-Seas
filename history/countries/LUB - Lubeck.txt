@@ -9,6 +9,9 @@ literacy = 0.01
 non_state_culture_literacy = 0.01
 civilized = yes
 
+#GreaterPowers = prestige
+prestige = 60
+
 set_country_flag = african_great_lakes
 
 # Political reforms

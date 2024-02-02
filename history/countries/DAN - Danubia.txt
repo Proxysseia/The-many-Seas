@@ -8,7 +8,9 @@ nationalvalue = nv_order
 literacy = 0.01
 non_state_culture_literacy = 0.01
 civilized = yes
-prestige = 5
+
+#GreaterPowers = prestige
+prestige = 50
 
 # Political reforms
 slavery = no_slavery
@@ -38,7 +40,7 @@ school_reforms = no_schools
 #citizens_rights = culture_voting_only
 #border_policy = open_borders
 
-ruling_party = DAN_conservative
+ruling_party = AAA_conservative
 upper_house = {
     fascist = 0
     liberal = 32

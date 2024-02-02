@@ -8,7 +8,8 @@ literacy = 0.01
 non_state_culture_literacy = 0.01
 civilized = yes
 
-
+#GreaterPowers = prestige
+prestige = 25
 
 # Political reforms
 slavery = no_slavery
@@ -29,7 +30,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = LAT_conservative
+ruling_party = AAA_conservative
 upper_house = {
 	fascist = 0
 	liberal = 25
