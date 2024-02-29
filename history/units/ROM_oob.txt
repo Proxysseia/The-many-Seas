@@ -1,8 +1,113 @@
 leader = {
-	name = "David Chassé"
+	name = "David Chassï¿½"
 	date = 1806.1.1
 	type = land
 	personality = timid
 	background = school_of_defense
 	prestige = 0.3
 }
+
+leader = {
+	name = "Real Romanian"
+	date = 1799.1.3
+	type = land
+	personality = brownnoser
+	background = able
+	prestige = 0.3
+}
+
+army = {
+	name = "1st Army"
+	location = 664
+	regiment = {
+		name= "1.Kings Guard"
+		type = infantry
+		home = 811
+	}
+
+	regiment = {
+		name= "2.Kings Guard"
+		type = infantry
+		home = 818
+	}
+
+	regiment = {
+		name= "3.Kings Guard"
+		type = infantry
+		home = 674
+	}
+
+	regiment = {
+		name= "4.Kings Guard"
+		type = infantry
+		home = 814
+	}
+	
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 813
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 802
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 798
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 799
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 654
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 670
+	}
+}
+
+navy = {
+	name = "Warcrime Generators"
+	location = 674
+	ship = {
+		name= "2. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "1. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4. Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "6. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5. Transport"
+		type = clipper_transport
+	}
+} 

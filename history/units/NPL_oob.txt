@@ -1,8 +1,48 @@
 leader = {
-	name = "David Chassé"
+	name = "David Chasse"
 	date = 1806.1.1
 	type = land
 	personality = timid
 	background = school_of_defense
 	prestige = 0.3
 }
+army = {
+	name = "1st Army"
+	location = 754
+	regiment = {
+		name= "Hussars"
+		type = hussar
+		home = 755
+	}
+
+	regiment = {
+		name= "1. Infantry"
+		type = infantry
+		home = 757
+	}
+
+	regiment = {
+		name= "2. Infantry"
+		type = infantry
+		home = 749
+	}
+}
+
+navy = {
+	name = "Fleet"
+	location = 754
+	ship = {
+		name= "1. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Transport"
+		type = clipper_transport
+	}
+} 

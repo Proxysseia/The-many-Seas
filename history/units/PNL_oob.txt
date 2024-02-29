@@ -1,8 +1,163 @@
 leader = {
-	name = "David Chassé"
+	name = "David Chassï¿½"
 	date = 1806.1.1
 	type = land
 	personality = timid
 	background = school_of_defense
 	prestige = 0.3
 }
+leader = {
+	name = "Seo Joon"
+	date = 1806.1.1
+	type = land
+	personality = brownnoser
+	background = able
+	prestige = 0.3
+}
+
+army = {
+	name = "Cavmaxxer Army"
+	location = 1641
+	regiment = {
+		name= "1.Horse"
+		type = cavalry
+		home = 1641
+	}
+
+	regiment = {
+		name= "2. Horse"
+		type = cavalry
+		home = 1641
+	}
+
+	regiment = {
+		name= "3. Horse"
+		type = cavalry
+		home = 1639
+	}
+
+	regiment = {
+		name= "4. Horse"
+		type = cavalry
+		home = 1639
+	}
+
+	regiment = {
+		name= "5. Horse"
+		type = cavalry
+		home = 1638
+	}
+
+	regiment = {
+		name= "6. Horse"
+		type = cavalry
+		home = 1638
+	}
+
+	regiment = {
+		name= "7. Horse"
+		type = cavalry
+		home = 1640
+	}
+
+	regiment = {
+		name= "8. Horse"
+		type = cavalry
+		home = 1640
+	}
+}
+
+army = {
+	name = "Second Cavmaxxer Army"
+	location = 1661
+	regiment = {
+		name= "1.Horse"
+		type = cavalry
+		home = 1640
+	}
+
+	regiment = {
+		name= "2. Horse"
+		type = cavalry
+		home = 1661
+	}
+
+	regiment = {
+		name= "3. Horse"
+		type = cavalry
+		home = 1661
+	}
+
+	regiment = {
+		name= "4. Horse"
+		type = cavalry
+		home = 1661
+	}
+
+	regiment = {
+		name= "5. Horse"
+		type = cavalry
+		home = 1664
+	}
+
+	regiment = {
+		name= "6. Horse"
+		type = cavalry
+		home = 1664
+	}
+
+	regiment = {
+		name= "7. Horse"
+		type = cavalry
+		home = 1664
+	}
+
+	regiment = {
+		name= "8. Horse"
+		type = cavalry
+		home = 1665
+	}
+}
+
+navy = {
+	name = "Fleet"
+	location = 754
+		ship = {
+		name= "Couronne"
+		type = manowar
+	}
+
+	ship = {
+		name= "Superbe"
+		type = manowar
+	}
+
+	ship = {
+		name= "Jean Bart"
+		type = manowar
+	}
+	ship = {
+		name= "Susperbe"
+		type = manowar
+	}
+
+	ship = {
+		name= "Jead Bart"
+		type = manowar
+	}
+	
+	ship = {
+		name= "1. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Transport"
+		type = clipper_transport
+	}
+} 

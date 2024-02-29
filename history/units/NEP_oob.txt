@@ -1,8 +1,181 @@
 leader = {
-	name = "David Chassé"
+	name = "David Chasse"
 	date = 1806.1.1
 	type = land
 	personality = timid
 	background = school_of_defense
 	prestige = 0.3
+}
+leader = {
+	name = "Ljudmilla Chasse"
+	date = 1806.1.1
+	type = land
+	personality = cautious
+	background = nationalist
+	prestige = 0.3
+}
+
+leader = {
+	name = "Nepali Chasse"
+	date = 1806.1.1
+	type = land
+	personality = timid
+	background = nationalist
+	prestige = 0.3
+}
+
+army = {
+	name = "1st Army"
+	location = 1246
+	regiment = {
+		name= "1.Horse"
+		type = cavalry
+		home = 1246
+	}
+
+	regiment = {
+		name= "2. Horse"
+		type = cavalry
+		home = 1244
+	}
+
+	regiment = {
+		name= "3. Horse"
+		type = cavalry
+		home = 1244
+	}
+
+	regiment = {
+		name= "4. Horse"
+		type = cavalry
+		home = 1244
+	}
+
+	regiment = {
+		name= "5. Horse"
+		type = cavalry
+		home = 1242
+	}
+
+	regiment = {
+		name= "6. Horse"
+		type = cavalry
+		home = 1242
+	}
+
+	regiment = {
+		name= "7. Horse"
+		type = cavalry
+		home = 1327
+	}
+
+	regiment = {
+		name= "8. Horse"
+		type = cavalry
+		home = 1327
+	}
+}
+
+army = {
+	name = "2nd Army"
+	location = 1247
+	regiment = {
+		name= "1.Horse"
+		type = cavalry
+		home = 1327
+	}
+
+	regiment = {
+		name= "2. Horse"
+		type = cavalry
+		home = 1247
+	}
+
+	regiment = {
+		name= "3. Horse"
+		type = cavalry
+		home = 1247
+	}
+
+	regiment = {
+		name= "4. Horse"
+		type = cavalry
+		home = 1326
+	}
+
+	regiment = {
+		name= "5. Horse"
+		type = cavalry
+		home = 1326
+	}
+
+	regiment = {
+		name= "6. Horse"
+		type = cavalry
+		home = 1326
+	}
+
+	regiment = {
+		name= "7. Horse"
+		type = cavalry
+		home = 1326
+	}
+
+	regiment = {
+		name= "8. Horse"
+		type = cavalry
+		home = 1326
+	}
+}
+
+army = {
+	name = "3rd Army"
+	location = 1255
+	regiment = {
+		name= "1.Horse"
+		type = cavalry
+		home = 1255
+	}
+
+	regiment = {
+		name= "2. Horse"
+		type = cavalry
+		home = 1255
+	}
+
+	regiment = {
+		name= "3. Horse"
+		type = cavalry
+		home = 1252
+	}
+
+	regiment = {
+		name= "4. Horse"
+		type = cavalry
+		home = 1252
+	}
+
+	regiment = {
+		name= "5. Horse"
+		type = cavalry
+		home = 1328
+	}
+
+	regiment = {
+		name= "6. Horse"
+		type = cavalry
+		home = 1328
+	}
+
+	regiment = {
+		name= "7. Horse"
+		type = cavalry
+		home = 1258
+	}
+
+	regiment = {
+		name= "8. Horse"
+		type = cavalry
+		home = 1258
+	}
 }

@@ -1,8 +1,39 @@
 leader = {
-	name = "David Chassé"
+	name = "David Chasse"
 	date = 1806.1.1
-	type = land
+	type = sea
 	personality = timid
 	background = school_of_defense
 	prestige = 0.3
 }
+navy = {
+	name = "Warcrime Generators"
+	location = 1385
+	ship = {
+		name= "2. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "1. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4. Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "6. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5. Transport"
+		type = clipper_transport
+	}
+} 
