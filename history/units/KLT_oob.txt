@@ -1,8 +1,112 @@
 leader = {
-	name = "David Chassé"
+	name = "Proper Horsebreeder"
 	date = 1806.1.1
 	type = land
 	personality = timid
 	background = school_of_defense
 	prestige = 0.3
+}
+
+army = {
+	name = "Cavmaxxer Army"
+	location = 1318
+	regiment = {
+		name= "1.Horse"
+		type = cavalry
+		home = 1318
+	}
+
+	regiment = {
+		name= "2. Horse"
+		type = cavalry
+		home = 1318
+	}
+
+	regiment = {
+		name= "3. Horse"
+		type = cavalry
+		home = 1317
+	}
+
+	regiment = {
+		name= "4. Horse"
+		type = cavalry
+		home = 1317
+	}
+
+	regiment = {
+		name= "5. Horse"
+		type = cavalry
+		home = 1319
+	}
+
+	regiment = {
+		name= "6. Horse"
+		type = cavalry
+		home = 1319
+	}
+
+	regiment = {
+		name= "7. Horse"
+		type = cavalry
+		home = 1319
+	}
+
+	regiment = {
+		name= "8. Horse"
+		type = cavalry
+		home = 1319
+	}
+}
+
+army = {
+	name = "Second Cavmaxxer Army"
+	location = 1310
+	regiment = {
+		name= "1.Horse"
+		type = cavalry
+		home = 1310
+	}
+
+	regiment = {
+		name= "2. Horse"
+		type = cavalry
+		home = 1310
+	}
+
+	regiment = {
+		name= "3. Horse"
+		type = cavalry
+		home = 1311
+	}
+
+	regiment = {
+		name= "4. Horse"
+		type = cavalry
+		home = 1311
+	}
+
+	regiment = {
+		name= "5. Horse"
+		type = cavalry
+		home = 1309
+	}
+
+	regiment = {
+		name= "6. Horse"
+		type = cavalry
+		home = 1309
+	}
+
+	regiment = {
+		name= "7. Horse"
+		type = cavalry
+		home = 1304
+	}
+
+	regiment = {
+		name= "8. Horse"
+		type = cavalry
+		home = 1312
+	}
 }

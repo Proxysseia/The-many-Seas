@@ -7,6 +7,24 @@ leader = {
 	prestige = 0.3
 }
 
+leader = {
+	name = "Fake David"
+	date = 1806.1.1
+	type = land
+	personality = brownnoser
+	background = able
+	prestige = 0.3
+}
+
+leader = {
+	name = "Ambigous David"
+	date = 1806.1.1
+	type = land
+	personality = hellbent
+	background = cartographer
+	prestige = 0.3
+}
+
 army = {
 	name = "Cavmaxxer Army"
 	location = 528

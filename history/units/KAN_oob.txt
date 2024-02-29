@@ -1,8 +1,41 @@
 leader = {
-	name = "David Chassé"
+	name = "David Chasse"
 	date = 1806.1.1
 	type = land
 	personality = timid
 	background = school_of_defense
 	prestige = 0.3
+}
+army = {
+	name = "Army"
+	location = 1815
+	regiment = {
+		name= "Hussar"
+		type = hussar
+		home = 147
+	}
+
+	regiment = {
+		name= "1. Infantry"
+		type = infantry
+		home = 147
+	}
+
+	regiment = {
+		name= "2. Infantry"
+		type = infantry
+		home = 1815
+	}
+
+	regiment = {
+		name= "3. Infantry"
+		type = infantry
+		home = 1812
+	}
+
+	regiment = {
+		name= "4. Infantry"
+		type = infantry
+		home = 1815
+	}
 }

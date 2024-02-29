@@ -2,10 +2,31 @@ PER = {
 	truce_until = 1837.3.11
 }
 leader = {
-	name = "David Chass�"
+	name = "David Chasse"
 	date = 1806.1.1
 	type = land
 	personality = timid
 	background = school_of_defense
 	prestige = 0.3
+}
+army = {
+	name = "Cavmaxxer Army"
+	location = 1185
+	regiment = {
+		name= "1.Horse"
+		type = cavalry
+		home = 1185
+	}
+
+	regiment = {
+		name= "2. Horse"
+		type = cavalry
+		home = 1185
+	}
+
+	regiment = {
+		name= "3. Horse"
+		type = cavalry
+		home = 1595
+	}
 }
