@@ -1,8 +1,18 @@
 leader = {
-	name = "David Chassé"
+	name = "JustSome Guy"
 	date = 1806.1.1
 	type = land
 	personality = timid
-	background = school_of_defense
+	background = no_background
 	prestige = 0.3
+}
+
+army = {
+	name = "Innocent Civillians"
+	location = 2416
+	regiment = {
+		name= "Group of Refugees"
+		type = irregular
+		home = 2342
+	}
 }

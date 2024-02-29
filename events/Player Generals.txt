@@ -42,7 +42,7 @@ country_event = {
 	title = "Naval Gosling"
 	desc = "EVTDESC800001"
 	immediate = {
-		define_general = {
+		define_admiral = {
 			name = "Naval Gosling"
 			personality = audacious
 			#3/2 Admiral

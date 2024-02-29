@@ -1,8 +1,41 @@
 leader = {
-	name = "David Chassé"
+	name = "David Chasse"
 	date = 1806.1.1
 	type = land
 	personality = timid
 	background = school_of_defense
 	prestige = 0.3
+}
+army = {
+	name = "Dahomey Company"
+	location = 1919
+	regiment = {
+		name= "Hussars"
+		type = hussar
+		home = 1919
+	}
+
+	regiment = {
+		name= "Cotonou Infantry"
+		type = infantry
+		home = 1919
+	}
+
+	regiment = {
+		name= "1. Infantry"
+		type = infantry
+		home = 1919
+	}
+
+	regiment = {
+		name= "2. Infantry"
+		type = infantry
+		home = 1920
+	}
+
+	regiment = {
+		name= "3. Infantry"
+		type = infantry
+		home = 1920
+	}
 }

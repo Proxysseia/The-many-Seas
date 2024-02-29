@@ -1,8 +1,36 @@
 leader = {
-	name = "David Chassé"
+	name = "Loves Fishing"
 	date = 1806.1.1
 	type = land
 	personality = timid
 	background = school_of_defense
 	prestige = 0.3
+}
+
+army = {
+	name = "MILF Regiment"
+	location = 1642
+	regiment = {
+		name= "Man"
+		type = cavalry
+		home = 1642
+	}
+
+	regiment = {
+		name= "I"
+		type = cavalry
+		home = 1642
+	}
+
+	regiment = {
+		name= "Love"
+		type = cavalry
+		home = 1643
+	}
+
+	regiment = {
+		name= "Fishing"
+		type = cavalry
+		home = 1644
+	}
 }
