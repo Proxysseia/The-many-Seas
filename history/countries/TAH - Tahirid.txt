@@ -9,6 +9,11 @@ literacy = 0.01
 non_state_culture_literacy = 0.01
 civilized = yes
 
+#GreaterPowers = prestige
+prestige = 20
+
+set_country_flag = the_kurdish_kerfuffle
+
 # Political reforms
 slavery = yes_slavery
 upper_house_composition = appointed
@@ -65,11 +70,12 @@ mechanical_production = 1
 mechanized_mining = 1
 basic_chemistry = 1
 piston_steam_engine = 1
+ideological_thought = 1
 
 #Inventions
 
 # Starting Consciousness
-consciousness = 3
+consciousness = 23
 nonstate_consciousness = 1
 
 oob = "TAH_oob.txt"

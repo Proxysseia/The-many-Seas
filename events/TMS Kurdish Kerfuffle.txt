@@ -1,0 +1,34 @@
+#Austro-Bohemian Win
+country_event = {
+    id = 198910
+    title = "EVTNAME198910"
+    desc = "EVTDESC198910"
+
+    major = yes
+
+    trigger = {
+        has_country_flag = kurds_kerfuffled
+        THIS = { OR = {
+				tag = PER
+				tag = TUR
+				tag = TAH
+			}
+		}
+        NOT = {
+            has_country_flag = the_kurdish_kerfuffle
+        }
+        NOT = {
+            has_country_flag = kerfuffle_l
+        }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "It's never been more over"
+        prestige = -40
+		remove_accepted_culture = kurdish
+        set_country_flag = kerfuffle_l
+    }

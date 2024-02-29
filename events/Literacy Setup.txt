@@ -230,6 +230,7 @@ country_event = {
     }
 
     trigger = {
+		ai = yes
         NOT = {
             has_country_flag = lit_setup
         }
