@@ -1,8 +1,185 @@
 leader = {
-	name = "David Chassé"
+	name = "David Chassï¿½"
 	date = 1806.1.1
 	type = land
 	personality = timid
 	background = school_of_defense
 	prestige = 0.3
+}
+
+leader = {
+	name = "Wawa Cat"
+	date = 1806.1.1
+	type = land
+	personality = daring
+	background = school_of_the_bayonet
+	prestige = 0.3
+}
+
+army = {
+	name = "1st Army"
+	location = 233
+	regiment = {
+		name= "1.Kings Guard"
+		type = infantry
+		home = 3338
+	}
+
+	regiment = {
+		name= "2.Kings Guard"
+		type = infantry
+		home = 3345
+	}
+
+	regiment = {
+		name= "3.Kings Guard"
+		type = infantry
+		home = 3335
+	}
+
+	regiment = {
+		name= "4.Kings Guard"
+		type = infantry
+		home = 3335
+	}
+	
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 3335
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 3335
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 3335
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 3337
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 3337
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 2032
+	}
+}
+
+army = {
+	name = "2nd Army"
+	location = 213
+	regiment = {
+		name= "1.Kings Guard"
+		type = infantry
+		home = 143
+	}
+
+	regiment = {
+		name= "2.Kings Guard"
+		type = infantry
+		home = 143
+	}
+
+	regiment = {
+		name= "3.Kings Guard"
+		type = infantry
+		home = 243
+	}
+
+	regiment = {
+		name= "4.Kings Guard"
+		type = infantry
+		home = 2047
+	}
+	
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 213
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 212
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 207
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 2030
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 2048
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 2048
+	}
+}
+
+army = {
+	name = "2nd Army"
+	location = 244
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 2041
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 219
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 139
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 142
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 2065
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 132
+	}
 }

@@ -1,8 +1,72 @@
 leader = {
-	name = "David Chassé"
+	name = "David Chassï¿½"
 	date = 1806.1.1
 	type = land
 	personality = timid
 	background = school_of_defense
 	prestige = 0.3
+}
+
+army = {
+	name = "1st Army"
+	location = 633
+	regiment = {
+		name= "1.Kings Guard"
+		type = infantry
+		home = 633
+	}
+
+	regiment = {
+		name= "2.Kings Guard"
+		type = infantry
+		home = 633
+	}
+
+	regiment = {
+		name= "3.Kings Guard"
+		type = infantry
+		home = 635
+	}
+
+	regiment = {
+		name= "4.Kings Guard"
+		type = infantry
+		home = 635
+	}
+	
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 635
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 635
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 636
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 637
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 704
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 704
+	}
 }

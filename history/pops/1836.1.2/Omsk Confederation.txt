@@ -42,7 +42,6 @@
         religion = orthodox
         size = 180325
     }
-
 }
 #Kokshetau (96000/24000 POPS)
 1184 = {
@@ -125,7 +124,7 @@
     soldiers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 6000
+        size = 10200
     }
 
     farmers = {
@@ -582,8 +581,8 @@
         religion = orthodox
         size = 3725
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = novosibiryaki
         religion = orthodox
         size = 6725

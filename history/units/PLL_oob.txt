@@ -43,7 +43,7 @@ army = {
 
 navy = {
 	name = "Fleet"
-	location = 754
+	location = 1305
 	ship = {
 		name= "1. Transport"
 		type = clipper_transport

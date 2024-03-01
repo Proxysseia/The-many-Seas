@@ -1,8 +1,22 @@
 leader = {
-	name = "David Chassé"
+	name = "David Chassï¿½"
 	date = 1806.1.1
-	type = land
+	type = sea
 	personality = timid
 	background = school_of_defense
 	prestige = 0.3
+}
+
+navy = {
+	name = "Fleet"
+	location = 841
+		ship = {
+		name= "Couronne"
+		type = manowar
+	}
+
+	ship = {
+		name= "Superbe"
+		type = manowar
+	}
 }

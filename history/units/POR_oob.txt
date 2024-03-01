@@ -55,7 +55,7 @@ army = {
 
 navy = {
 	name = "Fleet"
-	location = 754
+	location = 521
 		ship = {
 		name= "Couronne"
 		type = manowar
@@ -94,4 +94,4 @@ navy = {
 		name= "3. Transport"
 		type = clipper_transport
 	}
-} 
+}

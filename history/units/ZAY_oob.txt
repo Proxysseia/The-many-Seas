@@ -1,8 +1,59 @@
 leader = {
-	name = "David Chassé"
+	name = "David Chassï¿½"
 	date = 1806.1.1
 	type = land
 	personality = timid
 	background = school_of_defense
 	prestige = 0.3
+}
+army = {
+	name = "1st Army"
+	location = 1070
+	regiment = {
+		name= "1.Horse"
+		type = cavalry
+		home = 1070
+	}
+
+	regiment = {
+		name= "2. Horse"
+		type = cavalry
+		home = 394
+	}
+
+	regiment = {
+		name= "3. Horse"
+		type = cavalry
+		home = 394
+	}
+
+	regiment = {
+		name= "4. Horse"
+		type = cavalry
+		home = 576
+	}
+
+	regiment = {
+		name= "5. Horse"
+		type = cavalry
+		home = 2692
+	}
+
+	regiment = {
+		name= "6. Horse"
+		type = cavalry
+		home = 1077
+	}
+
+	regiment = {
+		name= "7. Horse"
+		type = cavalry
+		home = 1077
+	}
+
+	regiment = {
+		name= "8. Horse"
+		type = cavalry
+		home = 1077
+	}
 }

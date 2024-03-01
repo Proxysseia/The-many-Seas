@@ -5,10 +5,44 @@ ETH = {
 
 
 leader = {
-	name = "David Chassé"
+	name = "David Chassï¿½"
 	date = 1806.1.1
 	type = land
 	personality = timid
 	background = school_of_defense
 	prestige = 0.3
+}
+
+army = {
+	name = "1st Army"
+	location = 1827
+	regiment = {
+		name= "1.Kings Guard"
+		type = infantry
+		home = 1827
+	}
+
+	regiment = {
+		name= "2.Kings Guard"
+		type = infantry
+		home = 1831
+	}
+
+	regiment = {
+		name= "3.Kings Guard"
+		type = infantry
+		home = 1830
+	}
+
+	regiment = {
+		name= "4.Kings Guard"
+		type = infantry
+		home = 2122
+	}
+	
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 2051
+	}
 }
