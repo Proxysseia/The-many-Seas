@@ -3,5 +3,11 @@ controller = ENL
 add_core = ENL
 add_core = CAP
 trade_goods = cotton
-life_rating = 20         
-naval_base = 1
+life_rating = 35         
+naval_base = 2
+
+state_building = {
+    level = 2
+    building = clipper_shipyard
+    upgrade = yes
+}

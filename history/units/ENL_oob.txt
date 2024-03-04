@@ -6,3 +6,648 @@ leader = {
 	background = school_of_defense
 	prestige = 0.3
 }
+
+leader = {
+	name = "John Fox Burgoyne"
+	date = 1836.1.1
+	type = land
+	personality = able
+	background = engineer
+	prestige = 0.0
+}
+
+leader = {
+	name = "Raglan"
+	date = 1836.1.1
+	type = land
+	personality = mediocre
+	background = aristocrat
+	prestige = 0.0
+}
+
+leader = {
+	name = "Sir George Brown"
+	date = 1836.1.1
+	type = land
+	personality = harsh
+	background = cavalry_school
+	prestige = 0.0
+}
+
+leader = {
+	name = "James Dundas"
+	date = 1836.1.1
+	type = sea
+	personality = cautious
+	background = elderly
+	prestige = 0.0
+}
+
+leader = {
+	name = "Thomas Cochrane"
+	date = 1832.1.1
+	type = sea
+	personality = charismatic
+	background = adventurer
+	prestige = 0.1
+}
+
+leader = {
+	name = "Sir Edward Codrington"
+	date = 1836.1.1
+	type = sea
+	personality = daring
+	background = expert_raider
+	prestige = 0.3
+}
+
+leader = {
+	name = "Hugh Gough"
+	date = 1830.1.1
+	type = land
+	personality = dauntless
+	background = school_of_the_bayonet
+	prestige = 0.1
+}
+
+leader = {
+	name = "Sir George Cockburn"
+	date = 1812.1.1
+	type = sea
+	personality = earnest
+	background = old_school
+	prestige = 0.3
+}
+
+army = {
+	name = "1st Army"
+	location = 1746
+	regiment = {
+		name= "1.Kings Guard"
+		type = infantry
+		home = 1746
+	}
+
+	regiment = {
+		name= "2.Kings Guard"
+		type = infantry
+		home = 1746
+	}
+
+	regiment = {
+		name= "3.Kings Guard"
+		type = infantry
+		home = 1746
+	}
+
+	regiment = {
+		name= "4.Kings Guard"
+		type = infantry
+		home = 1566
+	}
+	
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 512
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 2115
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 2116
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 1162
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 2590
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 2478
+	}
+}
+
+army = {
+	name = "2nd Army"
+	location = 729
+	regiment = {
+		name= "1.Kings Guard"
+		type = infantry
+		home = 1262
+	}
+
+	regiment = {
+		name= "2.Kings Guard"
+		type = infantry
+		home = 1433
+	}
+
+	regiment = {
+		name= "3.Kings Guard"
+		type = infantry
+		home = 1431
+	}
+
+	regiment = {
+		name= "4.Kings Guard"
+		type = infantry
+		home = 1432
+	}
+	
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 1430
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 1435
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 1434
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 1436
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 1437
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 1438
+	}
+}
+
+army = {
+	name = "3rd Army"
+	location = 2366
+	regiment = {
+		name= "1.Kings Guard"
+		type = infantry
+		home = 2468
+	}
+
+	regiment = {
+		name= "2.Kings Guard"
+		type = infantry
+		home = 2468
+	}
+
+	regiment = {
+		name= "3.Kings Guard"
+		type = infantry
+		home = 2468
+	}
+
+	regiment = {
+		name= "4.Kings Guard"
+		type = infantry
+		home = 2476
+	}
+	
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 402
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 402
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 2469
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 2128
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 2470
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 2472
+	}
+}
+
+army = {
+	name = "4th Army"
+	location = 962
+	regiment = {
+		name= "1.Kings Guard"
+		type = infantry
+		home = 1402
+	}
+
+	regiment = {
+		name= "2.Kings Guard"
+		type = infantry
+		home = 1
+	}
+
+	regiment = {
+		name= "3.Kings Guard"
+		type = infantry
+		home = 2471
+	}
+
+	regiment = {
+		name= "4.Kings Guard"
+		type = infantry
+		home = 1249
+	}
+	
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 1249
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 58
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 2217
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 1438
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 1445
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 57
+	}
+}
+
+navy = {
+	name = "Egyptian Navy"
+	location = 1746
+	ship = {
+		name= "Couronne"
+		type = manowar
+	}
+
+	ship = {
+		name= "Superbe"
+		type = manowar
+	}
+
+	ship = {
+		name= "Jean Bart"
+		type = manowar
+	}
+
+	ship = {
+		name= "Deux couronnes"
+		type = manowar
+	}
+
+	ship = {
+		name= "Wagram"
+		type = manowar
+	}
+
+	ship = {
+		name= "Trocadero�"
+		type = manowar
+	}
+
+	ship = {
+		name= "Z�landais"
+		type = manowar
+	}
+
+	ship = {
+		name= "Superbe"
+		type = manowar
+	}
+
+	ship = {
+		name= "Austerlitz"
+		type = manowar
+	}
+
+	ship = {
+		name= "Magnifique"
+		type = manowar
+	}
+
+	ship = {
+		name= "Normandie"
+		type = manowar
+	}
+
+	ship = {
+		name= "Conqu�rant"
+		type = manowar
+	}
+
+	ship = {
+		name= "Neptune"
+		type = manowar
+	}
+
+	ship = {
+		name= "Algerisas"
+		type = manowar
+	}
+
+	ship = {
+		name= "Magicienne"
+		type = frigate
+	}
+
+	ship = {
+		name= "Marie Th�rese"
+		type = frigate
+	}
+
+	ship = {
+		name= "Venus"
+		type = frigate
+	}
+
+	ship = {
+		name= "1. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5. Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "6. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "7. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "10. Transport"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "African Navy"
+	location = 729
+	ship = {
+		name= "Venus"
+		type = frigate
+	}
+
+	ship = {
+		name= "1. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5. Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "6. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "7. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "10. Transport"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "Russian Navy"
+	location = 3292
+	ship = {
+		name= "Venus"
+		type = frigate
+	}
+
+	ship = {
+		name= "Venus2"
+		type = frigate
+	}
+
+	ship = {
+		name= "1. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5. Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "6. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "7. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "10. Transport"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "American Navy"
+	location = 2366
+	ship = {
+		name= "Venus"
+		type = frigate
+	}
+
+	ship = {
+		name= "1. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5. Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "6. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "7. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "10. Transport"
+		type = clipper_transport
+	}
+}

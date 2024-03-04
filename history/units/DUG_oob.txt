@@ -1,5 +1,5 @@
 leader = {
-	name = "David Chassé"
+	name = "David Chassï¿½"
 	date = 1806.1.1
 	type = land
 	personality = timid
@@ -228,12 +228,12 @@ navy = {
 	}
 
 	ship = {
-		name= "Trocadero "
+		name= "Trocaderoï¿½"
 		type = manowar
 	}
 
 	ship = {
-		name= "Zélandais"
+		name= "Zï¿½landais"
 		type = manowar
 	}
 
@@ -258,7 +258,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Conquérant"
+		name= "Conquï¿½rant"
 		type = manowar
 	}
 
@@ -278,7 +278,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Marie Thérese"
+		name= "Marie Thï¿½rese"
 		type = frigate
 	}
 
@@ -335,5 +335,4 @@ navy = {
 		name= "10. Transport"
 		type = clipper_transport
 	}
-
 }

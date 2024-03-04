@@ -145,7 +145,7 @@ army = {
 }
 
 army = {
-	name = "2nd Army"
+	name = "3st Army"
 	location = 244
 	regiment = {
 		name= "1.Kings Horse"
@@ -162,7 +162,7 @@ army = {
 	regiment = {
 		name= "2.Kings Gun"
 		type = artillery
-		home = 139
+		home = 197
 	}
 
 	regiment = {
