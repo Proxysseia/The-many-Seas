@@ -175,7 +175,7 @@ PRU_575 = { 572 575 577 397 398 388 } #Rheinland
 
 ### France
 
-FRA_399 = { 403 2570 401 404 } #Picardie - used to be { 403 405 406 408 402 2570 }
+FRA_399 = { 403 2570 401 404 } #Picardie 
 
 FRA_400 = { 408 405 406 429 428 } #Champagne
 
@@ -1063,8 +1063,6 @@ ENG_203 = { 2217 2219 } #Caribbean Islands
 ENG_2224 = { 2227 2230 2222 } #West Indies
 
 ENG_2228 = { 2228 2233 2237 2409 } #Lesser Antilles
-
-#NET_2235 = { 2235 2234 } #Leeward Antilles
 
 
 ### South America
