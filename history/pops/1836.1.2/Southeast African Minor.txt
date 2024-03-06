@@ -27,19 +27,13 @@
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 2600
+        size = 3900
     }
 
     farmers = {
         culture = xhosa
         religion = animist
-        size = 53680
-    }
-
-    slaves = {
-        culture = xhosa
-        religion = animist
-        size = 34400
+        size = 83680
     }
 }
 #Edirne
@@ -427,7 +421,7 @@
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 1760
+        size = 2640
     }
 
     farmers = {
@@ -459,19 +453,13 @@
     soldiers = {
         culture = xhosa
         religion = animist
-        size = 240
+        size = 360
     }
 
     farmers = {
         culture = xhosa
         religion = animist
         size = 74240
-    }
-
-    slaves = {
-        culture = xhosa
-        religion = animist
-        size = 20800
     }
 }
 #Harare
