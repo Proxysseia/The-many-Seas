@@ -815,7 +815,7 @@
     soldiers = {
         culture = greek
         religion = sunni
-        size = 262
+        size = 458
     }
 
     farmers = {
@@ -827,7 +827,7 @@
     soldiers = {
         culture = greek
         religion = orthodox
-        size = 750
+        size = 1312
     }
 
     clergymen = {
@@ -851,7 +851,7 @@
     soldiers = {
         culture = romanian
         religion = orthodox
-        size = 600
+        size = 1050
     }
 
     clergymen = {
@@ -1432,7 +1432,7 @@
     soldiers = {
         culture = greek
         religion = sunni
-        size = 262
+        size = 458
     }
 
     farmers = {
@@ -1456,7 +1456,7 @@
     soldiers = {
         culture = greek
         religion = sunni
-        size = 450
+        size = 787
     }
 
     clergymen = {

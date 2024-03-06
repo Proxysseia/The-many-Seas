@@ -293,7 +293,7 @@
     soldiers = {
         culture = nuer
         religion = sunni
-        size = 1200
+        size = 1800
     }
 
     farmers = {
@@ -327,8 +327,8 @@
         religion = sunni
         size = 9900
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = nuer
         religion = sunni
         size = 19900
@@ -337,13 +337,13 @@
     soldiers = {
         culture = nuer
         religion = sunni
-        size = 2400
+        size = 3600
     }
 
     soldiers = {
         culture = nuer
         religion = sunni
-        size = 80
+        size = 120
     }
 
     farmers = {

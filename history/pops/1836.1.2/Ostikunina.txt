@@ -41,7 +41,7 @@
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 1050
+        size = 2100
     }
 
     farmers = {
@@ -83,7 +83,7 @@
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 262
+        size = 524
     }
 
     farmers = {
@@ -131,7 +131,7 @@
     soldiers = {
         culture = finnish
         religion = protestant
-        size = 1500
+        size = 3000
     }
 
     farmers = {
@@ -173,7 +173,7 @@
     soldiers = {
         culture = finnish
         religion = protestant
-        size = 375
+        size = 750
     }
 
     farmers = {
@@ -199,7 +199,7 @@
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 533
+        size = 1066
     }
 
     farmers = {
@@ -229,7 +229,7 @@
     soldiers = {
         culture = finnish
         religion = protestant
-        size = 762
+        size = 1524
     }
 
     farmers = {
@@ -273,7 +273,7 @@
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 332
+        size = 664
     }
 
     artisans = {
@@ -321,7 +321,7 @@
     soldiers = {
         culture = finnish
         religion = protestant
-        size = 475
+        size = 950
     }
 
     artisans = {
@@ -367,7 +367,7 @@
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 129
+        size = 258
     }
 
     farmers = {
@@ -405,7 +405,7 @@
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 225
+        size = 450
     }
 
     farmers = {
@@ -437,7 +437,7 @@
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 2038
+        size = 4076
     }
 
     farmers = {
@@ -467,7 +467,7 @@
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 64
+        size = 128
     }
 
     farmers = {
@@ -493,7 +493,7 @@
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 160
+        size = 320
     }
 
     farmers = {
@@ -523,7 +523,7 @@
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 64
+        size = 128
     }
 
     farmers = {
@@ -549,7 +549,7 @@
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 160
+        size = 320
     }
 
     farmers = {
@@ -579,7 +579,7 @@
     soldiers = {
         culture = latvian
         religion = protestant
-        size = 64
+        size = 128
     }
 
     farmers = {

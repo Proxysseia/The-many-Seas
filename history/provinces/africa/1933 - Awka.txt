@@ -23,3 +23,5 @@ state_building = {
     building = paper_mill
     upgrade = yes
 }
+naval_base = 2
+fort = 1

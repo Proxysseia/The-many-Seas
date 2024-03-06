@@ -29,7 +29,7 @@
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 112
+        size = 179
     }
 
     farmers = {
@@ -53,7 +53,7 @@
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 506
+        size = 809
     }
 
     farmers = {
@@ -99,7 +99,7 @@
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 1237
+        size = 1979
     }
 
     farmers = {
@@ -111,7 +111,7 @@
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 3375
+        size = 5400
     }
 
     artisans = {
@@ -149,7 +149,7 @@
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 478
+        size = 764
     }
 
     farmers = {
@@ -161,7 +161,7 @@
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 2812
+        size = 4499
     }
 
     clergymen = {

@@ -353,7 +353,7 @@
     soldiers = {
         culture = ukrainian
         religion = orthodox
-        size = 300
+        size = 600
     }
 
     farmers = {
@@ -401,7 +401,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 325
+        size = 650
     }
 
     farmers = {
@@ -425,7 +425,7 @@
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 50
+        size = 100
     }
 
     farmers = {
@@ -531,7 +531,7 @@
     soldiers = {
         culture = ukrainian
         religion = orthodox
-        size = 585
+        size = 1170
     }
 
     farmers = {
@@ -567,7 +567,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 350
+        size = 700
     }
 
     farmers = {
@@ -865,7 +865,7 @@
     soldiers = {
         culture = ukrainian
         religion = orthodox
-        size = 300
+        size = 600
     }
 
     farmers = {
@@ -901,7 +901,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 75
+        size = 150
     }
 
     farmers = {
@@ -927,7 +927,7 @@
     soldiers = {
         culture = ukrainian
         religion = orthodox
-        size = 1320
+        size = 2640
     }
 
     farmers = {
@@ -963,7 +963,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 62
+        size = 124
     }
 
     farmers = {

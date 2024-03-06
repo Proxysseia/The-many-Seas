@@ -40,7 +40,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 1860
+        size = 3255
     }
 
     farmers = {
@@ -82,7 +82,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 2460
+        size = 4305
     }
 
     farmers = {
@@ -126,7 +126,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 660
+        size = 1155
     }
 
     farmers = {
@@ -168,7 +168,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 1260
+        size = 2205
     }
 
     farmers = {
@@ -236,7 +236,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 8100
+        size = 14175
     }
 
     farmers = {
@@ -280,7 +280,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 3060
+        size = 5355
     }
 
     farmers = {
@@ -324,7 +324,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 1860
+        size = 3255
     }
 
     farmers = {
@@ -366,7 +366,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 660
+        size = 1155
     }
 
     farmers = {
@@ -410,7 +410,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 1500
+        size = 2625
     }
 
     farmers = {
@@ -442,7 +442,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 900
+        size = 1575
     }
 
     farmers = {
@@ -487,7 +487,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 2100
+        size = 3675
     }
 
     farmers = {
@@ -531,7 +531,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 660
+        size = 1155
     }
 
     farmers = {
@@ -561,7 +561,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 60
+        size = 105
     }
 
     farmers = {
@@ -593,7 +593,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 600
+        size = 1050
     }
 
     farmers = {
@@ -644,7 +644,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 1260
+        size = 2205
     }
 
     farmers = {
@@ -676,7 +676,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 1200
+        size = 2100
     }
 
     farmers = {
@@ -709,7 +709,7 @@
     soldiers = {
         culture = north_italian
         religion = catholic
-        size = 600
+        size = 1050
     }
 
     farmers = {
@@ -759,7 +759,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 1050
+        size = 1837
     }
 
     farmers = {
@@ -803,7 +803,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 210
+        size = 367
     }
 
     farmers = {
@@ -841,7 +841,7 @@
     soldiers = {
         culture = north_italian
         religion = catholic
-        size = 600
+        size = 1050
     }
 
     farmers = {
@@ -886,7 +886,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 1800
+        size = 3150
     }
 
     farmers = {
@@ -957,7 +957,7 @@
     soldiers = {
         culture = north_italian
         religion = catholic
-        size = 3000
+        size = 5250
     }
 
     farmers = {
@@ -975,7 +975,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 1260
+        size = 2205
     }
 
     clergymen = {
@@ -1025,7 +1025,7 @@
     soldiers = {
         culture = north_italian
         religion = catholic
-        size = 1200
+        size = 2100
     }
 
     farmers = {
@@ -1049,7 +1049,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 300
+        size = 525
     }
 
     farmers = {
@@ -1081,7 +1081,7 @@
     soldiers = {
         culture = north_italian
         religion = catholic
-        size = 1200
+        size = 2100
     }
 
     farmers = {
@@ -1105,7 +1105,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 900
+        size = 1575
     }
 
     farmers = {
@@ -1157,7 +1157,7 @@
     soldiers = {
         culture = north_italian
         religion = catholic
-        size = 1800
+        size = 3150
     }
 
     farmers = {
@@ -1181,7 +1181,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 420
+        size = 735
     }
 
     farmers = {
@@ -1213,7 +1213,7 @@
     soldiers = {
         culture = north_italian
         religion = catholic
-        size = 1200
+        size = 2100
     }
 
     farmers = {
@@ -1237,7 +1237,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 300
+        size = 525
     }
 
     farmers = {
@@ -1308,7 +1308,7 @@
     soldiers = {
         culture = north_italian
         religion = catholic
-        size = 2010
+        size = 3517
     }
 
     farmers = {
@@ -1332,7 +1332,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 2505
+        size = 4383
     }
 
     craftsmen = {
@@ -1394,7 +1394,7 @@
     soldiers = {
         culture = north_italian
         religion = catholic
-        size = 300
+        size = 525
     }
 
     farmers = {
@@ -1418,7 +1418,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 300
+        size = 525
     }
 
     farmers = {
@@ -1444,7 +1444,7 @@
     soldiers = {
         culture = north_italian
         religion = catholic
-        size = 120
+        size = 210
     }
 
     farmers = {
@@ -1468,7 +1468,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 300
+        size = 525
     }
 
     farmers = {

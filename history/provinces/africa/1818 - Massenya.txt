@@ -23,4 +23,5 @@ state_building = {
     building = luxury_furniture_factory
     upgrade = yes
 }
-
+naval_base = 2
+fort = 1

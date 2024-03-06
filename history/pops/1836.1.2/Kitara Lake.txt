@@ -21,7 +21,7 @@
     soldiers = {
         culture = lake_mongo
         religion = sunni
-        size = 8240
+        size = 12360
     }
 
     farmers = {
@@ -53,7 +53,7 @@
     soldiers = {
         culture = lake_mongo
         religion = sunni
-        size = 6560
+        size = 9840
     }
 
     farmers = {
@@ -85,7 +85,7 @@
     soldiers = {
         culture = lake_mongo
         religion = sunni
-        size = 2640
+        size = 3960
     }
 
     farmers = {
@@ -129,7 +129,7 @@
     soldiers = {
         culture = lake_mongo
         religion = sunni
-        size = 1760
+        size = 2640
     }
 
     farmers = {

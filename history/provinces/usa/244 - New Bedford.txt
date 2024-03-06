@@ -18,3 +18,6 @@ state_building = {
     building = fertilizer_factory
     upgrade = yes
 }
+naval_base = 2
+fort = 1
+railroad = 1

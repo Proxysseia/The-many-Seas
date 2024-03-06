@@ -33,7 +33,7 @@
     soldiers = {
         culture = saayda
         religion = shiite
-        size = 2625
+        size = 4593
     }
 
     farmers = {
@@ -57,7 +57,7 @@
     soldiers = {
         culture = saayda
         religion = orthodox
-        size = 1875
+        size = 3281
     }
 
     clergymen = {
@@ -433,7 +433,7 @@
     soldiers = {
         culture = saayda
         religion = shiite
-        size = 262
+        size = 458
     }
 
     farmers = {
@@ -597,7 +597,7 @@
     soldiers = {
         culture = saayda
         religion = catholic
-        size = 487
+        size = 852
     }
 
     officers = {
@@ -659,7 +659,7 @@
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 150
+        size = 262
     }
 
     farmers = {
@@ -721,7 +721,7 @@
     soldiers = {
         culture = saayda
         religion = sunni
-        size = 37
+        size = 64
     }
 
     farmers = {

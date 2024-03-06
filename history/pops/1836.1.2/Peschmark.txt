@@ -33,7 +33,7 @@
     soldiers = {
         culture = hungarian
         religion = catholic
-        size = 770
+        size = 1540
     }
 
     farmers = {
@@ -71,8 +71,8 @@
         religion = catholic
         size = 770
     }
-	
-	craftsmen = {
+
+    craftsmen = {
         culture = vindonian
         religion = catholic
         size = 7700
@@ -81,7 +81,7 @@
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 175
+        size = 350
     }
 
     farmers = {
@@ -111,7 +111,7 @@
     soldiers = {
         culture = slovene
         religion = catholic
-        size = 70
+        size = 140
     }
 
     farmers = {
@@ -167,7 +167,7 @@
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 2800
+        size = 5600
     }
 
     craftsmen = {
@@ -191,7 +191,7 @@
     soldiers = {
         culture = hungarian
         religion = catholic
-        size = 2100
+        size = 4200
     }
 
     farmers = {
@@ -223,7 +223,7 @@
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 2100
+        size = 4200
     }
 
     craftsmen = {
@@ -279,7 +279,7 @@
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 1400
+        size = 2800
     }
 
     farmers = {
@@ -329,7 +329,7 @@
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 770
+        size = 1540
     }
 
     farmers = {
@@ -373,7 +373,7 @@
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 105
+        size = 210
     }
 
     farmers = {
@@ -423,7 +423,7 @@
     soldiers = {
         culture = vindonian
         religion = catholic
-        size = 315
+        size = 630
     }
 
     craftsmen = {

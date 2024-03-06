@@ -35,7 +35,7 @@
     soldiers = {
         culture = latvian
         religion = orthodox
-        size = 1120
+        size = 2240
     }
 
     farmers = {
@@ -71,7 +71,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 35
+        size = 70
     }
 
     farmers = {
@@ -95,7 +95,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 52
+        size = 104
     }
 
     farmers = {
@@ -125,7 +125,7 @@
     soldiers = {
         culture = latvian
         religion = orthodox
-        size = 35
+        size = 70
     }
 
     farmers = {
@@ -157,7 +157,7 @@
     soldiers = {
         culture = latvian
         religion = orthodox
-        size = 1085
+        size = 2170
     }
 
     farmers = {
@@ -199,7 +199,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 35
+        size = 70
     }
 
     farmers = {
@@ -223,7 +223,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 35
+        size = 70
     }
 
     farmers = {
@@ -241,7 +241,7 @@
     soldiers = {
         culture = ukrainian
         religion = orthodox
-        size = 30
+        size = 60
     }
 
     farmers = {
@@ -253,7 +253,7 @@
     soldiers = {
         culture = russian
         religion = sunni
-        size = 150
+        size = 300
     }
 
     farmers = {
@@ -297,7 +297,7 @@
     soldiers = {
         culture = latvian
         religion = orthodox
-        size = 1120
+        size = 2240
     }
 
     farmers = {
@@ -333,7 +333,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 50
+        size = 100
     }
 }
 #Minsk
@@ -371,7 +371,7 @@
     soldiers = {
         culture = latvian
         religion = orthodox
-        size = 2135
+        size = 4270
     }
 
     farmers = {
@@ -413,7 +413,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 50
+        size = 100
     }
 
     farmers = {
@@ -449,7 +449,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 35
+        size = 70
     }
 
     farmers = {
@@ -475,7 +475,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 87
+        size = 174
     }
 
     farmers = {
@@ -505,7 +505,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 735
+        size = 1470
     }
 
     farmers = {
@@ -531,7 +531,7 @@
     soldiers = {
         culture = latvian
         religion = orthodox
-        size = 770
+        size = 1540
     }
 
     farmers = {
@@ -561,7 +561,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 50
+        size = 100
     }
 
     farmers = {
@@ -605,7 +605,7 @@
     soldiers = {
         culture = latvian
         religion = orthodox
-        size = 7437
+        size = 14874
     }
 
     farmers = {
@@ -631,7 +631,7 @@
     soldiers = {
         culture = latvian
         religion = orthodox
-        size = 166
+        size = 332
     }
 
     farmers = {
@@ -675,7 +675,7 @@
     soldiers = {
         culture = latvian
         religion = orthodox
-        size = 350
+        size = 700
     }
 
     farmers = {
@@ -707,7 +707,7 @@
     soldiers = {
         culture = latvian
         religion = orthodox
-        size = 2135
+        size = 4270
     }
 
     farmers = {
@@ -749,7 +749,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 50
+        size = 100
     }
 
     farmers = {
@@ -773,7 +773,7 @@
     soldiers = {
         culture = latvian
         religion = catholic
-        size = 35
+        size = 70
     }
 
     farmers = {
@@ -799,7 +799,7 @@
     soldiers = {
         culture = latvian
         religion = orthodox
-        size = 350
+        size = 700
     }
 
     farmers = {
@@ -829,7 +829,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 12
+        size = 24
     }
 
     aristocrats = {
@@ -853,7 +853,7 @@
     soldiers = {
         culture = russian
         religion = orthodox
-        size = 25
+        size = 50
     }
 
     farmers = {

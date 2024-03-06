@@ -15,7 +15,7 @@
     soldiers = {
         culture = lake_nuer
         religion = sunni
-        size = 600
+        size = 1350
     }
 
     farmers = {
@@ -31,7 +31,7 @@
         religion = sunni
         size = 800
     }
-    
+
     bureaucrats = {
         culture = lake_mongo
         religion = sunni
@@ -47,7 +47,7 @@
     soldiers = {
         culture = lake_nuer
         religion = sunni
-        size = 2400
+        size = 5400
     }
 
     farmers = {
@@ -85,7 +85,7 @@
     soldiers = {
         culture = lake_nuer
         religion = sunni
-        size = 2000
+        size = 4500
     }
 
     farmers = {
@@ -117,7 +117,7 @@
     soldiers = {
         culture = lake_nuer
         religion = sunni
-        size = 600
+        size = 1350
     }
 
     farmers = {
@@ -155,7 +155,7 @@
     soldiers = {
         culture = lake_nuer
         religion = sunni
-        size = 2000
+        size = 4500
     }
 
     farmers = {
@@ -181,7 +181,7 @@
     soldiers = {
         culture = lake_nuer
         religion = sunni
-        size = 2000
+        size = 4500
     }
 
     farmers = {
@@ -213,7 +213,7 @@
     soldiers = {
         culture = lake_nuer
         religion = sunni
-        size = 2000
+        size = 4500
     }
 
     farmers = {
@@ -245,7 +245,7 @@
     soldiers = {
         culture = lake_nuer
         religion = sunni
-        size = 1680
+        size = 3780
     }
 
     farmers = {
@@ -277,7 +277,7 @@
     soldiers = {
         culture = lake_nuer
         religion = sunni
-        size = 2720
+        size = 6120
     }
 
     artisans = {
@@ -327,7 +327,7 @@
     soldiers = {
         culture = lake_nuer
         religion = sunni
-        size = 400
+        size = 900
     }
 
     farmers = {
@@ -365,7 +365,7 @@
     soldiers = {
         culture = lake_nuer
         religion = sunni
-        size = 140
+        size = 315
     }
 
     farmers = {

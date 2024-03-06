@@ -1089,7 +1089,7 @@
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 700
+        size = 1050
     }
 
     farmers = {
@@ -1137,7 +1137,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 313
+        size = 469
     }
 
     farmers = {
@@ -1179,7 +1179,7 @@
     soldiers = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 150
     }
 
     clergymen = {
@@ -1238,7 +1238,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 1980
+        size = 2970
     }
 
     farmers = {
@@ -1262,7 +1262,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 660
+        size = 990
     }
 
     farmers = {
@@ -1286,7 +1286,7 @@
     soldiers = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 150
     }
 
     clergymen = {
@@ -1345,13 +1345,13 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 1980
+        size = 2970
     }
 
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 660
+        size = 990
     }
 
     farmers = {
@@ -1375,7 +1375,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 132
+        size = 198
     }
 
     farmers = {
@@ -1387,7 +1387,7 @@
     soldiers = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 150
     }
 
     clergymen = {
@@ -1431,7 +1431,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 363
+        size = 544
     }
 
     farmers = {
@@ -1455,7 +1455,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 66
+        size = 99
     }
 
     farmers = {
@@ -1488,7 +1488,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 330
+        size = 495
     }
 
     farmers = {
@@ -1532,7 +1532,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 660
+        size = 990
     }
 
     farmers = {
@@ -1556,7 +1556,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 231
+        size = 346
     }
 
     farmers = {
@@ -1592,7 +1592,7 @@
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 105
+        size = 157
     }
 
     farmers = {
@@ -1616,7 +1616,7 @@
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 350
+        size = 525
     }
 
     farmers = {
@@ -1628,7 +1628,7 @@
     soldiers = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 150
     }
 
     clergymen = {
@@ -1675,7 +1675,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 330
+        size = 495
     }
 
     farmers = {
@@ -1699,7 +1699,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 66
+        size = 99
     }
 
     farmers = {
@@ -1723,7 +1723,7 @@
     soldiers = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 150
     }
 
     clergymen = {
@@ -1770,7 +1770,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 660
+        size = 990
     }
 
     farmers = {
@@ -1794,7 +1794,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 495
+        size = 742
     }
 
     farmers = {
@@ -1818,7 +1818,7 @@
     soldiers = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 150
     }
 
     clergymen = {
@@ -1862,7 +1862,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 165
+        size = 247
     }
 
     farmers = {
@@ -1892,7 +1892,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 330
+        size = 495
     }
 
     farmers = {
@@ -1942,7 +1942,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 231
+        size = 346
     }
 
     farmers = {
@@ -1972,7 +1972,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 165
+        size = 247
     }
 
     farmers = {
@@ -2024,7 +2024,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 1320
+        size = 1980
     }
 
     craftsmen = {
@@ -2060,7 +2060,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 660
+        size = 990
     }
 
     craftsmen = {
@@ -2096,7 +2096,7 @@
     soldiers = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 150
     }
 
     clergymen = {
@@ -2140,7 +2140,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 165
+        size = 247
     }
 
     farmers = {
@@ -2176,7 +2176,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 330
+        size = 495
     }
 
     farmers = {
@@ -2208,7 +2208,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 660
+        size = 990
     }
 
     farmers = {
@@ -2238,7 +2238,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 49
+        size = 73
     }
 
     farmers = {
@@ -2304,7 +2304,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 660
+        size = 990
     }
 
     craftsmen = {
@@ -2346,7 +2346,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 1320
+        size = 1980
     }
 
     craftsmen = {
@@ -2376,7 +2376,7 @@
     soldiers = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 150
     }
 
     clergymen = {
@@ -2488,7 +2488,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 99
+        size = 148
     }
 
     farmers = {
@@ -2518,7 +2518,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 66
+        size = 99
     }
 
     farmers = {
@@ -2550,7 +2550,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 660
+        size = 990
     }
 
     farmers = {
@@ -2580,7 +2580,7 @@
     soldiers = {
         culture = lavlandish
         religion = catholic
-        size = 660
+        size = 990
     }
 
     farmers = {
@@ -2839,7 +2839,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 240
+        size = 420
     }
 
     farmers = {
@@ -2863,7 +2863,7 @@
     soldiers = {
         culture = swiss
         religion = catholic
-        size = 15
+        size = 26
     }
 
     farmers = {
@@ -2911,19 +2911,19 @@
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 2100
+        size = 3150
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 2100
+        size = 3150
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 700
+        size = 1050
     }
 
     farmers = {
@@ -2947,7 +2947,7 @@
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 105
+        size = 157
     }
 
     farmers = {
@@ -2971,7 +2971,7 @@
     soldiers = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 150
     }
 
     clergymen = {
@@ -3015,7 +3015,7 @@
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 595
+        size = 892
     }
 
     farmers = {
@@ -3152,13 +3152,13 @@
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 2100
+        size = 3150
     }
 
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 700
+        size = 1050
     }
 
     farmers = {
@@ -3188,7 +3188,7 @@
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 630
+        size = 945
     }
 
     farmers = {
@@ -3281,7 +3281,7 @@
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 1400
+        size = 2100
     }
 
     farmers = {
@@ -3311,7 +3311,7 @@
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 1050
+        size = 1575
     }
 
     farmers = {
@@ -3335,7 +3335,7 @@
     soldiers = {
         culture = saayda
         religion = jewish
-        size = 100
+        size = 150
     }
 
     clergymen = {
@@ -3379,7 +3379,7 @@
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 245
+        size = 367
     }
 
     farmers = {
@@ -3411,7 +3411,7 @@
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 700
+        size = 1050
     }
 
     farmers = {
@@ -3443,7 +3443,7 @@
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 420
+        size = 630
     }
 
     farmers = {
@@ -3467,7 +3467,7 @@
     soldiers = {
         culture = bairisch
         religion = catholic
-        size = 630
+        size = 945
     }
 
     farmers = {
