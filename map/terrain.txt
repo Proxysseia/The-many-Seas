@@ -76,7 +76,7 @@ categories =  {
     jungle = {
         movement_cost = 1.3
         attrition = 1.5
-        defence = 2
+        defence = 1
 
         color = { 32 151 0 }
         farm_rgo_size = -0.25
@@ -173,7 +173,7 @@ categories =  {
 
     mountain = {
         movement_cost = 1.4
-        defence = 3
+        defence = 2
         color = { 117 108 119 }
         farm_rgo_size = -0.2
         farm_rgo_eff = 0.0
@@ -188,7 +188,7 @@ categories =  {
 
     montane_tundra = {
         movement_cost = 1.4
-        defence = 3
+        defence = 2
         color = { 117 108 120 }
 
         farm_rgo_size = -0.8
@@ -206,7 +206,7 @@ categories =  {
 
     montane_forest = {
         movement_cost = 1.5
-        defence = 3
+        defence = 2
         color = { 117 108 121 }
 
         farm_rgo_size = -0.4
@@ -305,7 +305,7 @@ categories =  {
 
     new_world_montane_tundra = {
         movement_cost = 1.4
-        defence = 3
+        defence = 2
         color = { 210 155 16 }
 
         farm_rgo_size = -10.8
@@ -337,7 +337,7 @@ categories =  {
 
     new_world_mountain = {
         movement_cost = 1.4
-        defence = 3
+        defence = 2
         color = { 210 155 14 }
         farm_rgo_size = -10.2
         farm_rgo_eff = 0.0
@@ -352,7 +352,7 @@ categories =  {
     new_world_jungle = {
         movement_cost = 1.3
         attrition = 1.5
-        defence = 2
+        defence = 1
 
         color = { 210 155 13 }
         farm_rgo_size = -10.25
