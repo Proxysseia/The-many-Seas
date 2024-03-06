@@ -791,38 +791,6 @@
         size = 25000
     }
 }
-#Nakhichevan
-1101 = {
-    aristocrats = {
-        culture = circassian
-        religion = orthodox
-        size = 125
-    }
-
-    clergymen = {
-        culture = circassian
-        religion = orthodox
-        size = 175
-    }
-
-    artisans = {
-        culture = circassian
-        religion = orthodox
-        size = 450
-    }
-
-    soldiers = {
-        culture = circassian
-        religion = orthodox
-        size = 2000
-    }
-
-    farmers = {
-        culture = circassian
-        religion = orthodox
-        size = 15000
-    }
-}
 #Siyazen (56000/14000 POPS)
 1103 = {
     aristocrats = {

@@ -1,6 +1,5 @@
-owner = KRD
-controller = KRD
-add_core = KRD
+owner = ETH
+controller = ETH
+add_core = ETH
 trade_goods = cattle
 life_rating = 35
-terrain = desert

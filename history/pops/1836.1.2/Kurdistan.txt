@@ -188,6 +188,38 @@
         size = 53750
     }
 }
+#Nakhichevan
+1101 = {
+    aristocrats = {
+        culture = kurdish
+        religion = sunni
+        size = 125
+    }
+
+    clergymen = {
+        culture = kurdish
+        religion = sunni
+        size = 175
+    }
+
+    artisans = {
+        culture = kurdish
+        religion = sunni
+        size = 450
+    }
+
+    soldiers = {
+        culture = kurdish
+        religion = sunni
+        size = 2000
+    }
+
+    farmers = {
+        culture = kurdish
+        religion = sunni
+        size = 15000
+    }
+}
 #Tabriz
 1108 = {
     aristocrats = {
@@ -656,64 +688,6 @@
         culture = kurdish
         religion = sunni
         size = 99949
-    }
-}
-#Jibuti
-1875 = {
-    bureaucrats = {
-        culture = kurdish
-        religion = sunni
-        size = 555
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 190
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 1166
-    }
-
-    farmers = {
-        culture = kurdish
-        religion = sunni
-        size = 20798
-    }
-}
-#Marsabit
-2025 = {
-    bureaucrats = {
-        culture = kurdish
-        religion = sunni
-        size = 55
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 190
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 1166
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 231
-    }
-
-    farmers = {
-        culture = kurdish
-        religion = sunni
-        size = 60473
     }
 }
 #Jezira/Cizre

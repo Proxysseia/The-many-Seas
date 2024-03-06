@@ -1258,6 +1258,32 @@
         size = 6205
     }
 }
+#Jibutia
+1875 = {
+    bureaucrats = {
+        culture = amhara
+        religion = coptic
+        size = 555
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = coptic
+        size = 190
+    }
+
+    artisans = {
+        culture = amhara
+        religion = coptic
+        size = 1166
+    }
+
+    farmers = {
+        culture = amhara
+        religion = coptic
+        size = 20798
+    }
+}
 #Wajir
 2031 = {
     aristocrats = {
