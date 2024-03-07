@@ -2533,9 +2533,23 @@ krd_hegemony = {
 	
 	can_use = {
 		NOT = { is_our_vassal = THIS }
-		has_country_flag = the_kurdish_kerfuffle
-		any_owned_province = { is_core = KRD }
-		FROM = { has_country_flag = the_kurdish_kerfuffle }
+		THIS = {  OR = {
+			tag = PER 
+			tag = TUR 
+			tag = TAH
+			}		
+		}
+		NOT = { has_country_flag = kurds_kerfuffled}
+		KRD = {
+			all_core = {
+				owned_by = THIS 
+			}
+		}
+		OR = {
+			tag = PER 
+			tag = TUR 
+			tag = TAH
+			}		
 	}
 	
 	on_add = {
@@ -2545,7 +2559,7 @@ krd_hegemony = {
 			value = 0.25
 		}
 	}
-
+	
 	on_po_accepted = {
 		set_country_flag = kurds_kerfuffled
 		clr_country_flag = the_kurdish_kerfuffle
