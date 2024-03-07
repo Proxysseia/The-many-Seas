@@ -408,6 +408,79 @@ navy = {
 		type = manowar
 	}
 
+	navy = {
+	name = "Egyptian Navy"
+	location = 1746
+	ship = {
+		name= "Couronne"
+		type = manowar
+	}
+
+	ship = {
+		name= "Superbe"
+		type = manowar
+	}
+
+	ship = {
+		name= "Jean Bart"
+		type = manowar
+	}
+
+	ship = {
+		name= "Deux couronnes"
+		type = manowar
+	}
+
+	ship = {
+		name= "Wagram"
+		type = manowar
+	}
+
+	ship = {
+		name= "Trocadero�"
+		type = manowar
+	}
+
+	ship = {
+		name= "Z�landais"
+		type = manowar
+	}
+
+	ship = {
+		name= "Superbe"
+		type = manowar
+	}
+
+	ship = {
+		name= "Austerlitz"
+		type = manowar
+	}
+
+	ship = {
+		name= "Magnifique"
+		type = manowar
+	}
+
+	ship = {
+		name= "Normandie"
+		type = manowar
+	}
+
+	ship = {
+		name= "Conqu�rant"
+		type = manowar
+	}
+
+	ship = {
+		name= "Neptune"
+		type = manowar
+	}
+
+	ship = {
+		name= "Algerisas"
+		type = manowar
+	}
+
 	ship = {
 		name= "Magicienne"
 		type = frigate
