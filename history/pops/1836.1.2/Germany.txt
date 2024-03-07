@@ -2659,69 +2659,69 @@
 ########
 586 = {
     aristocrats = {
-        culture = lavlandish
+        culture = bairisch
         religion = catholic
-        size = 1600
+        size = 1520
     }
 
     bureaucrats = {
-        culture = lavlandish
+        culture = bairisch
         religion = catholic
-        size = 700
+        size = 665
     }
 
     officers = {
-        culture = lavlandish
+        culture = bairisch
         religion = catholic
-        size = 350
+        size = 332
     }
 
     clergymen = {
-        culture = lavlandish
+        culture = bairisch
         religion = catholic
-        size = 1500
+        size = 1425
     }
 
     artisans = {
-        culture = lavlandish
+        culture = bairisch
         religion = catholic
-        size = 7650
+        size = 7267
     }
 
     soldiers = {
-        culture = lavlandish
+        culture = bairisch
         religion = catholic
-        size = 4650
+        size = 4417
     }
 
     farmers = {
-        culture = lavlandish
+        culture = bairisch
         religion = catholic
-        size = 139650
+        size = 132667
     }
 
     clergymen = {
-        culture = lavlandish
+        culture = bairisch
         religion = catholic
-        size = 100
+        size = 95
     }
 
     artisans = {
-        culture = lavlandish
+        culture = bairisch
         religion = catholic
-        size = 250
+        size = 237
     }
 
     soldiers = {
-        culture = lavlandish
+        culture = bairisch
         religion = catholic
-        size = 300
+        size = 285
     }
 
     farmers = {
-        culture = lavlandish
+        culture = bairisch
         religion = catholic
-        size = 4400
+        size = 4180
     }
 
     aristocrats = {
@@ -3081,57 +3081,57 @@
     }
 
     aristocrats = {
-        culture = lavlandish
+        culture = bairisch
         religion = catholic
-        size = 180
+        size = 171
     }
 
     clergymen = {
-        culture = lavlandish
+        culture = bairisch
         religion = catholic
-        size = 169
+        size = 160
     }
 
     artisans = {
-        culture = lavlandish
+        culture = bairisch
         religion = catholic
-        size = 855
+        size = 812
     }
 
     soldiers = {
-        culture = lavlandish
+        culture = bairisch
         religion = catholic
-        size = 540
+        size = 513
     }
 
     farmers = {
-        culture = lavlandish
+        culture = bairisch
         religion = catholic
-        size = 16616
+        size = 15785
     }
 
     clergymen = {
-        culture = lavlandish
+        culture = bairisch
         religion = catholic
-        size = 146
+        size = 138
     }
 
     artisans = {
-        culture = lavlandish
+        culture = bairisch
         religion = catholic
-        size = 788
+        size = 748
     }
 
     soldiers = {
-        culture = lavlandish
+        culture = bairisch
         religion = catholic
-        size = 405
+        size = 384
     }
 
     farmers = {
-        culture = lavlandish
+        culture = bairisch
         religion = catholic
-        size = 13781
+        size = 13091
     }
 }
 #under the rule of Wurttemburg in 1836

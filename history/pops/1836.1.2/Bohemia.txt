@@ -1045,7 +1045,7 @@
     farmers = {
         culture = polish
         religion = catholic
-        size = 1346
+        size = 1154
     }
 
     aristocrats = {
@@ -1125,6 +1125,24 @@
         religion = catholic
         size = 1744
     }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 67
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 64
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 61
+    }
 }
 #Teschen (116000/45000 POPS)
 689 = {
@@ -1203,7 +1221,7 @@
     farmers = {
         culture = polish
         religion = catholic
-        size = 1412
+        size = 1210
     }
 
     clergymen = {
@@ -1228,6 +1246,24 @@
         culture = sorbian
         religion = catholic
         size = 6357
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 71
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 67
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 64
     }
 }
 #Bielsko
@@ -1265,13 +1301,31 @@
     farmers = {
         culture = polish
         religion = catholic
-        size = 662
+        size = 568
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
         size = 2982
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 33
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 31
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 30
     }
 }
 #Silesia
@@ -1466,7 +1520,25 @@
     farmers = {
         culture = polish
         religion = catholic
-        size = 32653
+        size = 27996
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 1633
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 1551
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 1473
     }
 }
 #Waldenburg
@@ -1528,7 +1600,7 @@
     farmers = {
         culture = polish
         religion = catholic
-        size = 812
+        size = 695
     }
 
     clergymen = {
@@ -1558,7 +1630,7 @@
     farmers = {
         culture = polish
         religion = catholic
-        size = 4609
+        size = 3952
     }
 
     farmers = {
@@ -1596,6 +1668,42 @@
         religion = catholic
         size = 20739
     }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 41
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 230
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 39
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 219
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 37
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 208
+    }
 }
 #Oppeln
 684 = {
@@ -1632,7 +1740,7 @@
     farmers = {
         culture = polish
         religion = catholic
-        size = 596
+        size = 511
     }
 
     aristocrats = {
@@ -1650,13 +1758,13 @@
     farmers = {
         culture = polish
         religion = catholic
-        size = 5437
+        size = 4662
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 4562
+        size = 3911
     }
 
     farmers = {
@@ -1687,6 +1795,60 @@
         culture = sorbian
         religion = catholic
         size = 20532
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 30
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 272
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 228
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 28
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 258
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 217
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 27
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 245
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 206
     }
 }
 #Kattowitz
@@ -1724,7 +1886,7 @@
     farmers = {
         culture = polish
         religion = catholic
-        size = 596
+        size = 511
     }
 
     aristocrats = {
@@ -1742,13 +1904,13 @@
     farmers = {
         culture = polish
         religion = catholic
-        size = 9437
+        size = 8091
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 11062
+        size = 9485
     }
 
     farmers = {
@@ -1779,6 +1941,60 @@
         culture = sorbian
         religion = catholic
         size = 49782
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 30
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 472
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 553
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 28
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 448
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 525
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 27
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 426
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 499
     }
 }
 #Krakow
@@ -1840,12 +2056,30 @@
     farmers = {
         culture = polish
         religion = catholic
-        size = 14812
+        size = 12699
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
         size = 66657
+    }
+
+    farmers = {
+        culture = sorbian
+        religion = catholic
+        size = 741
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 704
+    }
+
+    farmers = {
+        culture = latvian
+        religion = catholic
+        size = 668
     }
 }
