@@ -407,8 +407,9 @@ navy = {
 		name= "Algerisas"
 		type = manowar
 	}
+}
 
-	navy = {
+navy = {
 	name = "Egyptian Navy"
 	location = 1746
 	ship = {
