@@ -35,4 +35,21 @@ political_decisions = {
 			prestige = 1
 		}
 	}
+
+	latvia_assim_poland = {
+		picture = form_poland_lithuania
+		potential =  {
+			is_culture_group = really_east_slavic
+			NOT = { has_country_flag = russia_moscovy }
+		}
+		allow = {
+			MUS = {
+				all_core = { owned_by = THIS }
+			}
+		}
+		effect = {
+			set_country_flag = russia_moscovy
+			prestige = 10
+		}
+	}
 }
