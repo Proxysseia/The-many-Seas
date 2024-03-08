@@ -1,8 +1,32 @@
 leader = {
-	name = "David Chassé"
+	name = "David Chassï¿½"
 	date = 1806.1.1
 	type = land
 	personality = timid
 	background = school_of_defense
+	prestige = 0.3
+}
+leader = {
+        name = "Kar L"
+        date = 1804.1.1
+        type = land
+        personality = impulsive
+         background = madman
+        prestige = 0.2
+}
+leader = {
+        name = "Sockuya"
+        date = 1804.1.1
+        type = land
+        personality = defiant
+         background = aristocrat
+        prestige = 0.2
+}
+leader = {
+	name = "Short Hills"
+	date = 1806.1.1
+	type = land
+	personality = merciless
+	background = madman
 	prestige = 0.3
 }

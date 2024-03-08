@@ -6,3 +6,344 @@ leader = {
 	background = school_of_defense
 	prestige = 0.3
 }
+army = {
+	name = "1st Army"
+	location = 304
+	regiment = {
+		name= "1.Kings Guard"
+		type = infantry
+		home = 304
+	}
+
+	regiment = {
+		name= "2.Kings Guard"
+		type = infantry
+		home = 1152
+	}
+
+	regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 1152
+	}
+
+	regiment = {
+		name= "4.Kings Guard"
+		type = infantry
+		home = 1745
+	}
+	
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 1745
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 1745
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 1749
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 1748
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 1751
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 1751
+	}
+}
+
+army = {
+	name = "2nd Army"
+	location = 1756
+	regiment = {
+		name= "1.Kings Guard"
+		type = infantry
+		home = 1751
+	}
+
+	regiment = {
+		name= "2.Kings Guard"
+		type = infantry
+		home = 1762
+	}
+
+	regiment = {
+		name= "Gaevlebocken"
+		type = infantry
+		home = 1153
+	}
+
+	regiment = {
+		name= "4.Kings Guard"
+		type = infantry
+		home = 1153
+	}
+	
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 1160
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 1160
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 1151
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 1151
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 1151
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 1157
+	}
+}
+
+army = {
+	name = "3rd Army"
+	location = 926
+	regiment = {
+		name= "1.Kings Guard"
+		type = infantry
+		home = 1767
+	}
+
+	regiment = {
+		name= "2.Kings Guard"
+		type = infantry
+		home = 898
+	}
+
+	regiment = {
+		name= "Gaevlebocken"
+		type = infantry
+		home = 1176
+	}
+
+	regiment = {
+		name= "4.Kings Guard"
+		type = infantry
+		home = 1173
+	}
+	
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 1175
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 1178
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 1179
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 1155
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 1155
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 930
+	}
+}
+
+navy = {
+	name = "1st Fleet"
+	location = 1748
+		ship = {
+		name= "Couronne"
+		type = frigate
+	}
+
+	ship = {
+		name= "Superbe"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jean Bart"
+		type = frigate
+	}
+	ship = {
+		name= "Susperbe"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jead Bart"
+		type = frigate
+	}
+
+		ship = {
+		name= "Couronne"
+		type = frigate
+	}
+
+	ship = {
+		name= "Superbe"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jean Bart"
+		type = frigate
+	}
+	ship = {
+		name= "Susperbe"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jead Bart"
+		type = frigate
+	}
+
+		ship = {
+		name= "Couronne"
+		type = frigate
+	}
+
+	ship = {
+		name= "Superbe"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jean Bart"
+		type = frigate
+	}
+	ship = {
+		name= "Susperbe"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jead Bart"
+		type = frigate
+	}
+
+		ship = {
+		name= "Couronne"
+		type = frigate
+	}
+
+	ship = {
+		name= "Superbe"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jean Bart"
+		type = frigate
+	}
+	ship = {
+		name= "Susperbe"
+		type = frigate
+	}
+
+	ship = {
+		name= "Jead Bart"
+		type = frigate
+	}
+
+	ship = {
+		name= "1. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "1. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "1. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "1. Transport"
+		type = clipper_transport
+	}
+}

@@ -5,6 +5,15 @@ GOL = {
 KAZ = {
 	truce_until = 1837.3.11
 }
+
+leader = {
+	name = "Mini Ghengis"
+	date = 1806.1.1
+	type = land
+	personality = timid
+	background = school_of_defense
+	prestige = 0.3
+}
 leader = {
 	name = "David Chasse"
 	date = 1806.1.1
@@ -12,4 +21,140 @@ leader = {
 	personality = timid
 	background = school_of_defense
 	prestige = 0.3
+}
+leader = {
+	name = "Logistics Powerhouse"
+	date = 1806.1.1
+	type = land
+	personality = cautious
+	background = nationalist
+	prestige = 0.3
+}
+
+army = {
+	name = "Cavmaxxer Army"
+	location = 1148
+	regiment = {
+		name= "1.Horse"
+		type = cuirassier
+		home = 1148
+	}
+
+	regiment = {
+		name= "2. Horse"
+		type = cuirassier
+		home = 1148
+	}
+
+	regiment = {
+		name= "3. Horse"
+		type = cuirassier
+		home = 1147
+	}
+
+	regiment = {
+		name= "4. Horse"
+		type = cuirassier
+		home = 1147
+	}
+
+	regiment = {
+		name= "5. Horse"
+		type = cuirassier
+		home = 1212
+	}
+
+	regiment = {
+		name= "6. Horse"
+		type = cuirassier
+		home = 1213
+	}
+
+	regiment = {
+		name= "7. Horse"
+		type = cuirassier
+		home = 1130
+	}
+
+	regiment = {
+		name= "8. Horse"
+		type = cuirassier
+		home = 1209
+	}
+
+	regiment = {
+		name= "9. Horse"
+		type = cuirassier
+		home = 1209
+	}
+
+	regiment = {
+		name= "10. Horse"
+		type = cuirassier
+		home = 1209
+	}
+}
+
+army = {
+	name = "2nd Cavmaxxer Army"
+	location = 1214
+	regiment = {
+		name= "1.Horse"
+		type = cuirassier
+		home = 1216
+	}
+
+	regiment = {
+		name= "2. Horse"
+		type = cuirassier
+		home = 1215
+	}
+
+	regiment = {
+		name= "3. Horse"
+		type = cuirassier
+		home = 1288
+	}
+
+	regiment = {
+		name= "4. Horse"
+		type = cuirassier
+		home = 1219
+	}
+
+	regiment = {
+		name= "5. Horse"
+		type = cuirassier
+		home = 1218
+	}
+
+	regiment = {
+		name= "6. Horse"
+		type = cuirassier
+		home = 1220
+	}
+
+	regiment = {
+		name= "7. Horse"
+		type = cuirassier
+		home = 1130
+	}
+
+	regiment = {
+		name= "8. Horse"
+		type = cuirassier
+		home = 1114
+	}
+
+	regiment = {
+		name= "9. Horse"
+		type = cuirassier
+		home = 1225
+	}
+
+	regiment = {
+		name= "10. Horse"
+		type = cuirassier
+		home = 114
+	}
 }

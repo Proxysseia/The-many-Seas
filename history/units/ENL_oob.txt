@@ -407,11 +407,7 @@ navy = {
 		name= "Algerisas"
 		type = manowar
 	}
-}
 
-navy = {
-	name = "Egyptian Navy"
-	location = 1746
 	ship = {
 		name= "Couronne"
 		type = manowar
@@ -480,21 +476,6 @@ navy = {
 	ship = {
 		name= "Algerisas"
 		type = manowar
-	}
-
-	ship = {
-		name= "Magicienne"
-		type = frigate
-	}
-
-	ship = {
-		name= "Marie Th�rese"
-		type = frigate
-	}
-
-	ship = {
-		name= "Venus"
-		type = frigate
 	}
 
 	ship = {

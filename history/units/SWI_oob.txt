@@ -7,6 +7,16 @@ leader = {
 	prestige = 0.3
 }
 
+leader = {
+	name = "Tall Mountains"
+	date = 1806.1.1
+	type = land
+	personality = expert_raider
+	background = skilled
+	prestige = 0.3
+}
+
+
 army = {
 	name = "1st Army"
 	location = 588

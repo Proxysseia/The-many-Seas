@@ -1,8 +1,246 @@
 leader = {
-	name = "David Chass�"
+	name = "David Chass�"
 	date = 1806.1.1
 	type = land
 	personality = timid
 	background = school_of_defense
 	prestige = 0.3
+}
+
+army = {
+	name = "1st Army"
+	location = 322
+	regiment = {
+		name= "1.Kings Guard"
+		type = infantry
+		home = 322
+	}
+
+	regiment = {
+		name= "2.Kings Guard"
+		type = infantry
+		home = 366
+	}
+
+	regiment = {
+		name= "Gaevlebocken"
+		type = infantry
+		home = 317
+	}
+
+	regiment = {
+		name= "4.Kings Guard"
+		type = infantry
+		home = 313
+	}
+	
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 305
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 305
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 372
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 308
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 1045
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 309
+	}
+}
+
+army = {
+	name = "2nd Army"
+	location = 330
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 1021
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 313
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 372
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 372
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 1427
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 1428
+	}
+}
+
+navy = {
+	name = "Escadre de Méditerranée"
+	location = 372
+	ship = {
+		name= "Triton"
+		type = manowar
+	}
+
+	ship = {
+		name= "Etats de Bourgogne"
+		type = manowar
+	}
+
+	ship = {
+		name= "Souverain"
+		type = manowar
+	}
+
+	ship = {
+		name= "Marengo"
+		type = manowar
+	}
+
+	ship = {
+		name= "Ville de Marseilles"
+		type = manowar
+	}
+
+	ship = {
+		name= "Hercule"
+		type = manowar
+	}
+
+	ship = {
+		name= "Montebello "
+		type = manowar
+	}
+
+	ship = {
+		name= "Centaure"
+		type = manowar
+	}
+
+	ship = {
+		name= "Jupiter"
+		type = manowar
+	}
+
+	ship = {
+		name= "Duc d’Angouleme"
+		type = manowar
+	}
+
+	ship = {
+		name= "Hercules"
+		type = manowar
+	}
+
+	ship = {
+		name= "Généreux"
+		type = manowar
+	}
+
+	ship = {
+		name= "Diadème"
+		type = manowar
+	}
+
+	ship = {
+		name= "Couronne"
+		type = manowar
+	}
+
+	ship = {
+		name= "Suffren"
+		type = manowar
+	}
+
+	ship = {
+		name= "Trident"
+		type = manowar
+	}
+
+	ship = {
+		name= "4ème Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5ème Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6ème Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4ème Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5ème Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6ème Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4ème Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5ème Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6ème Flotille de Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "6ème Flotille de Transport"
+		type = clipper_transport
+	}
 }
