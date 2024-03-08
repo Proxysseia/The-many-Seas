@@ -6,7 +6,7 @@ political_decisions = {
 			NOT = { has_country_flag = czech_accepted }
 		}
 		allow = {
-			functionalism = 1
+			positivism = 1
 			owns = 625
 			war = no
 		}

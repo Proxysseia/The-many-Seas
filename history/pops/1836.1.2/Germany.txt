@@ -163,7 +163,7 @@
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 4200
+        size = 306
     }
 
     soldiers = {
@@ -181,7 +181,31 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 11900
+        size = 868
+    }
+
+    artisans = {
+        culture = flanish
+        religion = catholic
+        size = 3066
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 8687
+    }
+
+    artisans = {
+        culture = flanish
+        religion = catholic
+        size = 828
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 2345
     }
 }
 #Under rule of Hannover 1836 (396000)

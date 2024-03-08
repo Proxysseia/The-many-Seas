@@ -21,7 +21,7 @@
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 1400
+        size = 378
     }
 
     soldiers = {
@@ -39,7 +39,19 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 11900
+        size = 3213
+    }
+
+    artisans = {
+        culture = flanish
+        religion = catholic
+        size = 1022
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 8687
     }
 }
 #Gottingen
@@ -79,43 +91,85 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 857
+        size = 231
     }
 
     bureaucrats = {
         culture = sorbian
         religion = catholic
-        size = 192
+        size = 52
     }
 
     officers = {
         culture = sorbian
         religion = catholic
-        size = 105
+        size = 28
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 840
+        size = 227
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 4200
+        size = 1134
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 437
+        size = 118
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 76860
+        size = 20752
+    }
+
+    aristocrats = {
+        culture = flanish
+        religion = catholic
+        size = 626
+    }
+
+    bureaucrats = {
+        culture = flanish
+        religion = catholic
+        size = 140
+    }
+
+    officers = {
+        culture = flanish
+        religion = catholic
+        size = 77
+    }
+
+    clergymen = {
+        culture = flanish
+        religion = catholic
+        size = 613
+    }
+
+    artisans = {
+        culture = flanish
+        religion = catholic
+        size = 3066
+    }
+
+    soldiers = {
+        culture = flanish
+        religion = catholic
+        size = 319
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 56108
     }
 }
 #Neustrelitz
@@ -243,31 +297,61 @@
     aristocrats = {
         culture = sorbian
         religion = catholic
-        size = 140
+        size = 38
     }
 
     clergymen = {
         culture = sorbian
         religion = catholic
-        size = 340
+        size = 92
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
-        size = 2645
+        size = 714
     }
 
     soldiers = {
         culture = sorbian
         religion = catholic
-        size = 750
+        size = 202
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 23175
+        size = 6257
+    }
+
+    aristocrats = {
+        culture = flanish
+        religion = catholic
+        size = 102
+    }
+
+    clergymen = {
+        culture = flanish
+        religion = catholic
+        size = 248
+    }
+
+    artisans = {
+        culture = flanish
+        religion = catholic
+        size = 1931
+    }
+
+    soldiers = {
+        culture = flanish
+        religion = catholic
+        size = 548
+    }
+
+    farmers = {
+        culture = flanish
+        religion = catholic
+        size = 16918
     }
 }
 #Berlin
