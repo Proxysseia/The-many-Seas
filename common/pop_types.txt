@@ -1545,7 +1545,7 @@ assimilation_chance = {
 #Assimilation for Russian pops after NOTRussia takes their decision
 	group = {
 		modifier = {
-			factor = 1.5
+			factor = 1.2
 			has_pop_culture = russian
 			country = {
 				has_country_flag = russia_moscovy

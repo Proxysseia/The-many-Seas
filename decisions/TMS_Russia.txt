@@ -36,7 +36,7 @@ political_decisions = {
 		}
 	}
 
-	latvia_assim_poland = {
+	increase_assim_russia = {
 		picture = form_poland_lithuania
 		potential =  {
 			is_culture_group = really_east_slavic
@@ -46,6 +46,7 @@ political_decisions = {
 			MUS = {
 				all_core = { owned_by = THIS }
 			}
+			war = no
 		}
 		effect = {
 			set_country_flag = russia_moscovy
