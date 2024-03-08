@@ -1,0 +1,50 @@
+political_decisions = {
+	ENL_1836_setup = {
+        potential = {
+            tag = ENL
+            always = no
+        }
+        allow = {
+            tag = ENL
+        }
+        effect = {
+            1746 = {
+                add_province_modifier = {
+                    name = enl_treaty_port
+                    duration = -1
+                }
+            }
+            1402 = {
+                add_province_modifier = {
+                    name = enl_treaty_port
+                    duration = -1
+                }
+            }
+            502 = {
+                add_province_modifier = {
+                    name = enl_treaty_port
+                    duration = -1
+                }
+            }
+            2664 = {
+                add_province_modifier = {
+                    name = enl_treaty_port
+                    duration = -1
+                }
+            }
+            729 = {
+                add_province_modifier = {
+                    name = enl_treaty_port
+                    duration = -1
+                }
+            }
+            2366 = {
+                add_province_modifier = {
+                    name = enl_treaty_port
+                    duration = -1
+                }
+            }
+            set_country_flag = enl_treaty_port_system
+        }
+    }
+}

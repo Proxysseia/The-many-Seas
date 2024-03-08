@@ -2677,3 +2677,10 @@ cultural_integration = {
 	assimilation_rate = 0.5
 	icon = 19
 }
+
+enl_treaty_port = {
+	assimilation_rate = 0.1
+	RGO_throughput = 0.1
+	prestige = 0.01
+	icon = 9
+}

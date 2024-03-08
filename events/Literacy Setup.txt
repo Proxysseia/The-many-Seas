@@ -90,10 +90,8 @@ country_event = {
 		any_pop = {
             limit = {
                 OR = {
-					has_pop_culture = mongo
-                    has_pop_culture = lake_mongo
-					has_pop_culture = nuer
-					has_pop_culture = lake_nuer
+					has_pop_culture = fang
+                    has_pop_culture = lake_fang
 					has_pop_culture = north_italian
                 }
             }
@@ -115,8 +113,10 @@ country_event = {
 		any_pop = {
             limit = {
                 OR = {
-                    has_pop_culture = fang
-                    has_pop_culture = lake_fang
+                    has_pop_culture = mongo
+                    has_pop_culture = lake_mongo
+					has_pop_culture = nuer
+					has_pop_culture = lake_nuer
 					has_pop_culture = icelandic
                 }
             }
@@ -321,9 +321,8 @@ country_event = {
 		any_pop = {
             limit = {
                 OR = {
-					has_pop_culture = mongo
-					has_pop_culture = lake_mongo
-					has_pop_culture = nuer
+					has_pop_culture = fang
+                    has_pop_culture = lake_fang
 					has_pop_culture = north_italian
                 }
             }
@@ -344,8 +343,10 @@ country_event = {
 		any_pop = {
             limit = {
                 OR = {
-                    has_pop_culture = fang
-					has_pop_culture = lake_fang
+                    has_pop_culture = mongo
+                    has_pop_culture = lake_mongo
+					has_pop_culture = nuer
+					has_pop_culture = lake_nuer
 					has_pop_culture = icelandic
                 }
             }

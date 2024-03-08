@@ -22,14 +22,6 @@ leader = {
          background = aristocrat
         prestige = 0.2
 }
-leader = {
-	name = "Short Hills"
-	date = 1806.1.1
-	type = land
-	personality = merciless
-	background = madman
-	prestige = 0.3
-}
 army = {
 	name = "1st Army"
 	location = 876
