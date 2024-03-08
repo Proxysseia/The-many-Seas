@@ -78,8 +78,8 @@ political_decisions = {
 
 			PAR = { all_core = { remove_core =  PAR } }
 			TUS = { all_core = { remove_core =  TUS } }
-			NPL = { all_core = { remove_core =  NPL } }
-			SIC = { all_core = { remove_core =  SIC } }
+			NPL = { all_core = { add_core = HEL remove_core =  NPL } }
+			SIC = { all_core = { add_core = HEL remove_core =  SIC } }
 			SWI = { all_core = { remove_core =  SWI } }
 		}
 	}
