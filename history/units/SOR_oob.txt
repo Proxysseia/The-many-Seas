@@ -1,8 +1,264 @@
 leader = {
-	name = "David Chassé"
+	name = "David Chassï¿½"
 	date = 1806.1.1
 	type = land
 	personality = timid
 	background = school_of_defense
 	prestige = 0.3
+}
+
+army = {
+	name = "1st Army"
+	location = 549
+	regiment = {
+		name= "1.Kings Guard"
+		type = infantry
+		home = 549
+	}
+
+	regiment = {
+		name= "2.Kings Guard"
+		type = infantry
+		home = 681
+	}
+
+	regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 549
+	}
+
+	regiment = {
+		name= "4.Kings Guard"
+		type = infantry
+		home = 553
+	}
+	
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 551
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 550
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 550
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 550
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 546
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 546
+	}
+}
+
+army = {
+	name = "2nd Army"
+	location = 683
+	regiment = {
+		name= "1.Kings Guard"
+		type = infantry
+		home = 546
+	}
+
+	regiment = {
+		name= "2.Kings Guard"
+		type = infantry
+		home = 683
+	}
+
+	regiment = {
+		name= "Gaevlebocken"
+		type = infantry
+		home = 683
+	}
+
+	regiment = {
+		name= "4.Kings Guard"
+		type = infantry
+		home = 546
+	}
+	
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 691
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 691
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 691
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 710
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 710
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 706
+	}
+}
+
+army = {
+	name = "4th Army"
+	location = 553
+	regiment = {
+		name= "1.Kings Guard"
+		type = infantry
+		home = 706
+	}
+
+	regiment = {
+		name= "2.Kings Guard"
+		type = infantry
+		home = 553
+	}
+
+	regiment = {
+		name= "3rd Infantry"
+		type = infantry
+		home = 709
+	}
+
+	regiment = {
+		name= "4.Kings Guard"
+		type = infantry
+		home = 709
+	}
+	
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 703
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 714
+	}
+
+	regiment = {
+		name= "2.Kings Gun"
+		type = artillery
+		home = 708
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 692
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 706
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 679
+	}
+}
+
+army = {
+	name = "3rd Army"
+	location = 699
+	regiment = {
+		name= "1.Kings Guard"
+		type = infantry
+		home = 699
+	}
+
+	regiment = {
+		name= "2.Kings Guard"
+		type = infantry
+		home = 552
+	}
+
+	regiment = {
+		name= "3. Infantry"
+		type = infantry
+		home = 682
+	}
+
+	regiment = {
+		name= "4.Kings Guard"
+		type = infantry
+		home = 957
+	}
+	
+	regiment = {
+		name= "1.Kings Horse"
+		type = hussar
+		home = 631
+	}
+	
+	regiment = {
+		name= "1.Kings Gun"
+		type = artillery
+		home = 941
+	}
+
+	regiment = {
+		name= "wow!"
+		type = artillery
+		home = 625
+	}
+
+	regiment = {
+		name= "3.Kings Gun"
+		type = artillery
+		home = 941
+	}
+
+	regiment = {
+		name= "4.Kings Gun"
+		type = artillery
+		home = 941
+	}
+	
+	regiment = {
+		name= "5.Kings Gun"
+		type = artillery
+		home = 941
+	}
 }
