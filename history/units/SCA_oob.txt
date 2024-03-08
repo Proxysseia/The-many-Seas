@@ -112,7 +112,7 @@ army = {
 }
 
 navy = {
-	name = "Escadre de Méditerranée"
+	name = "1. Flotta"
 	location = 372
 	ship = {
 		name= "Triton"
