@@ -4892,78 +4892,78 @@
 ########################
 ### Teknocrets (TRA) ###
 ########################
-### Teknicore ###
+### sunniore ###
 #Teknada (476000/119000 POPS)
 1319 = {
     aristocrats = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 12850
     }
 
     bureaucrats = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 3600
     }
 
     officers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 1500
     }
 
     clergymen = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 5825
     }
 
     artisans = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 10750
     }
 
     artisans = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 10750
     }
 
     artisans = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 10750
     }
 
     artisans = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 2750
     }
 
     soldiers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 6000
     }
 
     soldiers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 3000
     }
 
     farmers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 46675
     }
 
     farmers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 134000
     }
 }
@@ -4971,31 +4971,31 @@
 1317 = {
     aristocrats = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 6500
     }
 
     clergymen = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 3250
     }
 
     artisans = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 12000
     }
 
     soldiers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 3000
     }
 
     farmers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 171250
     }
 }
@@ -5003,43 +5003,43 @@
 1318 = {
     aristocrats = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 5500
     }
 
     clergymen = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 3500
     }
 
     artisans = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 12000
     }
 
     soldiers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 3000
     }
 
     soldiers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 1000
     }
 
     farmers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 105000
     }
 
     farmers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 184000
     }
 }
@@ -5048,49 +5048,49 @@
 1304 = {
     aristocrats = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 33000
     }
 
     clergymen = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 10000
     }
 
     bureaucrats = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 2000
     }
 
     artisans = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 10000
     }
 
     artisans = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 10000
     }
 
     soldiers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 3000
     }
 
     soldiers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 2000
     }
 
     farmers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 162000
     }
 }
@@ -5098,43 +5098,43 @@
 1309 = {
     aristocrats = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 3500
     }
 
     clergymen = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 3750
     }
 
     artisans = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 10000
     }
 
     artisans = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 3000
     }
 
     soldiers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 3000
     }
 
     soldiers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 500
     }
 
     farmers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 114350
     }
 }
@@ -5142,43 +5142,43 @@
 1310 = {
     aristocrats = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 3500
     }
 
     clergymen = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 2250
     }
 
     artisans = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 10000
     }
 
     artisans = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 4000
     }
 
     soldiers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 3000
     }
 
     soldiers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 1000
     }
 
     farmers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 175250
     }
 }
@@ -5186,43 +5186,43 @@
 1311 = {
     aristocrats = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 6000
     }
 
     clergymen = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 5000
     }
 
     artisans = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 10000
     }
 
     artisans = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 9000
     }
 
     soldiers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 3000
     }
 
     soldiers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 1000
     }
 
     farmers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 214000
     }
 }
@@ -5230,37 +5230,37 @@
 1312 = {
     aristocrats = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 3700
     }
 
     clergymen = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 2250
     }
 
     artisans = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 10500
     }
 
     soldiers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 1200
     }
 
     farmers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 32250
     }
 
     farmers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 45000
     }
 }
@@ -5280,31 +5280,31 @@
 
     aristocrats = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 850
     }
 
     clergymen = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 500
     }
 
     artisans = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 4550
     }
 
     soldiers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 1000
     }
 
     farmers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 48000
     }
 }
@@ -5313,37 +5313,37 @@
 1321 = {
     aristocrats = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 4900
     }
 
     bureaucrats = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 2625
     }
 
     clergymen = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 750
     }
 
     artisans = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 800
     }
 
     soldiers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 750
     }
 
     farmers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 74650
     }
 }
@@ -5351,31 +5351,31 @@
 1322 = {
     aristocrats = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 500
     }
 
     clergymen = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 500
     }
 
     artisans = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 4000
     }
 
     soldiers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 500
     }
 
     farmers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 42500
     }
 }
@@ -5383,31 +5383,31 @@
 1323 = {
     aristocrats = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 750
     }
 
     clergymen = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 750
     }
 
     artisans = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 4000
     }
 
     soldiers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 750
     }
 
     farmers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 69250
     }
 }
@@ -5415,31 +5415,31 @@
 1324 = {
     aristocrats = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 250
     }
 
     clergymen = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 225
     }
 
     artisans = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 500
     }
 
     soldiers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 200
     }
 
     farmers = {
         culture = kannada
-        religion = teknic
+        religion = sunni
         size = 89825
     }
 }
