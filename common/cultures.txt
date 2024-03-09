@@ -867,6 +867,21 @@ southeast_asian = {
 
         }
     }
+    kachin = {
+        color = {255 98 76}
+        first_names = { Sama Sinwa U Zan Hta Duwa Ding Ga Hkyeng
+
+        }
+
+        last_names = { Ratang Nawng Sin Lahpai Lahtaw Maran Marip Nhkum
+
+        }
+    }
+	Union = IND
+}
+    indonesian = {
+    leader = asian
+    unit = AsianGC
     malay = {
         color = {85 78 89}
         first_names = { Shahabuddin Riayat Abdullah Jaafar Safiuddin Muhammad Ali Al-Mukammal Ismail Muabidin Tuanku Yusuf Idris Jalil Isandar Aziz
@@ -884,16 +899,6 @@ southeast_asian = {
         }
 
         last_names = { Aguainaldo Mabini Bonifacio Jacinto Rizal Díaz Plata Diwa Arellano
-
-        }
-    }
-    kachin = {
-        color = {255 98 76}
-        first_names = { Sama Sinwa U Zan Hta Duwa Ding Ga Hkyeng
-
-        }
-
-        last_names = { Ratang Nawng Sin Lahpai Lahtaw Maran Marip Nhkum
 
         }
     }

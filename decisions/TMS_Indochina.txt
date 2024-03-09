@@ -1,7 +1,8 @@
 political_decisions = {
 	indochina_federation ={
+		picture = sign_treaty_of_london
 		potential = {
-			tag = BUR
+			is_culture_group = southeast_asian
 			NOT = {has_country_flag = indochina_federation}
 		}
 		allow = {
@@ -48,6 +49,7 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = thai
 			add_accepted_culture = vietnamese
+			add_accepted_culture = kachin
 			BUR = {all_core = { add_core = IND remove_core = BUR} }
 			TEN = {all_core = { add_core = IND remove_core = TEN} annex_to = THIS}
 			SAY = {all_core = { add_core = IND remove_core = SAY} annex_to = THIS}
