@@ -47,13 +47,22 @@ political_decisions = {
 			}
 		}
 		effect = {
+			set_country_flag = indochina_federation
 			add_accepted_culture = thai
 			add_accepted_culture = vietnamese
 			add_accepted_culture = kachin
-			BUR = {all_core = { add_core = IND remove_core = BUR} }
-			TEN = {all_core = { add_core = IND remove_core = TEN} annex_to = THIS}
-			SAY = {all_core = { add_core = IND remove_core = SAY} annex_to = THIS}
 			change_tag = IND
+			any_country = {
+				limit = {
+					is_culture_group = southeast_asian
+					vassal_of = THIS
+				}
+				country_event = { id=11101 days=0 }
+			}
+			BUR = {all_core = { add_core = IND remove_core = BUR}}
+			TEN = {all_core = { add_core = IND remove_core = TEN}}
+			SAY = {all_core = { add_core = IND remove_core = SAY}}
+			
 		}
 	}
 }
