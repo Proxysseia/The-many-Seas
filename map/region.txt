@@ -462,7 +462,7 @@ RUS_973 = { 976 973 975 } #Kherson-Zaporizhia
 
 RUS_955 = { 972 971 970 961 968 969 } #Yekaterinoslav
 
-RUS_977 = { 977 1017 1018 1019 963 962 1016 949 } #Kursk
+RUS_977 = { 1402 977 1017 1018 1019 963 962 1016 949 } #Kursk
 
 RUS_978 = { 978 980 974 } #Kharkov
 
@@ -1207,4 +1207,4 @@ FRA_801 = { 801 2553 } #Tahiti
 
 ### Util
 
-LIC_1 = { 1402 } #Lichtenstein
+LIC_1 = { 3371 } #Lichtenstein

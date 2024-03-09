@@ -2,7 +2,7 @@ political_decisions = {
 	claim_Italy = {
 		picture = expand_motala_verkstad
 		potential = {
-			is_culture_group = italian
+			tag = SWI
 			NOT = { has_country_flag = Italy_claimed }
 		}
 		allow = {
