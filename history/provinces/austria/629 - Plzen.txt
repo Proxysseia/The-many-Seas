@@ -1,5 +1,6 @@
 owner = SOR
 controller = SOR
+add_core = SOR
 add_core = BOH
 trade_goods = iron
 life_rating = 35

@@ -2,6 +2,6 @@ owner = NET
 controller = NET
 add_core = CAP
 trade_goods = fruit
-life_rating = 20
+life_rating = 35
 naval_base = 1
 colonial = 2
