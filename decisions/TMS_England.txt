@@ -1,0 +1,186 @@
+political_decisions = {
+    enl_treaty_cairo_remove = {
+        potential = {
+            tag = CHI                                               #Confirmed AI Nation
+            NOT = {
+                has_country_flag = cairo_removed
+            }
+            NOT = {
+                has_global_flag = enl_treaty_ports_consolidated
+            }
+        }
+        allow = {
+            NOT = { 1746 = { owned_by = ENL } }
+		}
+        effect = {
+            1746 = { remove_core = ENL}
+            1746 = { change_province_name = "North Cairo"}
+            set_country_flag = cairo_removed
+            set_global_flag = enl_treaty_cairo_loss
+        }
+	}
+    enl_treaty_lichtenstein_remove = {
+        potential = {
+            tag = CHI                                               #Confirmed AI Nation
+            NOT = {
+                has_country_flag = berg_removed
+            }
+            NOT = {
+                has_global_flag = enl_treaty_ports_consolidated
+            }
+        }
+        allow = {
+            NOT = { 1402 = { owned_by = ENL } }
+		}
+        effect = {
+            1402 = { remove_core = ENL}
+            1402 = { change_province_name = "Lichtenstein"}
+            set_country_flag = berg_removed
+            set_global_flag = enl_treaty_berg_loss
+        }
+	}
+    enl_treaty_balearics_remove = {
+        potential = {
+            tag = CHI                                               #Confirmed AI Nation
+            NOT = {
+                has_country_flag = mab_removed
+            }
+            NOT = {
+                has_global_flag = enl_treaty_ports_consolidated
+            }
+        }
+        allow = {
+            NOT = { 502 = { owned_by = ENL } }
+		}
+        effect = {
+            502 = { remove_core = ENL}
+            502 = { change_province_name = "Balearics"}
+            set_country_flag = mab_removed
+            set_global_flag = enl_treaty_mab_loss
+        }
+	}
+    enl_treaty_islabel_remove = {
+        potential = {
+            tag = CHI                                               #Confirmed AI Nation
+            NOT = {
+                has_country_flag = pem_removed
+            }
+            NOT = {
+                has_global_flag = enl_treaty_ports_consolidated
+            }
+        }
+        allow = {
+            NOT = { 2366 = { owned_by = ENL } }
+		}
+        effect = {
+            2366 = { remove_core = ENL}
+            2366 = { change_province_name = "Isla Bel"}
+            set_country_flag = pem_removed
+            set_global_flag = enl_treaty_pem_loss
+        }
+	}
+    enl_treaty_hormuz_remove = {
+        potential = {
+            tag = CHI                                               #Confirmed AI Nation
+            NOT = {
+                has_country_flag = sud_removed
+            }
+            NOT = {
+                has_global_flag = enl_treaty_ports_consolidated
+            }
+        }
+        allow = {
+            NOT = { 2664 = { owned_by = ENL } }
+		}
+        effect = {
+            2664 = { remove_core = ENL}
+            2664 = { change_province_name = "Hormuz"}
+            set_country_flag = sud_removed
+            set_global_flag = enl_treaty_sud_loss
+        }
+	}
+    enl_treaty_venice_remove = {
+        potential = {
+            tag = CHI                                               #Confirmed AI Nation
+            NOT = {
+                has_country_flag = whi_removed
+            }
+            NOT = {
+                has_global_flag = enl_treaty_ports_consolidated
+            }
+        }
+        allow = {
+            NOT = { 729 = { owned_by = ENL } }
+		}
+        effect = {
+            729 = { remove_core = ENL}
+            729 = { change_province_name = "Venice"}
+            set_country_flag = whi_removed
+            set_global_flag = enl_treaty_whi_loss
+        }
+	}
+     enl_treaty_all_gone = {
+        potential = {
+            tag = CHI                                               #Confirmed AI Nation
+            NOT = {
+                has_country_flag = enl_its_jover_chi
+            }
+            NOT = {
+                has_country_flag = enl_treaty_ports_consolidated
+            }
+        }
+        allow = {
+            AND = {
+                has_global_flag = enl_treaty_cairo_loss
+                has_global_flag = enl_treaty_berg_loss
+                has_global_flag = enl_treaty_mab_loss
+                has_global_flag = enl_treaty_pem_loss
+                has_global_flag = enl_treaty_sud_loss
+                has_global_flag = enl_treaty_whi_loss
+            }
+		}
+        effect = {
+            set_country_flag = enl_its_jover_chi
+            set_global_flag = enl_its_jover
+            clr_global_flag = enl_treaty_port_system
+        }
+	}
+########################################################################
+#   ENL clicky decisions here 
+
+    enl_treaty_upgrade = {
+        picture = schwabing_circles
+        potential = {
+            tag = ENL
+            has_global_flag = enl_treaty_port_system
+            NOT = { has_global_flag = treaty_upgrade }
+            NOT = { has_country_flag = enl_upgrade_clicked }
+        }
+        allow = {
+            year = 1845
+            war = no
+        }
+        effect = {
+            prestige = 10
+            set_country_flag = enl_upgrade_clicked
+            set_global_flag = enl_treaty_upgrade
+        }
+    }
+
+    enl_consolidate_treaty_ports = {
+        picture = the_vega_expedition
+        potential = {
+            tag = ENL
+            has_global_flag = enl_treaty_port_system
+        }
+        allow = {
+            year = 1870
+            war = no
+        }
+        effect = {
+            prestige = 25
+            set_global_flag = enl_treaty_ports_consolidated
+            clr_global_flag = enl_treaty_port_system
+        }
+    }
+}

@@ -1,4 +1,4 @@
-#Austro-Bohemian Win
+#thank you pogba
 country_event = {
     id = 198910
     title = "EVTNAME198910"
@@ -32,3 +32,4 @@ country_event = {
 		remove_accepted_culture = kurdish
         set_country_flag = kerfuffle_l
     }
+}

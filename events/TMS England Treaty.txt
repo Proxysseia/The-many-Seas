@@ -1,0 +1,707 @@
+#thank you pogba
+###################################################################################
+#events for vassals
+#
+#
+### Lambeth - Cairo
+#
+country_event = {                                       #Loss Port England
+    id = 200110
+    title = "EVTNAME200110"
+    desc = "EVTDESC200110"
+
+    trigger = {
+        has_global_flag = enl_treaty_cairo_loss
+        tag = ENL
+        NOT = {
+            has_country_flag = enl_lost_cairo
+        }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "I should have made them full siege me..."
+        prestige = -10
+        set_country_flag = enl_lost_cairo
+    }
+}
+
+country_event = {                                       #Loss Port Vassal
+    id = 200120
+    title = "EVTNAME200110"
+    desc = "EVTDESC200110"
+
+    trigger = {
+        has_global_flag = enl_treaty_cairo_loss
+        tag = LAM
+        NOT = {
+            has_country_flag = enl_lost_cairo
+        }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "removes treaty modifiers from vassal"
+        prestige = -10
+        remove_country_modifier = enl_vassal_treaty
+        remove_country_modifier = enl_vassal_upgrade
+        ENL = { remove_country_modifier = lam_treaty_port_active }
+        any_owned = { remove_province_modifier = lam_treaty_info }
+        any_owned = { remove_province_modifier = enl_upgrade_info }
+        set_country_flag = enl_lost_cairo
+    }
+}
+country_event = {                                        #ENL Cairo Upgrade
+    id = 200130
+    title = "EVTNAME200130"
+    desc = "EVTDESC200130"
+    fire_only_once = yes
+
+    trigger = {
+        has_global_flag = enl_treaty_upgrade
+        tag = LAM
+        NOT = { has_global_flag = enl_treaty_cairo_loss }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "cool"
+        prestige = 10
+        add_country_modifier = {
+            name = enl_vassal_upgrade
+            duration = 3650
+        }
+        128 = {
+                add_province_modifier = {
+                    name = enl_upgrade_info
+                    duration = 3650
+                }
+        }
+    }
+}
+#
+### BERG - Lichtenstein
+#
+country_event = {                                       #Loss Port England
+    id = 200210
+    title = "EVTNAME200210"
+    desc = "EVTDESC200210"
+
+    trigger = {
+        has_global_flag = enl_treaty_berg_loss
+        tag = ENL
+        NOT = {
+            has_country_flag = enl_lost_berg
+        }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "I should have made them full siege me..."
+        prestige = -10
+        set_country_flag = enl_lost_berg
+    }
+}
+
+country_event = {                                       #Loss Port Vassal
+    id = 200220
+    title = "EVTNAME200210"
+    desc = "EVTDESC200210"
+
+    trigger = {
+        has_global_flag = enl_treaty_berg_loss
+        tag = BER
+        NOT = {
+            has_country_flag = enl_lost_lichtenstein
+        }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "removes treaty modifiers from vassal"
+        prestige = -10
+        remove_country_modifier = enl_vassal_treaty
+        remove_country_modifier = enl_vassal_upgrade
+        ENL = { remove_country_modifier = ber_treaty_port_active }
+        any_owned = { remove_province_modifier = ber_treaty_info }
+        any_owned = { remove_province_modifier = enl_upgrade_info }
+        set_country_flag = enl_lost_lichtenstein
+    }
+}
+country_event = {                                        #ENL Vassal Upgrade
+    id = 200230
+    title = "EVTNAME200230"
+    desc = "EVTDESC200230"
+    fire_only_once = yes
+
+    trigger = {
+        has_global_flag = enl_treaty_upgrade
+        tag = BER
+        NOT = { has_global_flag = enl_treaty_berg_loss }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "cool"
+        prestige = 10
+        add_country_modifier = {
+            name = enl_vassal_upgrade
+            duration = 3650
+        }
+        60 = {
+                add_province_modifier = {
+                    name = enl_upgrade_info
+                    duration = 3650
+                }
+        }
+    }
+}
+#
+### Mabolton - Balearics
+#
+country_event = {                                       #Loss Port England
+    id = 200310
+    title = "EVTNAME200310"
+    desc = "EVTDESC200310"
+
+    trigger = {
+        has_global_flag = enl_treaty_mab_loss
+        tag = ENL
+        NOT = {
+            has_country_flag = enl_lost_mab
+        }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "I should have made them full siege me..."
+        prestige = -10
+        set_country_flag = enl_lost_mab
+    }
+}
+
+country_event = {                                       #Loss Port Vassal
+    id = 200320
+    title = "EVTNAME200310"
+    desc = "EVTDESC200310"
+
+    trigger = {
+        has_global_flag = enl_treaty_mab_loss
+        tag = MAB
+        NOT = {
+            has_country_flag = enl_lost_balearics
+        }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "removes treaty modifiers from vassal"
+        prestige = -10
+        remove_country_modifier = enl_vassal_treaty
+        remove_country_modifier = enl_vassal_upgrade
+        ENL = { remove_country_modifier = mab_treaty_port_active }
+        any_owned = { remove_province_modifier = mab_treaty_info }
+        any_owned = { remove_province_modifier = enl_upgrade_info }
+        set_country_flag = enl_lost_balearics
+    }
+}
+country_event = {                                        #ENL Vassal Upgrade
+    id = 200330
+    title = "EVTNAME200330"
+    desc = "EVTDESC200330"
+    fire_only_once = yes
+
+    trigger = {
+        has_global_flag = enl_treaty_upgrade
+        tag = MAB
+        NOT = { has_global_flag = enl_treaty_mab_loss }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "cool"
+        prestige = 10
+        add_country_modifier = {
+            name = enl_vassal_upgrade
+            duration = 3650
+        }
+        742 = {
+                add_province_modifier = {
+                    name = enl_upgrade_info
+                    duration = 3650
+                }
+        }
+    }
+}
+#
+### Pembroke - Isla Bel
+#
+country_event = {                                       #Loss Port England
+    id = 200410
+    title = "EVTNAME200410"
+    desc = "EVTDESC200410"
+
+    trigger = {
+        has_global_flag = enl_treaty_pem_loss
+        tag = ENL
+        NOT = {
+            has_country_flag = enl_lost_pem
+        }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "I should have made them full siege me..."
+        prestige = -10
+        set_country_flag = enl_lost_pem
+    }
+}
+
+country_event = {                                       #Loss Port Vassal
+    id = 200420
+    title = "EVTNAME200410"
+    desc = "EVTDESC200410"
+
+    trigger = {
+        has_global_flag = enl_treaty_pem_loss
+        tag = PEM
+        NOT = {
+            has_country_flag = enl_lost_islabel
+        }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "removes treaty modifiers from vassal"
+        prestige = -10
+        remove_country_modifier = enl_vassal_treaty
+        remove_country_modifier = enl_vassal_upgrade
+        ENL = { remove_country_modifier = pem_treaty_port_active }
+        any_owned = { remove_province_modifier = pem_treaty_info }
+        any_owned = { remove_province_modifier = enl_upgrade_info }
+        set_country_flag = enl_lost_islabel
+    }
+}
+country_event = {                                        #ENL Vassal Upgrade
+    id = 200430
+    title = "EVTNAME200430"
+    desc = "EVTDESC200430"
+    fire_only_once = yes
+
+    trigger = {
+        has_global_flag = enl_treaty_upgrade
+        tag = PEM
+        NOT = { has_global_flag = enl_treaty_pem_loss }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "cool"
+        prestige = 10
+        add_country_modifier = {
+            name = enl_vassal_upgrade
+            duration = 3650
+        }
+        2494 = {
+                add_province_modifier = {
+                    name = enl_upgrade_info
+                    duration = 3650
+                }
+        }
+    }
+}
+#
+### Sudenely - Hormuz
+#
+country_event = {                                       #Loss Port England
+    id = 200510
+    title = "EVTNAME200510"
+    desc = "EVTDESC200510"
+
+    trigger = {
+        has_global_flag = enl_treaty_sud_loss
+        tag = ENL
+        NOT = {
+            has_country_flag = enl_lost_sud
+        }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "I should have made them full siege me..."
+        prestige = -10
+        set_country_flag = enl_lost_sud
+    }
+}
+
+country_event = {                                       #Loss Port Vassal
+    id = 200520
+    title = "EVTNAME200510"
+    desc = "EVTDESC200510"
+
+    trigger = {
+        has_global_flag = enl_treaty_sud_loss
+        tag = SUD
+        NOT = {
+            has_country_flag = enl_lost_hormuz
+        }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "removes treaty modifiers from vassal"
+        prestige = -10
+        remove_country_modifier = enl_vassal_treaty
+        remove_country_modifier = enl_vassal_upgrade
+        ENL = { remove_country_modifier = sud_treaty_port_active }
+        any_owned = { remove_province_modifier = sud_treaty_info }
+        any_owned = { remove_province_modifier = enl_upgrade_info }
+        set_country_flag = enl_lost_hormuz
+    }
+}
+country_event = {                                        #ENL Vassal Upgrade
+    id = 200530
+    title = "EVTNAME200530"
+    desc = "EVTDESC200530"
+    fire_only_once = yes
+
+    trigger = {
+        has_global_flag = enl_treaty_upgrade
+        tag = SUD
+        NOT = { has_global_flag = enl_treaty_sud_loss }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "cool"
+        prestige = 10
+        add_country_modifier = {
+            name = enl_vassal_upgrade
+            duration = 3650
+        }
+        2484 = {
+                add_province_modifier = {
+                    name = enl_upgrade_info
+                    duration = 3650
+                }
+        }
+    }
+}
+#
+### Whitehall - Venice
+#
+country_event = {                                       #Loss Port England
+    id = 200610
+    title = "EVTNAME200610"
+    desc = "EVTDESC200610"
+
+    trigger = {
+        has_global_flag = enl_treaty_whi_loss
+        tag = ENL
+        NOT = {
+            has_country_flag = enl_lost_whi
+        }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "I should have made them full siege me..."
+        prestige = -10
+        set_country_flag = enl_lost_whi
+    }
+}
+
+country_event = {                                       #Loss Port Vassal
+    id = 200620
+    title = "EVTNAME200610"
+    desc = "EVTDESC200610"
+
+    trigger = {
+        has_global_flag = enl_treaty_whi_loss
+        tag = WHI
+        NOT = {
+            has_country_flag = enl_lost_venice
+        }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "removes treaty modifiers from vassal"
+        prestige = -10
+        remove_country_modifier = enl_vassal_treaty
+        remove_country_modifier = enl_vassal_upgrade
+        ENL = { remove_country_modifier = whi_treaty_port_active }
+        any_owned = { remove_province_modifier = whi_treaty_info }
+        any_owned = { remove_province_modifier = enl_upgrade_info }
+        set_country_flag = enl_lost_venice
+    }
+}
+country_event = {                                        #ENL Vassal Upgrade
+    id = 200630
+    title = "EVTNAME200630"
+    desc = "EVTDESC200630"
+    fire_only_once = yes
+
+    trigger = {
+        has_global_flag = enl_treaty_upgrade
+        tag = WHI
+        NOT = { has_global_flag = enl_treaty_whi_loss }
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "cool"
+        prestige = 10
+        add_country_modifier = {
+            name = enl_vassal_upgrade
+            duration = 3650
+        }
+        471 = {
+                add_province_modifier = {
+                    name = enl_upgrade_info
+                    duration = 3650
+                }
+        }
+    }
+}
+#
+###################################################################################
+#events for china
+
+country_event = {                                        
+    id = 202011
+    title = "EVTNAME202011"
+    desc = "EVTDESC2002011"
+    fire_only_once = yes
+
+    trigger = {
+        tag = CHI
+        has_global_flag = enl_treaty_ports_consolidated
+        NOT = { has_global_flag = enl_treaty_cairo_loss}
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "ok"
+        1746 = { remove_core = TAH }
+    }
+}
+country_event = {                                        
+    id = 202012
+    title = "EVTNAME202012"
+    desc = "EVTDESC2002012"
+    fire_only_once = yes
+
+    trigger = {
+        tag = CHI
+        has_global_flag = enl_treaty_ports_consolidated
+        NOT = { has_global_flag = enl_treaty_berg_loss}
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "ok"
+        1402 = { remove_core = SEV }
+    }
+}
+country_event = {                                        
+    id = 202013
+    title = "EVTNAME202013"
+    desc = "EVTDESC2002013"
+    fire_only_once = yes
+
+    trigger = {
+        tag = CHI
+        has_global_flag = enl_treaty_ports_consolidated
+        NOT = { has_global_flag = enl_treaty_mab_loss}
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "ok"
+        502 = { remove_core = CAT }
+    }
+}
+country_event = {                                        
+    id = 202014
+    title = "EVTNAME202014"
+    desc = "EVTDESC2002014"
+    fire_only_once = yes
+
+    trigger = {
+        tag = CHI
+        has_global_flag = enl_treaty_ports_consolidated
+        NOT = { has_global_flag = enl_treaty_pem_loss}
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "ok"
+        2366 = { remove_core = IGU }
+        2366 = { remove_core = DUG }
+        2366 = { remove_core = INC }
+    }
+}
+country_event = {                                        
+    id = 202015
+    title = "EVTNAME202015"
+    desc = "EVTDESC2002015"
+    fire_only_once = yes
+
+    trigger = {
+        tag = CHI
+        has_global_flag = enl_treaty_ports_consolidated
+        NOT = { has_global_flag = enl_treaty_sud_loss}
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "ok"
+        2664 = { remove_core = PER }
+    }
+}
+country_event = {                                        
+    id = 202015
+    title = "EVTNAME202016"
+    desc = "EVTDESC2002016"
+    fire_only_once = yes
+
+    trigger = {
+        tag = CHI
+        has_global_flag = enl_treaty_ports_consolidated
+        NOT = { has_global_flag = enl_treaty_whi_loss}
+    }
+
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "ok"
+        729 = { remove_core = KAN }
+    }
+}
+###################################################################################
+#events for england
+country_event = {
+    id = 201000
+    title = "EVTNAME201000"
+    desc = "EVTDESC201000"
+    fire_only_once = yes
+
+    major = yes
+
+    trigger = {
+        has_global_flag = enl_treaty_ports_consolidated
+        tag = ENL
+        fire_only_once = yes
+    }
+
+     mean_time_to_happen = {
+        days = 1
+     }
+    
+    option = {
+        name = "Whats next?"
+        prestige = 10
+        ENL = { remove_country_modifier = lam_treaty_port_active }
+        ENL = { remove_country_modifier = ber_treaty_port_active }
+        ENL = { remove_country_modifier = mab_treaty_port_active }
+        ENL = { remove_country_modifier = pem_treaty_port_active }
+        ENL = { remove_country_modifier = sud_treaty_port_active }
+        ENL = { remove_country_modifier = whi_treaty_port_active }
+    }
+}
+
+country_event = {
+    id = 201100
+    title = "EVTNAME201100"
+    desc = "EVTDESC201100"
+    fire_only_once = yes
+
+    major = yes
+
+    trigger = {
+        has_global_flag = enl_its_jover
+        tag = ENL
+        NOT = { has_global_flag = enl_treaty_ports_consolidated}
+    }
+
+     mean_time_to_happen = {
+        days = 1
+     }
+    
+    option = {
+        name = "How could it come to this?"
+        prestige = -50
+    }
+}

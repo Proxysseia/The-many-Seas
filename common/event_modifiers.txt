@@ -2684,3 +2684,68 @@ enl_treaty_port = {
 	prestige = 0.01
 	icon = 9
 }
+
+enl_vassal_treaty = {
+	RGO_output = 0.5
+	prestige = 0.01
+	global_pop_consciousness_modifier = -0.02
+	global_pop_militancy_modifier = -0.02
+	icon = 9
+}
+
+enl_vassal_upgrade = {
+	population_growth = 0.001
+	icon =11
+}
+
+enl_upgrade_info = {
+	icon = 13
+}
+
+lam_treaty_info = {
+	icon = 5
+}
+
+lam_treaty_port_active = {
+	icon = 13
+}
+
+ber_treaty_info = {
+	icon = 5
+}
+
+ber_treaty_port_active = {
+	icon = 13
+}
+
+mab_treaty_info = {
+	icon = 5
+}
+
+mab_treaty_port_active = {
+	icon = 13
+}
+
+pem_treaty_info = {
+	icon = 5
+}
+
+pem_treaty_port_active = {
+	icon = 13
+}
+
+sud_treaty_info = {
+	icon = 5
+}
+
+sud_treaty_port_active = {
+	icon = 13
+}
+
+whi_treaty_info = {
+	icon = 5
+}
+
+whi_treaty_port_active = {
+	icon = 13
+}

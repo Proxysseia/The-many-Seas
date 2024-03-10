@@ -44,7 +44,130 @@ political_decisions = {
                     duration = -1
                 }
             }
-            set_country_flag = enl_treaty_port_system
+            set_global_flag = enl_treaty_port_system
+
+            ENL  = {
+                add_country_modifier = { 
+                    name = lam_treaty_port_active
+                    duration =  -1
+                }
+            }
+
+            ENL  = {
+                add_country_modifier = { 
+                    name = ber_treaty_port_active
+                    duration =  -1
+                }
+            }
+            ENL  = {
+                add_country_modifier = { 
+                    name = mab_treaty_port_active
+                    duration =  -1
+                }
+            }
+            ENL  = {
+                add_country_modifier = { 
+                    name = pem_treaty_port_active
+                    duration =  -1
+                }
+            }
+            ENL  = {
+                add_country_modifier = { 
+                    name = sud_treaty_port_active
+                    duration =  -1
+                }
+            }
+            ENL  = {
+                add_country_modifier = { 
+                    name = whi_treaty_port_active
+                    duration =  -1
+                }
+            }
+        }
+    }
+
+    ENL_vassal_1836_setup = {
+        potential = {
+            tag = LAM
+            always = no
+        }
+        allow = {
+            tag = LAM
+        }
+        effect = {
+            128 = {
+                add_province_modifier = {
+                    name = lam_treaty_info
+                    duration = -1
+                }
+            }
+            LAM  = {
+                add_country_modifier = { 
+                    name = enl_vassal_treaty
+                    duration =  -1
+                }
+            }
+            60 = {
+                add_province_modifier = {
+                    name = ber_treaty_info
+                    duration = -1
+                }
+            }
+            BER  = {
+                add_country_modifier = { 
+                    name = enl_vassal_treaty
+                    duration =  -1
+                }
+            }
+            742 = {
+                add_province_modifier = {
+                    name = mab_treaty_info
+                    duration = -1
+                }
+            }
+            MAB  = {
+                add_country_modifier = { 
+                    name = enl_vassal_treaty
+                    duration =  -1
+                }
+            }
+            2494 = {
+                add_province_modifier = {
+                    name = pem_treaty_info
+                    duration = -1
+                }
+            }
+            PEM  = {
+                add_country_modifier = { 
+                    name = enl_vassal_treaty
+                    duration =  -1
+                }
+            }
+            2484 = {
+                add_province_modifier = {
+                    name = sud_treaty_info
+                    duration = -1
+                }
+            }
+            SUD  = {
+                add_country_modifier = { 
+                    name = enl_vassal_treaty
+                    duration =  -1
+                }
+            }
+            471 = {
+                add_province_modifier = {
+                    name = whi_treaty_info
+                    duration = -1
+                }
+            }
+            WHI  = {
+                add_country_modifier = { 
+                    name = enl_vassal_treaty
+                    duration =  -1
+                }
+            }
+        }
         }
     }
 }

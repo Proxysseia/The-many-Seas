@@ -8,7 +8,7 @@ literacy = 0.01
 non_state_culture_literacy = 0.01
 civilized = yes
 
-
+decision = ENL_vassal_1836_setup
 
 # Political reforms
 slavery = yes_slavery
