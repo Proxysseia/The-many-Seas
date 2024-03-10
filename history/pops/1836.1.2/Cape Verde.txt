@@ -21,19 +21,19 @@
 #Ambon
 1449 = {
     aristocrats = {
-        culture = australian
+        culture = scottish
         religion = protestant
         size = 75
     }
 
     bureaucrats = {
-        culture = australian
+        culture = scottish
         religion = protestant
         size = 111
     }
 
     farmers = {
-        culture = australian
+        culture = scottish
         religion = protestant
         size = 487
     }

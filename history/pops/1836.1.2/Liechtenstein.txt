@@ -1,27 +1,9 @@
 #Liechtenstein
 1402 = {
-     aristocrats = {
-        culture = latvian
-        religion = catholic
-        size = 562
-    }
-
-    clergymen = {
-        culture = latvian
-        religion = catholic
-        size = 478
-    }
-
-    artisans = {
-        culture = latvian
-        religion = catholic
-        size = 2362
-    }
-
-    soldiers = {
-        culture = latvian
-        religion = catholic
-        size = 478
+    bureaucrats = {
+        culture = australian
+        religion = prtoestant
+        size = 700
     }
 
     farmers = {
