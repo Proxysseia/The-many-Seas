@@ -88,7 +88,6 @@ political_decisions = {
 					add_core = GRM
 					remove_core =DAN
 				}
-				annex_to = THIS
 			}
 			change_tag = GRM
 		}
