@@ -4,3 +4,5 @@ add_core = ENL
 add_core = SEV
 trade_goods = grain
 life_rating = 40
+fort = 2
+naval_base = 2

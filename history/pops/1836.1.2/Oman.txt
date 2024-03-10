@@ -397,13 +397,19 @@
     farmers = {
         culture = amhara
         religion = sunni
-        size = 27450
+        size = 37450
     }
 
     farmers = {
         culture = australian
         religion = protestant
         size = 37300
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = prtoestant
+        size = 700
     }
 }
 #Lucena-Quezon
