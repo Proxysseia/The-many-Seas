@@ -607,7 +607,9 @@ acquire_core_state_tiny = {
 	good_relation_prestige_factor = 1
 	good_relation_infamy_factor = 1
 	good_relation_militancy_factor = 1
-
+	
+	always = yes
+	
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { 
@@ -670,7 +672,9 @@ acquire_core_state_small = {
 	good_relation_prestige_factor = 1
 	good_relation_infamy_factor = 1
 	good_relation_militancy_factor = 1
-
+	
+	always = yes
+	
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { 
@@ -733,7 +737,9 @@ acquire_core_state_medium = {
 	good_relation_prestige_factor = 1
 	good_relation_infamy_factor = 1
 	good_relation_militancy_factor = 1
-
+	
+	always = yes
+	
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { 
@@ -797,6 +803,8 @@ acquire_core_state_large = {
 	good_relation_infamy_factor = 1
 	good_relation_militancy_factor = 1
 
+	always = yes
+	
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { 
@@ -860,6 +868,8 @@ acquire_core_state_huge = {
 	good_relation_infamy_factor = 1
 	good_relation_militancy_factor = 1
 
+	always = yes
+	
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { 
@@ -924,6 +934,8 @@ annex_core_country = {
 	good_relation_prestige_factor = 1
 	good_relation_infamy_factor = 1
 	good_relation_militancy_factor = 1
+
+	always = yes
 
 	can_use = {
 		NOT = { tag = LCT }
