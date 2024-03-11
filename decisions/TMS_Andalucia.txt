@@ -25,13 +25,11 @@ political_decisions = {
 			NOT = { has_country_flag = fulo_conquered }
 		}
 		allow = {
-			owns = 189
-			owns = 2573
+			FUL = { all_core = { owned_by = THIS } }
 			war = no
 		}
 		effect = {
-			FUL_2136 = { add_core = THIS }
-			FUL_2573 = { add_core = THIS }
+			FUL = { all_core = { add_core =  ALD } }
 			set_country_flag = fulo_conquered
 		}
 	}
