@@ -183,4 +183,117 @@ political_decisions = {
             clr_global_flag = enl_treaty_port_system
         }
     }
+    enl_integrate_lam = {
+        picture = end_the_merina_monarchy
+        potential = {
+            tag = ENL
+			LAM = { is_core = 128}
+        }
+        allow = {
+			naval_statistics = 1
+			war = no
+        }
+        effect = {
+            prestige = 10
+			LAM = { annex_to = THIS }
+			LAM = { all_core = { add_core =  ENL } }
+			LAM = { all_core = { remove_core =  LAM } }	
+            ENL = { remove_country_modifier = lam_treaty_port_active }
+        }
+    }
+
+    enl_integrate_ber = {
+        picture = crown_empress_of_india
+        potential = {
+            tag = ENL
+			BER = { is_core = 60 }
+        }
+        allow = {
+			cheap_steel = 1
+			war = no
+        }
+        effect = {
+            prestige = 10
+			BER = { annex_to = THIS }
+			BER = { all_core = { add_core =  ENL } }
+			BER = { all_core = { remove_core =  BER } }	
+            ENL = { remove_country_modifier = ber_treaty_port_active }
+        }
+    }
+
+    enl_integrate_mab = {
+        picture = call_geneva_convention
+        potential = {
+            tag = ENL
+			MAB = { is_core = 742 }
+        }
+        allow = {
+			point_defense_system = 1
+			war = no
+        }
+        effect = {
+            prestige = 10
+			MAB = { annex_to = THIS }
+			MAB = { all_core = { add_core =  ENL } }
+			MAB = { all_core = { remove_core =  MAB } }	
+            ENL = { remove_country_modifier = mab_treaty_port_active }
+        }
+    }
+
+    enl_integrate_pem = {
+        picture = enact_female_suffrage
+        potential = {
+            tag = ENL
+			PEM = { is_core = 2494 }
+        }
+        allow = {
+			scientific_management = 1
+			war = no
+        }
+        effect = {
+            prestige = 10
+			PEM = { annex_to = THIS }
+			PEM = { all_core = { add_core =  ENL } }
+			PEM = { all_core = { remove_core =  PEM } }	
+            ENL = { remove_country_modifier = pem_treaty_port_active }
+        }
+    }
+
+    enl_integrate_sud = {
+        picture = wilmot_proviso
+        potential = {
+            tag = ENL
+			SUD = { is_core = 2484 }
+        }
+        allow = {
+			empiricism = 1
+			war = no
+        }
+        effect = {
+            prestige = 10
+			SUD = { annex_to = THIS }
+			SUD = { all_core = { add_core =  ENL } }
+			SUD = { all_core = { remove_core =  SUD } }	
+            ENL = { remove_country_modifier = sud_treaty_port_active }
+        }
+    }
+
+    enl_integrate_whi = {
+        picture = protect_eastern_christians
+        potential = {
+            tag = ENL
+			WHI = { is_core = 471 }
+        }
+        allow = {
+			semi_automatization = 1
+			war = no
+        }
+        effect = {
+            prestige = 10
+			WHI = { annex_to = THIS }
+			WHI = { all_core = { add_core =  ENL } }
+			WHI = { all_core = { remove_core =  WHI } }	
+            ENL = { remove_country_modifier = whi_treaty_port_active }
+        }
+    }
 }

@@ -8,6 +8,7 @@ political_decisions = {
             tag = ENL
         }
         effect = {
+            2664 = { change_province_name = "Hormuz-Sudenely Port"}
             1746 = {
                 add_province_modifier = {
                     name = enl_treaty_port
