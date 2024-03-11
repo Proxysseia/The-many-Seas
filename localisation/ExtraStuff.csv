@@ -1,5 +1,5 @@
 ;;;;;;;;;;;;;;x,,,
-UNIT_BUILD_TIME_IW;$VAL$ days.;$VAL$ jours.;$VAL$ Tage.;;$VAL$ días.;;;;;;;;;x;
+UNIT_BUILD_TIME_IW;$VAL$ days.;$VAL$ jours.;$VAL$ Tage.;;$VAL$ dï¿½as.;;;;;;;;;x;
 war_reparations;Reparations;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,;;;;;;;;;;;;;;;;;;;;;
 war_reparations_desc;Demands war reparations;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,;;;;;;;;;;;;;;;;;;;;;
 war_reparations_short;Demand Reparations;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,;;;;;;;;;;;;;;;;;;;;;
@@ -26,26 +26,6 @@ negotiating_unequal_treaty;Unequal Treaty;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;
 negotiating_unequal_treaty_desc;We have lost a war and like vultures, the westerners descended upon us imposing their conditions including the opening of our country, monetary reparations and even the secession of territory.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 negotiating_treaty;Negotiating Treaty;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 negotiating_treaty_desc;Our diplomats are negotiating a treaty with a defeated nation.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-ningbo_treaty_port_title;The Ningbo Treaty Port;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-ningbo_treaty_port_desc;Ningbo is one of China's oldest cities, with a history dating to the Hemudu culture in 4800 BC. Ningbo was known as a trade city on the silk road at least two thousand years ago, and then as a major port, along with Yangzhou and Guangzhou in the Tang Dynasty, thereafter, the major ports for foreign trade in the Song Dynasty. A walled city sandwiched between the ocean and low-lying mountains to the southwest, with coastal plain and valleys in between, it plays an important role in controlling the important peninsulas of Chuanshan and Xiangshan Peninsula. During the Ming and Qing Dynasties, the textile industry flourished in Ningbo.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-hainan_treaty_port_title;The Hainan Treaty Port;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-hainan_treaty_port_desc;The city of Zhuya (Shore of Pearls), name for the famous pearl fisheries of the region, now known as Qiongshan is an important stop to Shanghai and Formosa. Controlling it would give control over all of Hainan and would make an important coaling station.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-taipei_treaty_port_title;The Taiwan Concession;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-taipei_treaty_port_desc;The Taipei area is where the major Han Chinese settlements in northern Taiwan and one of the designated overseas trade ports, Tamsui, are located. The area gained economic importance due to the booming overseas trade, especially that of tea export. Controlling it would mean controlling Taiwan and a good amount of the tea trade.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-jiaxing_treaty_port_title;The Jiaxing Treaty Port;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-jiaxing_treaty_port_desc;Jiaxing is well known as the 'hometown of silk' and it's a famous producer of textiles and woolens. While not being as important as neighboring Shanghai, its acquisition would surely help our textile industry.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-weihaiwei_treaty_port_title;The Weihaiwei Treaty Port;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-weihaiwei_treaty_port_desc;The port of Weihaiwei serves as the base for the Beiyang Fleet (Northern Seas Fleet) for the Qing Dynasty. Along with Lüshun, it provides a strategic point for the control of the Korea Bay and the Bohai Gulf. Controlling it would put our fleets at the door of the imperial capital of China.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-lushun_treaty_port_title;The Lüshun Treaty Port;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-lushun_treaty_port_desc;Sprawling around the narrowest neck of the Liaodong Peninsula, occupying the Southern Tip, Lüshun, also known as Port Arthur, is in a crucial point. It guards the entrance the Imperial Capital of China and the Bohai Sea. Controlling it would provide a strategical hold on the Bohai Gulf and the Korean Bay.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-qingdao_treaty_port_title;The Qingdao Treaty Port;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-qingdao_treaty_port_desc;Qingdao is a sleepy fishing town undergoing dramatic changes - a naval station and garrisons were built by the rulers of the Qing dynasty and the increasing presence of western ships is increasing its importance. It would be an splendid gateway to northern China.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-shanghai_treaty_port_title;The Shanghai Treaty Port;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-shanghai_treaty_port_desc;For centuries a major administrative, shipping, and trading town, Shanghai grew in importance in the 19th century due to European recognition of its favorable port location and economic potential. This potential can be fully realized under $COUNTRY_ADJ$ administration.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-hong_kong_treaty_port_title;The Hong Kong Treaty Port;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-hong_kong_treaty_port_desc;China is the main supplier of its native tea to Europe, whose annual domestic consumption reached 30,046,935 pounds (13,629,060 kg) in 1830, an average of 1.036 pounds (0.470 kg) per head of population. From the $COUNTRY_ADJ$ economic standpoint, Chinese tea was a crucial item since it provides massive wealth for the taipans — foreign (especially $COUNTRY_ADJ$) businessmen in China — while the duty on tea accounted for 10% of the government's income. With a base in Hong Kong our tea and opium trade will profit immensely and the city will, without a doubt, bring us a lot of profit.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-macao_treaty_port_title;The Macao Treaty Port;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-macao_treaty_port_desc;Macao lies on the western side of the Pearl River Delta across from Hong Kong. If we are to access the riches of Guangdong and the south of China, controlling Macao would be a good start.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 EVTNAME90954;The $PROVINCENAME$ Treaty Port;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
 EVTDESC90954;In this part are the ten main markets, though besides these there are a vast number of others in the different parts of town. They are all squares of half a mile to the side, and along their front passes the main street, which is 40 paces in width, and runs straight from end to end of the city, crossing many bridges. At every four miles of its length comes one of those great squares of two miles in compass. In each of the squares is held a market three days a week, frequented by 40,000 or 50,000 persons, who bring there for sale every possible necessity of life. All the ten market places are encompassed by lofty houses, and below these shops is where all sorts of crafts are carried on, and all sorts of wares are on sale, including spices, jewels and pearls. \n $PROVINCENAME$ is bustling with traders, merchants buy and sell opium, making fortunes, and traders from all over China come to trade, bringing  their servants and laborers to run shops or carry goods.;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
 EVTOPTA90954;Excellent.;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;
@@ -148,7 +128,7 @@ abandon_the_french_title;Drop our Claims on France;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 abandon_the_french_desc;We currently have claims on areas of french culture, however this has put our independence at risk as France sees us as a threat, prehaps we should relinquish our claims on France? ;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 demand_concession_capital;Demand Capital Concession;;;;;;;;;;;;;
 demand_concession_capital_short;Demand $STATE$;;;;;;;;;;;;;
-demand_concession_capital_desc;Force an §Yuncivilized country§W to secede their capital to form a colonial concession.;;;;;;;;;;;;;
+demand_concession_capital_desc;Force an ï¿½Yuncivilized countryï¿½W to secede their capital to form a colonial concession.;;;;;;;;;;;;;
 demand_concession_capital_setup;Demand that $RECIPIENT$ secede their capital to form a colonial concession.;;;;;;;;;;;;;
 gtfo_AST_switch_title;Play Australia;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 gtfo_AST_switch_desc;Clicking this decision will change the country you are playing to Australia for the person clicking the decision.;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
@@ -164,9 +144,9 @@ demote_crafts_title;Demote All Unaccepted Craftsmen and Clerks;;;;;;;;;;;;;x
 demote_crafts_desc;Using this decision will demote all unaccepted craftsmen and clerks on your own cores, to make way for your own accepted pop crafts..;;;;;;;;;;;;;x
 PROV3249;Eastern Baltic Sea;x
 UTI;Utility Tag;Utility Tag;Utility Tag;;Utility Tag;;;;;;;;;x;;;;
-canal_notification;§CCanal Control§!;;;;;;;;;;;;;
-land_crossing_notification;§CNon-Blockadeable Strait§!;;;;;;;;;;;;;
-sea_crossing_notification;§CBlockadeable Strait§!;;;;;;;;;;;;;
+canal_notification;ï¿½CCanal Controlï¿½!;;;;;;;;;;;;;
+land_crossing_notification;ï¿½CNon-Blockadeable Straitï¿½!;;;;;;;;;;;;;
+sea_crossing_notification;ï¿½CBlockadeable Straitï¿½!;;;;;;;;;;;;;
 seperate_truce;Seperate Peace Truce;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,;;;;;;;;;;;;;;;;;;;;;
 seperate_truce_desc;Adds a normal truce on the target on seperate peace;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,;;;;;;;;;;;;;;;;;;;;;
 seperate_truce_short;Seperate Peace Truce;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,;;;;;;;;;;;;;;;;;;;;;
@@ -193,11 +173,11 @@ PROV3254;Eastern Istanbul Strait;x
 PROV3255;Northern Gallipoli Strait;x
 PROV3256;Southern Gallipoli Strait;x
 PROV3257;Fyn Strait;x
-make_puppet_small;Make small puppet;Créer un pays satellite;Erschafft eine Marionette;;;;;;;;;;;x
+make_puppet_small;Make small puppet;Crï¿½er un pays satellite;Erschafft eine Marionette;;;;;;;;;;;x
 make_puppet_small_short;$RECIPIENT$ becomes a puppet of $ACTOR$;$RECIPIENT$ devient satellite de $ACTOR$;$RECIPIENT$ wird eine Marionette von $ACTOR$;;;;;;;;;;;x
 make_puppet_small_setup;$RECIPIENT$ becomes a puppet of $ACTOR$;$RECIPIENT$ devient satellite de $ACTOR$;$RECIPIENT$ wird eine Marionette von $ACTOR$;;;;;;;;;;;x
 make_puppet_small_desc;Become a puppet;Devenir un satellite;Werdet eine Marionette;;;;;;;;;;;x
-make_puppet_large;Make large puppet;Créer un pays satellite;Erschafft eine Marionette;;;;;;;;;;;x
+make_puppet_large;Make large puppet;Crï¿½er un pays satellite;Erschafft eine Marionette;;;;;;;;;;;x
 make_puppet_large_short;$RECIPIENT$ becomes a puppet of $ACTOR$;$RECIPIENT$ devient satellite de $ACTOR$;$RECIPIENT$ wird eine Marionette von $ACTOR$;;;;;;;;;;;x
 make_puppet_large_setup;$RECIPIENT$ becomes a puppet of $ACTOR$;$RECIPIENT$ devient satellite de $ACTOR$;$RECIPIENT$ wird eine Marionette von $ACTOR$;;;;;;;;;;;x
 make_puppet_large_desc;Become a puppet;Devenir un satellite;Werdet eine Marionette;;;;;;;;;;;x
@@ -288,18 +268,18 @@ machine_politics;Corruption;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 rotten_boroughs;Underfunded Intitutions;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 desc_machine_politics;Low level petty corruption and bribery of public officals is common in this province, lowering productivity.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 desc_rotten_boroughs;Underfunded Intitutions means it is harder for citizens and business owners to access public institutions without being politically connected or rich.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-trinket_subsidies_desc;Very low unemployment subsidies. \n§RYou must fund social spending at least 70% to get the rest of the immigration attraction bonus.§W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-low_subsidies_desc;Low unemployment subsidies. \n§RYou must fund social spending at least 70% to get the rest of the immigration attraction bonus.§W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-acceptable_subsidies_desc;Extended unemployment subsidies. \n§RYou must fund social spending at least 70% to get the rest of the immigration attraction bonus.§W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-good_subsidies_desc;Generous unemployment subsidies. \n§RYou must fund social spending at least 70% to get the rest of the immigration attraction bonus.§W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-trinket_pensions_desc;Very low state pensions. \n§RYou must fund social spending at least 70% to get the rest of the immigration attraction bonus.§W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-low_pensions_desc;Low state pensions. \n§RYou must fund social spending at least 70% to get the rest of the immigration attraction bonus.§W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-acceptable_pensions_desc;Acceptable state pensions. \n§RYou must fund social spending at least 70% to get the rest of the immigration attraction bonus.§W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-good_pensions_desc;High state pensions. \n§RYou must fund social spending at least 70% to get the rest of the immigration attraction bonus.§W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-low_schools_desc;Public Schools are uncommon. \n§RYou must fund admin spending at least 50% to get the rest of the education bonus.§W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-acceptable_schools_desc;Public Schools are common. \n§RYou must fund admin spending at least 50% to get the rest of the education bonus.§W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-good_schools_desc;There are really a lot of Public Schools. \n§RYou must fund admin spending at least 50% to get the rest of the education bonus.§W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-good_health_care_desc;High quality public healthcare. \n§RYou must fund admin spending at least 50% to get the rest of the popgrowth bonus.§W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+trinket_subsidies_desc;Very low unemployment subsidies. \nï¿½RYou must fund social spending at least 70% to get the rest of the immigration attraction bonus.ï¿½W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+low_subsidies_desc;Low unemployment subsidies. \nï¿½RYou must fund social spending at least 70% to get the rest of the immigration attraction bonus.ï¿½W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+acceptable_subsidies_desc;Extended unemployment subsidies. \nï¿½RYou must fund social spending at least 70% to get the rest of the immigration attraction bonus.ï¿½W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+good_subsidies_desc;Generous unemployment subsidies. \nï¿½RYou must fund social spending at least 70% to get the rest of the immigration attraction bonus.ï¿½W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+trinket_pensions_desc;Very low state pensions. \nï¿½RYou must fund social spending at least 70% to get the rest of the immigration attraction bonus.ï¿½W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+low_pensions_desc;Low state pensions. \nï¿½RYou must fund social spending at least 70% to get the rest of the immigration attraction bonus.ï¿½W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+acceptable_pensions_desc;Acceptable state pensions. \nï¿½RYou must fund social spending at least 70% to get the rest of the immigration attraction bonus.ï¿½W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+good_pensions_desc;High state pensions. \nï¿½RYou must fund social spending at least 70% to get the rest of the immigration attraction bonus.ï¿½W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+low_schools_desc;Public Schools are uncommon. \nï¿½RYou must fund admin spending at least 50% to get the rest of the education bonus.ï¿½W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+acceptable_schools_desc;Public Schools are common. \nï¿½RYou must fund admin spending at least 50% to get the rest of the education bonus.ï¿½W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+good_schools_desc;There are really a lot of Public Schools. \nï¿½RYou must fund admin spending at least 50% to get the rest of the education bonus.ï¿½W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+good_health_care_desc;High quality public healthcare. \nï¿½RYou must fund admin spending at least 50% to get the rest of the popgrowth bonus.ï¿½W;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 unemployment_subsidy_1;Funded Unemployment Subsidies;;;;;;;;;;;;;
 unemployment_subsidy_2;Funded Unemployment Subsidies;;;;;;;;;;;;;
 unemployment_subsidy_3;Funded Unemployment Subsidies;;;;;;;;;;;;;
@@ -313,6 +293,6 @@ schools_2;Funded School System;;;;;;;;;;;;;
 schools_3;Funded School System;;;;;;;;;;;;;
 good_HC;Funded Good Healthcare;;;;;;;;;;;;;
 authorize_gas_warfare_title;Authorize Chemical Warfare;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-authorize_gas_warfare_desc;New discoveries and inventions has allowed us to produce chemical weapons for the battlefield, at a cost. \n§RTaking this decision will enable Gas Attack which gives a +1 roll to every battle, but increases land supply costs by 50%, and cannot be undone.§W;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+authorize_gas_warfare_desc;New discoveries and inventions has allowed us to produce chemical weapons for the battlefield, at a cost. \nï¿½RTaking this decision will enable Gas Attack which gives a +1 roll to every battle, but increases land supply costs by 50%, and cannot be undone.ï¿½W;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 JAP_1640;Chugoku;Chugoku;Chugoku;;Chugoku;;;;;;;;;x;
 JAP_1667;Shikoku;Shikoku;Shikoku;;Shikoku;;;;;;;;;x;

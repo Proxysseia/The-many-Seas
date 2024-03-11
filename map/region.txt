@@ -705,9 +705,9 @@ CHI_1485 = { 2681 2562 1678 2525 } #Formosa
 
 CHI_1490 = { 1489 1492 } #Gansu
 
-CHI_1493 = { 1494 1497 1500 2406 } #East Canton
+CHI_1493 = { 1494 1500 2406 } #East Canton
 
-CHI_1499 = { 1495 1501 1493 1496 2632 1499 } #West Canton
+CHI_1499 = { 1495 1501 1493 1499 } #West Canton
 
 CHI_1504 = { 1502 1503 1504 } #Guangxi
 
@@ -735,7 +735,7 @@ CHI_1557 = { 1557 1558 1556 } #Kokonor/Qinghai
 
 CHI_1559 = { 1559 1561 1562 2062 } #Shaanxi
 
-CHI_1563 = { 1563 1564 1568 1571 1567 } #West Shandong
+CHI_1563 = { 1568 1571 1567 } #West Shandong
 
 CHI_1565 = { 1565 1569 } #East Shandong
 
@@ -751,7 +751,7 @@ CHI_1600 = { 1600 1595 1596 1186 1188 } #Urumqui
 
 CHI_1601 = { 1601 1602 1603 } #Yunnan
 
-CHI_1604 = { 1604 1608 1609 1610 1607 } #North Zhejiang
+CHI_1604 = { 1604 1609 1610 1607 } #North Zhejiang
 
 CHI_1610 = { 1611 1482 1483 } #South Zhejiang
 
@@ -759,13 +759,13 @@ CHI_1612 = { 1612 1614 1615 1618 1542 1515 } #Baoding
 
 CHI_1616 = { 1480 1613 1616 1617} #Peking
 
-CHI_1540 = { 1543 2221 1605 1539 1475 } #Hei
+CHI_1540 = { 1543 2221 1605 1475 } #Hei
 
-CHI_1477 = { 1477 1474 1476 1544 1470 1471 } #North Anhui
+CHI_1477 = { 1477 1474 1476 1470 1471 } #North Anhui
 
 JUC_1536 = { 1536 1526 1528 1524 } #Ju
 
-RYU_1679 = { 1679 1516 1522 1472 1549 1514 1538 } #Bandao
+RYU_1679 = { 1679 1516 1549 1514 1538 } #Bandao
 
 RYU_1537 = { 1537 1518 } #Didi
 
@@ -1204,6 +1204,19 @@ TON_2540 = { 2540 2545 2546 } #Tonga
 USA_2543 = { 2543 2547 } #Samoa Islands
  
 FRA_801 = { 801 2553 } #Tahiti
+
+### Treaty Ports China
+
+TRT_1 = { 2632 } #Kwangchowang
+TRT_2 = { 1539 } #Suzhou
+TRT_3 = { 1496 } #honk kong
+TRT_4 = { 1522 } #wuchang 
+TRT_5 = { 1472 } #fengyang
+TRT_6 = { 1544 } #zhenjiang
+TRT_7 = { 1608 } #ningbo
+TRT_8 = { 1563 } #jinan
+TRT_9 = { 1564 } #caozhou
+TRT_10 = { 1497} #huizhou
 
 ### Util
 

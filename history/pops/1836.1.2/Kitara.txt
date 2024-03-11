@@ -425,7 +425,7 @@
     farmers = {
         culture = mongo
         religion = sunni
-        size = 5520
+        size = 45520
     }
 }
 #Faya
@@ -463,7 +463,7 @@
     farmers = {
         culture = mongo
         religion = sunni
-        size = 44320
+        size = 84320
     }
 }
 #Ulundi
