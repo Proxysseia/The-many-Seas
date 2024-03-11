@@ -39,6 +39,8 @@
 
 # Order that CBs are executed in a peace treaty
 peace_order = { 
+great_baden_war
+krd_hegemony
 add_to_sphere 
 take_from_sphere 
 status_quo 
@@ -100,7 +102,141 @@ conquest_low
 acquire_treaty_port
 negotiated_transfer
 }
+great_baden_war = {
+    sprite_index = 15
+    is_triggered_only = yes
+    months = 12
+    constructing_cb = no
+    crisis = no
 
+    badboy_factor = 2.2
+    prestige_factor = 1
+    peace_cost_factor = 3
+    penalty_factor = 1
+
+    break_truce_prestige_factor = 1
+    break_truce_infamy_factor = 1
+    break_truce_militancy_factor = 1
+    truce_months = 60
+
+    good_relation_prestige_factor = 1
+    good_relation_infamy_factor = 1
+    good_relation_militancy_factor = 1
+
+
+    # THIS - us
+    # FROM - country scope is possible match?
+    # war target country of goal is scope
+    allowed_countries = {
+        number_of_states = 2
+        NOT = {
+            tag = FROM
+            this_culture_union = FROM
+        }
+        from = {
+            OR = {
+                exists = yes
+                NOT = {
+                        OR = {
+                            tag = GER
+                            tag = SCA
+                            tag = ITA
+                            #tag = ROM # TODO: shoudl we let the rest be liberated too?
+                            tag = CZH
+                        }
+                    }
+                }
+            FROM = {tag = BAD}
+            }
+
+        any_owned_province = {
+            is_core = FROM
+            NOT =
+            {
+                is_core = THIS
+            }
+        }
+        is_releasable_vassal = FROM
+    }
+
+    # THIS - us
+    # FROM - country scope is possible match?
+    # war target country of goal's state
+    allowed_states = {
+        any_owned_province = {
+            is_core = FROM
+        }
+    }
+    all_allowed_states = yes
+    po_transfer_provinces = yes
+
+    war_name = WAR_LIBERATE_NAME
+
+    on_add = {
+        move_issue_percentage = { 
+            from = jingoism 
+            to = pro_military
+            value = 0.25
+        }
+    }
+}
+krd_hegemony = {
+    sprite_index = 8
+    is_triggered_only = yes
+    months = 12
+
+    badboy_factor = 5
+    prestige_factor = 1
+    peace_cost_factor = 50
+    penalty_factor = 1
+
+    break_truce_prestige_factor = 1
+    break_truce_infamy_factor = 1
+    break_truce_militancy_factor = 1
+    truce_months = 60
+
+    good_relation_prestige_factor = 1
+    good_relation_infamy_factor = 1
+    good_relation_militancy_factor = 1
+
+    po_remove_prestige = yes
+
+    war_name = WAR_NAME
+
+    can_use = {
+        NOT = { is_our_vassal = THIS }
+        THIS = {  OR = {
+            tag = PER 
+            tag = TUR 
+            tag = TAH
+            }
+        }
+        NOT = { has_country_flag = kurds_kerfuffled}
+        KRD = {
+            all_core = {
+                owned_by = THIS 
+            }
+        }
+        OR = {
+            tag = PER 
+            tag = TUR 
+            tag = TAH
+            }
+    }
+
+    on_add = {
+        move_issue_percentage = { 
+            from = jingoism 
+            to = pro_military
+            value = 0.25
+        }
+    }
+
+    on_po_accepted = {
+        set_country_flag = kurds_kerfuffled
+        clr_country_flag = the_kurdish_kerfuffle
+    }
+}
 gunboat = {
 	sprite_index = 1
 	is_triggered_only = yes
