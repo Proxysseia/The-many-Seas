@@ -17,15 +17,7 @@ political_decisions = {
 		effect = { set_country_flag = ts_change }
 		
 		ai_will_do = { 
-			factor = 1
-			
-			modifier = {
-				factor = 0
-				OR = {
-					is_culture_group = east_asian
-					substate_of = CHI
-				}
-			}
+			factor = 0
 		}
 	}
 

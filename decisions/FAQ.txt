@@ -1,0 +1,61 @@
+political_decisions = {
+	ENL_FAQ = { 
+	alert = no 
+	picture = vassal_payment
+	potential = { 
+	tag = ENL 
+	}
+
+	allow = { 
+	year = 1836
+		}
+
+	effect = { 
+	country_event = 145010
+		}
+
+	ai_will_do = {
+				factor = 0
+			}	
+	}
+
+	KRD_FAQ = { 
+	alert = no 
+	picture = vassal_payment
+	potential = {
+		has_country_flag = the_kurdish_kerfuffle
+	}
+
+	allow = { 
+	year = 1836
+		}
+
+	effect = { 
+	country_event = 145020
+		}
+
+	ai_will_do = {
+				factor = 0
+			}	
+	}
+
+	LAKE_FAQ = { 
+	alert = no 
+	picture = vassal_payment
+	potential = {
+		has_country_flag = african_great_lakes
+	}
+
+	allow = { 
+	year = 1836
+		}
+
+	effect = { 
+	country_event = 145030
+		}
+
+	ai_will_do = {
+				factor = 0
+			}	
+	}
+}

@@ -1,0 +1,35 @@
+country_event = { 
+	id = 145010
+	title = "ENLFAQTITLE"
+	desc = "ENLFAQDESC"
+
+	is_triggered_only = yes
+
+	option = { 
+	name = "Interesting ..."
+	}
+}
+
+country_event = { 
+	id = 145020
+	title = "KRDFAQTITLE"
+	desc = "KRDFAQDESC"
+
+	is_triggered_only = yes
+
+	option = { 
+	name = "Interesting ..."
+	}
+}
+
+country_event = { 
+	id = 145030
+	title = "LAKEFAQTITLE"
+	desc = "LAKEFAQDESC"
+
+	is_triggered_only = yes
+
+	option = { 
+	name = "Interesting ..."
+	}
+}
