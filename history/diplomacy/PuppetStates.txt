@@ -27,6 +27,12 @@ substate = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+substate = {
+	first = CHI
+	second = MCH
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
 #######################
 #        INDIA        #
 #######################
