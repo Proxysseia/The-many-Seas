@@ -1,12 +1,11 @@
 political_decisions = {
-	
+	#zord decision: fascist ah names, hits enter after every bracket
 	Reclaim_Ancestral_Homelands = {
-		
+		picture = annals_of_the_fulani_jihad
 		potential = {
 			tag = ROM
 			MAC = { is_core = 821 }
-		}
-		
+		}	
 		allow = {
 			war = no
 			state_n_government = 1
@@ -35,31 +34,23 @@ political_decisions = {
 						}
 					}
 				}
-			}
-		
+			}	
 		}
-
 		effect = {
 			prestige = 20
-
 			MAC = { annex_to = THIS }
 			ATT = { annex_to = THIS }
 			MAC = { all_core = { add_core =  ROM } }
 			MAC = { all_core = { remove_core =  MAC } }
 			ATT = { all_core = { add_core =  ROM } }
 			ATT = { all_core = { remove_core =  ATT } }
-			
 			add_accepted_culture = greek
-
-			860 = { add_core = ROM }
-			
-			
+			860 = { add_core = ROM }	
 		}
 	}
-	
 
 	Reunite_the_Orthodox_Empire = {
-	
+		picture = enact_dual_monarchy
 		potential = {
 			tag = ROM
 		}	
@@ -92,36 +83,43 @@ political_decisions = {
 						}
 					}
 				}
-			}
-		
+			}	
 		}
 
 		effect = {
 			prestige = 20
-
 			change_tag = IRO
-
 			ALB = { annex_to = THIS }
 			ALB = { all_core = { add_core =  IRO } }
 			ALB = { all_core = { remove_core =  ALB } }
-
 			MON = { annex_to = THIS }
 			MON = { all_core = { add_core =  IRO } }
 			MON = { all_core = { remove_core =  MON } }
-
 			ROM = { all_core = { add_core =  IRO } }
 			ROM = { all_core = { remove_core =  ROM } }
-
 			794 = { add_core = IRO }
 			795 = { add_core = IRO }
 			796 = { add_core = IRO }
 			797 = { add_core = IRO }
-
-
 			add_accepted_culture = albanian
 			add_accepted_culture = serb
-			
 		}
+	}
+
+	Demand_Return_of_Rome = {		#real
+		picture = the_vega_expedition
+			potential = {
+					tag = IRO
+				}
+				allow = {
+					war = no
+					}
+				effect = {
+					IRO = { add_core = 749 }
+					badboy = 15
+					
+			}
+	}
 }
 
 #Eastern_Dominion = {
@@ -153,18 +151,4 @@ political_decisions = {
 #					CRI = { all_core = { remove_core =  CRI } }
 #					DAG = { all_core = { add_core = IRO } }
 #					}
-				}
-Demand_Return_of_Rome = {
-			potential = {
-					tag = IRO
-				}
-				allow = {
-					war = no
-					}
-				effect = {
-					
-					IRO = { add_core = 749 }
-					badboy = 15
-					
-			}
-}
+#				}

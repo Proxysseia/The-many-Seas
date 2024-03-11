@@ -1,8 +1,4 @@
 ;;;;;;;;;;;;;;x,,,
-dugu_accept_janeiran_title;Manifest Destiny;;;;;;;;;;;;;x
-dugu_accept_janeiran_desc;war war war war war;;;;;;;;;;;;;x
-inca_accept_janeiran_title;Counter-Manifest Destiny;;;;;;;;;;;;;x
-inca_accept_janeiran_desc;war war war war war war war war war war;;;;;;;;;;;;;x
 rgo_changes_on_title;Change RGO Options (Hidden);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 rgo_changes_on_desc;Show Change RGO Options;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 rgo_changes_off_title;Change RGO Options (Showing);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -88,11 +84,11 @@ andalucia_conquer_fulo_title;Protect Fulo;;;;;;;;;;;;;;x
 andalucia_conquer_fulo_desc;Our kin in Fulo yearn for our protection. So we should grant it.;;;;;;;;;;;;;;x
 andalucia_accept_maghrebi_title;Stop legal discrimination of the Maghrebi.;;;;;;;;;;;;;;x
 andalucia_accept_maghrebi_desc; ;;;;;;;;;;;;;;x
-accept_small_celts_title;Encourage celtic Communities;;;;;;;;;;;;;;x
+accept_small_celts_title;Encourage Celtic Communities;;;;;;;;;;;;;;x
 accept_small_celts_desc;The Breton and Welsh peoples will be granted equal rights under our great nation!;;;;;;;;;;;;;;x
 accept_medium_celts_title;Cease persecution of the Irish;;;;;;;;;;;;;;x
 accept_medium_celts_desc; ;;;;;;;;;;;;;;x
-secure_iberian_coast_title;Secure the iberian Coast;;;;;;;;;;;;;;x
+secure_iberian_coast_title;Secure the Iberian Coast;;;;;;;;;;;;;;x
 secure_iberian_coast_desc;We need to expan our foothold in Iberia if we are ever to be truly secure.;;;;;;;;;;;;;;x
 annex_catalonia_title;Defend Catalonia!;;;;;;;;;;;;;;x
 annex_catalonia_desc;With the rising andalucian influence in Iberia we need to defend our brothers in Catalonia by taking them under our wing.;;;;;;;;;;;;;;x
@@ -100,7 +96,7 @@ rule_the_seas_title;Secure the Indian Ocean;;;;;;;;;;;;;;x
 rule_the_seas_desc;If we are able to control Yemen then the arabian trade to India has to go through us.;;;;;;;;;;;;;;x
 rule_the_indians_title;Rule the Indians;;;;;;;;;;;;;;x
 rule_the_indians_desc;India will be declared the crown jewel of our empire.;;;;;;;;;;;;;;x
-claim_Italy_title;Claim North Italy;;;;;;;;;;;;;;x
+claim_Italy_title;Claim Northern Italy;;;;;;;;;;;;;;x
 claim_Italy_desc;We really are the rightful rulers of atleast northern Italy. It is time everyone recognizes this.;;;;;;;;;;;;;;x
 Avante_Helvetica_title;Avante Helvetica!;;;;;;;;;;;;;;x
 Avante_Helvetica_desc;The swiss and the italians have always been one people. Today our dream of a unified nation-state is realised.;;;;;;;;;;;;;;x
@@ -120,11 +116,53 @@ increase_assim_russia_title;Show them the new Russia!;;;;;;;;;;;;;;x
 increase_assim_russia_desc;Increases Assimilation of russian pops to our culture. Remember that Assimilation requires a province to be stated.;;;;;;;;;;;;;;x
 big_russia_map_title;This is our island;;;;;;;;;;;;;;x
 big_russia_map_desc;We have reestablished control over our home Island. The only question that remains is: "who can stop us from continuing the march west?;;;;;;;;;;;;;;x
-Germanja_is_ours_title;Secure the bairisch!;;;;;;;;;;;;;;x
-Germanja_is_ours_desc;The bairisch are not the same as the other so called germans beyond the alps. They can be integrated into our country.;;;;;;;;;;;;;;x
+Germanja_is_ours_title;Secure the Bairisch!;;;;;;;;;;;;;;x
+Germanja_is_ours_desc;The bairisch are not the same as the other so called germans beyond the Alps. They can be integrated into our country.;;;;;;;;;;;;;;x
 Our_Northern_Brothers_title;Centralise Hanover;;;;;;;;;;;;;;x
 Our_Northern_Brothers_desc;The Hanoveran state has served its purpose. Its time to integrate them into Lavland proper.;;;;;;;;;;;;;;x
-Finish_northern_Integration_desc;Finish northern integration;;;;;;;;;;;;;;x
-Finish_northern_Integration_title;The Scandinavian threat is as strong as ever. We need to stand united with the flanish people to defend ourselves.;;;;;;;;;;;;;;x
+Finish_northern_Integration_title;Finish northern integration;;;;;;;;;;;;;;x
+Finish_northern_Integration_desc;The Scandinavian threat is as strong as ever. We need to stand united with the flanish people to defend ourselves.;;;;;;;;;;;;;;x
 Cleanse_Arlsas_title;Cleanse Arlsas;;;;;;;;;;;;;;x
 Cleanse_Arlsas_desc;Now that we own Alsace, it is time to make sure the proper people are living it it.;;;;;;;;;;;;;;x
+luba_accept_herero_title;Show them civilisation!;;;;;;;;;;;;;;x
+luba_accept_herero_desc;The herero to the south of us have for too long lived in mud huts without proper sanitation. It is time for us to show them what a civilised society looks like.;;;;;;;;;;;;;;x
+dominion_over_xhosa_title;Stop Xhosa raids!;;;;;;;;;;;;;;x
+dominion_over_xhosa_desc;The Xhosa have too long been a thorn in our side. Now we have the strength to pacify the region forever.;;;;;;;;;;;;;;x
+conquer_the_cape_title;Drive out the foreigners!;;;;;;;;;;;;;;x
+conquer_the_cape_desc;For too long have the Tswana people of the Cape been opressed by foreign masters. It's high time we liberate them.;;;;;;;;;;;;;;x
+expand_north_title;Protect Kanem;;;;;;;;;;;;;;x
+expand_north_desc;The Kanem Empire as long since ceased to be one. They need protection from foreign influence. We will grant it.;;;;;;;;;;;;;;x
+persia_question_nomadic_sovereignty_title;Question nomadic sovereignty.;;;;;;;;;;;;;;x
+persia_question_nomadic_sovereignty_desc; ;;;;;;;;;;;;;;x
+Reclaim_Ancestral_Homelands_title;Protect Greece;;;;;;;;;;;;;;x
+Reclaim_Ancestral_Homelands_desc;The greeks, once the light of the known world have now fallen and are being besieged on all sides by foreign conquerers. We need to move quickly if we are to save them.;;;;;;;;;;;;;;x
+Reunite_the_Orthodox_Empire_title;Reunite the Orthodox Empire;;;;;;;;;;;;;;x
+Reunite_the_Orthodox_Empire_desc;All people of the true faith are finally united under one banner.;;;;;;;;;;;;;;x
+Demand_Return_of_Rome_title;Demand the return of Roma;;;;;;;;;;;;;;x
+Demand_Return_of_Rome_desc;The City of Roma is the cradle of our empire and should be returned to us.;;;;;;;;;;;;;;x
+The_Great_Skandinavisk_Union_title;Unite the North!;;;;;;;;;;;;;;x
+The_Great_Skandinavisk_Union_desc;If we mange to unite all the northern country under our flag we will be able to dominate the region for decades to come.;;;;;;;;;;;;;;x
+Our_Southern_Brothers_title;Save the Flanish!;;;;;;;;;;;;;;x
+Our_Southern_Brothers_desc;For too long have the flanish been slaves to the lavlandisk. We have the strength to liberate them.;;;;;;;;;;;;;;x
+czechia_incident_title;Open Czech Universities;;;;;;;;;;;;;;x
+czechia_incident_desc;There is no longer any valid reason to supress the czech language. It is high time we embrace the czech people as our own.;;;;;;;;;;;;;;x
+theyre_like_smaller_czechs_title;Welcome the Slovaks;;;;;;;;;;;;;;x
+theyre_like_smaller_czechs_desc;Just as we welcomed the Czechs to our Nation, so should we embrace the Slovaks.;;;;;;;;;;;;;;x
+integrate_circassians_title;Strengthen our Claim;;;;;;;;;;;;;;x
+integrate_circassians_desc;The Circassians have been fully subjugated. Now we must begin the process of integrating them so that they may serve the state.;;;;;;;;;;;;;;x
+great_baden_war_title;Press german claims;;;;;;;;;;;;;;x
+great_baden_war_desc;If we ever are to unite all Germans under one flag we must secure territorial integrity.;;;;;;;;;;;;;;x
+federalize_the_states_title;Three Hurrahs for Germania;;;;;;;;;;;;;;x
+federalize_the_states_desc;All German lands are under our rule. It is time we unite under one banner to defend against those who wish to take them from us!;;;;;;;;;;;;;;x
+wawa_accept_xhosa_title;Secure Xhosa Independence;;;;;;;;;;;;;;x
+wawa_accept_xhosa_desc;The noble Xhosa are under constant attack by the dastardly Luba. To guarantee their continued independence we must step up as their protector.;;;;;;;;;;;;;;x
+comoros_expedition_title;The Comors expedition;;;;;;;;;;;;;;x
+comoros_expedition_desc;England cannot be allowed to threaten our coasts with impunity. We will stop them.;;;;;;;;;;;;;;x
+wanga_conquer_madagascar_title;Liberate Madagascar;;;;;;;;;;;;;;x
+wanga_conquer_madagascar_desc;Too long have the Malagasy people suffered under the yoke of their foreign occupiers. We come to liberate them.;;;;;;;;;;;;;;x
+dugu_conquer_fulo_title;Protect Fulo;;;;;;;;;;;;;;x
+dugu_conquer_fulo_desc;Our kin in Fulo yearn for our protection. So we should grant it.;;;;;;;;;;;;;;x
+dugu_accept_janeiran_title;Manifest Destiny;;;;;;;;;;;;;x
+dugu_accept_janeiran_desc;The Janeirans have taken good care of their land. They may continue cultavating it, under our supervision of course.;;;;;;;;;;;;;x
+inca_accept_janeiran_title;Counter-Manifest Destiny;;;;;;;;;;;;;x
+inca_accept_janeiran_desc;The Janeirans must be protected from foreign encroachment. We will take them under our wing.;;;;;;;;;;;;;x

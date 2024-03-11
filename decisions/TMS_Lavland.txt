@@ -35,10 +35,10 @@ political_decisions = {
 		}
 	}
 	Our_Northern_Brothers = {
-		picture = concede_finland
+		picture = the_rhine_crisis
 		potential = {
 			tag = NET
-			HAN = { is_core = 528}
+			NOT = { has_country_flag = han_integrated}
 		}
 		allow = {
 			war = no
@@ -68,7 +68,8 @@ political_decisions = {
 			prestige = 20
 			HAN = { annex_to = THIS }
 			HAN = { all_core = { add_core =  NET } }
-			HAN = { all_core = { remove_core =  HAN } }	
+			set_country_flag = han_integrated
+			#HAN = { all_core = { remove_core =  HAN } }	
 		}
 }
 
@@ -86,6 +87,7 @@ Finish_northern_Integration = {
 				add_accepted_culture = flanish
 				}
 			}
+
 Cleanse_Arlsas = {
 		picture = introduce_the_presbyteries
 		potential = {

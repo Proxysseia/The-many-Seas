@@ -84,33 +84,21 @@ Our_Southern_Brothers = {
 		picture = megali_idea
 		potential = {
 			primary_culture = swedish
-			HAN = { is_core = 528}
+			NOT = { accepted_culture  = flanish }
 		}
 		allow = {
 			war = no
 			nationalism_n_imperialism = 1
-			528 = {
-				OR = {
-						owned_by = THIS
-						owner = {
-									vassal_of = THIS
-						}
-					}
-				}
-			539 = {
-				OR = {
-						owned_by = THIS
-						owner = {
-									vassal_of = THIS
-								
-						}
-					}
+			HAN = {
+				all_core = {
+					owned_by = THIS
 				}
 			}
+		}
 		effect = {
 			HAN = { annex_to = THIS }
 			HAN = { all_core = { add_core =  SCA } }
-			HAN = { all_core = { remove_core =  HAN } }
+			#HAN = { all_core = { remove_core =  HAN } }
 			add_accepted_culture = flanish
 		}
 	}
