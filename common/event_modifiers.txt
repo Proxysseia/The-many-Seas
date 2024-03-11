@@ -2689,7 +2689,7 @@ enl_treaty_port = {
 	assimilation_rate = 0.1
 	RGO_throughput = 0.1
 	prestige = 0.01
-	supply_limit = 10
+	supply_limit = 5
 	icon = 9
 }
 
