@@ -25,6 +25,36 @@ leader = {
 	prestige = 0.2
 }
 
+PES = {
+	value = 200
+	influence_value = 100
+	level = 5
+}
+
+BAD = {
+	value = 200
+	influence_value = 100
+	level = 5
+}
+
+MON = {
+	value = 200
+	influence_value = 75
+	level = 5
+}
+
+DBR = {
+	value = 200
+	influence_value = 100
+	level = 5
+}
+
+BAN = {
+	value = 200
+	influence_value = 100
+	level = 5
+}
+
 army = {
 	name = "1st Army"
 	location = 599

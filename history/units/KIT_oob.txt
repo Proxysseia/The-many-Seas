@@ -7,6 +7,24 @@ leader = {
 	prestige = 0.3
 }
 
+JIM = {
+	value = 175
+	influence_value = 15
+	level = 5
+}
+
+BGB = {
+	value = 150
+	influence_value = 47
+	level = 4
+}
+
+KAN = {
+	value = 100
+	influence_value = 32
+	level = 3
+}
+
 army = {
 	name = "1st Army"
 	location = 1817

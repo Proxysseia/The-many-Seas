@@ -7,6 +7,12 @@ leader = {
 	prestige = 0.3
 }
 
+HAN = {
+	value = 200
+	influence_value = 100
+	level = 5
+}
+
 army = {
 	name = "1e Divisie"
 	location = 382 

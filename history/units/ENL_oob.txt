@@ -79,6 +79,60 @@ leader = {
 	prestige = 0.3
 }
 
+LAM = {
+	value = 200
+	influence_value = 100
+	level = 5
+}
+
+BER = {
+	value = 200
+	influence_value = 100
+	level = 5
+}
+
+MAB = {
+	value = 200
+	influence_value = 100
+	level = 5
+}
+
+PEM = {
+	value = 200
+	influence_value = 100
+	level = 5
+}
+
+SUD = {
+	value = 200
+	influence_value = 100
+	level = 5
+}
+
+WHI = {
+	value = 200
+	influence_value = 100
+	level = 5
+}
+
+TAH = {
+	value = 150
+	influence_value = 15
+	level = 4
+}
+
+PER = {
+	value = 150
+	influence_value = 15
+	level = 4
+}
+
+TUR = {
+	value = 150
+	influence_value = 15
+	level = 4
+}
+
 army = {
 	name = "1st Army"
 	location = 1746

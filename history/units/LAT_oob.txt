@@ -7,7 +7,29 @@ leader = {
 	prestige = 0.3
 }
 
-#Army
+UKR = {
+	value = 200
+	influence_value = 100
+	level = 5
+}
+
+EST = {
+	value = 200
+	influence_value = 100
+	level = 5
+}
+
+SEV = {
+	value = 200
+	influence_value = 100
+	level = 5
+}
+
+DON = {
+	value = 200
+	influence_value = 100
+	level = 5
+}
 
 army = {
 	name = "Gods Kalpot"

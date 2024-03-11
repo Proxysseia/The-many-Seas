@@ -7,6 +7,18 @@ leader = {
 	prestige = 0.3
 }
 
+XHO = {
+	value = 150
+	influence_value = 15
+	level = 4
+}
+
+RZV = {
+	value = 150
+	influence_value = 15
+	level = 4
+}
+
 army = {
 	name = "1st Army"
 	location = 1982
