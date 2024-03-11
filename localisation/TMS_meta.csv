@@ -5,3 +5,20 @@ infantry_defensive;Defensive Infantry;;;;;;;;;;;;;x
 artillery_offensive;Offensive Artillery;;;;;;;;;;;;;x
 artillery_defensive;Defensive Artillery;;;;;;;;;;;;;x
 middle_east;Middle East;;;;;;;;;;;;;x
+novorussia;Novorussia;;;;;;;;;;;;;x
+krd_hegemony;Enforce kurdish Hegemony;;;;;;;;;;;x
+krd_hegemony_short;Enforce Hegemony;;;;;;;;;;;x
+krd_hegemony_desc;Enforce Hegemony;;;;;;;;;;;x
+krd_hegemony_setup;Demand they admit our Hegemony over Kurdistan;;;;;;;;;;;x
+great_baden_war;Reunify Baden;;;;;;;;;;;x
+great_baden_war_short;Reunify Baden;;;;;;;;;;;x
+great_baden_war_desc;Reunify Baden;;;;;;;;;;;x
+great_baden_war_setup;Demand the return of all Provinces that rightfully belong to Baden;;;;;;;;;;;x
+demand_reperations;Demand Reparations;;;;;;;;;;;x
+demand_reperations_short;Demand Reparations;;;;;;;;;;;x
+demand_reperations_desc;Demand Reparations;;;;;;;;;;;x
+demand_reperations_setup;Demand they pay Reparations.;x
+acquire_treaty_port;Acquire Treaty Port;x
+acquire_treaty_port_desc;Acquire a treaty port concession by force from China;x
+acquire_treaty_port_setup;Humiliate China by acquiring a treaty port.;x
+acquire_treaty_port_short;Acquires a treaty port;x
