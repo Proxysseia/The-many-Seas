@@ -676,6 +676,7 @@ fort = {
 	max_level = 6
 	province = yes
 	fort_level = 1
+	supply_limit = 1
 }
 
 naval_base = {    
