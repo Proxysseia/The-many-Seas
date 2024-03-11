@@ -764,36 +764,36 @@
 502 = {
     aristocrats = {
         culture = australian
-        religion = prtoestant
+        religion = protestant
         size = 400
     }
 
     clergymen = {
         culture = australian
-        religion = prtoestant
+        religion = protestant
         size = 400
     }
 
     artisans = {
         culture = australian
-        religion = prtoestant
+        religion = protestant
         size = 6000
     }
 
     soldiers = {
         culture = australian
-        religion = prtoestant
+        religion = protestant
         size = 400
     }
     bureaucrats = {
         culture = australian
-        religion = prtoestant
+        religion = protestant
         size = 700
     }
 
     farmers = {
         culture = australian
-        religion = prtoestant
+        religion = protestant
         size = 7000
     }
 
