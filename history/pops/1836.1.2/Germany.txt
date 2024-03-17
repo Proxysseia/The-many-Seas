@@ -1826,42 +1826,6 @@
         religion = catholic
         size = 70750
     }
-
-    aristocrats = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = jewish
-        size = 150
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = saayda
-        religion = jewish
-        size = 100
-    }
 }
 #Saarbrucken (308000/77000 POPS)
 573 = {
@@ -1922,25 +1886,7 @@
     farmers = {
         culture = lavlandish
         religion = catholic
-        size = 46900
-    }
-
-    clergymen = {
-        culture = alsatian
-        religion = catholic
-        size = 25
-    }
-
-    artisans = {
-        culture = alsatian
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = alsatian
-        religion = catholic
-        size = 1875
+        size = 47900
     }
 }
 #Kreuznach (228000/57000 POPS)
