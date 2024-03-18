@@ -515,19 +515,19 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 1341
+        size = 1328
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 760
+        size = 752
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 3740
+        size = 3703
     }
 
     farmers = {
@@ -546,6 +546,24 @@
         culture = latvian
         religion = catholic
         size = 3553
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 13
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 8
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 37
     }
 }
 #Bromberg (212000/53000 POPS)
@@ -637,19 +655,19 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 1008
+        size = 998
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 326
+        size = 323
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 1119
+        size = 1108
     }
 
     farmers = {
@@ -668,6 +686,24 @@
         culture = latvian
         religion = catholic
         size = 1063
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 10
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 3
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 11
     }
 }
 #Gniezno (456000/116000 POPS)
@@ -735,13 +771,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 2606
+        size = 2580
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 3481
+        size = 3446
     }
 
     farmers = {
@@ -754,6 +790,18 @@
         culture = latvian
         religion = catholic
         size = 3307
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 26
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 35
     }
 }
 #under the rule of Russia in 1836 (496000)
@@ -828,19 +876,19 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 1393
+        size = 1379
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 250
+        size = 247
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 1185
+        size = 1173
     }
 
     farmers = {
@@ -859,6 +907,24 @@
         culture = latvian
         religion = catholic
         size = 1126
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 14
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 3
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 12
     }
 }
 #Kalicz (252000/63000 POPS)
@@ -926,19 +992,19 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 2000
+        size = 1980
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 250
+        size = 247
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 1688
+        size = 1671
     }
 
     farmers = {
@@ -957,6 +1023,24 @@
         culture = latvian
         religion = catholic
         size = 1603
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 20
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 3
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 17
     }
 }
 #Malopolska Region (3004000)
@@ -1526,25 +1610,25 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 3598
+        size = 3562
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 4000
+        size = 3960
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 120
+        size = 119
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 1170
+        size = 1158
     }
 
     farmers = {
@@ -1569,6 +1653,30 @@
         culture = latvian
         religion = catholic
         size = 1112
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 36
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 40
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 1
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 12
     }
 }
 #Suwalki (196000/49000 POPS)
@@ -1698,19 +1806,19 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 2034
+        size = 2014
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 2000
+        size = 1980
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 135
+        size = 134
     }
 
     farmers = {
@@ -1729,6 +1837,24 @@
         culture = latvian
         religion = catholic
         size = 128
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 20
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 20
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 1
     }
 }
 #Lomza (200000/50000 POPS)
@@ -1772,13 +1898,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 2514
+        size = 2489
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 250
+        size = 247
     }
 
     farmers = {
@@ -1791,6 +1917,18 @@
         culture = latvian
         religion = catholic
         size = 238
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 25
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 3
     }
 }
 #Skierniewicz (436000/109000 POPS)
@@ -1864,19 +2002,19 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 1841
+        size = 1823
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 1000
+        size = 990
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 2086
+        size = 2065
     }
 
     farmers = {
@@ -1895,6 +2033,24 @@
         culture = latvian
         religion = catholic
         size = 1982
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 18
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 10
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 21
     }
 }
 #Siedlice (472000/118000 POPS)

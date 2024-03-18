@@ -83,7 +83,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 61387
+        size = 60773
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 614
     }
 }
 #Schwerin
@@ -201,7 +207,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 29925
+        size = 29626
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 299
     }
 }
 #Stettin
@@ -251,13 +263,19 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 130687
+        size = 129380
     }
 
     artisans = {
         culture = sorbian
         religion = catholic
         size = 1650
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 1307
     }
 }
 #Swinemunde
@@ -289,7 +307,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 44587
+        size = 44141
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 446
     }
 }
 #Stralsund
@@ -413,7 +437,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 164450
+        size = 162805
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 1645
     }
 }
 #Prenzlau
@@ -445,7 +475,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 96750
+        size = 95782
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 968
     }
 }
 #Pritzwalk
@@ -477,7 +513,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 77812
+        size = 77034
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 778
     }
 }
 #Cottbus
@@ -509,7 +551,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 115000
+        size = 113850
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 1150
     }
 }
 #Magdeburg
@@ -553,7 +601,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 190537
+        size = 188632
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 1905
     }
 }
 #Erfurt
@@ -591,7 +645,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 63625
+        size = 62989
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 636
     }
 }
 #Dessau
@@ -635,7 +695,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 49032
+        size = 48542
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 490
     }
 }
 #Halle
@@ -673,7 +739,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 157887
+        size = 156308
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 1579
     }
 }
 #Stendal
@@ -705,7 +777,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 47362
+        size = 46888
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 474
     }
 }
 #Dresden
@@ -767,13 +845,19 @@
     labourers = {
         culture = sorbian
         religion = catholic
-        size = 162419
+        size = 160795
     }
 
     labourers = {
         culture = bairisch
         religion = catholic
         size = 79684
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 1624
     }
 }
 #Leipzig
@@ -817,7 +901,7 @@
     labourers = {
         culture = sorbian
         religion = catholic
-        size = 88737
+        size = 87850
     }
 
     aristocrats = {
@@ -861,6 +945,12 @@
         religion = catholic
         size = 48402
     }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 887
+    }
 }
 #Chemnitz
 560 = {
@@ -891,7 +981,7 @@
     labourers = {
         culture = sorbian
         religion = catholic
-        size = 49785
+        size = 49287
     }
 
     aristocrats = {
@@ -922,6 +1012,12 @@
         culture = bairisch
         religion = catholic
         size = 40565
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 498
     }
 }
 #Weimar
@@ -965,7 +1061,7 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 56446
+        size = 55882
     }
 
     aristocrats = {
@@ -1009,6 +1105,12 @@
         religion = catholic
         size = 45994
     }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 564
+    }
 }
 #Gotha
 562 = {
@@ -1051,7 +1153,7 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 45055
+        size = 44604
     }
 
     aristocrats = {
@@ -1095,6 +1197,12 @@
         religion = catholic
         size = 36713
     }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 451
+    }
 }
 #Kolberg
 679 = {
@@ -1125,7 +1233,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 55468
+        size = 54913
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 555
     }
 }
 #Koslin
@@ -1157,7 +1271,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 56737
+        size = 56170
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 567
     }
 }
 #Kustrin
@@ -1189,7 +1309,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 79637
+        size = 78841
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 796
     }
 }
 #Gorlitz
@@ -1221,7 +1347,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 77175
+        size = 76403
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 772
     }
 }
 #Danzig
@@ -1265,7 +1397,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 21412
+        size = 21198
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 214
     }
 }
 #Tuchel
@@ -1291,7 +1429,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 66040
+        size = 65380
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 660
     }
 }
 #Deutsche Krone
@@ -1323,6 +1467,12 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 47677
+        size = 47200
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 477
     }
 }

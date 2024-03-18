@@ -44,9 +44,9 @@ negotiating_unequal_treaty;Negotiating an Unequal Treaty;;;;;;;;;;;;;x,,,,
 negotiating_unequal_treaty_desc;Negotiating an unequal treaty with foreigners.;;;;;;;;;;;;;x,,,,
 negotiating_treaty;Negotiating Treaty;;;;;;;;;;;;;x,,,,
 negotiating_treaty_desc;Negotiating a Treaty with China.;;;;;;;;;;;;;x,,,,
-change_national_value_on_title;Change Nation Value (Hidden);;;;;;;;;;;;;x,,,,
+change_national_value_on_title;Change National Value (Hidden);;;;;;;;;;;;;x,,,,
 change_national_value_on_desc;Show Tech School Decisions;;;;;;;;;;;;;x,,,,
-change_national_value_off_title;Change Nation Value (Showing);;;;;;;;;;;;;x,,,,
+change_national_value_off_title;Change National Value (Showing);;;;;;;;;;;;;x,,,,
 change_national_value_off_desc;Hide Tech School Decisions;;;;;;;;;;;;;x,,,,
 switch_to_diplomacy_title;Embrace the Ideal of Diplomacy;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 switch_to_diplomacy_desc;\n\n§YThe modifiers for this NV are:§W\n§GDiplomatic Points Generation: +200%\nBase Influence Points Generation: +50%\nInfamy Decay: -0.10\nFaster CB Generation Speed: +50%§W;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;

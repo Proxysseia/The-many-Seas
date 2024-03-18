@@ -63,7 +63,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 209250
+        size = 207157
     }
 
     farmers = {
@@ -231,13 +231,43 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 97650
+        size = 95706
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 40635
+        size = 39827
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 977
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 406
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 967
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 402
+    }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 2093
     }
 }
 #Hradec Kralove (441600/110400 POPS)
@@ -269,13 +299,13 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 78687
+        size = 77900
     }
 
     farmers = {
         culture = czech
         religion = catholic
-        size = 37500
+        size = 37125
     }
 
     aristocrats = {
@@ -311,7 +341,31 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 10050
+        size = 9850
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 101
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 99
+    }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 787
+    }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 375
     }
 }
 #Karlsbad (579200/144800 POPS)
@@ -343,7 +397,7 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 23700
+        size = 23228
     }
 
     aristocrats = {
@@ -379,7 +433,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 100493
+        size = 99488
     }
 
     clergymen = {
@@ -415,7 +469,37 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 51682
+        size = 50653
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 237
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 517
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 235
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 512
+    }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 1005
     }
 }
 #Aussig (317600/79400 POPS)
@@ -449,7 +533,7 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 12337
+        size = 12092
     }
 
     aristocrats = {
@@ -485,7 +569,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 55846
+        size = 55288
     }
 
     clergymen = {
@@ -527,7 +611,37 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 28722
+        size = 28151
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 123
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 287
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 122
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 284
+    }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 558
     }
 }
 #Pilsen (490400/122600 POPS)
@@ -571,7 +685,7 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 27150
+        size = 26609
     }
 
     aristocrats = {
@@ -607,7 +721,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 60637
+        size = 60031
     }
 
     capitalists = {
@@ -649,7 +763,37 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 48510
+        size = 47545
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 272
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 485
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 269
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 480
+    }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 606
     }
 }
 #Budejovice (405600/101400 POPS)
@@ -693,13 +837,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 10575
+        size = 10364
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 10575
+        size = 10364
     }
 
     aristocrats = {
@@ -741,7 +885,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 53306
+        size = 52773
     }
 
     bureaucrats = {
@@ -789,7 +933,49 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 42645
+        size = 41797
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 106
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 106
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 426
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 105
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 105
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 422
+    }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 533
     }
 }
 #Moravia Region (1476000)
@@ -835,7 +1021,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 138250
+        size = 136867
     }
 
     farmers = {
@@ -847,7 +1033,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 46375
+        size = 45911
     }
 
     aristocrats = {
@@ -945,6 +1131,18 @@
         religion = catholic
         size = 15900
     }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 1383
+    }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 464
+    }
 }
 #Olomouc (372800/93200 POPS)
 632 = {
@@ -969,7 +1167,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 25875
+        size = 25616
     }
 
     aristocrats = {
@@ -1005,7 +1203,19 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 38750
+        size = 38362
+    }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 259
+    }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 388
     }
 }
 #Silesia Region (220000) #see Poland.txt for balance of region
@@ -1087,13 +1297,13 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 22012
+        size = 21792
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 6058
+        size = 5937
     }
 
     aristocrats = {
@@ -1129,7 +1339,7 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 67
+        size = 65
     }
 
     farmers = {
@@ -1142,6 +1352,36 @@
         culture = latvian
         religion = catholic
         size = 61
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 61
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 1
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 60
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 1
+    }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 220
     }
 }
 #Teschen (116000/45000 POPS)
@@ -1167,7 +1407,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 36312
+        size = 35949
     }
 
     clergymen = {
@@ -1245,13 +1485,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 6357
+        size = 6230
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 71
+        size = 69
     }
 
     farmers = {
@@ -1264,6 +1504,36 @@
         culture = latvian
         religion = catholic
         size = 64
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 64
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 1
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 63
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 1
+    }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 363
     }
 }
 #Bielsko
@@ -1289,7 +1559,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 42562
+        size = 42136
     }
 
     farmers = {
@@ -1307,7 +1577,7 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 2982
+        size = 2922
     }
 
     farmers = {
@@ -1326,6 +1596,36 @@
         culture = latvian
         religion = catholic
         size = 30
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 30
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 0
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 30
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 0
+    }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 426
     }
 }
 #Silesia
@@ -1376,7 +1676,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 84656
+        size = 83809
     }
 
     farmers = {
@@ -1466,13 +1766,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 10884
+        size = 10667
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 7560
+        size = 7409
     }
 
     bureaucrats = {
@@ -1526,7 +1826,7 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 1633
+        size = 1601
     }
 
     farmers = {
@@ -1539,6 +1839,48 @@
         culture = latvian
         religion = catholic
         size = 1473
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 109
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 76
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 16
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 108
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 75
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 16
+    }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 847
     }
 }
 #Waldenburg
@@ -1570,7 +1912,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 53768
+        size = 53230
     }
 
     farmers = {
@@ -1594,7 +1936,7 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 43815
+        size = 42943
     }
 
     farmers = {
@@ -1636,7 +1978,7 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 3657
+        size = 3584
     }
 
     clergymen = {
@@ -1666,7 +2008,7 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 20739
+        size = 20327
     }
 
     farmers = {
@@ -1678,7 +2020,7 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 230
+        size = 226
     }
 
     farmers = {
@@ -1703,6 +2045,72 @@
         culture = latvian
         religion = catholic
         size = 208
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 438
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 37
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 207
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 0
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 2
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 434
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 36
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 205
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 0
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 2
+    }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 538
     }
 }
 #Oppeln
@@ -1734,7 +2142,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 62187
+        size = 61565
     }
 
     farmers = {
@@ -1770,7 +2178,7 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 2683
+        size = 2629
     }
 
     aristocrats = {
@@ -1788,13 +2196,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 24469
+        size = 23982
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 20532
+        size = 20124
     }
 
     farmers = {
@@ -1806,13 +2214,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 272
+        size = 266
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 228
+        size = 224
     }
 
     farmers = {
@@ -1850,6 +2258,84 @@
         religion = catholic
         size = 206
     }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 27
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 245
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 205
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 0
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 3
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 2
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 27
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 242
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 203
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 0
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 3
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 2
+    }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 622
+    }
 }
 #Kattowitz
 685 = {
@@ -1880,7 +2366,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 67187
+        size = 66515
     }
 
     farmers = {
@@ -1916,7 +2402,7 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 2683
+        size = 2629
     }
 
     aristocrats = {
@@ -1934,13 +2420,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 42469
+        size = 41624
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 49782
+        size = 48791
     }
 
     farmers = {
@@ -1952,13 +2438,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 472
+        size = 462
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 553
+        size = 542
     }
 
     farmers = {
@@ -1996,6 +2482,84 @@
         religion = catholic
         size = 499
     }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 27
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 425
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 498
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 0
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 5
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 6
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 27
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 420
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 493
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 0
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 5
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 5
+    }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 672
+    }
 }
 #Krakow
 703 = {
@@ -2026,13 +2590,13 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 50937
+        size = 50428
     }
 
     farmers = {
         culture = czech
         religion = catholic
-        size = 4231
+        size = 4189
     }
 
     aristocrats = {
@@ -2050,7 +2614,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 18437
+        size = 18253
     }
 
     farmers = {
@@ -2062,13 +2626,13 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 66657
+        size = 65330
     }
 
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 741
+        size = 727
     }
 
     farmers = {
@@ -2081,5 +2645,47 @@
         culture = latvian
         religion = catholic
         size = 668
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 667
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 7
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 660
+    }
+
+    clerks = {
+        culture = sorbian
+        religion = catholic
+        size = 7
+    }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 509
+    }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 42
+    }
+
+    clerks = {
+        culture = czech
+        religion = catholic
+        size = 184
     }
 }
