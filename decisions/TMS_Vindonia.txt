@@ -7,6 +7,8 @@ political_decisions = {
 		}
 		allow = {
 			is_our_vassal = BAD
+			NOT = {truce_with = NET}
+			war = no
 		}
 		effect = {
 			casus_belli = {

@@ -111,7 +111,7 @@ great_baden_war = {
 
     badboy_factor = 2.2
     prestige_factor = 1
-    peace_cost_factor = 3
+    peace_cost_factor = 2.65
     penalty_factor = 1
 
     break_truce_prestige_factor = 1
@@ -599,9 +599,9 @@ acquire_core_state_tiny = {
 	peace_cost_factor = 0.001
 	penalty_factor = 1
 
-	break_truce_prestige_factor = 5
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
+	break_truce_prestige_factor = 1.25
+	break_truce_infamy_factor = 1
+	break_truce_militancy_factor = 0.5
 	truce_months = 60
 	
 	good_relation_prestige_factor = 1
@@ -664,9 +664,9 @@ acquire_core_state_small = {
 	peace_cost_factor = 0.003
 	penalty_factor = 1
 
-	break_truce_prestige_factor = 5
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
+	break_truce_prestige_factor = 1.25
+	break_truce_infamy_factor = 1
+	break_truce_militancy_factor = 0.5
 	truce_months = 60
 	
 	good_relation_prestige_factor = 1
@@ -729,9 +729,9 @@ acquire_core_state_medium = {
 	peace_cost_factor = 0.004
 	penalty_factor = 1
 
-	break_truce_prestige_factor = 5
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
+	break_truce_prestige_factor = 1.25
+	break_truce_infamy_factor = 1
+	break_truce_militancy_factor = 0.5
 	truce_months = 60
 	
 	good_relation_prestige_factor = 1
@@ -794,9 +794,9 @@ acquire_core_state_large = {
 	peace_cost_factor = 0.006
 	penalty_factor = 1
 
-	break_truce_prestige_factor = 5
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
+	break_truce_prestige_factor = 1.25
+	break_truce_infamy_factor = 1
+	break_truce_militancy_factor = 0.5
 	truce_months = 60
 	
 	good_relation_prestige_factor = 1
@@ -859,9 +859,9 @@ acquire_core_state_huge = {
 	peace_cost_factor = 0.008
 	penalty_factor = 1
 
-	break_truce_prestige_factor = 5
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
+	break_truce_prestige_factor = 1.25
+	break_truce_infamy_factor = 1
+	break_truce_militancy_factor = 0.5
 	truce_months = 60
 	
 	good_relation_prestige_factor = 1
@@ -926,9 +926,9 @@ annex_core_country = {
 	peace_cost_factor = 0.015
 	penalty_factor = 1
 
-	break_truce_prestige_factor = 5
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
+	break_truce_prestige_factor = 1.25
+	break_truce_infamy_factor = 1
+	break_truce_militancy_factor = 0.5
 	truce_months = 60
 	
 	good_relation_prestige_factor = 1
@@ -988,7 +988,7 @@ acquire_substate_region = {
 	
 	badboy_factor = 1
 	prestige_factor = 2
-	peace_cost_factor = 0.01
+	peace_cost_factor = 0.009
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
