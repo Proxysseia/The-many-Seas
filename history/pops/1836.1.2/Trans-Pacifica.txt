@@ -896,62 +896,6 @@
         size = 3000
     }
 }
-#Walla Walla (4000/1000 POPS)
-80 = {
-    aristocrats = {
-        culture = native_american_minor
-        religion = protestant
-        size = 50
-    }
-
-    officers = {
-        culture = native_american_minor
-        religion = protestant
-        size = 50
-    }
-
-    clergymen = {
-        culture = native_american_minor
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = native_american_minor
-        religion = protestant
-        size = 50
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = protestant
-        size = 220
-    }
-
-    farmers = {
-        culture = native_american_minor
-        religion = protestant
-        size = 16030
-    }
-
-    aristocrats = {
-        culture = native_american_minor
-        religion = catholic
-        size = 1000
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = native_american_minor
-        religion = catholic
-        size = 5900
-    }
-}
 #Brescia (708000/177000 POPS)
 728 = {
     aristocrats = {

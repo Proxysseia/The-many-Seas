@@ -1,3 +1,41 @@
+#Walla Walla 
+80 = {
+    aristocrats = {
+        culture = saayda
+        religion = protshiiteestant
+        size = 50
+    }
+
+    officers = {
+        culture = saayda
+        religion = shiite
+        size = 50
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = shiite
+        size = 50
+    }
+
+    artisans = {
+        culture = saayda
+        religion = shiite
+        size = 50
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = shiite
+        size = 220
+    }
+
+    farmers = {
+        culture = saayda
+        religion = shiite
+        size = 16030
+    }
+}
 #Nicosia
 855 = {
     aristocrats = {
@@ -665,37 +703,13 @@
     farmers = {
         culture = saayda
         religion = sunni
-        size = 12412
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = orthodox
-        size = 150
-    }
-
-    artisans = {
-        culture = saayda
-        religion = orthodox
-        size = 150
-    }
-
-    farmers = {
-        culture = saayda
-        religion = orthodox
-        size = 2812
+        size = 42412
     }
 
     clergymen = {
         culture = saayda
         religion = shiite
         size = 150
-    }
-
-    farmers = {
-        culture = saayda
-        religion = shiite
-        size = 1350
     }
 }
 #Sidon
@@ -727,50 +741,9 @@
     farmers = {
         culture = saayda
         religion = sunni
-        size = 3000
+        size = 7000
     }
 
-    clergymen = {
-        culture = saayda
-        religion = orthodox
-        size = 37
-    }
-
-    artisans = {
-        culture = saayda
-        religion = orthodox
-        size = 75
-    }
-
-    farmers = {
-        culture = saayda
-        religion = orthodox
-        size = 1387
-    }
-
-    aristocrats = {
-        culture = saayda
-        religion = catholic
-        size = 112
-    }
-
-    clergymen = {
-        culture = saayda
-        religion = catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = saayda
-        religion = catholic
-        size = 375
-    }
-
-    farmers = {
-        culture = saayda
-        religion = catholic
-        size = 3075
-    }
 
     aristocrats = {
         culture = saayda
@@ -793,7 +766,7 @@
     farmers = {
         culture = saayda
         religion = shiite
-        size = 17025
+        size = 57025
     }
 }
 #Acre
