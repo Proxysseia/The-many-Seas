@@ -2,7 +2,7 @@ nv_order = {
 	land_organisation = 0.2
 	org_regain = 0.05
 	land_unit_start_experience = 25
-	army_tech_research_bonus = 0.05
+#	army_tech_research_bonus = 0.05
 }
 
 nv_liberty = {
@@ -11,11 +11,11 @@ nv_liberty = {
 	social_reform_desire = 0.1
 }
 
-nv_equality = {
-	non_accepted_pop_militancy_modifier = -0.02
-	culture_tech_research_bonus = 0.05
-	mobilisation_size = 0.001
-}
+#nv_equality = {
+#	non_accepted_pop_militancy_modifier = -0.02
+#	culture_tech_research_bonus = 0.05
+#	mobilisation_size = 0.001
+#}
 
 nv_tradition = {
 	research_points_modifier = -0.1

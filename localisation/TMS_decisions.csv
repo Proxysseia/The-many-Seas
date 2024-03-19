@@ -53,7 +53,7 @@ switch_to_diplomacy_desc;\n\n§YThe modifiers for this NV are:§W\n§GDiplomatic
 switch_to_education_title;Embrace the Ideal of Education;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 switch_to_education_desc;§YThe modifiers for this NV are:§W\n§GEducation Efficiency: +20%\nResearch Points Modifier: +15%\nCulture Tech Research Bonus: +5%§W;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 switch_to_order_title;Embrace the Ideal of Order;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-switch_to_order_desc;\n\n§YThe modifiers for this NV are:§W\n§GOrganization Regain Rate: +20%\nLand Unit Starting Experience: +25%\nArmy Tech Research Bonus: +5%§W;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+switch_to_order_desc;\n\n§YThe modifiers for this NV are:§W\n§GOrganization Regain Rate: +20%\nLand Unit Starting Experience: +25%§W;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 switch_to_production_title;Embrace the Ideal of Productivity;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 switch_to_production_desc;\n\n§YThe modifiers for this NV are:§W\n§GFactory Input: -5%\nFactory Output: +20%\nRGO Throughput: +10%\n§GCommerce Tech Research Bonus: +5%\nIndustry Tech Research Bonus: +5%§W;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 switch_to_equality_title;Embrace the Ideal of Equality;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
