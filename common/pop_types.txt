@@ -1061,12 +1061,12 @@ assimilation_chance = {
 	}
 	
 #NEW WORLD NATION BONUS - 50% more base assimilation rate for new world nations on provinces in north america, south america, and australia_new_zealand (australia_new_zealand). (0.000198 + base)(new rate = 0.000594)
-	modifier = {
-		factor = 5
-		country = {
-			has_country_flag = new_world_nation
-		}
-	}
+#	modifier = {
+#		factor = 5
+#		country = {
+#			has_country_flag = new_world_nation
+#		}
+#	}
 #BASELINE ASSIMILATION	- averages to 0.000396 rate. (averages 39.6 people assimilating per month in a 100k province)
 #IMPORTANT NOTE - If a pop has_culture_core = no, it must have its bonuses scaled down to a 100th less magnitude. (if base is factor 10, has_culture_core = no must be 0.1) This must be reflected in all future modifiers.
 	group = {
