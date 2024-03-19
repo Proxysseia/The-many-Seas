@@ -2767,3 +2767,7 @@ treaty_port_buff = {
 	immigrant_attract = 3
 	icon = 7
 }
+
+chi_relations_clr = {
+	icon = 2
+}

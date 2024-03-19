@@ -1,0 +1,42 @@
+country_event = {
+	id = 659184
+	title = "china relation clear"
+	desc = "sets all relations with china to -200"
+	picture = "native_force"
+	
+	
+	trigger = {
+		NOT = { has_country_modifier = chi_relations_clr }
+		tag = CHI
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	immediate = {
+		add_country_modifier = {
+			name = chi_relations_clr
+			duration = 730
+		}
+		any_country = { 
+          limit = {
+            exists = yes
+          }
+            relation = {
+                who = THIS 
+                value = -400
+            }
+        }
+    }
+	
+	option = {
+		name = "rude"
+	}
+}
+
+
+relation = {
+	who = { THIS }
+	value = -400
+}
