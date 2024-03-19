@@ -110,6 +110,12 @@
         size = 79238
     }
 
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 90238
+    }
+
     clergymen = {
         culture = saayda
         religion = sunni

@@ -1149,7 +1149,7 @@ ARG_2398 = { 2131 2398 2399 2400  2333 2334 2335 2336 } #Patagonia Meridional
 
 ### Australia & New Zealand
 
-ENG_2468 = { 2468 2469 2470 2471 2508 2128 1443 2544 } #New South Wales
+ENG_2468 = { 2468 2469 2470 2471 2128 1443 2544 } #New South Wales
 
 AST_2476 = { 2476 2479 2480 1395 402 2482 2472 2477 2478 } #Melbourne
 
@@ -1169,7 +1169,7 @@ AST_2501 = { 2501 2502 2601 2602 2605 }#Broome
 
 ENG_2505 = { 2505 2506 2507 2603 2604 1325 2495 } #Northern Territory
 
-ENG_2509 = { 2509 2510 2511 2512 2571 2524 } #North Island - Aotearoa
+ENG_2509 = { 2509 2510 2511 2512 2571 2524 2508 } #North Island - Aotearoa
 
 ENG_2513 = { 2516 2513 2514 2515 } #South Island -  Te Waipounamu
 
