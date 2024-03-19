@@ -43,6 +43,7 @@ luxury_needs = {
 	wine = 10
 	radio = 1.0
 	coffee = 2
+	oil = 1
 }
 
 everyday_needs = {
