@@ -52,7 +52,7 @@ political_decisions = {
 		}
 		effect = {
 			FRA_412 = { add_core = THIS}
-			prestige = 20
+			prestige = 10
 			set_country_flag = alsace_cored
 		}
 	}

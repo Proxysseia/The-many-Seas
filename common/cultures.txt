@@ -1242,3 +1242,17 @@ southern_african = {
         }
     }
 }
+
+debug_culture = {
+    leader = african
+    is_overseas = no
+    unit = AfricanGC
+    polar_bears = {
+        first_names = {
+            Nurse Winged Proxy Short Tall Moon
+        }
+        last_names = {
+            Reno Pope Singed Hills Mountains Man
+        }
+    }
+}

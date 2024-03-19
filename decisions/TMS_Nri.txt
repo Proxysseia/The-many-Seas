@@ -6,15 +6,12 @@ political_decisions = {
 			NOT = { has_country_flag = northern_expansion}
 		}
 		allow = {
-			NRI = {
-				all_core = { owned_by = THIS }
-			}
-			owns = 729
+			NRI = {	all_core = { owned_by = THIS } }
+			KAN = {	all_core = { owned_by = THIS } }
 			war = no
 		}
 		effect = {
-			FRA_1815 = { add_core = THIS}
-			FRA_1816 = { add_core = THIS}
+			KAN = { all_core = { add_core =  NRI } }
 			prestige = 10
 			set_country_flag = northern_expansion
 		}

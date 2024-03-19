@@ -11,7 +11,7 @@ political_decisions = {
 		effect = {
 			GOL = { all_core = { add_core =  PER } }
 			KAZ = { all_core = { add_core =  PER } }
-			badboy = 15
+			badboy = 11
 			set_country_flag = kill_horde
 		}
 	}
