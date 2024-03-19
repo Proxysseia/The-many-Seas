@@ -1045,12 +1045,6 @@ assimilation_chance = {
 	modifier = {
 		factor = -1000
 		OR = {
-			AND = {
-				has_pop_culture = afro_american
-				country = {
-					is_culture_group = american_cultures
-				}
-			}
 			OR = {
 				state_scope = { is_colonial = yes }
 				country = {	
@@ -1067,14 +1061,15 @@ assimilation_chance = {
 #			has_country_flag = new_world_nation
 #		}
 #	}
+
 #BASELINE ASSIMILATION	- averages to 0.000396 rate. (averages 39.6 people assimilating per month in a 100k province)
 #IMPORTANT NOTE - If a pop has_culture_core = no, it must have its bonuses scaled down to a 100th less magnitude. (if base is factor 10, has_culture_core = no must be 0.1) This must be reflected in all future modifiers.
 	group = {
 		modifier = {
-			factor = 10.125
+			factor = 10.5
 		}
 		modifier = {
-			factor = -9.85
+			factor = -9.5
 			has_culture_core = no
 		}
 	}
@@ -1525,7 +1520,7 @@ assimilation_chance = {
 #TMS
 	group = {
 		modifier = {
-			factor = 0.4
+			factor = 10.5
 			has_pop_culture = russian
 		}
 	}
@@ -1545,7 +1540,7 @@ assimilation_chance = {
 #Assimilation for Russian pops after NOTRussia takes their decision
 	group = {
 		modifier = {
-			factor = 1.2
+			factor = 100.2
 			has_pop_culture = russian
 			country = {
 				has_country_flag = russia_moscovy
@@ -1557,7 +1552,7 @@ assimilation_chance = {
 #Assimilation the great Lakes
 	group = {
 		modifier = {
-			factor = 4.5
+			factor = 400.5
 			has_pop_culture = lake_lunda
 			country = {
 				has_country_flag = african_great_lakes
@@ -1566,7 +1561,7 @@ assimilation_chance = {
 	}
 	group = {
 		modifier = {
-			factor = 4.5
+			factor = 400.5
 			has_pop_culture = lake_fang
 			country = {
 				has_country_flag = african_great_lakes
@@ -1575,7 +1570,7 @@ assimilation_chance = {
 	}
 	group = {
 		modifier = {
-			factor = 4.5
+			factor = 400.5
 			has_pop_culture = lake_mongo
 			country = {
 				has_country_flag = african_great_lakes
@@ -1584,7 +1579,7 @@ assimilation_chance = {
 	}
 	group = {
 		modifier = {
-			factor = 4.5
+			factor = 400.5
 			has_pop_culture = lake_nuer
 			country = {
 				has_country_flag = african_great_lakes
