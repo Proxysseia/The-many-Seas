@@ -191,6 +191,9 @@ From;To;Type;Through;Data;Comment
 #1664;1666;land;2843;0;Matsuyama Strait
 1667;1659;land;2843;0;Setto Strait
 1411;1408;sea;2803;0;Gunungsitoli Strait
+1661;1660;land;2843;0;Nagasaki Strait
+1661;1664;land;2843;0;Nagasaki Strait
+1646;1648;land;2843;0;Toyama Strait
 ;;;;;
 ;;;;;
 ;;;;;
@@ -227,6 +230,7 @@ From;To;Type;Through;Data;Comment
 1088;1074;sea;2838;0;Shumshu-Petropavlovsk Strait
 ;;;;;
 1637;1635;sea;2829;0;Cheju-Kwangju Strait
+1637;1661;sea;2829;0;Cheju-Kwangju Strait
 ;;;;;
 ;;;;;
 #;;;;;
@@ -234,8 +238,9 @@ From;To;Type;Through;Data;Comment
 #;;;;;
 1083;1086;sea;2832;0;Tatar Straits
 1084;1086;sea;2832;0;Tatar Straits
-#1087;1643;sea;2831;0;La Perouse Strait#removed
-#1087;1643;sea;2839;0;La Perouse Strait#removed
+1643;1086;sea;2832;0;Sakhalin-Hokkaido Strait
+1643;1642;sea;2832;0;Hokkaido-Hokkaido Strait
+1672;1642;sea;2832;0;Hokkaido-Hokkaido Strait
 ;;;;;
 ;;;;;
 1309;1322;sea;2794;0;Palk Strait #Ceylon-S India
