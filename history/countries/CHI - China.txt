@@ -43,6 +43,8 @@ upper_house = {
 	communist = 0
 }
 
+decision = China_1836_setup
+
 # Technologies
 flintlock_rifles = 1
 army_command_principle = 1

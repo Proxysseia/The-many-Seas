@@ -170,4 +170,40 @@ political_decisions = {
             }
         }
     }
+
+    China_1836_setup = {
+        potential = {
+            tag = CHI
+            always = no
+        }
+        allow = {
+            tag = CHI
+        }
+        effect = {
+            CHI = {
+                add_country_modifier = {
+                    name = china_no_reform
+                    duration = -1
+                }
+            }
+        }
+    }
+
+    China_1836_setup = {
+        potential = {
+            tag = WNG
+            always = no
+        }
+        allow = {
+            tag = WNG
+        }
+        effect = {
+            WNG = {
+                add_country_modifier = {
+                    name = wng_1836_setup
+                    duration = -1
+                }
+            }
+        }
+    }
 }

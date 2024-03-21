@@ -2771,3 +2771,13 @@ treaty_port_buff = {
 chi_relations_clr = {
 	icon = 2
 }
+
+china_no_reform = {
+	research_points_modifier = -100
+	icon = 4
+}
+
+wng_1836_setup = {
+	research_points_modifier = 0.01
+	icon = 17
+}
