@@ -1,0 +1,8 @@
+leader = {
+	name = "Hate French"
+	date = 1806.1.1
+	type = land
+	personality = timid
+	background = school_of_defense
+	prestige = 0.3
+}

@@ -63,6 +63,8 @@ IRE = "countries/Ireland.txt"
 LEI = "countries/Leinster.txt"
 ULA = "countries/Ulaidh.txt"
 UNS = "countries/Union of Stales.txt"
+WHA = "countries/Wales.txt"
+BRT = "countries/Britanny.txt"
 
 #Russia
 DON = "countries/Donbass.txt"
