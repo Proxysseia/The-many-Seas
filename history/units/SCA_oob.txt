@@ -7,6 +7,15 @@ leader = {
 	prestige = 0.3
 }
 
+leader = {
+	name = "Winged Pope"
+	date = 1806.1.1
+	type = land
+	personality = skull_cracker
+	background = guhhhh
+	prestige = 0.3
+}
+
 army = {
 	name = "1st Army"
 	location = 322

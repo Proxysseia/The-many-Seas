@@ -507,6 +507,10 @@ personality = {
         morale = -0.30
         reliability = 0.5
     }
+    skull_cracker = {
+        attack = 5
+        reliability = 0.5
+    }
 }
 
 background = {
@@ -778,6 +782,10 @@ background = {
         reliability = 0.5
     }
     incompetent = {
+        reliability = 0.5
+    }
+    guhhhh = {
+        defence = -5
         reliability = 0.5
     }
 }
