@@ -1035,10 +1035,6 @@
         size = 81577
     }
 }
-##########  NORWAY  ################
-#Vestlandet-Sorlandet Region : 544000
-##### Scottish Norway ####
-#Bergen (180000/45000 POPS)
 309 = {
     aristocrats = {
         culture = swedish
@@ -1047,25 +1043,25 @@
     }
 
     aristocrats = {
-        culture = scottish
+        culture = swedish
         religion = protestant
         size = 1076
     }
 
     bureaucrats = {
-        culture = scottish
+        culture = swedish
         religion = protestant
         size = 672
     }
 
     officers = {
-        culture = scottish
+        culture = swedish
         religion = protestant
         size = 161
     }
 
     clergymen = {
-        culture = scottish
+        culture = swedish
         religion = protestant
         size = 269
     }
@@ -1077,13 +1073,13 @@
     }
 
     artisans = {
-        culture = scottish
+        culture = swedish
         religion = protestant
         size = 2287
     }
 
     soldiers = {
-        culture = scottish
+        culture = swedish
         religion = protestant
         size = 2018
     }
@@ -1095,7 +1091,7 @@
     }
 
     farmers = {
-        culture = scottish
+        culture = swedish
         religion = protestant
         size = 10529
     }
@@ -1109,13 +1105,13 @@
     }
 
     aristocrats = {
-        culture = scottish
+        culture = swedish
         religion = protestant
         size = 1614
     }
 
     clergymen = {
-        culture = scottish
+        culture = swedish
         religion = protestant
         size = 235
     }
@@ -1127,13 +1123,13 @@
     }
 
     artisans = {
-        culture = scottish
+        culture = swedish
         religion = protestant
         size = 1682
     }
 
     soldiers = {
-        culture = scottish
+        culture = swedish
         religion = protestant
         size = 740
     }
@@ -1145,7 +1141,7 @@
     }
 
     farmers = {
-        culture = scottish
+        culture = swedish
         religion = protestant
         size = 25734
     }
@@ -1153,13 +1149,13 @@
 #Skien (68000/17000 POPS)
 311 = {
     aristocrats = {
-        culture = scottish
+        culture = swedish
         religion = protestant
         size = 134
     }
 
     clergymen = {
-        culture = scottish
+        culture = swedish
         religion = protestant
         size = 100
     }
@@ -1171,27 +1167,15 @@
     }
 
     artisans = {
-        culture = scottish
+        culture = swedish
         religion = protestant
         size = 336
-    }
-
-    soldiers = {
-        culture = scottish
-        religion = protestant
-        size = 269
     }
 
     farmers = {
         culture = swedish
         religion = protestant
-        size = 29704
-    }
-
-    farmers = {
-        culture = scottish
-        religion = protestant
-        size = 8174
+        size = 30704
     }
 }
 #Penza (952000/238000 POPS)
@@ -1203,7 +1187,7 @@
     }
 
     aristocrats = {
-        culture = scottish
+        culture = swedish
         religion = protestant
         size = 740
     }
@@ -1221,7 +1205,7 @@
     }
 
     soldiers = {
-        culture = scottish
+        culture = swedish
         religion = protestant
         size = 1345
     }
@@ -1233,7 +1217,7 @@
     }
 
     farmers = {
-        culture = scottish
+        culture = swedish
         religion = protestant
         size = 9472
     }

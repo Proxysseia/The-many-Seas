@@ -3,7 +3,7 @@ political_decisions = {
 		picture = niederwald_denkmal
 		potential = {
 			tag = KIT
-			NOT = { has_country_flag = nuer_accepted }
+			has_country_flag = kitara_nuer 
 		}
 		allow = {
 			JIM = {
@@ -18,7 +18,7 @@ political_decisions = {
 			ENG_2019 = { add_core = THIS }
 			KIT_229 = { add_core = THIS }
 			prestige = 20
-			set_country_flag = nuer_accepted
+			clr_country_flag = kitara_nuer
 		}
 	}
 }

@@ -189,7 +189,7 @@ political_decisions = {
         }
     }
 
-    China_1836_setup = {
+    wng_1836_setup = {
         potential = {
             tag = WNG
             always = no

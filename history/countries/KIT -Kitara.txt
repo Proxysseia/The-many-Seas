@@ -13,6 +13,7 @@ civilized = yes
 prestige = 60
 
 set_country_flag = african_great_lakes
+set_country_flag = kitara_nuer 
 
 # Political reforms
 slavery = yes_slavery

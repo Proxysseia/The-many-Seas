@@ -102,8 +102,8 @@ From;To;Type;Through;Data;Comment
 372;533;sea;2711;0;Copenhagen-Guldborg
 367;348;sea;2712;0;Aalsburg-Hjorring
 533;373;sea;2711;0;Guldborg-Odense
-375;378;sea;2722;0;Bay of Holland
-377;378;sea;2722;0;Bay of Holland
+375;378;land;2722;0;Bay of Holland
+377;378;land;2722;0;Bay of Holland
 473;766;sea;2751;0;Sassari Strait
 826;824;sea;2764;0;Corfu Strait
 826;853;sea;2764;0;Corfu Strait
@@ -139,6 +139,7 @@ From;To;Type;Through;Data;Comment
 340;344;sea;3317;0;
 2715;2580;sea;2714;0;
 2580;1004;sea;2714;0;
+2613;2690;sea;3304;0;Russian Island, East
 983;981;sea;2716;0;
 946;1007;sea;3330;0;
 457;463;sea;3323;0;
@@ -251,7 +252,12 @@ From;To;Type;Through;Data;Comment
 ;;;;;
 ;;;;;
 ;;;;;
-;;;;;
+# Indonesia
+1352;1354;land;2800;0;Malaya-Temasserin Strait
+1392;1354;land;2800;0;Malaya-Temasserin Strait
+2575;1354;land;2800;0;Malaya-Temasserin Strait
+1365;1351;sea;2818;0;Saya-SayamIsland Strait
+1383;1364;sea;2818;0;Saya-SayamIsland Strait
 ;;;;;
 ;;;;;
 ;;;;;
