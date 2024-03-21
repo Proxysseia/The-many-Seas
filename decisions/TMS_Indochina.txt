@@ -65,4 +65,20 @@ political_decisions = {
 			
 		}
 	}
+
+	core_malaya = {
+		picture = enact_anaconda_plan
+		potential = {
+			is_culture_group = southeast_asian
+			NOT = { has_country_flag = owns_malaya }
+		}
+		allow = {
+			MLY = { all_core = {owned_by = THIS } }
+		}
+		effect = {
+			MLY = { all_core = { add_core =  THIS } }
+			prestige = 10
+			set_country_flag = owns_malaya
+		}
+	}
 }
