@@ -3,7 +3,7 @@ political_decisions = {
 		picture = bixby_letter
 		potential = {
 			tag = ALD
-			NOT = { has_country_flag = maghrebi_accepted }
+			NOT = { accepted_culture  = maghrebi }
 		}
 		allow = {
 			revolution_n_counterrevolution = 1
@@ -15,7 +15,6 @@ political_decisions = {
 			1710 = { add_core = THIS }
 			TRI_1731 = { add_core = THIS}
 			prestige = 20
-			set_country_flag = maghrebi_accepted
 		}
 	}
 	andalucia_conquer_fulo = {

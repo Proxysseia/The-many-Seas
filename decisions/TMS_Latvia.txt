@@ -61,16 +61,17 @@ political_decisions = {
 		picture = enact_dual_monarchy
 		potential =  {
 			tag = LAT
-			NOT = { has_country_flag = ukrainian_accepted }
 			NOT = { accepted_culture = ukrainian }
 		}
 		allow = {
 			year = 1860
-			owns = 958
+			UKR = {
+				all_core = { owned_by = THIS }
+			}
 		}
 		effect = {
+			UKR = { all_core = { add_core =  LAT } }
 			add_accepted_culture = ukrainian
-			set_country_flag = ukrainian_accepted
 			prestige = 10
 		}
 	}

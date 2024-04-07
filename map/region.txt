@@ -206,15 +206,15 @@ FRA_467 = { 469 454 466 472 } #Provence
 
 ### Spain & Portugal
 
-SPA_474 = { 474 476 475 478 } #Nuvacolia
+SPA_474 = { 474 476 475 } #Nuvacolia
 
-SPA_477 = { 477 479 480 494 } #Le�na
+SPA_477 = { 477 478 479 480 494 } #Le�na
 
-SPA_484 = { 484 485 486 511 } #Mayor Lirlo
+SPA_484 = { 482 485 486 } #Mayor Lirlo
 
-SPA_488 = { 488 487 481 482 483 } #Flormoribuna
+SPA_488 = { 488 487 481 483 } #Flormoribuna
 
-SPA_487 = { 489 490 491 506 507 508 } #Damasco Central
+SPA_487 = { 489 490 491 507 508 } #Damasco Central
 
 SPA_503 = { 503 504 505 497 } #Varcincia
 
@@ -222,11 +222,11 @@ SPA_492 = { 492 493 495 496 } #Varag�na
 
 SPA_498 = { 498 499 500 501 502 } #Catalonia
 
-SPA_513 = { 513 515 516 510 } #Granada
+SPA_513 = { 506 513 515 516 510 } #Granada
 
 POR_518 = { 518 519 520 521 522 523} #Douro
 
-POR_525 = { 524 525 526 527 } #Alentejo
+POR_525 = { 484 511 524 525 526 527 } #Alentejo
 
 
 ### Germany & Switzerland
@@ -452,7 +452,7 @@ RUS_718 = { 718 940 939 938 941 942 948 } #Minsk
 
 RUS_943 = { 1007 943 1000 944 1009 1014 1015 1003 } #Smolensk
 
-RUS_958 = { 958 959 960 954 955 } #Kiev
+RUS_958 = { 958 959 960 954 955 1402 } #Kiev
 
 RUS_959 = { 956 957 702 952 } #Volyn
 
@@ -462,7 +462,7 @@ RUS_973 = { 976 973 975 } #Kherson-Zaporizhia
 
 RUS_955 = { 972 971 970 961 968 969 } #Yekaterinoslav
 
-RUS_977 = { 1402 977 1017 1018 1019 963 962 1016 949 } #Kursk
+RUS_977 = { 977 1017 1018 1019 963 962 1016 949 } #Kursk
 
 RUS_978 = { 978 980 974 } #Kharkov
 
