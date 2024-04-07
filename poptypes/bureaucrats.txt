@@ -98,17 +98,7 @@ country_migration_target =
 		unemployment = 0.5
 	}
 	modifier = {
-		factor = -10000.0
-		NOT = { has_country_flag = new_world_nation }
-	}
-	modifier = {
-		factor = 4.0
-		THIS = { religion = jewish }
-		any_owned_province = { is_core = ISR }
-	}
-	modifier = {
 		factor = 10.0
-		has_country_flag = new_world_nation
 		nationalvalue = nv_liberty
 	}
 	modifier = {
@@ -118,7 +108,6 @@ country_migration_target =
     }
 	modifier = {
 		factor = 0.1
-		has_country_flag = new_world_nation
 		nationalvalue = nv_liberty
 		NOT = {
 			any_owned_province = {
@@ -203,11 +192,6 @@ migration_target =
 		state_scope = {
 			is_slave = yes
 		}
-	}
-	modifier = {
-		factor = 4
-		this = { religion = jewish }
-		is_core = ISR 
 	}
 	modifier = {
 		factor = 2
