@@ -855,7 +855,7 @@ springtime_of_nations = {
 
 global_liberal_agitation = {
 	global_pop_consciousness_modifier = 0.2
-	global_pop_militancy_modifier = 0.01
+	global_pop_militancy_modifier = 0.05
 	prestige = -0.03
 	icon = 4
 }

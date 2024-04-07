@@ -1015,19 +1015,19 @@ emigration_chance =
 ###Colony and Immigrant Nations Emigration Security###
 
 #If at peace, an immigrant country will not lose immigrants.
-	modifier = {
-		factor = -10000
-		country = {
-			has_country_flag = new_world_nation
-			war = no
-		}
-	}
+#	modifier = {
+#		factor = -10000
+#		country = {
+#			has_country_flag = new_world_nation
+#			war = no
+#		}
+#	}
 
 #If pop group is in a country with the country tag, then -4% chance to emigrate.
-	modifier = {
-		factor = -4.0
-		has_country_flag = new_world_nation
-	}
+#	modifier = {
+#		factor = -4.0
+#		has_country_flag = new_world_nation
+#	}
 #If pop group is in a colony, then -2% chance to emigrate.	
 	modifier = {
 		factor = -10000
@@ -1839,45 +1839,8 @@ conversion_chance = {
 	factor = 0.1
 
 	modifier = {
-		factor = -100
-		OR = {
-			not = { location = { controlled_by = owner } }
-			country = { has_country_flag = freedom_of_religion }
-			AND = {
-				OR = {
-					has_pop_religion = yazidi
-					has_pop_religion = druze
-				}
-				location = { continent = australia_new_zealand }
-			}
-		}
-	}
-	
-	modifier = {
 		factor = -0.02
 		country = { civilized = no }
-	}
-	
-	modifier = {
-		factor = -0.95
-		OR = {
-			has_pop_religion = jewish
-			has_pop_religion = mormon
-			has_pop_religion = shiite
-			has_pop_religion = sunni
-			has_pop_religion = ibadi
-			AND = {
-				has_pop_religion = shinto
-				has_culture_core = yes
-			}
-		}
-	}
-	
-	modifier = {
-		factor = 0.8
-		has_pop_religion = animist
-		location = { continent = africa }
-		country = { civilized = yes }
 	}
 	
 	modifier = {

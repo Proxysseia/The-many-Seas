@@ -1092,7 +1092,7 @@ south_american_cultures = {
     }
 }
 
-west_african = {
+blue_african = {
     leader = african
     is_overseas = no
     unit = AfricanGC
@@ -1114,7 +1114,7 @@ west_african = {
     }
 }
 
-central_african = {
+lake_african = {
     leader = african
     is_overseas = no
     unit = AfricanGC
@@ -1184,7 +1184,7 @@ central_african = {
     }
 }
 
-east_african = {
+cat_african = {
     leader = african
     is_overseas = no
     unit = AfricanGC
@@ -1205,7 +1205,7 @@ east_african = {
     }
 }
 
-southern_african = {
+red_african = {
     leader = african
     is_overseas = no
     unit = ZuluGC
