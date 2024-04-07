@@ -1542,11 +1542,9 @@ assimilation_chance = {
 #Assimilation for Russian pops after NOTRussia takes their decision
 	group = {
 		modifier = {
-			limit = {
 				country = {
 				has_country_flag = russia_moscovy
 				}
-			}
 			factor = 100.2
 			has_pop_culture = russian
 		}
@@ -1556,40 +1554,33 @@ assimilation_chance = {
 #Assimilation the great Lakes
 	group = {
 		modifier = {
-			limit = {
 				country = {
 				has_country_flag = african_great_lakes
 				}
-			}
 			factor = 400.5
 			has_pop_culture = lake_lunda
 		}
 	}
 	group = {
 		modifier = {
-			limit = {
 				country = {
 				has_country_flag = african_great_lakes
 				}
-			}
 			factor = 400.5
 			has_pop_culture = lake_fang
 		}
 	}
 	group = {
 		modifier = {
-			limit = {
 				country = {
 				has_country_flag = african_great_lakes
 				}
-			}
 			factor = 400.5
 			has_pop_culture = lake_mongo
 		}
 	}
 	group = {
 		modifier = {
-			limit = {
 				country = {
 					AND ={
 						NOT = { has_country_flag = kitara_nuer }
@@ -1597,7 +1588,6 @@ assimilation_chance = {
 					}
 				
 				}
-			}
 			factor = 400.5
 			has_pop_culture = lake_nuer
 		}

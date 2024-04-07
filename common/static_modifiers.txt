@@ -108,7 +108,7 @@ land_province = {
 
 blockaded = 
 {
-	war_exhaustion = 0.02
+	
 }
 
 no_adjacent_controlled = {
@@ -243,7 +243,7 @@ total_occupation = {
 }
 
 total_blockaded = {
-	war_exhaustion = 0.05				#increased by war exhaustion.  
+	war_exhaustion = 0.07				#increased by war exhaustion.  
 	prestige = -0.1
 }
 
