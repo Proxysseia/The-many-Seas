@@ -3,7 +3,7 @@ country_event = {
 	title = "State Sizing Early Game"
 
 	trigger = {
-		tag = LCT
+		tag = CHI
 		NOT = { has_country_modifier = sizing_cooldown }
 		NOT = { year = 1870 }
 	}
@@ -192,7 +192,7 @@ country_event = {
 	title = "State Sizing Mid Game"
 
 	trigger = {
-		tag = LCT
+		tag = CHI
 		NOT = { has_country_modifier = sizing_cooldown }
 		year = 1870
 		NOT = { year = 1900 }
@@ -377,7 +377,7 @@ country_event = {
 	title = "State Sizing Late Game"
 
 	trigger = {
-		tag = LCT
+		tag = CHI
 		NOT = { has_country_modifier = sizing_cooldown }
 		year = 1900
 	}

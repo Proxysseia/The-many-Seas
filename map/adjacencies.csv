@@ -78,15 +78,15 @@ From;To;Type;Through;Data;Comment
 ;;;;;
 1755;1756;land;2942;0;Suez strait
 ;;;;;
-916;915;sea;3102;0;Lebanon Strait
-902;915;sea;3102;0;Lebanon Strait
-914;915;sea;3102;0;Lebanon Strait
-914;903;sea;3102;0;Lebanon Strait
-914;904;sea;3102;0;Lebanon Strait
-900;904;sea;3102;0;Lebanon Strait
-900;897;sea;3102;0;Lebanon Strait
-900;898;sea;3102;0;Lebanon Strait
-900;896;sea;3102;0;Lebanon Strait
+916;915;sea;2770;0;Lebanon Strait
+902;915;sea;2770;0;Lebanon Strait
+914;915;sea;2770;0;Lebanon Strait
+914;903;sea;2770;0;Lebanon Strait
+914;904;sea;2770;0;Lebanon Strait
+900;904;sea;2770;0;Lebanon Strait
+900;897;sea;2770;0;Lebanon Strait
+900;898;sea;2770;0;Lebanon Strait
+900;896;sea;2770;0;Lebanon Strait
 ;;;;;
 #;;;;;
 # European Straits;;;;;
@@ -133,6 +133,7 @@ From;To;Type;Through;Data;Comment
 291;292;land;2732;0;Ipswich Cambridge
 280;269;sea;3289;0;Newcastle Edinburgh
 405;413;sea;3324;0;Charleville Verdun
+418;424;sea;2725;0;Britanny-France Strait
 369;539;sea;2721;0;Kiel Breem
 994;2715;sea;2714;0;
 2715;339;sea;2714;0;
@@ -2055,7 +2056,6 @@ From;To;Type;Through;Data;Comment
 3325;423;sea;0;0;
 3325;435;sea;0;0;
 3325;424;sea;0;0;
-3325;418;sea;0;0;
 3283;608;sea;0;0;
 3283;607;sea;0;0;
 3326;430;sea;0;0;

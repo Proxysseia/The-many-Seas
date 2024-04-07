@@ -189,12 +189,13 @@ SUD = "countries/Sudenely.txt"
 WHI = "countries/Whitehall.txt"
 
 #yeah
-LCT	= "countries/Liechtenstein.txt"
+LCT	    =   "countries/Liechtenstein.txt"
 TIN		= 	"countries/Tiny State.txt"
 SMA		= 	"countries/Small State.txt"
 MED		=	"countries/Medium State.txt"
 LRG		=	"countries/Large State.txt"
 HUG		=	"countries/Huge State.txt"
+
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions
 D01		= "countries/D01.txt"
