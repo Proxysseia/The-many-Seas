@@ -1,5 +1,5 @@
 leader = {
-	name = "David Chassé"
+	name = "David Chassï¿½"
 	date = 1806.1.1
 	type = land
 	personality = timid
@@ -49,31 +49,31 @@ army = {
 	
 	regiment = {
 		name= "1.Kings Gun"
-		type = artillery
+		type = cavalry
 		home = 1335
 	}
 
 	regiment = {
 		name= "2.Kings Gun"
-		type = artillery
+		type = cavalry
 		home = 1337
 	}
 
 	regiment = {
 		name= "3.Kings Gun"
-		type = artillery
+		type = cavalry
 		home = 1338
 	}
 
 	regiment = {
 		name= "4.Kings Gun"
-		type = artillery
+		type = cavalry
 		home = 1336
 	}
 	
 	regiment = {
 		name= "5.Kings Gun"
-		type = artillery
+		type = cavalry
 		home = 1339
 	}
 }
