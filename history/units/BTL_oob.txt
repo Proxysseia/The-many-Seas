@@ -1,17 +1,17 @@
 leader = {
-	name = "David Chassé"
+	name = "David Chasse"
 	date = 1806.1.1
 	type = land
-	personality = timid
-	background = school_of_defense
+	personality = speed+a_6
+	background = attack+1x_2
 	prestige = 0.3
 }
 leader = {
 	name = "Sulfur Addict"
 	date = 1806.1.1
 	type = land
-	personality = cautious
-	background = nationalist
+	personality = defence-1b
+	background = attack+3b
 	prestige = 0.3
 }
 army = {

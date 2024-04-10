@@ -2,8 +2,8 @@ leader = {
 	name = "Real David"
 	date = 1806.1.1
 	type = land
-	personality = daring
-	background = amateur
+	personality = speed--a_64
+	background = attack+3d
 	prestige = 0.3
 }
 
@@ -11,8 +11,8 @@ leader = {
 	name = "Fake David"
 	date = 1806.1.1
 	type = land
-	personality = brownnoser
-	background = able
+	personality = defence+3b
+	background = speed+a_6
 	prestige = 0.3
 }
 
@@ -20,8 +20,8 @@ leader = {
 	name = "Ambigous David"
 	date = 1806.1.1
 	type = land
-	personality = hellbent
-	background = cartographer
+	personality = defence+2a
+	background = attack+2a
 	prestige = 0.3
 }
 

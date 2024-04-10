@@ -2,7 +2,7 @@ leader = {
 	name = "JustSome Guy"
 	date = 1806.1.1
 	type = land
-	personality = timid
+	personality = speed+a_6
 	background = no_background
 	prestige = 0.3
 }

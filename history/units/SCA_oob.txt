@@ -1,9 +1,9 @@
 leader = {
-	name = "David Chass�"
+	name = "David Chasse"
 	date = 1806.1.1
 	type = land
-	personality = timid
-	background = school_of_defense
+	personality = speed+a_6
+	background = attack+1x_2
 	prestige = 0.3
 }
 
@@ -11,8 +11,8 @@ leader = {
 	name = "Winged Pope"
 	date = 1806.1.1
 	type = land
-	personality = skull_cracker
-	background = guhhhh
+	personality = defence-5a
+	background = attack+5a
 	prestige = 0.3
 }
 

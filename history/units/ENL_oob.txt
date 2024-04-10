@@ -2,8 +2,8 @@ leader = {
 	name = "David Chasse"
 	date = 1806.1.1
 	type = land
-	personality = timid
-	background = school_of_defense
+	personality = speed+a_6
+	background = attack+1x_2
 	prestige = 0.3
 }
 
@@ -11,8 +11,8 @@ leader = {
 	name = "John Fox Burgoyne"
 	date = 1836.1.1
 	type = land
-	personality = able
-	background = engineer
+	personality = speed+a_6
+	background = negativef
 	prestige = 0.0
 }
 
@@ -20,8 +20,8 @@ leader = {
 	name = "Raglan"
 	date = 1836.1.1
 	type = land
-	personality = mediocre
-	background = aristocrat
+	personality = organisation++a
+	background = attack+1v
 	prestige = 0.0
 }
 
@@ -29,8 +29,8 @@ leader = {
 	name = "Sir George Brown"
 	date = 1836.1.1
 	type = land
-	personality = harsh
-	background = cavalry_school
+	personality = defence+3b
+	background = attack+3b
 	prestige = 0.0
 }
 
@@ -38,8 +38,8 @@ leader = {
 	name = "James Dundas"
 	date = 1836.1.1
 	type = sea
-	personality = cautious
-	background = elderly
+	personality = defence-1b
+	background = attack+1w 
 	prestige = 0.0
 }
 
@@ -47,8 +47,8 @@ leader = {
 	name = "Thomas Cochrane"
 	date = 1832.1.1
 	type = sea
-	personality = charismatic
-	background = adventurer
+	personality = defence-1c
+	background = attack+1t_1
 	prestige = 0.1
 }
 
@@ -56,8 +56,8 @@ leader = {
 	name = "Sir Edward Codrington"
 	date = 1836.1.1
 	type = sea
-	personality = daring
-	background = expert_raider
+	personality = speed--a_64
+	background = attack+3e_2
 	prestige = 0.3
 }
 
@@ -65,8 +65,8 @@ leader = {
 	name = "Hugh Gough"
 	date = 1830.1.1
 	type = land
-	personality = dauntless
-	background = school_of_the_bayonet
+	personality = defence-2b
+	background = attack+4b
 	prestige = 0.1
 }
 
@@ -74,8 +74,8 @@ leader = {
 	name = "Sir George Cockburn"
 	date = 1812.1.1
 	type = sea
-	personality = earnest
-	background = old_school
+	personality = defence-1f_17
+	background = organisation+++a
 	prestige = 0.3
 }
 

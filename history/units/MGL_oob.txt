@@ -2,16 +2,16 @@ leader = {
 	name = "David Chasse"
 	date = 1806.1.1
 	type = land
-	personality = timid
-	background = school_of_defense
+	personality = speed+a_6
+	background = attack+1x_2
 	prestige = 0.3
 }
 leader = {
 	name = "Mini Ghengis"
 	date = 1806.1.1
 	type = land
-	personality = timid
-	background = school_of_defense
+	personality = speed+a_6
+	background = attack+1x_2
 	prestige = 0.3
 }
 

@@ -1,25 +1,25 @@
 leader = {
-	name = "David Chass�"
+	name = "David Chasse"
 	date = 1806.1.1
 	type = land
-	personality = timid
-	background = school_of_defense
+	personality = speed+a_6
+	background = attack+1x_2
 	prestige = 0.3
 }
 leader = {
         name = "Kar L"
         date = 1804.1.1
         type = land
-        personality = impulsive
-         background = madman
+        personality = defence-2d_18
+         background = attack-1i_2
         prestige = 0.2
 }
 leader = {
         name = "Sockuya"
         date = 1804.1.1
         type = land
-        personality = defiant
-         background = aristocrat
+        personality = defence-2c_18
+         background = attack+1v
         prestige = 0.2
 }
 army = {

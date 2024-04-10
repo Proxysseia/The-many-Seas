@@ -1,9 +1,9 @@
 leader = {
-	name = "David Chass�"
+	name = "David Chasse"
 	date = 1806.1.1
 	type = land
-	personality = timid
-	background = school_of_defense
+	personality = speed+a_6
+	background = attack+1x_2
 	prestige = 0.3
 }
 
@@ -11,8 +11,8 @@ leader = {
 	name = "Hermann von Boyen"
 	date = 1814.1.1
 	type = land
-	personality = intelligent
-	background = old_school
+	personality = defence+4b
+	background = organisation+++a
 	prestige = 0.2
 }
 
@@ -20,8 +20,8 @@ leader = {
 	name = "Wilhelm von Krauseneck"
 	date = 1814.1.1
 	type = land
-	personality = reserved
-	background = engineer
+	personality = morale++b_60
+	background = negativef
 	prestige = 0.2
 }
 

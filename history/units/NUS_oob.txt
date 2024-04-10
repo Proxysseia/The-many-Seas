@@ -2,7 +2,7 @@ leader = {
 	name = "Freedom Fighter"
 	date = 1806.1.1
 	type = land
-	personality = timid
-	background = school_of_defense
+	personality = speed+a_6
+	background = attack+1x_2
 	prestige = 0.3
 }

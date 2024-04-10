@@ -16,9 +16,8 @@ country_event = {
 	immediate = {
 		define_general = {
 			name = "Ryan Gosling"
-			personality = unflinching
-			#3/3 General
-			background = school_of_defense
+			personality = defence+3b					#3/3 General
+			background = attack+3b
 		}
 	}
 	option = {
@@ -44,9 +43,8 @@ country_event = {
 	immediate = {
 		define_admiral = {
 			name = "Naval Gosling"
-			personality = audacious
-			#3/2 Admiral
-			background = brownnoser
+			personality = defence+2b				#3/2 Admiral
+			background = attack+3b
 		}
 	}
 	option = {

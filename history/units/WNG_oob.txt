@@ -1,9 +1,9 @@
 leader = {
-	name = "David Chass�"
+	name = "David Chasse"
 	date = 1806.1.1
 	type = land
-	personality = timid
-	background = school_of_defense
+	personality = speed+a_6
+	background = attack+1x_2
 	prestige = 0.3
 }
 
@@ -11,8 +11,8 @@ leader = {
 	name = "Short Hills"
 	date = 1806.1.1
 	type = land
-	personality = merciless
-	background = madman
+	personality = defence+3b
+	background = attack-1i_2
 	prestige = 0.3
 }
 
@@ -20,8 +20,8 @@ leader = {
 	name = "Wawa Cat"
 	date = 1806.1.1
 	type = land
-	personality = daring
-	background = school_of_the_bayonet
+	personality = speed--a_64
+	background = attack+4b
 	prestige = 0.3
 }
 
