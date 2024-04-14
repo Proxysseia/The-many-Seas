@@ -58,6 +58,7 @@ political_decisions = {
 			}
 		}
 		effect = {
+			capital = 726
 			SAR_765 = { add_core = THIS}
 			add_accepted_culture = south_italian
 			change_tag = HEL

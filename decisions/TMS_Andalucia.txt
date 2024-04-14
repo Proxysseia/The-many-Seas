@@ -17,6 +17,27 @@ political_decisions = {
 			prestige = 20
 		}
 	}
+
+	andalucia_core_maghreb = {
+		picture = court_yard_speech
+		potential = {
+			tag = ALD
+			NOT = { has_country_flag = maghreb_cored }
+		}
+		allow = {
+			BNA = { all_core = { owned_by = THIS } }
+			MAS = { all_core = { owned_by = THIS } }
+			KAN = { all_core = { owned_by = THIS } }
+			war = no
+		}
+		effect = {
+			BNA = { all_core = { add_core =  ALD } }
+			MAS = { all_core = { add_core =  ALD } }
+			KAN = { all_core = { add_core =  ALD } }
+			set_country_flag = maghreb_cored
+		}
+	}
+
 	andalucia_conquer_fulo = {
 		picture = enact_dual_monarchy
 		potential = {
@@ -30,6 +51,21 @@ political_decisions = {
 		effect = {
 			FUL = { all_core = { add_core =  ALD } }
 			set_country_flag = fulo_conquered
+		}
+	}
+
+	concede_sicily = {
+		picture = custers_expedition
+		potential = {
+			tag = ALD
+			is_core = 763 
+		}
+		allow = {
+			NOT = { owns = 763 }
+			war = no
+		}
+		effect = {
+			SIC = { all_core = { remove_core =  ALD } }
 		}
 	}
 }
