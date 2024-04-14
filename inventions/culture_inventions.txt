@@ -691,7 +691,7 @@ darwinism = {
 	limit = { biologism = 1 }
 	news = no
 	chance = {
-		base = 25
+		base = 100
 		modifier = {
 			factor = 2
 			impressionism = 1
@@ -706,7 +706,7 @@ darwinism = {
 		}
 	}
 	effect = {
-		education_efficiency = 0.30 #0.50
+		education_efficiency = 0.20 #0.50
 	}
 }
 social_darwinism = {
