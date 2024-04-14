@@ -7,33 +7,10 @@ leader = {
 	prestige = 0.3
 }
 
+
 army = {
 	name = "1st Army"
-	location = 1886
-	regiment = {
-		name= "1.Kings Guard"
-		type = infantry
-		home = 1794
-	}
-
-	regiment = {
-		name= "2.Kings Guard"
-		type = infantry
-		home = 1900
-	}
-
-	regiment = {
-		name= "3.Kings Guard"
-		type = infantry
-		home = 1899
-	}
-
-	regiment = {
-		name= "4.Kings Guard"
-		type = infantry
-		home = 1906
-	}
-	
+	location = 1884
 	regiment = {
 		name= "1.Kings Horse"
 		type = hussar
@@ -45,29 +22,10 @@ army = {
 		type = artillery
 		home = 1797
 	}
-
 	regiment = {
 		name= "2.Kings Gun"
 		type = artillery
 		home = 1881
-	}
-
-	regiment = {
-		name= "3.Kings Gun"
-		type = artillery
-		home = 1887
-	}
-
-	regiment = {
-		name= "4.Kings Gun"
-		type = artillery
-		home = 1880
-	}
-	
-	regiment = {
-		name= "5.Kings Gun"
-		type = artillery
-		home = 1788
 	}
 }
 
@@ -83,7 +41,7 @@ army = {
 	regiment = {
 		name= "2.Kings Guard"
 		type = infantry
-		home = 2220
+		home = 2403
 	}
 
 	regiment = {
@@ -113,7 +71,7 @@ army = {
 	regiment = {
 		name= "2.Kings Gun"
 		type = artillery
-		home = 2347
+		home = 2600
 	}
 
 	regiment = {
@@ -183,19 +141,19 @@ army = {
 	regiment = {
 		name= "3.Kings Gun"
 		type = artillery
-		home = 2441
+		home = 2410
 	}
 
 	regiment = {
 		name= "4.Kings Gun"
 		type = artillery
-		home = 2447
+		home = 2430
 	}
 	
 	regiment = {
 		name= "5.Kings Gun"
 		type = artillery
-		home = 2450
+		home = 2436
 	}
 }
 
