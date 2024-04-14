@@ -62,6 +62,7 @@ political_decisions = {
 		}
 		allow = {
 			NOT = { owns = 763 }
+			year = 1860
 			war = no
 		}
 		effect = {
