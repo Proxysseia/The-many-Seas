@@ -63,7 +63,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 207157
+        size = 107157
     }
 
     farmers = {
@@ -1021,7 +1021,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 136867
+        size = 36867
     }
 
     farmers = {
@@ -1676,7 +1676,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 83809
+        size = 33809
     }
 
     farmers = {
@@ -1936,7 +1936,7 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 42943
+        size = 18943
     }
 
     farmers = {
@@ -2196,12 +2196,6 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 23982
-    }
-
-    farmers = {
-        culture = sorbian
-        religion = catholic
         size = 20124
     }
 
@@ -2348,13 +2342,7 @@
     artisans = {
         culture = czech
         religion = catholic
-        size = 14312
-    }
-
-    artisans = {
-        culture = czech
-        religion = catholic
-        size = 4312
+        size = 18312
     }
 
     soldiers = {
@@ -2366,7 +2354,7 @@
     farmers = {
         culture = czech
         religion = catholic
-        size = 66515
+        size = 16515
     }
 
     farmers = {
@@ -2612,12 +2600,6 @@
     }
 
     farmers = {
-        culture = czech
-        religion = catholic
-        size = 18253
-    }
-
-    farmers = {
         culture = polish
         religion = catholic
         size = 12699
@@ -2626,7 +2608,7 @@
     farmers = {
         culture = sorbian
         religion = catholic
-        size = 65330
+        size = 35330
     }
 
     farmers = {
