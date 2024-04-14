@@ -53,4 +53,24 @@ political_decisions = {
 			prestige = 10
 		}
 	}
+
+	colonise_east = {
+		picture = danmarks_riges_grundlov
+		potential =  {
+			is_culture_group = really_east_slavic
+			NOT = { has_country_flag = russia_colonial }
+		}
+		allow = {
+			war = no
+			medicine = 1
+		}
+		effect = {
+			RUS_1026 = { secede_province = THIS}
+			RUS_1060 = { secede_province = THIS}
+			prestige = 10
+			set_country_flag = russia_colonial
+		}
+	}
+	
+
 }

@@ -1365,21 +1365,21 @@ artisan_lumber = {
 	workforce = 10000
 }
 
-artisan_dye = {       
-	input_goods = {     
-		fruit = 5		
-	}
-	output_goods = dye 
-	value = 2.5			
-	owner = {
-		poptype = artisan 
-		effect = output
-	}
-	
-	type = artisan
-	
-	workforce = 10000
-}
+#artisan_dye = {       
+#	input_goods = {     
+#		fruit = 5		
+#	}
+#	output_goods = dye 
+#	value = 2.5			
+#	owner = {
+#		poptype = artisan 
+#		effect = output
+#	}
+#	
+#	type = artisan
+#	
+#	workforce = 10000
+#}
 
 artisan_fabric = {       
 	input_goods = {     
