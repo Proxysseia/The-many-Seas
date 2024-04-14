@@ -29,6 +29,7 @@ country_event = {
     option = {
         name = "It's never been more over"
         prestige = -40
+        KRD = { all_core = { remove_core =  THIS } }
 		remove_accepted_culture = kurdish
         set_country_flag = kerfuffle_l
     }
