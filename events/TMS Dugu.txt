@@ -1,0 +1,47 @@
+country_event = {
+	id = 198800
+	title = "The Capital Question"
+	desc = "We need to decide the new location of our capital. It looks like every option is going to upset someone"
+	fire_only_once = yes
+	
+	trigger = {
+		always = no
+	}
+	
+	option = {
+		name = "EVTOPTA198800"
+		capital = 2431
+		any_pop = {
+			limit = { culture = nossogene}
+				militancy = 2
+				consciousness = 2
+		}
+		any_pop = {
+			limit = { culture = bambara}
+				militancy = 2
+				consciousness = 2
+		}
+		prestige = 25
+	}
+	
+	option = {
+		name = "EVTOPTB198800"
+		capital = 2447
+		any_pop = {
+			limit = { culture = bambara}
+				militancy = 3
+				consciousness = 3
+		}
+		prestige = 25
+	}
+
+	option = {
+		name = "EVTOPTC198800"
+		any_pop = {
+			limit = { culture = nossogene}
+				militancy = 3
+				consciousness = 3
+		}
+		prestige = 25
+	}
+}

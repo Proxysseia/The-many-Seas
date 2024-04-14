@@ -3,7 +3,7 @@ political_decisions = {
 		picture = trail_of_tears
 		potential = {
 			tag = DUG
-			NOT = { has_country_flag = janeiran_accepted }
+			NOT = { accepted_culture = janeiran }
 		}
 		allow = {
 			nationalism_n_imperialism = 1
@@ -45,14 +45,13 @@ political_decisions = {
 			inherit = IGU
 			inherit = AKB
 			inherit = CHH
-			set_country_flag = janeiran_accepted
 		}
 	}
 	inca_accept_janeiran = {
 		picture = trail_of_tears
 		potential = {
 			tag = INC
-			NOT = { has_country_flag = janeiran_accepted }
+			NOT = { accepted_culture = janeiran }
 		}
 		allow = {
 			war = no
@@ -93,7 +92,6 @@ political_decisions = {
 			inherit = IGU
 			inherit = AKB
 			inherit = CHH
-			set_country_flag = janeiran_accepted
 		}
 	}
 	dugu_conquer_fulo = {
@@ -113,4 +111,21 @@ political_decisions = {
 			set_country_flag = fulo_conquered
 		}
 	}
+
+	dugu_move_capital = {
+		picture = support_biesterfelds
+		potential = {
+			tag = DUG
+			NOT = { has_country_flag = capital_moved }
+		}
+		allow = {
+			raider_group_doctrine = 1
+			war = no
+		}
+		effect = {
+			country_event = 198800
+			set_country_flag = capital_moved
+		}
+	}
+
 }
