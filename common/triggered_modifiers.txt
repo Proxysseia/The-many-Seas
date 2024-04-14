@@ -173,69 +173,41 @@ too_rich_nation = { # To destroy China
 	goods_demand = 0.40 # Make it that they cannot produce enough locally to outdo the THIRST for external goods
 }
 
-infamy_decay_1 = {
-	trigger = {
-		has_global_flag = infamy_decay_1
-	}
-	badboy = -0.05
-}	
 
-infamy_decay_2 = {
-	trigger = {
-		has_global_flag = infamy_decay_2
-	}
-	badboy = -0.1
+#########################################
+#			IGORS  MODIFIERS			#
+#########################################
+
+political_reformed_nation = {
+		trigger = {
+			exists = yes
+			slavery = no_slavery
+			upper_house_composition = population_equal_weight
+			vote_franschise = universal_voting
+			voting_system = proportional_representation
+			public_meetings = yes_meeting
+			press_rights = free_press
+			trade_unions = all_trade_unions
+			political_parties = secret_ballots
+		}
+		
+	political_reform_desire = -1.0
+	social_reform_desire = 0.5
+	icon = 13
 }
 
-infamy_decay_3 = {
-	trigger = {
-		has_global_flag = infamy_decay_3
-	}
-	badboy = -0.15
-}
-
-infamy_decay_4 = {
-	trigger = {
-		has_global_flag = infamy_decay_4
-	}
-	badboy = -0.2
-}
-
-infamy_decay_5 = {
-	trigger = {
-		has_global_flag = infamy_decay_5
-	}
-	badboy = -24.75
-}
-
-infamy_gain_1 = {
-	trigger = {
-		has_global_flag = infamy_gain_1
-		war = no
-	}
-	badboy = 0.05
-}
-
-infamy_gain_2 = {
-	trigger = {
-		has_global_flag = infamy_gain_2
-		war = no
-	}
-	badboy = 0.1
-}
-
-infamy_gain_3 = {
-	trigger = {
-		has_global_flag = infamy_gain_3
-		war = no
-	}
-	badboy = 0.15
-}
-
-infamy_gain_4 = {
-	trigger = {
-		has_global_flag = infamy_gain_4
-		war = no
-	}
-	badboy = 0.2
+social_reformed_nation = {
+		trigger = {
+			exists = yes
+			wage_reform = good_minimum_wage
+			work_hours = eight_hours
+			safety_regulations = good_safety
+			unemployment_subsidies = good_subsidies
+			pensions = good_pensions
+			health_care = good_health_care
+			school_reforms = good_schools
+		}
+		
+	social_reform_desire = -1.0
+	icon = 13
 }
