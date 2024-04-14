@@ -13,6 +13,8 @@ political_decisions = {
 		effect = {
 			prestige = 20
 			MCH = { all_core = { add_core =  KOR } }
+			MCH = { all_core = { remove_core =  CHI } }
+			
 			add_accepted_culture = mongol		
 		}
 	}
