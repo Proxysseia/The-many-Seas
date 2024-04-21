@@ -108,7 +108,6 @@ political_decisions = {
 			PES = {
 				all_core = {
 					add_core = DAN
-					remove_core = PES
 				}
 				annex_to = THIS
 			}
