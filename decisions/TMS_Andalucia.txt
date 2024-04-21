@@ -54,19 +54,19 @@ political_decisions = {
 		}
 	}
 
-	concede_sicily = {
-		picture = custers_expedition
-		potential = {
-			tag = ALD
-			is_core = 763 
-		}
-		allow = {
-			NOT = { owns = 763 }
-			year = 1860
-			war = no
-		}
-		effect = {
-			SIC = { all_core = { remove_core =  ALD } }
-		}
-	}
+#	concede_sicily = {
+#		picture = custers_expedition
+#		potential = {
+#			tag = ALD
+#			is_core = 763 
+#		}
+#		allow = {
+#			NOT = { owns = 763 }
+#			year = 1860
+#			war = no
+#		}
+#		effect = {
+#			SIC = { all_core = { remove_core =  ALD } }
+#		}
+#	}
 }
