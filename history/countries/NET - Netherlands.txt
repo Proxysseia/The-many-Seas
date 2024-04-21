@@ -1,7 +1,7 @@
 capital = 377
 primary_culture = lavlandish
 religion = protestant
-government = absolute_monarchy
+government = hms_government
 plurality = 30
 nationalvalue = nv_order
 literacy = 0.01
@@ -12,14 +12,14 @@ civilized = yes
 prestige = 50
 
 # Political reforms
-slavery = yes_slavery
+slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = none_voting
+vote_franschise = wealth_weighted_voting
 public_meetings = yes_meeting
-press_rights = state_press
+press_rights = censored_press
 trade_unions = no_trade_unions
 voting_system = first_past_the_post
-political_parties = underground_parties
+political_parties = harassment
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -33,8 +33,8 @@ school_reforms = no_schools
 ruling_party = HOL_conservative
 upper_house = {
 	fascist = 0
-	liberal = 1
-	conservative = 90
+	liberal = 39
+	conservative = 60
 	reactionary = 1
 	anarcho_liberal = 0
 	socialist = 0
