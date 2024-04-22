@@ -3,76 +3,76 @@
 #Last Updated February 14, 2016
 ###############################################################
 #Heater Torpedo
-heater_torpedo = {
-	limit = { advanced_naval_design = 1}
-	
-	chance = {
-		base = 1
-		modifier = {
-			factor = 4
-			invention = self_propelled_torpedoes
-		}
-		modifier = {
-			factor = 5
-			year = 1910
-		}
-		modifier = {
-			factor = 5
-			war = yes
-		}
-	}
-	
-	effect = {
-		cruiser = { 
-			torpedo_attack = 2
-		}
-	}
-}
+#heater_torpedo = {
+#	limit = { advanced_naval_design = 1}
+#	
+#	chance = {
+#		base = 1
+#		modifier = {
+#			factor = 4
+#			invention = self_propelled_torpedoes
+#		}
+#		modifier = {
+#			factor = 5
+#			year = 1910
+#		}
+#		modifier = {
+#			factor = 5
+#			war = yes
+#		}
+#	}
+#	
+#	effect = {
+#		cruiser = { 
+#			torpedo_attack = 2
+#		}
+#	}
+#}
 
 #Compressed Oxygen Torpedo
-compressed_oxygen_torpedo = {
-	limit = { modern_naval_design  = 1 }
-	
-	chance = {
-		base = 1
-		modifier = {
-			factor = 4
-			year = 1925
-		}
-		modifier = {
-			factor = 5
-			year = 1930
-		}
-	}
-	
-	effect = {
-		cruiser = { 
-			torpedo_attack = 2
-		}
-	}	
-}
+#compressed_oxygen_torpedo = {
+#	limit = { modern_naval_design  = 1 }
+#	
+#	chance = {
+#		base = 1
+#		modifier = {
+#			factor = 4
+#			year = 1925
+#		}
+#		modifier = {
+#			factor = 5
+#			year = 1930
+#		}
+#	}
+#	
+#	effect = {
+#		cruiser = { 
+#			torpedo_attack = 2
+#		}
+#	}	
+#}
 
 #Torpedo Tactics
-torpedo_tactics = {
-	limit = { blue_and_brown_water_schools  = 1}
-	
-	chance = {
-		base = 0
-		modifier = {
-			factor = 5
-			invention = self_propelled_torpedoes
-		}
-		modifier = {
-			factor = 5
-			war = yes
-		}
-
-	}
-	
-	effect = {
-		cruiser = { torpedo_attack = 1 }
-	}	
-}
+#torpedo_tactics = {
+#	limit = { blue_and_brown_water_schools  = 1}
+#	
+#	chance = {
+#		base = 0
+#		modifier = {
+#			factor = 5
+#			invention = self_propelled_torpedoes
+#		}
+#		modifier = {
+#			factor = 5
+#			war = yes
+#		}
+#
+#	}
+#	
+#	effect = {
+#		cruiser = { torpedo_attack = 1 }
+#	}	
+#}
 
 #Salvo Firing
 salvo_firing = {
@@ -112,57 +112,50 @@ gunnery_training_school = {
 }
 
 #Torpedo Training School
-torpedo_training_school = {
-	limit = { naval_risk_management = 1 }
-	
-	chance = {
-		base = 5
-		modifier = {
-			factor = 2
-			invention = self_propelled_torpedoes
-		}
-	}
-	effect = {
-		cruiser = { 
-			torpedo_attack = 2 
-		}
-	}	
-}
+#torpedo_training_school = {
+#	limit = { naval_risk_management = 1 }
+#	
+#	chance = {
+#		base = 5
+#		modifier = {
+#			factor = 2
+#			invention = self_propelled_torpedoes
+#		}
+#	}
+#	effect = {
+#		cruiser = { 
+#			torpedo_attack = 2 
+#		}
+#	}	
+#}
 
 #Torpedo Night Training
-
-torpedo_night_training = {
-	limit = { modern_naval_training = 1}
-	
-	chance = {
-		base = 0
-		modifier = {
-			factor = 6
-			invention = self_propelled_torpedoes
-		}
-		modifier = {
-			factor = 2
-			invention = torpedo_training_school
-		}
-		modifier = {
-			factor = 2
-			invention = torpedo_tactics
-		}
-
-	}
-	
-	effect = {
-
-		commerce_raider = { 
-			torpedo_attack = 1 
-		}
-		cruiser = { 
-			torpedo_attack = 2 
-		}
-
-	}	
-
-}
+# torpedo_night_training = {
+# 	limit = { modern_naval_training = 1}	
+# 	chance = {
+# 		base = 0
+# 		modifier = {
+# 			factor = 6
+# 			invention = self_propelled_torpedoes
+# 		}
+# 		modifier = {
+# 			factor = 2
+# 			invention = torpedo_training_school
+# 		}
+# 		modifier = {
+# 			factor = 2
+# 			invention = torpedo_tactics
+# 		}
+# 	}	
+# 	effect = {
+# 		commerce_raider = { 
+# 			torpedo_attack = 1 
+# 		}
+# 		cruiser = { 
+# 			torpedo_attack = 2 
+# 		}
+# 	}	
+# }
 
 #8-in Secondary Guns
 8in_secondary_guns = {

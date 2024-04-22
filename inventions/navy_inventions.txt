@@ -490,34 +490,34 @@ monitors = {
 		activate_unit = monitor 
 	}
 }
-torpedo_boats = {
-	limit = { iron_steamers = 1 }
-	chance = {
-		base = 1
-		modifier = {
-			factor = 59
-			invention = self_propelled_torpedoes
-		}
-		modifier = {
-			factor = 20
-			invention = torpedo_tactics
-		}
-		modifier = {
-			factor = 10
-			invention = torpedo_training_school
-		}
-		modifier = {
-			factor = 10
-			naval_decision_making = 1
-		}
-	}
-	effect = {
-		commerce_raider = {
-			hull = 4
-			torpedo_attack = 2
-		}
-	}
-}
+#torpedo_boats = {
+#	limit = { iron_steamers = 1 }
+#	chance = {
+#		base = 1
+#		modifier = {
+#			factor = 59
+#			invention = self_propelled_torpedoes
+#		}
+#		modifier = {
+#			factor = 20
+#			invention = torpedo_tactics
+#		}
+#		modifier = {
+#			factor = 10
+#			invention = torpedo_training_school
+#		}
+#		modifier = {
+#			factor = 10
+#			naval_decision_making = 1
+#		}
+#	}
+#	effect = {
+#		commerce_raider = {
+#			hull = 4
+#			torpedo_attack = 2
+#		}
+#	}
+#}
 #steel_steamers
 protected_cruisers = {
 	limit = { steel_steamers = 1 }
@@ -909,34 +909,34 @@ rifled_guns = {
 		}		
 	}
 }
-self_propelled_torpedoes = {
-	limit = { 
-		weapon_platforms = 1
-		year = 1860 
-	}
-	chance = {
-		base = 0
-		modifier = {
-			factor = 10
-			invention = torpedo_gyroscope
-		}
-		modifier = {
-			factor = 10
-			war = yes
-			any_neighbor_country = {
-				invention = self_propelled_torpedoes
-			}
-		}
-		modifier = {
-			factor = -1
-			NOT = { year = 1860 }
-		}
-	}
-	effect = {
-		cruiser = { torpedo_attack = 3 }
-		shared_prestige = 20
-	}
-}
+#self_propelled_torpedoes = {
+#	limit = { 
+#		weapon_platforms = 1
+#		year = 1860 
+#	}
+#	chance = {
+#		base = 0
+#		modifier = {
+#			factor = 10
+#			invention = torpedo_gyroscope
+#		}
+#		modifier = {
+#			factor = 10
+#			war = yes
+#			any_neighbor_country = {
+#				invention = self_propelled_torpedoes
+#			}
+#		}
+#		modifier = {
+#			factor = -1
+#			NOT = { year = 1860 }
+#		}
+#	}
+#	effect = {
+#		cruiser = { torpedo_attack = 3 }
+#		shared_prestige = 20
+#	}
+#}
 armour_piercing_projectiles = {
 	limit = { weapon_platforms = 1 }
 	chance = {
@@ -1270,7 +1270,7 @@ advanced_fire_control = {
 		}
 		cruiser = {
 			gun_power = 2
-			torpedo_attack = 2
+			#torpedo_attack = 2
 		}
 	}
 }
