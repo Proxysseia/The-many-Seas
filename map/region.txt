@@ -141,21 +141,15 @@ SWE_329 = { 328 327 323 330 } #Goteburg
 
 SWE_334 = { 334 332 331 333 335 } #Malmo
 
-RUS_336 = { 336 338 982 } #Northern Finland
+RUS_343 = { 343 344 341 3315 345 346 347 336 338 982 } #Helsinki
 
-RUS_343 = { 343 344 341 3315 345 346 347 } #Helsinki
-
-RUS_339 = { 984 2587 983 337 } #Karelia
-
-RUS_345 = { } #Turku
+RUS_339 = { 984 2587 983 337 339 340 1006 342 } #Karelia
 
 DEN_367 = { 367 366 2557 348 } #Jylland
 
 HOL_369 = { 369 370 371 528 530 } #Holstein
 
 DEN_372 = { 372 373 374 533 } #Sjaelland
-
-FIN_339 = { 339 340 1006 342 }
 
 
 ### Kouderhagen

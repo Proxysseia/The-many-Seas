@@ -8,60 +8,22 @@ political_decisions = {
 		
 		allow = {
 			war = no
-			343 = { 
-					OR = {
-						owned_by = THIS
-						owner = {
-								OR = {
-									in_sphere = THIS
-									vassal_of = THIS
-								}
-							}
-				}
-			}
-			
-			EST = { 
-				all_core = { 
-					OR = {
-						owned_by = THIS
-						owner = {
-								OR = {
-									in_sphere = THIS
-									vassal_of = THIS
-								}
-						}
-					}
-				}
-			}
-		
-			NEN = { 
-				all_core = { 
-					OR = {
-						owned_by = THIS
-						owner = {
-								OR = {
-									in_sphere = THIS
-									vassal_of = THIS
-								}
-						}
-					}
-				}
-			}
-
-			SCA = { 
-				all_core = { 
-						owned_by = THIS
-						}
-				}
+			FIN = { all_core = { owned_by = THIS } }
+			EST = { all_core = { owned_by = THIS } }
+			NEN = { all_core = { owned_by = THIS } }
+			SCA = { all_core = { owned_by = THIS } }
 		}
 
 		effect = {
 			prestige = 20
 			change_tag = SWE
 
-			FIN = { annex_to = THIS }
-			EST = { annex_to = THIS }
-			NEN = { annex_to = THIS }
+			add_accepted_culture = danish
+			add_accepted_culture = finnish
+
+			#FIN = { annex_to = THIS }
+			#EST = { annex_to = THIS }
+			#NEN = { annex_to = THIS }
 
 			FIN = { all_core = { add_core =  SWE } }
 			EST = { all_core = { add_core =  SWE } }
@@ -71,11 +33,7 @@ political_decisions = {
 			FIN = { all_core = { remove_core =  FIN } }
 			EST = { all_core = { remove_core =  EST } }
 			# NEN = { all_core = { remove_core =  NEN } }
-			SCA = { all_core = { remove_core =  SCA } }
-			
-			add_accepted_culture = danish
-			add_accepted_culture = finnish
-			
+			SCA = { all_core = { remove_core =  SCA } }		
 		}
 	}
 	
