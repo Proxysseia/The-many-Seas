@@ -78,12 +78,12 @@ country_event = {                                        #ENL Cairo Upgrade
         prestige = 10
         add_country_modifier = {
             name = enl_vassal_upgrade
-            duration = 3650
+            duration = 7300
         }
         128 = {
                 add_province_modifier = {
                     name = enl_upgrade_info
-                    duration = 3650
+                    duration = 7300
                 }
         }
     }
@@ -164,12 +164,12 @@ country_event = {                                        #ENL Vassal Upgrade
         prestige = 10
         add_country_modifier = {
             name = enl_vassal_upgrade
-            duration = 3650
+            duration = 7300
         }
         60 = {
                 add_province_modifier = {
                     name = enl_upgrade_info
-                    duration = 3650
+                    duration = 7300
                 }
         }
     }
@@ -250,12 +250,12 @@ country_event = {                                        #ENL Vassal Upgrade
         prestige = 10
         add_country_modifier = {
             name = enl_vassal_upgrade
-            duration = 3650
+            duration = 7300
         }
         742 = {
                 add_province_modifier = {
                     name = enl_upgrade_info
-                    duration = 3650
+                    duration = 7300
                 }
         }
     }
@@ -336,12 +336,12 @@ country_event = {                                        #ENL Vassal Upgrade
         prestige = 10
         add_country_modifier = {
             name = enl_vassal_upgrade
-            duration = 3650
+            duration = 7300
         }
         2494 = {
                 add_province_modifier = {
                     name = enl_upgrade_info
-                    duration = 3650
+                    duration = 7300
                 }
         }
     }
@@ -422,12 +422,12 @@ country_event = {                                        #ENL Vassal Upgrade
         prestige = 10
         add_country_modifier = {
             name = enl_vassal_upgrade
-            duration = 3650
+            duration = 7300
         }
         2484 = {
                 add_province_modifier = {
                     name = enl_upgrade_info
-                    duration = 3650
+                    duration = 7300
                 }
         }
     }
@@ -508,12 +508,12 @@ country_event = {                                        #ENL Vassal Upgrade
         prestige = 10
         add_country_modifier = {
             name = enl_vassal_upgrade
-            duration = 3650
+            duration = 7300
         }
         471 = {
                 add_province_modifier = {
                     name = enl_upgrade_info
-                    duration = 3650
+                    duration = 7300
                 }
         }
     }

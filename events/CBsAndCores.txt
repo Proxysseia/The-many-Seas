@@ -1262,7 +1262,7 @@ province_event = {
             is_primary_culture = yes
             is_accepted_culture = yes
         }
-        any_neighbor_province = { is_core = THIS }
+        # any_neighbor_province = { is_core = THIS }
         owner = {
             NOT = { has_country_modifier = interment_camps }
             civilized = yes
@@ -1271,7 +1271,7 @@ province_event = {
     }
 
     mean_time_to_happen = {
-        months = 180
+        months = 18
         modifier = {
             factor = 0.75
             owner = { nationalism_n_imperialism = 1 }
@@ -1320,7 +1320,6 @@ province_event = {
 
     trigger = {
         is_core = THIS
-        is_overseas = no
         any_core = {
             exists = yes
             NOT = { tag = THIS }
