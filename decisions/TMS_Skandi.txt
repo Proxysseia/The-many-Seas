@@ -55,7 +55,7 @@ Our_Southern_Brothers = {
 		}
 		effect = {
 			HAN = { annex_to = THIS }
-			HAN = { all_core = { add_core =  SCA } }
+			HAN = { all_core = { add_core =  THIS } }
 			#HAN = { all_core = { remove_core =  HAN } }
 			add_accepted_culture = flanish
 		}
