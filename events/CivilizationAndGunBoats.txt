@@ -1,0 +1,42 @@
+#Wind of Westernization
+country_event = {
+	id = 13000
+	title = "EVTNAME13000"
+	desc = "EVTDESC13000"
+	picture = "Western"
+
+	trigger = {
+		civilized = no
+		is_independant = yes
+		#part_of_sphere = no
+		NOT = {
+			has_country_modifier = western_influences
+			has_country_modifier = uncivilized_isolationism
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 12
+	}
+
+	option = {
+		name = "EVTOPTA13000"
+		add_country_modifier = {
+			name = "western_influences"
+			duration = -1
+		}
+		ai_chance = {
+			factor = 1
+		}
+	}
+	option = {
+		name = "EVTOPTB13000"
+		add_country_modifier = {
+			name = "uncivilized_isolationism"
+			duration = -1
+		}
+		ai_chance = {
+			factor = 0.25
+		}
+	}
+}

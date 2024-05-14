@@ -481,6 +481,7 @@ add_to_sphere = {
 
 	can_use = {
 		NOT = { tag = LCT }
+		NOT = { tag = CHI }
 		THIS = {
 			NOT = { has_country_flag = conquerable_1865 }
 		}
