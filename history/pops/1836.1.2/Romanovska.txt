@@ -3,55 +3,55 @@
     aristocrats = {
         culture = novosibiryaki
         religion = orthodox
-        size = 7500
+        size = 9000
     }
 
     clergymen = {
         culture = novosibiryaki
         religion = orthodox
-        size = 200
+        size = 240
     }
 
     bureaucrats = {
         culture = novosibiryaki
         religion = orthodox
-        size = 200
+        size = 240
     }
 
     artisans = {
         culture = novosibiryaki
         religion = orthodox
-        size = 12000
+        size = 14400
     }
 
     soldiers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 17850
+        size = 21420
     }
 
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 245100
+        size = 294120
     }
 
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 130490
+        size = 156588
     }
 
     craftsmen = {
         culture = novosibiryaki
         religion = orthodox
-        size = 12600
+        size = 15120
     }
 
     clerks = {
         culture = novosibiryaki
         religion = orthodox
-        size = 400
+        size = 480
     }
 }
 #Naryn
@@ -59,49 +59,49 @@
     aristocrats = {
         culture = novosibiryaki
         religion = orthodox
-        size = 1650
+        size = 1980
     }
 
     clergymen = {
         culture = novosibiryaki
         religion = orthodox
-        size = 200
+        size = 240
     }
 
     bureaucrats = {
         culture = novosibiryaki
         religion = orthodox
-        size = 50
+        size = 60
     }
 
     artisans = {
         culture = novosibiryaki
         religion = orthodox
-        size = 2000
+        size = 2400
     }
 
     soldiers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 4250
+        size = 5100
     }
 
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 85100
+        size = 102120
     }
 
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 50490
+        size = 60588
     }
 
     clerks = {
         culture = novosibiryaki
         religion = orthodox
-        size = 200
+        size = 240
     }
 }
 #Ekaterinburg
@@ -109,55 +109,55 @@
     aristocrats = {
         culture = novosibiryaki
         religion = orthodox
-        size = 1600
+        size = 1920
     }
 
     bureaucrats = {
         culture = novosibiryaki
         religion = orthodox
-        size = 550
+        size = 660
     }
 
     officers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 450
+        size = 540
     }
 
     clergymen = {
         culture = novosibiryaki
         religion = orthodox
-        size = 1000
+        size = 1200
     }
 
     artisans = {
         culture = novosibiryaki
         religion = orthodox
-        size = 20000
+        size = 24000
     }
 
     artisans = {
         culture = novosibiryaki
         religion = orthodox
-        size = 9900
+        size = 11880
     }
 
     soldiers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 3400
+        size = 4080
     }
 
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 51500
+        size = 61800
     }
 
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 70000
+        size = 84000
     }
 }
 #Chelyabinsk
@@ -165,31 +165,31 @@
     aristocrats = {
         culture = novosibiryaki
         religion = orthodox
-        size = 1300
+        size = 1560
     }
 
     clergymen = {
         culture = novosibiryaki
         religion = orthodox
-        size = 1100
+        size = 1320
     }
 
     artisans = {
         culture = novosibiryaki
         religion = orthodox
-        size = 6500
+        size = 7800
     }
 
     soldiers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 4250
+        size = 5100
     }
 
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 122800
+        size = 147360
     }
 }
 #Orsk (180000/45000 POPS)
@@ -197,31 +197,31 @@
     aristocrats = {
         culture = novosibiryaki
         religion = orthodox
-        size = 4900
+        size = 5880
     }
 
     clergymen = {
         culture = novosibiryaki
         religion = orthodox
-        size = 1000
+        size = 1200
     }
 
     artisans = {
         culture = novosibiryaki
         religion = orthodox
-        size = 10500
+        size = 12600
     }
 
     soldiers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 6800
+        size = 8160
     }
 
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 117700
+        size = 141240
     }
 }
 #Vyterga (96000/24000 POPS)
@@ -229,31 +229,31 @@
     aristocrats = {
         culture = novosibiryaki
         religion = orthodox
-        size = 850
+        size = 1020
     }
 
     clergymen = {
         culture = novosibiryaki
         religion = orthodox
-        size = 500
+        size = 600
     }
 
     artisans = {
         culture = novosibiryaki
         religion = orthodox
-        size = 5900
+        size = 7080
     }
 
     soldiers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 2550
+        size = 3060
     }
 
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 84700
+        size = 101640
     }
 }
 #Turgay (20000/5000 POPS)
@@ -261,31 +261,31 @@
     aristocrats = {
         culture = novosibiryaki
         religion = orthodox
-        size = 2850
+        size = 3420
     }
 
     clergymen = {
         culture = novosibiryaki
         religion = orthodox
-        size = 1300
+        size = 1560
     }
 
     artisans = {
         culture = novosibiryaki
         religion = orthodox
-        size = 7900
+        size = 9480
     }
 
     soldiers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 4250
+        size = 5100
     }
 
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 103320
+        size = 123984
     }
 }
 #Aksarka
@@ -293,19 +293,19 @@
     clergymen = {
         culture = novosibiryaki
         religion = orthodox
-        size = 350
+        size = 420
     }
 
     soldiers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 850
+        size = 1020
     }
 
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 63650
+        size = 76380
     }
 }
 #Yar Sale
@@ -313,30 +313,30 @@
     aristocrats = {
         culture = novosibiryaki
         religion = orthodox
-        size = 1000
+        size = 1200
     }
 
     clergymen = {
         culture = novosibiryaki
         religion = orthodox
-        size = 100
+        size = 120
     }
 
     artisans = {
         culture = novosibiryaki
         religion = orthodox
-        size = 2000
+        size = 2400
     }
 
     soldiers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 510
+        size = 612
     }
 
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 30500
+        size = 36600
     }
 }
