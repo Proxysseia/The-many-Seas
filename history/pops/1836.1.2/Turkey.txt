@@ -2191,50 +2191,9 @@
     farmers = {
         culture = turkish
         religion = sunni
-        size = 16312
+        size = 46312
     }
 
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 450
-    }
-
-    bureaucrats = {
-        culture = kurdish
-        religion = sunni
-        size = 225
-    }
-
-    officers = {
-        culture = kurdish
-        religion = sunni
-        size = 150
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 300
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 1650
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 2887
-    }
-
-    farmers = {
-        culture = kurdish
-        religion = sunni
-        size = 26025
-    }
 }
 #Erzincan (312000/78000 POPS)
 888 = {
@@ -2363,43 +2322,13 @@
     soldiers = {
         culture = turkish
         religion = sunni
-        size = 393
+        size = 1393
     }
 
     farmers = {
         culture = turkish
         religion = sunni
-        size = 15150
-    }
-
-    aristocrats = {
-        culture = kurdish
-        religion = sunni
-        size = 562
-    }
-
-    clergymen = {
-        culture = kurdish
-        religion = sunni
-        size = 150
-    }
-
-    artisans = {
-        culture = kurdish
-        religion = sunni
-        size = 1725
-    }
-
-    soldiers = {
-        culture = kurdish
-        religion = sunni
-        size = 983
-    }
-
-    farmers = {
-        culture = kurdish
-        religion = sunni
-        size = 31312
+        size = 45150
     }
 }
 #Cilicia Region (540000)
@@ -2649,91 +2578,91 @@
 #Antep (248000/62000 POPS)
 898 = {
     aristocrats = {
-        culture = turkish
+        culture = saayda
         religion = sunni
         size = 450
     }
 
     clergymen = {
-        culture = turkish
+        culture = saayda
         religion = sunni
         size = 350
     }
 
     artisans = {
-        culture = turkish
+        culture = saayda
         religion = sunni
         size = 1750
     }
 
     soldiers = {
-        culture = turkish
+        culture = saayda
         religion = sunni
         size = 1500
     }
 
     soldiers = {
-        culture = turkish
+        culture = saayda
         religion = sunni
         size = 212
     }
 
     farmers = {
-        culture = turkish
+        culture = saayda
         religion = sunni
         size = 29025
     }
 
     aristocrats = {
-        culture = kurdish
+        culture = saayda
         religion = sunni
         size = 250
     }
 
     clergymen = {
-        culture = kurdish
+        culture = saayda
         religion = sunni
         size = 175
     }
 
     artisans = {
-        culture = kurdish
+        culture = saayda
         religion = sunni
         size = 850
     }
 
     soldiers = {
-        culture = kurdish
+        culture = saayda
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = kurdish
+        culture = saayda
         religion = sunni
         size = 15525
     }
 
     soldiers = {
-        culture = turkish
+        culture = saayda
         religion = coptic
         size = 55
     }
 
     clergymen = {
-        culture = turkish
+        culture = saayda
         religion = coptic
         size = 110
     }
 
     artisans = {
-        culture = turkish
+        culture = saayda
         religion = coptic
         size = 500
     }
 
     farmers = {
-        culture = turkish
+        culture = saayda
         religion = coptic
         size = 9425
     }
@@ -2771,61 +2700,55 @@
     }
 
     aristocrats = {
-        culture = kurdish
+        culture = turkish
         religion = sunni
         size = 525
     }
 
     clergymen = {
-        culture = kurdish
+        culture = turkish
         religion = sunni
         size = 150
     }
 
     artisans = {
-        culture = kurdish
+        culture = turkish
         religion = sunni
         size = 2100
     }
 
     soldiers = {
-        culture = kurdish
+        culture = turkish
         religion = sunni
         size = 852
     }
 
     farmers = {
-        culture = kurdish
+        culture = turkish
         religion = sunni
         size = 38475
     }
 
     aristocrats = {
-        culture = saayda
+        culture = turkish
         religion = sunni
         size = 600
     }
 
     clergymen = {
-        culture = saayda
+        culture = turkish
         religion = sunni
         size = 412
     }
 
     artisans = {
-        culture = saayda
+        culture = turkish
         religion = sunni
         size = 2550
     }
 
-    soldiers = {
-        culture = saayda
-        religion = sunni
-        size = 983
-    }
-
     farmers = {
-        culture = saayda
+        culture = turkish
         religion = sunni
         size = 49725
     }
