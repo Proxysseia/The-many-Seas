@@ -63,6 +63,10 @@ political_decisions = {
 		allow = {
 			war = no
 			medicine = 1
+			OR = {
+				owns = 389
+				owns = 1059
+			}
 		}
 		effect = {
 			RUS_1026 = { secede_province = THIS}
