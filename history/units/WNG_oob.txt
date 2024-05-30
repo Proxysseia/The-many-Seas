@@ -25,6 +25,33 @@ leader = {
 	prestige = 0.3
 }
 
+leader = {
+	name = "Water Gato"
+	date = 1836.1.1
+	type = sea
+	personality = speed--a_64
+	background = attack+3e_2
+	prestige = 0.3
+}
+
+leader = {
+	name = "Jaguan Makalo"
+	date = 1830.1.1
+	type = land
+	personality = defence-2b
+	background = attack+4b
+	prestige = 0.1
+}
+
+leader = {
+	name = "Kabili Phiri"
+	date = 1812.1.1
+	type = sea
+	personality = defence-1f_17
+	background = organisation+++a
+	prestige = 0.3
+}
+
 army = {
 	name = "1st Army"
 	location = 233
@@ -190,5 +217,135 @@ army = {
 		name= "5.Kings Gun"
 		type = artillery
 		home = 132
+	}
+}
+navy = {
+	name = "1st Fleet"
+	location = 244
+	ship = {
+		name= "Venus"
+		type = manowar
+	}
+
+	ship = {
+		name= "Venus"
+		type = manowar
+	}
+
+	ship = {
+		name= "Venus"
+		type = manowar
+	}
+
+	ship = {
+		name= "Venus"
+		type = manowar
+	}
+
+	ship = {
+		name= "1. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5. Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "6. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "7. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "10. Transport"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "2nd Fleet"
+	location = 213
+	ship = {
+		name= "Venus"
+		type = manowar
+	}
+
+	ship = {
+		name= "1. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5. Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "6. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "7. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9. Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "10. Transport"
+		type = clipper_transport
 	}
 }
