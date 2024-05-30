@@ -25,7 +25,7 @@ hussar = {
 	build_cost = {
 		small_arms = 37 #10
 		canned_food = 5
-		luxury_clothes = 3
+	#	luxury_clothes = 3
 	}
 	
 	supply_consumption = 1.0
