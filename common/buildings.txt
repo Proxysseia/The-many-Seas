@@ -701,7 +701,7 @@ naval_base = {
 	province = yes
 	one_per_state = yes
 	colonial_range = 50
-	local_ship_build = -0.05
+	#local_ship_build = -0.05
 }
        
 railroad = {   
