@@ -1254,29 +1254,30 @@ gun_hydraulics = {
 # 		}
 # 	}
 # }
-# # 15_inch_main_armament = {
-# # 	limit = { modern_naval_design = 1 }
-# # 	chance = {
-# # 		base = 2
-# # 		modifier = {
-# # 			factor = 1
-# # 			advanced_metallurgy = 1
-# # 		}
-# # 		modifier = {
-# # 			factor = 2
-# # 			cheap_steel = 1
-# # 		}
-# # 		modifier = {
-# # 			factor = 1
-# # 			indirect_artillery_fire = 1
-# # 		}
-# # 	}
-# # 	effect = {
-# # 		dreadnought = {
-# # 			gun_power = 4
-# # 		}
-# # 	}
-# # }
+15_inch_main_armament = {
+	limit = { modern_naval_design = 1 }
+	chance = {
+		base = 15
+		modifier = {
+			factor = 1
+			advanced_metallurgy = 1
+		}
+		modifier = {
+			factor = 2
+			cheap_steel = 1
+		}
+		modifier = {
+			factor = 1
+			indirect_artillery_fire = 1
+		}
+	}
+	effect = {
+		dreadnought = {
+			hull = 15
+			gun_power = 15
+		}
+	}
+}
 # #naval_plans
 # night_training = {
 # 	limit = { naval_plans = 1 }
@@ -1693,25 +1694,22 @@ wargames = {
 		}
 	}
 }
-alternative_plans = {
-	limit = { naval_risk_management = 1 }
-	chance = {
-		base = 10
-		# modifier = {
-		# 	factor = 1
-		# 	invention = academic_training
-		# }
-		modifier = {
-			factor = 2
-			high_sea_battle_fleet = 1
-		}
-	}
-	effect = {
-		navy_base = {
-			naval_unit_start_experience = 5
-		}
-	}
-}
+# alternative_plans = {
+# 	limit = { naval_risk_management = 1 }
+# 	chance = {
+# 		base = 10
+# 		modifier = {
+# 			factor = 2
+# 			high_sea_battle_fleet = 1
+# 		}
+# 	}
+# 	effect = {
+# 		navy_base = {
+# 			naval_unit_start_experience = 5
+# 			prestige = 1
+# 		}
+# 	}
+# }
 
 # n_saddle_orders = {
 # 	limit = { naval_risk_management = 1 }
@@ -1752,25 +1750,22 @@ literate_ncos = {
 		}
 	}
 }
-nco_combat_station_training = {
-	limit = { naval_nco_training = 1 }
-	chance = {
-		base = 10
-		# modifier = {
-		# 	factor = 2
-		# 	invention = combat_station_training
-		# }
-		modifier = {
-			factor = 2
-			naval_directionism = 1
-		}
-	}
-	effect = {
-		navy_base = {
-			naval_unit_start_experience = 5
-		}
-	}
-}
+# nco_combat_station_training = {
+# 	limit = { naval_nco_training = 1 }
+# 	chance = {
+# 		base = 10
+# 		modifier = {
+# 			factor = 2
+# 			naval_directionism = 1
+# 		}
+# 	}
+# 	effect = {
+# 		navy_base = {
+# 			naval_unit_start_experience = 5
+# 			prestige = 1
+# 		}
+# 	}
+# }
 # nco_tactical_training = {
 # 	limit = { naval_nco_training = 1 }
 # 	chance = {

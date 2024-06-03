@@ -6,6 +6,15 @@ leader = {
 	background = attack+1x_2
 	prestige = 0.3
 }
+leader = {
+	name = "John Fox Burgoyne"
+	date = 1836.1.1
+	type = sea
+	personality = speed+a_6
+	background = negativef
+	prestige = 0.0
+}
+
 army = {
 	name = "1st Army"
 	location = 304
