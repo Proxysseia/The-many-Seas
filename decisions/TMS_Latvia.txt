@@ -10,27 +10,27 @@ political_decisions = {
 			SEV = {
 				all_core = { owned_by = THIS }
 			}
-			MUS = {
-				all_core = { owned_by = THIS }
-			}
+			# MUS = {
+			# 	all_core = { owned_by = THIS }
+			# }
 			SMO = {
 				all_core = { owned_by = THIS }
 			}
 			war = no
 		}
 		effect = {
-			RUS_943 = { add_core = THIS}
-			949 = { add_core = THIS }
-			962 = { add_core = THIS }
-			1016 = { add_core = THIS }
-			1017 = { add_core = THIS } #Latvians in Severia
+			# RUS_943 = { add_core = THIS}
+			# 949 = { add_core = THIS }
+			# 962 = { add_core = THIS }
+			# 1016 = { add_core = THIS }
+			# 1017 = { add_core = THIS } #Latvians in Severia
 			SEV = { all_core = { add_core =  LAT } }
 			SEV = { all_core = { remove_core =  SEV } }	
+			SMO = { all_core = { add_core =  LAT } }
+			SMO = { all_core = { remove_core =  SMO } }
 			998 = { add_core = THIS }
 			1005 = { add_core = THIS } #Latvians in Nenets
 			1010 = { add_core = THIS } #Latvians in Moscow
-			SMO = { all_core = { add_core =  LAT } }
-			SMO = { all_core = { remove_core =  SMO } }
 			prestige = 15
 			set_country_flag = latvians_in_russia
 		}
