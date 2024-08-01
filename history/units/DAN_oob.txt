@@ -25,6 +25,24 @@ leader = {
 	prestige = 0.2
 }
 
+leader = {
+	name = "Christian Mergenthaler"
+	date = 1814.1.1
+	type = land
+	personality = morale++b_60
+	background = morale+++a_2
+	prestige = 0.2
+}
+
+leader = {
+	name = "Edmund von Brudeman"
+	date = 1814.1.1
+	type = land
+	personality = defence-2c
+	background = attack+1a
+	prestige = 0.2
+}
+
 PES = {
 	value = 200
 	influence_value = 100

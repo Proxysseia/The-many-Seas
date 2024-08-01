@@ -7,6 +7,33 @@ leader = {
 	prestige = 0.3
 }
 
+leader = {
+	name = "Big Cham"
+	date = 1806.1.1
+	type = land
+	personality = speed-b_2
+	background = attack-1a
+	prestige = 0.3
+}
+
+leader = {
+	name = "Small Cham"
+	date = 1806.1.1
+	type = land
+	personality = speed-b_2
+	background = attack-2a
+	prestige = 0.3
+}
+
+leader = {
+	name = "Medium Cham"
+	date = 1806.1.1
+	type = land
+	personality = morale++a
+	background = reconnaissance+++a
+	prestige = 0.3
+}
+
 SLO = {
 	value = 200
 	influence_value = 100

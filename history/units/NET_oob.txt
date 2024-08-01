@@ -7,6 +7,42 @@ leader = {
 	prestige = 0.3
 }
 
+leader = {
+	name = "Antoon Schouten"
+	date = 1806.1.1
+	type = land
+	personality = speed++a
+	background = attack-1a
+	prestige = 0.3
+}
+
+leader = {
+	name = "Jacob von Houtenberg"
+	date = 1806.1.1
+	type = land
+	personality = defence+1c
+	background = attack-2a
+	prestige = 0.3
+}
+
+leader = {
+	name = "Barthout Bourthel"
+	date = 1806.1.1
+	type = land
+	personality = defence+3a
+	background = attack-1a
+	prestige = 0.3
+}
+
+leader = {
+	name = "Barthout Bourthel"
+	date = 1806.1.1
+	type = sea
+	personality = defence+1a
+	background = speed+a
+	prestige = 0.3
+}
+
 HAN = {
 	value = 200
 	influence_value = 100

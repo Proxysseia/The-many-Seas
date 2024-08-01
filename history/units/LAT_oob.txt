@@ -7,6 +7,42 @@ leader = {
 	prestige = 0.3
 }
 
+leader = {
+	name = "Kra Got"
+	date = 1795.1.1
+	type = land
+	personality = defence-5a
+	background = speed+++a
+	prestige = 0.2
+}
+
+leader = {
+	name = "Roblox Master"
+	date = 1815.1.1
+	type = land
+	personality = speed--a
+	background = attack+4c
+	prestige = 0.3
+}
+
+leader = {
+	name = "Entire Moon"
+	date = 1802.1.1
+	type = land
+	personality = defence+1k
+	background = attack+2
+	prestige = 0.3
+}
+
+leader = {
+	name = "Jimb"
+	date = 1802.1.1
+	type = navy
+	personality = morale+++a_2
+	background = experience+++a_7
+	prestige = 0.3
+}
+
 UKR = {
 	value = 200
 	influence_value = 100
