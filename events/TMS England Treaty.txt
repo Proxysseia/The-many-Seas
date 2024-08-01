@@ -561,7 +561,7 @@ country_event = {
     
     option = {
         name = "ok"
-        1402 = { remove_core = SEV }
+        1402 = { remove_core = UKR }
     }
 }
 country_event = {                                        

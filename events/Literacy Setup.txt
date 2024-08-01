@@ -39,7 +39,6 @@ country_event = {
                 OR = {
                     has_pop_culture = amhara
 					has_pop_culture = english
-					has_pop_culture = scottish
 					
                 }
             }
@@ -270,7 +269,6 @@ country_event = {
                 OR = {
                     has_pop_culture = amhara
 					has_pop_culture = english
-					has_pop_culture = scottish
 					
                 }
             }

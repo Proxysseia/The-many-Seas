@@ -37,7 +37,7 @@
     }
 
     farmers = {
-        culture = scottish
+        culture = english
         religion = protestant
         size = 500
     }

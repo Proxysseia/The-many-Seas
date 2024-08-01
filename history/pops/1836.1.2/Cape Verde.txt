@@ -1,19 +1,19 @@
 #Ternate
 1447 = {
     aristocrats = {
-        culture = scottish
+        culture = english
         religion = protestant
         size = 100
     }
 
     bureaucrats = {
-        culture = scottish
+        culture = english
         religion = protestant
         size = 20
     }
 
     farmers = {
-        culture = scottish
+        culture = english
         religion = protestant
         size = 1300
     }
@@ -21,19 +21,19 @@
 #Ambon
 1449 = {
     aristocrats = {
-        culture = scottish
+        culture = english
         religion = protestant
         size = 75
     }
 
     bureaucrats = {
-        culture = scottish
+        culture = english
         religion = protestant
         size = 111
     }
 
     farmers = {
-        culture = scottish
+        culture = english
         religion = protestant
         size = 487
     }

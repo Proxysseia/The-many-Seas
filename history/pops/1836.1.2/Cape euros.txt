@@ -143,25 +143,25 @@
 #Eureka
 85 = {
     aristocrats = {
-        culture = scottish
+        culture = english
         religion = protestant
         size = 500
     }
 
     clergymen = {
-        culture = scottish
+        culture = english
         religion = protestant
         size = 400
     }
 
     soldiers = {
-        culture = scottish
+        culture = english
         religion = protestant
         size = 825
     }
 
     farmers = {
-        culture = scottish
+        culture = english
         religion = protestant
         size = 37000
     }
@@ -175,25 +175,25 @@
 #Calvinia
 2093 = {
     aristocrats = {
-        culture = scottish
+        culture = english
         religion = protestant
         size = 250
     }
 
     clergymen = {
-        culture = scottish
+        culture = english
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = scottish
+        culture = english
         religion = protestant
         size = 190
     }
 
     farmers = {
-        culture = scottish
+        culture = english
         religion = protestant
         size = 5825
     }
