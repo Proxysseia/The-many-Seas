@@ -90,7 +90,7 @@ battleship_column_doctrine = {
 	cost = 7200
 	unciv_military = yes
 	max_naval_base = 1
-	#colonial_points = 200 #no free lunch!
+	colonial_points = 150
 
 
 	ai_chance = {

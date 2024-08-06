@@ -490,34 +490,17 @@ monitors = {
 		activate_unit = monitor 
 	}
 }
-#torpedo_boats = {
-#	limit = { iron_steamers = 1 }
-#	chance = {
-#		base = 1
-#		modifier = {
-#			factor = 59
-#			invention = self_propelled_torpedoes
-#		}
-#		modifier = {
-#			factor = 20
-#			invention = torpedo_tactics
-#		}
-#		modifier = {
-#			factor = 10
-#			invention = torpedo_training_school
-#		}
-#		modifier = {
-#			factor = 10
-#			naval_decision_making = 1
-#		}
-#	}
-#	effect = {
-#		commerce_raider = {
-#			hull = 4
-#			torpedo_attack = 2
-#		}
-#	}
-#}
+torpedo_boats = {
+	limit = { blue_and_brown_water_schools = 1 }
+	chance = {
+		base = 100
+	}
+	effect = {
+		factory_goods_output = {
+			clipper_convoy = -0.50
+		}
+	}
+}
 #steel_steamers
 protected_cruisers = {
 	limit = { high_sea_battle_fleet = 1 }
