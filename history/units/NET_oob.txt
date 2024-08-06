@@ -8,38 +8,29 @@ leader = {
 }
 
 leader = {
-	name = "Antoon Schouten"
-	date = 1806.1.1
+	name = "Gabriel Coops"
+	date = 1835.1.1
 	type = land
-	personality = speed++a
-	background = attack-1a
-	prestige = 0.3
+	personality = reliability+a_53
+	background = reliability++c_2
+	prestige = 0.2
 }
 
 leader = {
-	name = "Jacob von Houtenberg"
-	date = 1806.1.1
+	name = "Rogier van Duivenvoorde"
+	date = 1832.1.1
 	type = land
-	personality = defence+1c
-	background = attack-2a
-	prestige = 0.3
+	personality = organisation++a_17
+	background = attack-1f_2
+	prestige = 0.2
 }
 
 leader = {
-	name = "Barthout Bourthel"
-	date = 1806.1.1
+	name = "Gabriel Batenburg"
+	date = 1832.1.1
 	type = land
-	personality = defence+3a
-	background = attack-1a
-	prestige = 0.3
-}
-
-leader = {
-	name = "Barthout Bourthel"
-	date = 1806.1.1
-	type = sea
-	personality = defence+1a
-	background = speed+a
+	personality = speed--a_7
+	background = attack+1h
 	prestige = 0.3
 }
 
