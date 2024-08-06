@@ -2837,6 +2837,7 @@ make_puppet = {
 	
 	can_use = {
 		NOT = { tag = LCT }
+		this = { NOT = { tag = CHI } }
 		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
