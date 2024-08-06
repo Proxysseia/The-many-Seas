@@ -39,8 +39,8 @@ cruiser = {
 	}
 	
 	#Naval Abilties
-	hull = 52
-	gun_power = 54
+	hull = 48
+	gun_power = 47
 	fire_range = 1.5
 	evasion = 0
 	torpedo_attack = 0

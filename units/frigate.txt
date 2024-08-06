@@ -17,7 +17,7 @@ frigate = {
 	can_build_overseas = yes
 
 	#Building Costs
-	build_time = 180
+	build_time = 120
 	build_cost = {
 		clipper_convoy = 13
 		artillery = 4
