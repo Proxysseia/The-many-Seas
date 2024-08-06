@@ -2678,6 +2678,10 @@ purge = {
 	icon = 15
 }
 
+sizing_cooldown = {
+	icon = 10
+}
+
 #TMS
 
 cultural_integration = {
