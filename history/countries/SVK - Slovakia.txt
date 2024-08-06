@@ -63,7 +63,7 @@ nonstate_consciousness = 2
 
 schools = army_tech_school
 
-ruling_party = AAA_conservative
+ruling_party = AAA_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 20
@@ -74,4 +74,4 @@ upper_house = {
 	communist = 0
 }
 
-oob = "SLO_oob.txt"
+oob = "SVK_oob.txt"
