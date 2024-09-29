@@ -15,7 +15,7 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = breton
-			add_accepted_culture = welsh
+#			add_accepted_culture = welsh
 			prestige = 5
 			set_country_flag = celtics_accepted
 		}
