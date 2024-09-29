@@ -92,17 +92,17 @@ political_decisions = {
 			ALB = { annex_to = THIS }
 			ALB = { all_core = { add_core =  IRO } }
 			ALB = { all_core = { remove_core =  ALB } }
-			MON = { annex_to = THIS }
-			MON = { all_core = { add_core =  IRO } }
-			MON = { all_core = { remove_core =  MON } }
+#			MON = { annex_to = THIS }
+#			MON = { all_core = { add_core =  IRO } }
+#			MON = { all_core = { remove_core =  MON } }
 			ROM = { all_core = { add_core =  IRO } }
 			ROM = { all_core = { remove_core =  ROM } }
-			794 = { add_core = IRO }
-			795 = { add_core = IRO }
-			796 = { add_core = IRO }
-			797 = { add_core = IRO }
+#			794 = { add_core = IRO }
+#			795 = { add_core = IRO }
+#			796 = { add_core = IRO }
+#			797 = { add_core = IRO }
 			add_accepted_culture = albanian
-			add_accepted_culture = serb
+#			add_accepted_culture = serb
 		}
 	}
 
@@ -116,8 +116,7 @@ political_decisions = {
 					}
 				effect = {
 					IRO = { add_core = 749 }
-					badboy = 15
-					
+					badboy = 7.5
 			}
 	}
 }
