@@ -1,4 +1,4 @@
-color = { 10 10 10 }
+color = { 130 10 10 }
 graphical_culture = EuropeanGC
 
 party = {
@@ -154,22 +154,22 @@ party = {
 
 unit_names = {
     dreadnought = {
-        Baden Z‰hringen Markgraf "Groﬂherzog Leopold" "Groﬂherzog Karl Friedrich" T¸rkenlouis Reichsgraf Durlach Sausenberg Hachberg
+        Baden Z√§hringen Markgraf "Gro√üherzog Leopold" "Gro√üherzog Karl Friedrich" T√ºrkenlouis Reichsgraf Durlach Sausenberg Hachberg
     }
     ironclad = {
-        Baden Z‰hringen Markgraf "Groﬂherzog Leopold" "Groﬂherzog Karl Friedrich" T¸rkenlouis Reichsgraf Durlach Sausenberg Hachberg
+        Baden Z√§hringen Markgraf "Gro√üherzog Leopold" "Gro√üherzog Karl Friedrich" T√ºrkenlouis Reichsgraf Durlach Sausenberg Hachberg
     }
     manowar = {
-        Baden Z‰hringen Markgraf "Groﬂherzog Leopold" "Groﬂherzog Karl Friedrich" T¸rkenlouis Reichsgraf Durlach Sausenberg Hachberg
+        Baden Z√§hringen Markgraf "Gro√üherzog Leopold" "Gro√üherzog Karl Friedrich" T√ºrkenlouis Reichsgraf Durlach Sausenberg Hachberg
     }
     cruiser = {
-        Baden Z‰hringen Markgraf "Groﬂherzog Leopold" "Groﬂherzog Karl Friedrich" T¸rkenlouis Reichsgraf Durlach Sausenberg Hachberg
+        Baden Z√§hringen Markgraf "Gro√üherzog Leopold" "Gro√üherzog Karl Friedrich" T√ºrkenlouis Reichsgraf Durlach Sausenberg Hachberg
     }
     frigate = {
-        Baden Z‰hringen Markgraf "Groﬂherzog Leopold" "Groﬂherzog Karl Friedrich" T¸rkenlouis Reichsgraf Durlach Sausenberg Hachberg
+        Baden Z√§hringen Markgraf "Gro√üherzog Leopold" "Gro√üherzog Karl Friedrich" T√ºrkenlouis Reichsgraf Durlach Sausenberg Hachberg
     }
     monitor = {
-        Baden Z‰hringen Markgraf "Groﬂherzog Leopold" "Groﬂherzog Karl Friedrich" T¸rkenlouis Reichsgraf Durlach Sausenberg Hachberg
+        Baden Z√§hringen Markgraf "Gro√üherzog Leopold" "Gro√üherzog Karl Friedrich" T√ºrkenlouis Reichsgraf Durlach Sausenberg Hachberg
     }
     clipper_transport = {
         Adler Albatross Amazone Bremse Brummer Donau Drache Feldberg Frauenlob Greif Karlsruhe Natter Neckar Salamander Seeadler Rhein
@@ -178,6 +178,6 @@ unit_names = {
         Adler Albatross Amazone Bremse Brummer Donau Drache Feldberg Frauenlob Greif Karlsruhe Natter Neckar Salamander Seeadler Rhein
     }
     commerce_raider = {
-        Baden Z‰hringen Markgraf "Groﬂherzog Leopold" "Groﬂherzog Karl Friedrich" T¸rkenlouis Reichsgraf Durlach Sausenberg Hachberg
+        Baden Z√§hringen Markgraf "Gro√üherzog Leopold" "Gro√üherzog Karl Friedrich" T√ºrkenlouis Reichsgraf Durlach Sausenberg Hachberg
     }
 }
