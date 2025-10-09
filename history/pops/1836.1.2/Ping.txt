@@ -1,50 +1,4 @@
-###Ping Majority###
-#Mao
-#Yingzhou (2320000/580000 POPS)
-1478 = {
-    aristocrats = {
-        culture = chinese
-        religion = mahayana
-        size = 3625
-    }
-
-    clergymen = {
-        culture = chinese
-        religion = mahayana
-        size = 1937
-    }
-
-    artisans = {
-        culture = chinese
-        religion = mahayana
-        size = 5500
-    }
-
-    artisans = {
-        culture = chinese
-        religion = mahayana
-        size = 3500
-    }
-
-    artisans = {
-        culture = chinese
-        religion = mahayana
-        size = 1000
-    }
-
-    soldiers = {
-        culture = chinese
-        religion = mahayana
-        size = 2050
-    }
-
-    farmers = {
-        culture = chinese
-        religion = mahayana
-        size = 225537
-    }
-}
-#Kaifeng (3872000/968000 POPS)
+#Kaifeng
 1508 = {
     aristocrats = {
         culture = chinese
@@ -144,47 +98,7 @@
         size = 307175
     }
 }
-## Xi-Jingping ##
 #Fentian
-#Jinzhou (680000/170000 POPS)
-#PING
-1480 = {
-    clergymen = {
-        culture = chinese
-        religion = mahayana
-        size = 75
-    }
-
-    artisans = {
-        culture = chinese
-        religion = mahayana
-        size = 350
-    }
-
-    soldiers = {
-        culture = chinese
-        religion = mahayana
-        size = 1750
-    }
-
-    farmers = {
-        culture = chinese
-        religion = mahayana
-        size = 90575
-    }
-
-    slaves = {
-        culture = mongol
-        religion = gelugpa
-        size = 72720
-    }
-
-    slaves = {
-        culture = korean
-        religion = mahayana
-        size = 72720
-    }
-}
 #Chengde (6420000/1605000 POPS)
 1613 = {
     aristocrats = {
@@ -1427,44 +1341,6 @@
         size = 105062
     }
 }
-#Chenzhou (3268000/817000 POPS)
-1512 = {
-    aristocrats = {
-        culture = chinese
-        religion = mahayana
-        size = 2625
-    }
-
-    clergymen = {
-        culture = chinese
-        religion = mahayana
-        size = 1937
-    }
-
-    artisans = {
-        culture = chinese
-        religion = mahayana
-        size = 5500
-    }
-
-    artisans = {
-        culture = chinese
-        religion = mahayana
-        size = 5500
-    }
-
-    soldiers = {
-        culture = chinese
-        religion = mahayana
-        size = 1500
-    }
-
-    farmers = {
-        culture = chinese
-        religion = mahayana
-        size = 215037
-    }
-}
 #Nanyang (3100000/775000 POPS)
 1513 = {
     aristocrats = {
@@ -1504,74 +1380,6 @@
     }
 }
 #Hubei
-#Weihui (4120000/1030000 POPS)
-1515 = {
-    aristocrats = {
-        culture = chinese
-        religion = mahayana
-        size = 6250
-    }
-
-    bureaucrats = {
-        culture = chinese
-        religion = mahayana
-        size = 1500
-    }
-
-    clergymen = {
-        culture = chinese
-        religion = mahayana
-        size = 2150
-    }
-
-    artisans = {
-        culture = chinese
-        religion = mahayana
-        size = 16500
-    }
-
-    artisans = {
-        culture = chinese
-        religion = mahayana
-        size = 16500
-    }
-
-    artisans = {
-        culture = chinese
-        religion = mahayana
-        size = 16500
-    }
-
-    artisans = {
-        culture = chinese
-        religion = mahayana
-        size = 750
-    }
-
-    soldiers = {
-        culture = chinese
-        religion = mahayana
-        size = 7500
-    }
-
-    soldiers = {
-        culture = chinese
-        religion = mahayana
-        size = 6150
-    }
-
-    farmers = {
-        culture = chinese
-        religion = mahayana
-        size = 256450
-    }
-
-    farmers = {
-        culture = chinese
-        religion = mahayana
-        size = 130000
-    }
-}
 #Xuzhou (2156000/539000 POPS)
 1542 = {
     aristocrats = {

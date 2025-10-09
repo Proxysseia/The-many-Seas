@@ -997,6 +997,38 @@
         size = 60000
     }
 }
+#Yizhou
+1571 = {
+    aristocrats = {
+        culture = finnish
+        religion = protestant
+        size = 600
+    }
+
+    clergymen = {
+        culture = finnish
+        religion = protestant
+        size = 300
+    }
+
+    artisans = {
+        culture = finnish
+        religion = protestant
+        size = 1550
+    }
+
+    soldiers = {
+        culture = finnish
+        religion = protestant
+        size = 1200
+    }
+
+    farmers = {
+        culture = finnish
+        religion = protestant
+        size = 17000
+    }
+}
 #Stara Ladoga
 2580 = {
     aristocrats = {

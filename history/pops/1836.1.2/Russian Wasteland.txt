@@ -1225,3 +1225,155 @@
         size = 50300
     }
 }
+#Yingzhou
+1478 = {
+    aristocrats = {
+        culture = russian
+        religion = orthodox
+        size = 360
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 5500
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 2050
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 40000
+    }
+}
+#Jinzhou
+1480 = {
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 35
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 175
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 9000
+    }
+}
+#Chenzhou
+1512 = {
+    aristocrats = {
+        culture = russian
+        religion = orthodox
+        size = 600
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 1500
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 1500
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 20000
+    }
+}
+#Yangzhou
+1543 = {
+
+    aristocrats = {
+        culture = russian
+        religion = orthodox
+        size = 160
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 1000
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 750
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 35000
+    }
+}
+#Qingzhou
+1567 = {
+    aristocrats = {
+        culture = russian
+        religion = orthodox
+        size = 250
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 3500
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 500
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 20000
+    }
+}
+#Weihaiwei
+1569 = {
+    aristocrats = {
+        culture = russian
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 1000
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 350
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 25000
+    }
+}
