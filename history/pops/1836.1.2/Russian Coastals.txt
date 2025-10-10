@@ -877,50 +877,6 @@
         size = 240000
     }
 }
-#Chirskaya
-1046 = {
-    aristocrats = {
-        culture = ukrainian
-        religion = protestant
-        size = 50
-    }
-
-    clergymen = {
-        culture = ukrainian
-        religion = protestant
-        size = 425
-    }
-
-    artisans = {
-        culture = ukrainian
-        religion = protestant
-        size = 8200
-    }
-
-    soldiers = {
-        culture = ukrainian
-        religion = protestant
-        size = 3750
-    }
-
-    farmers = {
-        culture = ukrainian
-        religion = protestant
-        size = 23250
-    }
-
-    farmers = {
-        culture = ukrainian
-        religion = protestant
-        size = 10625
-    }
-
-    farmers = {
-        culture = ukrainian
-        religion = protestant
-        size = 13625
-    }
-}
 #Petrozavorsk
 995 = {
     aristocrats = {
