@@ -4,145 +4,145 @@
 805 = {
     aristocrats = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 800
     }
 
     bureaucrats = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 250
     }
 
     officers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 325
     }
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 250
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 4500
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 800
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 11075
     }
 
     aristocrats = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 220
     }
 
     officers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 120
     }
 
     clergymen = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 125
     }
 
     artisans = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 400
     }
 
     soldiers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 200
     }
 
     farmers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 5900
     }
 
     soldiers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 250
     }
 
     aristocrats = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 1120
     }
 
     officers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 120
     }
 
     clergymen = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 375
     }
 
     artisans = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 1500
     }
 
     farmers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 34005
     }
 
     soldiers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 1000
     }
 
     clergymen = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 150
     }
 
     artisans = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 10000
     }
 
     soldiers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 1100
     }
 
     farmers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 3850
     }
 }
@@ -150,79 +150,79 @@
 822 = {
     aristocrats = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 400
     }
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 750
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 250
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 7500
     }
 
     soldiers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 300
     }
 
     clergymen = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 200
     }
 
     artisans = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 250
     }
 
     farmers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 1425
     }
 
     clergymen = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 200
     }
 
     artisans = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 450
     }
 
     soldiers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 500
     }
 
     farmers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 33300
     }
 }
@@ -232,79 +232,79 @@
 819 = {
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 300
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 300
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 500
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 33100
     }
 
     soldiers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 150
     }
 
     clergymen = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 200
     }
 
     artisans = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 200
     }
 
     farmers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 4800
     }
 
     aristocrats = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 475
     }
 
     clergymen = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 800
     }
 
     soldiers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 300
     }
 
     farmers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 2325
     }
 }
@@ -312,55 +312,55 @@
 820 = {
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 300
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 850
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 300
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 41550
     }
 
     aristocrats = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 350
     }
 
     clergymen = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 900
     }
 
     soldiers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 350
     }
 
     farmers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 325
     }
 }
@@ -368,79 +368,79 @@
 821 = {
     clergymen = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 225
     }
 
     artisans = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 650
     }
 
     soldiers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 500
     }
 
     farmers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 33125
     }
 
     clergymen = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 200
     }
 
     artisans = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 200
     }
 
     soldiers = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 400
     }
 
     farmers = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 3800
     }
 
     aristocrats = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 750
     }
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 900
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 300
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 4975
     }
 }
@@ -452,139 +452,139 @@
 824 = {
     aristocrats = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 125
     }
 
     bureaucrats = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 125
     }
 
     officers = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 250
     }
 
     clergymen = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 500
     }
 
     soldiers = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 150
     }
 
     farmers = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 200
     }
 
     aristocrats = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 2600
     }
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 125
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 1100
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 1100
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 8075
     }
 
     clergymen = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 150
     }
 
     artisans = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 250
     }
 
     farmers = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 15600
     }
 
     clergymen = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 750
     }
 
     artisans = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 800
     }
 
     farmers = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 51250
     }
 
     soldiers = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 2250
     }
 
     soldiers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 100
     }
 
     clergymen = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 300
     }
 
     farmers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 100
     }
 }
@@ -600,115 +600,115 @@
 826 = {
     aristocrats = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 475
     }
 
     bureaucrats = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 75
     }
 
     officers = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 25
     }
 
     clergymen = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 2436
     }
 
     soldiers = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 1275
     }
 
     farmers = {
         culture = albanian
-        religion = sunni
+        religion = placeholder
         size = 13157
     }
 
     aristocrats = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 150
     }
 
     soldiers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 150
     }
 
     clergymen = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 600
     }
 
     farmers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 250
     }
 
     aristocrats = {
         culture = north_italian
-        religion = catholic
+        religion = placeholder
         size = 150
     }
 
     soldiers = {
         culture = north_italian
-        religion = catholic
+        religion = placeholder
         size = 150
     }
 
     clergymen = {
         culture = north_italian
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = north_italian
-        religion = catholic
+        religion = placeholder
         size = 150
     }
 
     farmers = {
         culture = north_italian
-        religion = catholic
+        religion = placeholder
         size = 200
     }
 
     soldiers = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 250
     }
 
     clergymen = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 157
     }
 }
@@ -720,73 +720,73 @@
 827 = {
     aristocrats = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 300
     }
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 6700
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 640
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 25138
     }
 
     aristocrats = {
         culture = north_italian
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     soldiers = {
         culture = north_italian
-        religion = catholic
+        religion = placeholder
         size = 50
     }
 
     clergymen = {
         culture = north_italian
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = north_italian
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     farmers = {
         culture = north_italian
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     soldiers = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 125
     }
 
     clergymen = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 150
     }
 }
@@ -796,79 +796,79 @@
 830 = {
     aristocrats = {
         culture = greek
-        religion = sunni
+        religion = placeholder
         size = 675
     }
 
     clergymen = {
         culture = greek
-        religion = sunni
+        religion = placeholder
         size = 150
     }
 
     artisans = {
         culture = greek
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     soldiers = {
         culture = greek
-        religion = sunni
+        religion = placeholder
         size = 458
     }
 
     farmers = {
         culture = greek
-        religion = sunni
+        religion = placeholder
         size = 14850
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 1312
     }
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 300
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 675
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 41175
     }
 
     soldiers = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 1050
     }
 
     clergymen = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 300
     }
 
     artisans = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 450
     }
 
     farmers = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 5437
     }
 }
@@ -878,67 +878,67 @@
 831 = {
     aristocrats = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 600
     }
 
     bureaucrats = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 150
     }
 
     officers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     clergymen = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 750
     }
 
     soldiers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 350
     }
 
     farmers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 3650
     }
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 300
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 650
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 350
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 38000
     }
 }
@@ -948,97 +948,97 @@
 832 = {
     aristocrats = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 650
     }
 
     clergymen = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 1300
     }
 
     soldiers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 550
     }
 
     farmers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 6425
     }
 
     aristocrats = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 650
     }
 
     officers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 150
     }
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 450
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 1000
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 44225
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 800
     }
 
     aristocrats = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 100
     }
 
     soldiers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 100
     }
 
     clergymen = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 100
     }
 
     farmers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 100
     }
 }
@@ -1046,55 +1046,55 @@
 833 = {
     aristocrats = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 200
     }
 
     clergymen = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 200
     }
 
     soldiers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 125
     }
 
     farmers = {
         culture = greek
-        religion = catholic
+        religion = placeholder
         size = 450
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 325
     }
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 350
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 40250
     }
 }
@@ -1106,73 +1106,73 @@
 834 = {
     aristocrats = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 500
     }
 
     bureaucrats = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 850
     }
 
     officers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 200
     }
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 775
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 1000
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 2100
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 40175
     }
 
     aristocrats = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 100
     }
 
     soldiers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 100
     }
 
     clergymen = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 100
     }
 
     farmers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 100
     }
 }
@@ -1180,25 +1180,25 @@
 835 = {
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 150
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 500
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 400
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 10050
     }
 }
@@ -1206,25 +1206,25 @@
 836 = {
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 500
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 400
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 9200
     }
 }
@@ -1232,37 +1232,37 @@
 837 = {
     aristocrats = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 1800
     }
 
     officers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 50
     }
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 350
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 350
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 1100
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 39150
     }
 }
@@ -1270,25 +1270,25 @@
 838 = {
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 150
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 350
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 250
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 9100
     }
 }
@@ -1298,31 +1298,31 @@
 839 = {
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 170
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 300
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 100
     }
 
     soldiers = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 500
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 10070
     }
 }
@@ -1330,25 +1330,25 @@
 840 = {
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 500
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 200
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 9100
     }
 }
@@ -1356,43 +1356,43 @@
 842 = {
     aristocrats = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 1100
     }
 
     bureaucrats = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 400
     }
 
     officers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 60
     }
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 400
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 550
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 41000
     }
 }
@@ -1401,79 +1401,79 @@
 843 = {
     aristocrats = {
         culture = greek
-        religion = sunni
+        religion = placeholder
         size = 225
     }
 
     bureaucrats = {
         culture = greek
-        religion = sunni
+        religion = placeholder
         size = 225
     }
 
     officers = {
         culture = greek
-        religion = sunni
+        religion = placeholder
         size = 75
     }
 
     clergymen = {
         culture = greek
-        religion = sunni
+        religion = placeholder
         size = 150
     }
 
     artisans = {
         culture = greek
-        religion = sunni
+        religion = placeholder
         size = 900
     }
 
     soldiers = {
         culture = greek
-        religion = sunni
+        religion = placeholder
         size = 458
     }
 
     farmers = {
         culture = greek
-        religion = sunni
+        religion = placeholder
         size = 1050
     }
 
     aristocrats = {
         culture = greek
-        religion = sunni
+        religion = placeholder
         size = 180
     }
 
     officers = {
         culture = greek
-        religion = sunni
+        religion = placeholder
         size = 180
     }
 
     soldiers = {
         culture = greek
-        religion = sunni
+        religion = placeholder
         size = 787
     }
 
     clergymen = {
         culture = greek
-        religion = sunni
+        religion = placeholder
         size = 150
     }
 
     artisans = {
         culture = greek
-        religion = sunni
+        religion = placeholder
         size = 3600
     }
 
     farmers = {
         culture = greek
-        religion = sunni
+        religion = placeholder
         size = 18675
     }
 }
@@ -1483,37 +1483,37 @@
 848 = {
     aristocrats = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 350
     }
 
     officers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 50
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 187
     }
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 200
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 1000
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = placeholder
         size = 15325
     }
 }

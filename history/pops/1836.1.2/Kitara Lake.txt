@@ -2,31 +2,31 @@
 1970 = {
     aristocrats = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 900
     }
 
     clergymen = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     artisans = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 2600
     }
 
     soldiers = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 12360
     }
 
     farmers = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 247500
     }
 }
@@ -34,31 +34,31 @@
 1971 = {
     aristocrats = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 2800
     }
 
     clergymen = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 3600
     }
 
     artisans = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 4400
     }
 
     soldiers = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 9840
     }
 
     farmers = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 71600
     }
 }
@@ -66,37 +66,37 @@
 1993 = {
     aristocrats = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 4400
     }
 
     clergymen = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 2200
     }
 
     artisans = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 8800
     }
 
     soldiers = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 3960
     }
 
     farmers = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 278760
     }
 
     slaves = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 40000
     }
 }
@@ -104,43 +104,43 @@
 1995 = {
     aristocrats = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 8000
     }
 
     clergymen = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 4400
     }
 
     artisans = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 23500
     }
 
     bureaucrats = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 1487
     }
 
     soldiers = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 2640
     }
 
     farmers = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 199000
     }
 
     slaves = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 18680
     }
 }

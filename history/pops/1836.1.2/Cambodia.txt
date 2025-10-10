@@ -4,61 +4,61 @@
 1364 = {
     aristocrats = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 2000
     }
 
     bureaucrats = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 150
     }
 
     officers = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 200
     }
 
     clergymen = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 1125
     }
 
     artisans = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 5500
     }
 
     soldiers = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 3000
     }
 
     soldiers = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 1000
     }
 
     farmers = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 93025
     }
 
     slaves = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 9000
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = placeholder
         size = 2675
     }
 }
@@ -66,43 +66,43 @@
 1367 = {
     aristocrats = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 725
     }
 
     clergymen = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 375
     }
 
     artisans = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 1750
     }
 
     soldiers = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 1100
     }
 
     farmers = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 34150
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = placeholder
         size = 1475
     }
 
     slaves = {
         culture = vietnamese
-        religion = mahayana
+        religion = placeholder
         size = 3000
     }
 }
@@ -110,67 +110,67 @@
 1368 = {
     aristocrats = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 300
     }
 
     clergymen = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 175
     }
 
     artisans = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 900
     }
 
     soldiers = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 175
     }
 
     farmers = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 16450
     }
 
     aristocrats = {
         culture = vietnamese
-        religion = mahayana
+        religion = placeholder
         size = 50
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = placeholder
         size = 50
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = placeholder
         size = 125
     }
 
     soldiers = {
         culture = vietnamese
-        religion = mahayana
+        religion = placeholder
         size = 25
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = placeholder
         size = 2750
     }
 
     slaves = {
         culture = vietnamese
-        religion = mahayana
+        religion = placeholder
         size = 2000
     }
 }
@@ -179,103 +179,103 @@
 1366 = {
     aristocrats = {
         culture = thai
-        religion = theravada
+        religion = placeholder
         size = 25
     }
 
     bureaucrats = {
         culture = thai
-        religion = theravada
+        religion = placeholder
         size = 50
     }
 
     officers = {
         culture = thai
-        religion = theravada
+        religion = placeholder
         size = 75
     }
 
     clergymen = {
         culture = thai
-        religion = theravada
+        religion = placeholder
         size = 25
     }
 
     artisans = {
         culture = thai
-        religion = theravada
+        religion = placeholder
         size = 50
     }
 
     soldiers = {
         culture = thai
-        religion = theravada
+        religion = placeholder
         size = 50
     }
 
     farmers = {
         culture = thai
-        religion = theravada
+        religion = placeholder
         size = 725
     }
 
     aristocrats = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 750
     }
 
     clergymen = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 400
     }
 
     artisans = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 2000
     }
 
     soldiers = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 425
     }
 
     farmers = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 39425
     }
 
     slaves = {
         culture = vietnamese
-        religion = theravada
+        religion = placeholder
         size = 3100
     }
 
     clergymen = {
         culture = chinese
-        religion = mahayana
+        religion = placeholder
         size = 50
     }
 
     artisans = {
         culture = chinese
-        religion = mahayana
+        religion = placeholder
         size = 750
     }
 
     soldiers = {
         culture = chinese
-        religion = mahayana
+        religion = placeholder
         size = 50
     }
 
     farmers = {
         culture = chinese
-        religion = mahayana
+        religion = placeholder
         size = 2150
     }
 

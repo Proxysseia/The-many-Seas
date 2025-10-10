@@ -4,61 +4,61 @@
 2214 = {
     aristocrats = {
         culture = antillean
-        religion = catholic
+        religion = placeholder
         size = 700
     }
 
     bureaucrats = {
         culture = antillean
-        religion = catholic
+        religion = placeholder
         size = 25
     }
 
     clergymen = {
         culture = antillean
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = antillean
-        religion = catholic
+        religion = placeholder
         size = 350
     }
 
     soldiers = {
         culture = antillean
-        religion = catholic
+        religion = placeholder
         size = 37
     }
 
     farmers = {
         culture = antillean
-        religion = catholic
+        religion = placeholder
         size = 62375
     }
 
     clergymen = {
         culture = amazonian
-        religion = catholic
+        religion = placeholder
         size = 50
     }
 
     artisans = {
         culture = amazonian
-        religion = catholic
+        religion = placeholder
         size = 500
     }
 
     soldiers = {
         culture = amazonian
-        religion = catholic
+        religion = placeholder
         size = 25
     }
 
     farmers = {
         culture = amazonian
-        religion = catholic
+        religion = placeholder
         size = 45350
     }
 }
@@ -66,55 +66,55 @@
 2216 = {
     aristocrats = {
         culture = antillean
-        religion = catholic
+        religion = placeholder
         size = 550
     }
 
     clergymen = {
         culture = antillean
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = antillean
-        religion = catholic
+        religion = placeholder
         size = 400
     }
 
     soldiers = {
         culture = antillean
-        religion = catholic
+        religion = placeholder
         size = 25
     }
 
     farmers = {
         culture = antillean
-        religion = catholic
+        religion = placeholder
         size = 30175
     }
 
     clergymen = {
         culture = amazonian
-        religion = catholic
+        religion = placeholder
         size = 50
     }
 
     artisans = {
         culture = amazonian
-        religion = catholic
+        religion = placeholder
         size = 300
     }
 
     soldiers = {
         culture = amazonian
-        religion = catholic
+        religion = placeholder
         size = 37
     }
 
     farmers = {
         culture = amazonian
-        religion = catholic
+        religion = placeholder
         size = 19575
     }
 }

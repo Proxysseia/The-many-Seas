@@ -4,109 +4,109 @@
 676 = {
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 320
     }
 
     aristocrats = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 1120
     }
 
     bureaucrats = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 720
     }
 
     officers = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 140
     }
 
     clergymen = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 560
     }
 
     artisans = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 8000
     }
 
     artisans = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 880
     }
 
     soldiers = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 600
     }
 
     farmers = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 37400
     }
 
     farmers = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 8000
     }
 
     clergymen = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 60
     }
 
     artisans = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 1280
     }
 
     soldiers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 60
     }
 
     farmers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 5000
     }
 
     clergymen = {
         culture = turkish #gagauz
-        religion = orthodox
+        religion = placeholder
         size = 60
     }
 
     artisans = {
         culture = turkish
-        religion = orthodox
+        religion = placeholder
         size = 200
     }
 
     soldiers = {
         culture = turkish
-        religion = orthodox
+        religion = placeholder
         size = 40
     }
 
     farmers = {
         culture = turkish
-        religion = orthodox
+        religion = placeholder
         size = 3700
     }
 }
@@ -114,67 +114,67 @@
 677 = {
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 320
     }
 
     aristocrats = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 1040
     }
 
     clergymen = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 560
     }
 
     artisans = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 2880
     }
 
     soldiers = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 580
     }
 
     farmers = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 36540
     }
 
     farmers = {
         culture = romanian
-        religion = orthodox
+        religion = placeholder
         size = 16000
     }
 
     clergymen = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 60
     }
 
     artisans = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 1440
     }
 
     soldiers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 60
     }
 
     farmers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 5640
     }
 }

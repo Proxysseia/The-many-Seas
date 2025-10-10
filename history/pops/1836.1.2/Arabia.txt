@@ -2,37 +2,37 @@
 80 = {
     aristocrats = {
         culture = saayda
-        religion = protshiiteestant
+        religion = protplaceholderestant
         size = 50
     }
 
     officers = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 50
     }
 
     clergymen = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 50
     }
 
     artisans = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 50
     }
 
     soldiers = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 220
     }
 
     farmers = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 16030
     }
 }
@@ -40,79 +40,79 @@
 855 = {
     aristocrats = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 1912
     }
 
     bureaucrats = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 225
     }
 
     officers = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 165
     }
 
     clergymen = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 165
     }
 
     artisans = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 7500
     }
 
     soldiers = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 4593
     }
 
     farmers = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 49312
     }
 
     aristocrats = {
         culture = saayda
-        religion = orthodox
+        religion = placeholder
         size = 3180
     }
 
     officers = {
         culture = saayda
-        religion = orthodox
+        religion = placeholder
         size = 180
     }
 
     soldiers = {
         culture = saayda
-        religion = orthodox
+        religion = placeholder
         size = 3281
     }
 
     clergymen = {
         culture = saayda
-        religion = orthodox
+        religion = placeholder
         size = 450
     }
 
     artisans = {
         culture = saayda
-        religion = orthodox
+        religion = placeholder
         size = 10725
     }
 
     farmers = {
         culture = saayda
-        religion = orthodox
+        religion = placeholder
         size = 45225
     }
 }
@@ -120,31 +120,31 @@
 926 = {
     aristocrats = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 150
     }
 
     clergymen = {
         culture = saayda
-        religion = orthodox
+        religion = placeholder
         size = 1500
     }
 
     artisans = {
         culture = saayda
-        religion = orthodox
+        religion = placeholder
         size = 3750
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 750
     }
 
     farmers = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 24000
     }
 }
@@ -152,31 +152,31 @@
 929 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 450
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 6000
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 1500
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 52500
     }
 }
@@ -184,31 +184,31 @@
 930 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 450
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 3000
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 1500
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 36000
     }
 }
@@ -216,31 +216,31 @@
 931 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 150
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 150
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 300
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 75
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 3000
     }
 }
@@ -248,37 +248,37 @@
 932 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 450
     }
 
     bureaucrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 1200
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 750
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 2250
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 1500
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 52500
     }
 }
@@ -286,31 +286,31 @@
 933 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 750
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 750
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 3000
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 1500
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 45000
     }
 }
@@ -318,31 +318,31 @@
 934 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 450
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 450
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 375
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 15000
     }
 }
@@ -350,31 +350,31 @@
 989 = {
     aristocrats = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 270
     }
 
     soldiers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 187
     }
 
     clergymen = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 112
     }
 
     artisans = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 2325
     }
 
     farmers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 37387
     }
 }
@@ -382,37 +382,37 @@
 908 = {
     aristocrats = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 4500
     }
 
     soldiers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 93
     }
 
     clergymen = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 37
     }
 
     artisans = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 750
     }
 
     farmers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 20625
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 26887
     }
 }
@@ -420,31 +420,31 @@
 909 = {
     soldiers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 93
     }
 
     clergymen = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 37
     }
 
     artisans = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 187
     }
 
     farmers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 2625
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 11887
     }
 }
@@ -452,109 +452,109 @@
 912 = {
     aristocrats = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 187
     }
 
     clergymen = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 150
     }
 
     artisans = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 600
     }
 
     soldiers = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 458
     }
 
     farmers = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 11137
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 150
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 450
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 5550
     }
 
     clergymen = {
         culture = saayda
-        religion = orthodox
+        religion = placeholder
         size = 150
     }
 
     artisans = {
         culture = saayda
-        religion = orthodox
+        religion = placeholder
         size = 150
     }
 
     farmers = {
         culture = saayda
-        religion = orthodox
+        religion = placeholder
         size = 1500
     }
 
     clergymen = {
         culture = saayda
-        religion = catholic
+        religion = placeholder
         size = 150
     }
 
     artisans = {
         culture = saayda
-        religion = catholic
+        religion = placeholder
         size = 150
     }
 
     farmers = {
         culture = saayda
-        religion = catholic
+        religion = placeholder
         size = 3000
     }
 
     aristocrats = {
         culture = saayda
-        religion = druze
+        religion = placeholder
         size = 150
     }
 
     clergymen = {
         culture = saayda
-        religion = druze
+        religion = placeholder
         size = 150
     }
 
     artisans = {
         culture = saayda
-        religion = druze
+        religion = placeholder
         size = 300
     }
 
     farmers = {
         culture = saayda
-        religion = druze
+        religion = placeholder
         size = 5587
     }
 }
@@ -562,115 +562,115 @@
 913 = {
     aristocrats = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 75
     }
 
     clergymen = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 150
     }
 
     artisans = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 187
     }
 
     farmers = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 1612
     }
 
     clergymen = {
         culture = saayda
-        religion = orthodox
+        religion = placeholder
         size = 150
     }
 
     artisans = {
         culture = saayda
-        religion = orthodox
+        religion = placeholder
         size = 187
     }
 
     farmers = {
         culture = saayda
-        religion = orthodox
+        religion = placeholder
         size = 3937
     }
 
     aristocrats = {
         culture = saayda
-        religion = catholic
+        religion = placeholder
         size = 225
     }
 
     bureaucrats = {
         culture = saayda
-        religion = catholic
+        religion = placeholder
         size = 450
     }
 
     clergymen = {
         culture = saayda
-        religion = catholic
+        religion = placeholder
         size = 300
     }
 
     artisans = {
         culture = saayda
-        religion = catholic
+        religion = placeholder
         size = 1425
     }
 
     farmers = {
         culture = saayda
-        religion = catholic
+        religion = placeholder
         size = 28650
     }
 
     soldiers = {
         culture = saayda
-        religion = catholic
+        religion = placeholder
         size = 852
     }
 
     officers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 150
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 150
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 187
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 1612
     }
 
     artisans = {
         culture = saayda
-        religion = druze
+        religion = placeholder
         size = 300
     }
 
     farmers = {
         culture = saayda
-        religion = druze
+        religion = placeholder
         size = 5437
     }
 }
@@ -678,37 +678,37 @@
 914 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 187
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 150
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 750
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 262
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 42412
     }
 
     clergymen = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 150
     }
 }
@@ -716,56 +716,56 @@
 915 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 37
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 75
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 150
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 64
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 7000
     }
 
 
     aristocrats = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 150
     }
 
     clergymen = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 112
     }
 
     artisans = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 675
     }
 
     farmers = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 57025
     }
 }
@@ -773,31 +773,31 @@
 916 = {
     aristocrats = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 112
     }
 
     soldiers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 93
     }
 
     clergymen = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 37
     }
 
     artisans = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 1875
     }
 
     farmers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 34387
     }
 }
@@ -805,49 +805,49 @@
 917 = {
     aristocrats = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 2250
     }
 
     bureaucrats = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 1500
     }
 
     officers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 225
     }
 
     soldiers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 937
     }
 
     clergymen = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 375
     }
 
     artisans = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 7875
     }
 
     farmers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 98887
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 23887
     }
 }
@@ -855,31 +855,31 @@
 918 = {
     aristocrats = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 375
     }
 
     soldiers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 375
     }
 
     clergymen = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 225
     }
 
     artisans = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 3825
     }
 
     farmers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 26887
     }
 }
@@ -887,49 +887,49 @@
 919 = {
     aristocrats = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 3300
     }
 
     bureaucrats = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 300
     }
 
     officers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 187
     }
 
     soldiers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 562
     }
 
     clergymen = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 525
     }
 
     artisans = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 3750
     }
 
     farmers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 65625
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 11887
     }
 }
@@ -937,37 +937,37 @@
 920 = {
     aristocrats = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 750
     }
 
     soldiers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 375
     }
 
     clergymen = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 150
     }
 
     artisans = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 1500
     }
 
     farmers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 38625
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 34387
     }
 }
@@ -975,31 +975,31 @@
 921 = {
     aristocrats = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 4500
     }
 
     soldiers = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 93
     }
 
     clergymen = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 37
     }
 
     artisans = {
         culture = saayda
-        religion = jewish
+        religion = placeholder
         size = 750
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 45000
     }
 }
@@ -1007,55 +1007,55 @@
 1151 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 1600
     }
 
     bureaucrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 10000
     }
 
     officers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 1870
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 1562
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 9750
     }
 
     craftsmen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 8750
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 6750
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 127750
     }
 
     slaves = {
         culture = amhara
-        religion = animist
+        religion = placeholder
         size = 2000
     }
 }
@@ -1063,37 +1063,37 @@
 1152 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 525
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 1262
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 6750
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 3750
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 106537
     }
 
     slaves = {
         culture = amhara
-        religion = animist
+        religion = placeholder
         size = 3000
     }
 }
@@ -1101,37 +1101,37 @@
 1153 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 375
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 1225
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 2250
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 4750
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 98150
     }
 
     slaves = {
         culture = amhara
-        religion = animist
+        religion = placeholder
         size = 12000
     }
 }
@@ -1139,31 +1139,31 @@
 1154 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 370
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 370
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 1500
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 180
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 72737
     }
 }
@@ -1171,37 +1171,37 @@
 1155 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 1150
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 1275
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 3450
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 3750
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 90825
     }
 
     slaves = {
         culture = amhara
-        religion = animist
+        religion = placeholder
         size = 1500
     }
 }
@@ -1209,31 +1209,31 @@
 1156 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 112
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 112
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 975
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 75
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 6900
     }
 }
@@ -1243,55 +1243,55 @@
 1157 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 3675
     }
 
     bureaucrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 1948
     }
 
     officers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 112
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 637
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 10275
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 2250
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 750
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 68512
     }
 
     slaves = {
         culture = amhara
-        religion = animist
+        religion = placeholder
         size = 5000
     }
 }
@@ -1299,31 +1299,31 @@
 1158 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 112
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 75
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 375
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 900
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 19012
     }
 }
@@ -1331,31 +1331,31 @@
 1159 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 150
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 75
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 487
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 75
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 8287
     }
 }
@@ -1363,49 +1363,49 @@
 1160 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 1620
     }
 
     bureaucrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 748
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 225
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 3375
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 2250
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 750
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 32775
     }
 
     slaves = {
         culture = amhara
-        religion = animist
+        religion = placeholder
         size = 3000
     }
 }
@@ -1413,31 +1413,31 @@
 1161 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 150
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 75
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 487
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 75
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 11287
     }
 }
@@ -1445,79 +1445,79 @@
 1163 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 150
     }
 
     bureaucrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 148
     }
 
     officers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 75
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 112
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 525
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 225
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 9787
     }
 
     aristocrats = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 300
     }
 
     clergymen = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 225
     }
 
     artisans = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 1350
     }
 
     soldiers = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 131
     }
 
     farmers = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 28012
     }
 
     slaves = {
         culture = amhara
-        religion = animist
+        religion = placeholder
         size = 1000
     }
 }
@@ -1525,61 +1525,61 @@
 1164 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 262
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 150
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 825
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 900
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 13762
     }
 
     aristocrats = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 337
     }
 
     clergymen = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 187
     }
 
     artisans = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 975
     }
 
     soldiers = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 93
     }
 
     farmers = {
         culture = saayda
-        religion = shiite
+        religion = placeholder
         size = 17812
     }
 }
@@ -1587,31 +1587,31 @@
 2586 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 75
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 112
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 300
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 18
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 5775
     }
 }

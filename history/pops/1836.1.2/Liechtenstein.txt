@@ -2,31 +2,31 @@
 1402 = {
     bureaucrats = {
         culture = australian
-        religion = protestant
+        religion = placeholder
         size = 700
     }
 
     farmers = {
         culture = ukrainian
-        religion = catholic
+        religion = placeholder
         size = 28209
     }
 
     soldiers = {
         culture = australian
-        religion = protestant
+        religion = placeholder
         size = 2812
     }
 
     clergymen = {
         culture = australian
-        religion = protestant
+        religion = placeholder
         size = 112
     }
 
     farmers = {
         culture = australian
-        religion = protestant
+        religion = placeholder
         size = 15721
     }
 }

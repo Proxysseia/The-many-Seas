@@ -2,43 +2,43 @@
 1735 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 412
     }
 
     bureaucrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 148
     }
 
     officers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 37
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 225
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 1102
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 825
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 36037
     }
 }
@@ -46,31 +46,31 @@
 1736 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 262
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 225
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 1875
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 937
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 26362
     }
 }
@@ -78,31 +78,31 @@
 1737 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 37
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 75
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 1725
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 918
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 19050
     }
 }

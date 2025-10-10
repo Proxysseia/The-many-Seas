@@ -2,91 +2,91 @@
 648 = {
     aristocrats = {
         culture = hungarian
-        religion = catholic
+        religion = placeholder
         size = 675
     }
 
     clergymen = {
         culture = hungarian
-        religion = catholic
+        religion = placeholder
         size = 250
     }
 
     bureaucrats = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 500
     }
 
     artisans = {
         culture = hungarian
-        religion = catholic
+        religion = placeholder
         size = 3350
     }
 
     soldiers = {
         culture = hungarian
-        religion = catholic
+        religion = placeholder
         size = 1100
     }
 
     farmers = {
         culture = hungarian
-        religion = catholic
+        religion = placeholder
         size = 28725
     }
 
     aristocrats = {
         culture = hungarian
-        religion = protestant
+        religion = placeholder
         size = 300
     }
 
     clergymen = {
         culture = hungarian
-        religion = protestant
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = hungarian
-        religion = protestant
+        religion = placeholder
         size = 2500
     }
 
     soldiers = {
         culture = hungarian
-        religion = protestant
+        religion = placeholder
         size = 125
     }
 
     farmers = {
         culture = hungarian
-        religion = protestant
+        religion = placeholder
         size = 14975
     }
 
     clergymen = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     soldiers = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     farmers = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 3915
     }
 }
@@ -94,73 +94,73 @@
 649 = {
     aristocrats = {
         culture = hungarian
-        religion = catholic
+        religion = placeholder
         size = 1500
     }
 
     bureaucrats = {
         culture = hungarian
-        religion = catholic
+        religion = placeholder
         size = 600
     }
 
     clergymen = {
         culture = hungarian
-        religion = catholic
+        religion = placeholder
         size = 625
     }
 
     artisans = {
         culture = hungarian
-        religion = catholic
+        religion = placeholder
         size = 2500
     }
 
     soldiers = {
         culture = hungarian
-        religion = catholic
+        religion = placeholder
         size = 1100
     }
 
     farmers = {
         culture = hungarian
-        religion = catholic
+        religion = placeholder
         size = 54375
     }
 
     aristocrats = {
         culture = hungarian
-        religion = protestant
+        religion = placeholder
         size = 2500
     }
 
     clergymen = {
         culture = hungarian
-        religion = protestant
+        religion = placeholder
         size = 850
     }
 
     artisans = {
         culture = hungarian
-        religion = protestant
+        religion = placeholder
         size = 3900
     }
 
     soldiers = {
         culture = hungarian
-        religion = protestant
+        religion = placeholder
         size = 900
     }
 
     farmers = {
         culture = hungarian
-        religion = protestant
+        religion = placeholder
         size = 90850
     }
 
     farmers = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 5375
     }
 }
@@ -168,91 +168,91 @@
 650 = {
     aristocrats = {
         culture = hungarian
-        religion = catholic
+        religion = placeholder
         size = 1100
     }
 
     bureaucrats = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 600
     }
 
     clergymen = {
         culture = hungarian
-        religion = catholic
+        religion = placeholder
         size = 300
     }
 
     artisans = {
         culture = hungarian
-        religion = catholic
+        religion = placeholder
         size = 1900
     }
 
     soldiers = {
         culture = hungarian
-        religion = catholic
+        religion = placeholder
         size = 325
     }
 
     farmers = {
         culture = hungarian
-        religion = catholic
+        religion = placeholder
         size = 37375
     }
 
     aristocrats = {
         culture = hungarian
-        religion = protestant
+        religion = placeholder
         size = 950
     }
 
     clergymen = {
         culture = hungarian
-        religion = protestant
+        religion = placeholder
         size = 425
     }
 
     artisans = {
         culture = hungarian
-        religion = protestant
+        religion = placeholder
         size = 2250
     }
 
     soldiers = {
         culture = hungarian
-        religion = protestant
+        religion = placeholder
         size = 450
     }
 
     farmers = {
         culture = hungarian
-        religion = protestant
+        religion = placeholder
         size = 52925
     }
 
     clergymen = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 250
     }
 
     soldiers = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     farmers = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 6675
     }
 }

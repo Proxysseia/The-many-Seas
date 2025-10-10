@@ -4,61 +4,61 @@
 767 = {
     aristocrats = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 843
     }
 
     bureaucrats = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 702
     }
 
     clergymen = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 112
     }
 
     artisans = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 1237
     }
 
     soldiers = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 179
     }
 
     farmers = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 16481
     }
 
     clergymen = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 506
     }
 
     artisans = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 1800
     }
 
     soldiers = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 809
     }
 
     farmers = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 39375
     }
 }
@@ -68,61 +68,61 @@
 768 = {
     aristocrats = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 928
     }
 
     bureaucrats = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 632
     }
 
     officers = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 112
     }
 
     clergymen = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 787
     }
 
     artisans = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 4500
     }
 
     soldiers = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 1979
     }
 
     farmers = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 40668
     }
 
     soldiers = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 5400
     }
 
     artisans = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 4500
     }
 
     farmers = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 22500
     }
 }
@@ -130,49 +130,49 @@
 769 = {
     aristocrats = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 562
     }
 
     clergymen = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 478
     }
 
     artisans = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 2362
     }
 
     soldiers = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 764
     }
 
     farmers = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 28209
     }
 
     soldiers = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 4499
     }
 
     clergymen = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 112
     }
 
     farmers = {
         culture = vindonian
-        religion = catholic
+        religion = placeholder
         size = 15721
     }
 }

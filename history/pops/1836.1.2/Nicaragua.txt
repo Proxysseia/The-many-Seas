@@ -4,7 +4,7 @@
 2197 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 1050
         militancy = 9
         rebel_type = nationalist_rebels
@@ -12,7 +12,7 @@
 
     bureaucrats = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 100
         militancy = 9
         rebel_type = nationalist_rebels
@@ -20,7 +20,7 @@
 
     officers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 75
         militancy = 9
         rebel_type = nationalist_rebels
@@ -28,7 +28,7 @@
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 475
         militancy = 9
         rebel_type = nationalist_rebels
@@ -36,13 +36,13 @@
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 2400
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 1475
 
         militancy = 9
@@ -51,7 +51,7 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 43425
         militancy = 9
         rebel_type = nationalist_rebels
@@ -61,7 +61,7 @@
 2198 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 275
         militancy = 9
         rebel_type = nationalist_rebels
@@ -69,7 +69,7 @@
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 100
         militancy = 9
         rebel_type = nationalist_rebels
@@ -77,13 +77,13 @@
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 500
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 100
 
         militancy = 9
@@ -92,7 +92,7 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 9025
         militancy = 9
         rebel_type = nationalist_rebels
@@ -102,7 +102,7 @@
 2199 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 325
         militancy = 9
         rebel_type = nationalist_rebels
@@ -110,7 +110,7 @@
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 125
         militancy = 9
         rebel_type = nationalist_rebels
@@ -118,7 +118,7 @@
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 600
         militancy = 9
         rebel_type = nationalist_rebels
@@ -126,7 +126,7 @@
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 125
 
         militancy = 9
@@ -135,7 +135,7 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 11825
         militancy = 9
         rebel_type = nationalist_rebels
@@ -145,55 +145,55 @@
 2200 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 10
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 15
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 15
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 10
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 120
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 2700
     }
 
     farmers = {
         culture = mexican
-        religion = animist
+        religion = placeholder
         size = 190
     }
 
     farmers = {
         culture = mexican 
-        religion = animist
+        religion = placeholder
         size = 220
     }
 

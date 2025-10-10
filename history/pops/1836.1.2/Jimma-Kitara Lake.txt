@@ -2,25 +2,25 @@
 53 = {
     clergymen = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 250
     }
 
     artisans = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 2500
     }
 
     soldiers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 1350
     }
 
     farmers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 46500
     }
 }
@@ -28,31 +28,31 @@
 161 = {
     clergymen = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 800
     }
 
     bureaucrats = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     artisans = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 10000
     }
 
     soldiers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 5400
     }
 
     farmers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 35820
     }
 }
@@ -60,37 +60,37 @@
 162 = {
     bureaucrats = {
         culture = lake_mongo
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     clergymen = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 500
     }
 
     artisans = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 20000
     }
 
     craftsmen = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 7890
     }
 
     soldiers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 4500
     }
 
     farmers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 91670
     }
 }
@@ -98,37 +98,37 @@
 1843 = {
     aristocrats = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 250
     }
 
     clergymen = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     artisans = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     soldiers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 1350
     }
 
     farmers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 24000
     }
 
     slaves = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 8000
     }
 }
@@ -136,31 +136,31 @@
 1845 = {
     aristocrats = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 1500
     }
 
     clergymen = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 1000
     }
 
     artisans = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 4000
     }
 
     soldiers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 4500
     }
 
     farmers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 73000
     }
 }
@@ -168,25 +168,25 @@
 1846 = {
     aristocrats = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 2900
     }
 
     artisans = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 8400
     }
 
     soldiers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 4500
     }
 
     farmers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 104200
     }
 }
@@ -194,31 +194,31 @@
 1969 = {
     aristocrats = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     clergymen = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 800
     }
 
     artisans = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 2000
     }
 
     soldiers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 4500
     }
 
     farmers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 40000
     }
 }
@@ -226,37 +226,37 @@
 1997 = {
     aristocrats = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 2000
     }
 
     clergymen = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 1200
     }
 
     artisans = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 6000
     }
 
     soldiers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 3780
     }
 
     farmers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 400000
     }
 
     slaves = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 60000
     }
 }
@@ -264,31 +264,31 @@
 2021 = {
     aristocrats = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 1100
     }
 
     clergymen = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     soldiers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 6120
     }
 
     artisans = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 4900
     }
 
     farmers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 94000
     }
 }
@@ -296,49 +296,49 @@
 2036 = {
     aristocrats = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 1900
     }
 
     bureaucrats = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 3000
     }
 
     officers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 250
     }
 
     clergymen = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 1050
     }
 
     artisans = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 4000
     }
 
     soldiers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 900
     }
 
     farmers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 100000
     }
 
     slaves = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 28000
     }
 }
@@ -346,37 +346,37 @@
 2037 = {
     aristocrats = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 650
     }
 
     clergymen = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 350
     }
 
     artisans = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 1450
     }
 
     soldiers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 315
     }
 
     farmers = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 28000
     }
 
     slaves = {
         culture = lake_nuer
-        religion = sunni
+        religion = placeholder
         size = 12000
     }
 }

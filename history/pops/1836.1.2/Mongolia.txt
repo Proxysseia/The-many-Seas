@@ -2,79 +2,79 @@
 1465 = {
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 1850
     }
 
     bureaucrats = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 75
     }
 
     officers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 325
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 4000
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 4500
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 900
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 84350
     }
 
     bureaucrats = {
         culture = tibetan
-        religion = mahayana
+        religion = placeholder
         size = 125
     }
 
     clergymen = {
         culture = tibetan
-        religion = mahayana
+        religion = placeholder
         size = 75
     }
 
     artisans = {
         culture = tibetan
-        religion = mahayana
+        religion = placeholder
         size = 400
     }
 
     soldiers = {
         culture = tibetan
-        religion = mahayana
+        religion = placeholder
         size = 100
     }
 
     farmers = {
         culture = tibetan
-        religion = gelugpa
+        religion = placeholder
         size = 3300
     }
 
     slaves = {
         culture = uighur
-        religion = sunni
+        religion = placeholder
         size = 6000
     }
 }
@@ -82,37 +82,37 @@
 1466 = {
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 1050
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 550
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 2650
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 550
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 44200
     }
 
     slaves = {
         culture = uighur
-        religion = sunni
+        religion = placeholder
         size = 5000
     }
 }
@@ -120,61 +120,61 @@
 1467 = {
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 825
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 425
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 2050
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 425
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 37275
     }
 
     aristocrats = {
         culture = mongol
-        religion = animist
+        religion = placeholder
         size = 50
     }
 
     clergymen = {
         culture = mongol
-        religion = animist
+        religion = placeholder
         size = 50
     }
 
     artisans = {
         culture = mongol
-        religion = animist
+        religion = placeholder
         size = 125
     }
 
     soldiers = {
         culture = mongol
-        religion = animist
+        religion = placeholder
         size = 25
     }
 
     slaves = {
         culture = mongol
-        religion = animist
+        religion = placeholder
         size = 3000
     }
 }
@@ -182,37 +182,37 @@
 1468 = {
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 650
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 350
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 1750
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 350
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 31900
     }
 
     slaves = {
         culture = uighur
-        religion = sunni
+        religion = placeholder
         size = 2000
     }
 }
@@ -221,31 +221,31 @@
 2207 = {
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 350
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 175
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 875
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 175
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 16200
     }
 }
@@ -254,31 +254,31 @@
 2608 = {
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 750
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 375
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 1500
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 375
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 35000
     }
 }
@@ -286,31 +286,31 @@
 2678 = {
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 400
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 200
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 1050
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 225
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 17125
     }
 }
@@ -318,67 +318,67 @@
 2679 = {
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 350
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 175
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 900
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 175
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 16400
     }
 
     aristocrats = {
         culture = kazak
-        religion = sunni
+        religion = placeholder
         size = 200
     }
 
     clergymen = {
         culture = kazak
-        religion = sunni
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = kazak
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     soldiers = {
         culture = kazak
-        religion = sunni
+        religion = placeholder
         size = 125
     }
 
     farmers = {
         culture = kazak
-        religion = sunni
+        religion = placeholder
         size = 10975
     }
 
     slaves = {
         culture = kazak
-        religion = sunni
+        religion = placeholder
         size = 2000
     }
 }
@@ -388,65 +388,65 @@
 
     bureaucrats = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 4250
     }
 
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 9500
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 4800
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 11000
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 11000
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 4000
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 6000
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 1800
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 234900
     }
     farmers = {
         culture = uighur
-        religion = gelugpa
+        religion = placeholder
         size = 29900
     }
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 42100
     }
 }
@@ -455,42 +455,42 @@
 
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 6500
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 2800
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 11000
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 4000
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 4000
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 112700
     }
     farmers = {
         culture = uighur
-        religion = gelugpa
+        religion = placeholder
         size = 41900
     }
 }
@@ -498,85 +498,85 @@
 1532 = {
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 2000
     }
 
     bureaucrats = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 225
     }
 
     officers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 225
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 1050
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 4200
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 1050
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 85250
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 10000
     }
 
     clergymen = {
         culture = chinese
-        religion = mahayana
+        religion = placeholder
         size = 75
     }
 
     artisans = {
         culture = chinese
-        religion = mahayana
+        religion = placeholder
         size = 200
     }
 
     farmers = {
         culture = chinese
-        religion = gelugpa
+        religion = placeholder
         size = 3625
     }
 
     bureaucrats = {
         culture = chinese
-        religion = mahayana
+        religion = placeholder
         size = 25
     }
 
     officers = {
         culture = chinese
-        religion = mahayana
+        religion = placeholder
         size = 75
     }
 
     soldiers = {
         culture = chinese
-        religion = mahayana
+        religion = placeholder
         size = 1100
     }
 }
@@ -584,31 +584,31 @@
 1534 = {
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 650
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 325
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 1650
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 1100
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 29375
     }
 }
@@ -616,31 +616,31 @@
 1535 = {
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 2225
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 1125
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 5600
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 1125
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 101925
     }
 }
@@ -651,55 +651,55 @@
 1556 = {
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 1900
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 14550
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 1925
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 27200
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 40000
     }
 
     bureaucrats = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 1025
     }
 
     officers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 525
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 6000
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 121000
     }
 
@@ -709,25 +709,25 @@
 
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 1500
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 1750
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 13800
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 71200
     }
 }
@@ -736,31 +736,31 @@
 
     aristocrats = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 4000
     }
 
     clergymen = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 4000
     }
 
     artisans = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 19000
     }
 
     soldiers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 4000
     }
 
     farmers = {
         culture = mongol
-        religion = gelugpa
+        religion = placeholder
         size = 128600
     }
 

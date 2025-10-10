@@ -2,19 +2,19 @@
 1447 = {
     aristocrats = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 100
     }
 
     bureaucrats = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 20
     }
 
     farmers = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 1300
     }
 }
@@ -22,19 +22,19 @@
 1449 = {
     aristocrats = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 75
     }
 
     bureaucrats = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 111
     }
 
     farmers = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 487
     }
 }
@@ -42,25 +42,25 @@
 1876 = {
     aristocrats = {
         culture = lavlandish
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = lavlandish
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     soldiers = {
         culture = lavlandish
-        religion = catholic
+        religion = placeholder
         size = 66
     }
 
     farmers = {
         culture = lavlandish
-        religion = catholic
+        religion = placeholder
         size = 3500
     }
 }
@@ -68,13 +68,13 @@
 2236 = {
     aristocrats = {
         culture = french
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     farmers = {
         culture = french
-        religion = catholic
+        religion = placeholder
         size = 2000
     }
 }

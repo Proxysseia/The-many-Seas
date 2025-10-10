@@ -2,31 +2,31 @@
 592 = {
     aristocrats = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 770
     }
 
     clergymen = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 735
     }
 
     artisans = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 7000
     }
 
     soldiers = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 2100
     }
 
     farmers = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 54565
     }
 }
@@ -34,49 +34,49 @@
 599 = {
     aristocrats = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 1470
     }
 
     bureaucrats = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 560
     }
 
     officers = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 280
     }
 
     clergymen = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 1435
     }
 
     artisans = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 7000
     }
 
     craftsmen = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 8000
     }
 
     soldiers = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 6300
     }
 
     farmers = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 132955
     }
 }
@@ -84,31 +84,31 @@
 600 = {
     aristocrats = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 280
     }
 
     clergymen = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 297
     }
 
     artisans = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 1400
     }
 
     soldiers = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 945
     }
 
     farmers = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 26407
     }
 }
@@ -116,31 +116,31 @@
 601 = {
     aristocrats = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 280
     }
 
     clergymen = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 297
     }
 
     artisans = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 1400
     }
 
     soldiers = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 2100
     }
 
     farmers = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 26022
     }
 }
@@ -148,31 +148,31 @@
 602 = {
     aristocrats = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 455
     }
 
     clergymen = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 437
     }
 
     artisans = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 3500
     }
 
     soldiers = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 2100
     }
 
     farmers = {
         culture = bairisch
-        religion = catholic
+        religion = placeholder
         size = 38307
     }
 }

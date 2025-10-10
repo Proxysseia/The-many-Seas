@@ -2,43 +2,43 @@
 173 = {
     bureaucrats = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 6800
     }
 
     officers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 200
     }
 
     clergymen = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 1600
     }
 
     artisans = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 20000
     }
 
     soldiers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 13200
     }
 
     farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 399300
     }
 
     craftsmen = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 21000
     }
 }
@@ -46,25 +46,25 @@
 175 = {
     clergymen = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     artisans = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 8000
     }
 
     soldiers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 3000
     }
 
     farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 94800
     }
 }
@@ -72,49 +72,49 @@
 729 = {
     aristocrats = {
         culture = australian
-        religion = protestant
+        religion = placeholder
         size = 1725
     }
 
     bureaucrats = {
         culture = australian
-        religion = catholic
+        religion = placeholder
         size = 1350
     }
 
     officers = {
         culture = australian
-        religion = protestant
+        religion = placeholder
         size = 75
     }
 
     clergymen = {
         culture = australian
-        religion = protestant
+        religion = placeholder
         size = 843
     }
 
     artisans = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 10000
     }
 
     soldiers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 650
     }
 
     farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 42925
     }
 
     farmers = {
         culture = australian
-        religion = protestant
+        religion = placeholder
         size = 57193
     }
 }
@@ -122,37 +122,37 @@
 1817 = {
     aristocrats = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 4800
     }
 
     clergymen = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 2000
     }
 
     artisans = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 32000
     }
 
     craftsmen = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 15000
     }
 
     soldiers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 16800
     }
 
     farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 246000
     }
 }
@@ -160,49 +160,49 @@
 1818 = {
     aristocrats = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 4800
     }
 
     bureaucrats = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 4800
     }
 
     officers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 3600
     }
 
     clergymen = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 4800
     }
 
     artisans = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 22000
     }
 
     craftsmen = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 28000
     }
 
     soldiers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 18000
     }
 
     farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 144000
     }
 }
@@ -210,37 +210,37 @@
 1820 = {
     aristocrats = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 1200
     }
 
     bureaucrats = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 4000
     }
 
     clergymen = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 3600
     }
 
     artisans = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 16000
     }
 
     soldiers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 9600
     }
 
     farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 180000
     }
 }
@@ -248,43 +248,43 @@
 1821 = {
     aristocrats = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 480
     }
 
     bureaucrats = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 1200
     }
 
     officers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     clergymen = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     artisans = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 8400
     }
 
     soldiers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 12240
     }
 
     farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 142200
     }
 }
@@ -292,31 +292,31 @@
 1822 = {
     clergymen = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 400
     }
 
     bureaucrats = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 800
     }
 
     artisans = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 1400
     }
 
     soldiers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 240
     }
 
     farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 29200
     }
 }
@@ -324,31 +324,31 @@
 1823 = {
     aristocrats = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 800
     }
 
     clergymen = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 1400
     }
 
     artisans = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 2000
     }
 
     soldiers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 4800
     }
 
     farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 124000
     }
 }
@@ -356,43 +356,43 @@
 1824 = {
     aristocrats = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 12000
     }
 
     bureaucrats = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 3200
     }
 
     officers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 800
     }
 
     clergymen = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 400
     }
 
     artisans = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 24000
     }
 
     soldiers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 3600
     }
 
     farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 147000
     }
 }
@@ -400,31 +400,31 @@
 1825 = {
     aristocrats = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 200
     }
 
     clergymen = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 200
     }
 
     soldiers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 240
     }
 
     farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 45520
     }
 }
@@ -432,37 +432,37 @@
 1826 = {
     aristocrats = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     clergymen = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 500
     }
 
     bureaucrats = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 1487
     }
 
     artisans = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     soldiers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 2640
     }
 
     farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 84320
     }
 }
@@ -470,43 +470,43 @@
 2113 = {
     aristocrats = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 4000
     }
 
     officers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 4000
     }
 
     bureaucrats = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 8000
     }
 
     clergymen = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 4000
     }
 
     artisans = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 40000
     }
 
     soldiers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 2400
     }
 
     farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 400000
     }
 }
@@ -514,25 +514,25 @@
 2125 = {
     clergymen = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 500
     }
 
     artisans = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 4400
     }
 
     soldiers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 89500
     }
 }
@@ -540,37 +540,37 @@
 2127 = {
     aristocrats = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 80
     }
 
     aristocrats = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 120
     }
 
     soldiers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 72
     }
 
     clergymen = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 120
     }
 
     artisans = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 300
     }
 
     farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 4700
     }
 }
