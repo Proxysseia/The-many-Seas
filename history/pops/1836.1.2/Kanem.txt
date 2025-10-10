@@ -2,19 +2,19 @@
 110 = {
     aristocrats = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 50
     }
 
     soldiers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 100
     }
 
     farmers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 2900
     }
 }
@@ -22,31 +22,31 @@
 147 = {
     clergymen = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 75
     }
 
     artisans = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 3250
     }
 
     soldiers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 4200
     }
 
     farmers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 18475
     }
 	
 	farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 24475
     }
 }
@@ -54,31 +54,31 @@
 228 = {
     clergymen = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 200
     }
 
     artisans = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 1350
     }
 
     soldiers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 275
     }
 	
     farmers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 15175
     }
 	
 	farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 20175
     }
 }
@@ -86,37 +86,37 @@
 1807 = {
     aristocrats = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 50
     }
 
     clergymen = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 75
     }
 
     artisans = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 200
     }
 
     soldiers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 50
     }
 
     farmers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 2825
     }
 	
 	farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 2825
     }
 }
@@ -124,37 +124,37 @@
 1810 = {
     aristocrats = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     clergymen = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 450
     }
 
     artisans = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 1150
     }
 
     soldiers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 500
     }
 
     farmers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 25300
     }
 	
 	farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 35300
     }
 }
@@ -162,37 +162,37 @@
 1811 = {
     aristocrats = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 100
     }
 
     clergymen = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 100
     }
 
     soldiers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 100
     }
 
     farmers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 38800
     }
 	
 	farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 48800
     }
 }
@@ -200,37 +200,37 @@
 1812 = {
 	aristocrats = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 1000
     }
 
     clergymen = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 1000
     }
 
     soldiers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 1500
     }
 
     farmers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 32500
     }
 	
 	farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 37500
     }
 }
@@ -239,37 +239,37 @@
 1814 = {
     aristocrats = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 400
     }
 
     clergymen = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 300
     }
 
     artisans = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 6200
     }
 
     soldiers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 700
     }
 
     farmers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 10500
     }
 	
 	farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 15500
     }
 }
@@ -277,43 +277,43 @@
 1815 = {
     aristocrats = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 1500
     }
 
     bureaucrats = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     clergymen = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 800
     }
 
     artisans = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 24000
     }
 
 	farmers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 50800
     }
 	
     soldiers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 3000
     }
 	
 	farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 60800
     }
 }
@@ -321,37 +321,37 @@
 1816 = {
     aristocrats = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 1400
     }
 
     clergymen = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 700
     }
 
     artisans = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 3200
     }
 
     soldiers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 400
     }
 
     farmers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 22500
     }
 	
 	farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 12500
     }
 }
@@ -359,37 +359,37 @@
 2020 = {
     aristocrats = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 700
     }
 
     clergymen = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 600
     }
 
     artisans = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 2200
     }
 
     soldiers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 500
     }
 
     farmers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 29500
     }
 	
 	farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 19500
     }
 }
@@ -397,43 +397,43 @@
 2049 = {
     aristocrats = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 2400
     }
 
     clergymen = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 350
     }
 
     artisans = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 1600
     }
 
     soldiers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 400
     }
 
     farmers = {
         culture = maghrebi
-        religion = sunni
+        religion = placeholder
         size = 37250
     }
 	
 	farmers = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 12250
     }
 
     slaves = {
         culture = mongo
-        religion = sunni
+        religion = placeholder
         size = 3000
     }
 }

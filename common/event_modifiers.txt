@@ -429,11 +429,6 @@ highlander_raids = {
 	pop_militancy_modifier = 0.25
 	icon = 18
 }
-
-jewish_farms = {
-	farm_rgo_size = 2
-	icon = 13
-}
 	
 monument_under_construction = {
 	icon = 13
@@ -2108,10 +2103,6 @@ rcmp = {
 	icon = 1
 }
 
-jewish_diaspora = {
-	icon = 20
-}
-
 ### Ethiopia ###
 exploiting_the_land = {
 	tax_efficiency = 0.25
@@ -2174,24 +2165,9 @@ dust_bowl = {
 	icon = 14
 }
 
-home_of_the_mormons = {
-	population_growth = 0.005
-	icon = 19
-}
-
 small_immigration_boom = {
 	immigrant_attract = 1.5
 	icon = 9
-}
-
-gateway_to_harbor = {
-	immigrant_attract = 1
-	population_growth = 0.002
-	icon = 9
-}
-
-centre_of_the_world = {
-	population_growth = 0.01
 }
 
 #Expires after 20 years

@@ -4,42 +4,42 @@
 2191 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 1425
         militancy = 5
     }
 
     bureaucrats = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 150
         militancy = 6
     }
 
     officers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 125
         militancy = 9
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 650
         militancy = 4
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 3250
         militancy = 9
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 1100
 
         militancy = 9
@@ -47,7 +47,7 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 58350
         militancy = 4
     }
@@ -56,28 +56,28 @@
 2192 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 950
         militancy = 9
     }
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 450
         militancy = 9
     }
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 2200
         militancy = 9
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 450
 
         militancy = 9
@@ -85,7 +85,7 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 39950
         militancy = 4
     }

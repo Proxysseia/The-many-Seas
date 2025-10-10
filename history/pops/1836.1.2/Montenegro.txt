@@ -5,49 +5,49 @@
 2583 = {
     aristocrats = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 65
     }
 
     bureaucrats = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 65
     }
 
     officers = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 16
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 178
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 845
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 1950
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 13893
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 650
     }
 }
@@ -57,67 +57,67 @@
 2577 = {
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 338
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 65
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 162
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 2060
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 3363
     }
 
     aristocrats = {
         culture = serb
-        religion = catholic
+        religion = placeholder
         size = 162
     }
 
     clergymen = {
         culture = serb
-        religion = catholic
+        religion = placeholder
         size = 65
     }
 
     artisans = {
         culture = serb
-        religion = catholic
+        religion = placeholder
         size = 195
     }
 
     soldiers = {
         culture = serb
-        religion = catholic
+        religion = placeholder
         size = 97
     }
 
     farmers = {
         culture = serb
-        religion = catholic
+        religion = placeholder
         size = 1950
     }
 
     farmers = {
         culture = serb
-        religion = catholic
+        religion = placeholder
         size = 130
     }
 }
@@ -127,121 +127,121 @@
 2582 = {
     aristocrats = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 65
     }
 
     officers = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 6
     }
 
     clergymen = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 65
     }
 
     artisans = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 162
     }
 
     soldiers = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 65
     }
 
     farmers = {
         culture = slovene
-        religion = catholic
+        religion = placeholder
         size = 2600
     }
 
     farmers = {
         culture = albanian
-        religion = catholic
+        religion = placeholder
         size = 227
     }
 
     aristocrats = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 130
     }
 
     officers = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 6
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 65
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 357
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 81
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = placeholder
         size = 6646
     }
 
     farmers = {
         culture = serb
-        religion = catholic
+        religion = placeholder
         size = 227
     }
 
     aristocrats = {
         culture = north_italian
-        religion = catholic
+        religion = placeholder
         size = 65
     }
 
     officers = {
         culture = north_italian
-        religion = catholic
+        religion = placeholder
         size = 6
     }
 
     clergymen = {
         culture = north_italian
-        religion = catholic
+        religion = placeholder
         size = 65
     }
 
     artisans = {
         culture = north_italian
-        religion = catholic
+        religion = placeholder
         size = 65
     }
 
     soldiers = {
         culture = north_italian
-        religion = catholic
+        religion = placeholder
         size = 65
     }
 
     farmers = {
         culture = north_italian
-        religion = catholic
+        religion = placeholder
         size = 65
     }
 }

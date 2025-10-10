@@ -4,43 +4,43 @@
 935 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 300
     }
 
     bureaucrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 60
     }
 
     officers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 15
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 75
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 225
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 75
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 4087
     }
 }
@@ -50,49 +50,49 @@
 1165 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 105
     }
 
     bureaucrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 60
     }
 
     officers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 15
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 37
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 150
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 787
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 2287
     }
 
     slaves = {
         culture = saayda
-        religion = animist
+        religion = placeholder
         size = 300
     }
 }
@@ -102,49 +102,49 @@
 1167 = {
     aristocrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 337
     }
 
     bureaucrats = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 88
     }
 
     officers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 15
     }
 
     clergymen = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 75
     }
 
     artisans = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 375
     }
 
     soldiers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 750
     }
 
     farmers = {
         culture = saayda
-        religion = sunni
+        religion = placeholder
         size = 5475
     }
 
     slaves = {
         culture = saayda
-        religion = animist
+        religion = placeholder
         size = 1200
     }
 }

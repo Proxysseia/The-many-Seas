@@ -2,31 +2,31 @@
 2129 = {
     bureaucrats = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 10
     }
 
     clergymen = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 25
     }
 
     soldiers = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 6
     }
 
     artisans = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 50
     }
 
     farmers = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 845
     }
 
@@ -35,13 +35,13 @@
 2130 = {
     soldiers = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 10
     }
 
     farmers = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 60
     }
 }
@@ -49,13 +49,13 @@
 2132 = {
     soldiers = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 10
     }
 
     farmers = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 60
     }
 }

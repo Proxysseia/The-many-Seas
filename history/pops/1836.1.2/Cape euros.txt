@@ -3,37 +3,37 @@
 14 = {
     aristocrats = {
         culture = french
-        religion = protestant
+        religion = placeholder
         size = 2100
     }
 
     clergymen = {
         culture = french
-        religion = protestant
+        religion = placeholder
         size = 750
     }
 
     artisans = {
         culture = french
-        religion = protestant
+        religion = placeholder
         size = 1100
     }
 
     soldiers = {
         culture = french
-        religion = protestant
+        religion = placeholder
         size = 1000
     }
 
     farmers = {
         culture = french
-        religion = protestant
+        religion = placeholder
         size = 5550
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = placeholder
         size = 25130
     }
 }
@@ -41,31 +41,31 @@
 237 = {
     clergymen = {
         culture = french
-        religion = protestant
+        religion = placeholder
         size = 325
     }
 
     artisans = {
         culture = french
-        religion = protestant
+        religion = placeholder
         size = 2200
     }
 
     soldiers = {
         culture = french
-        religion = protestant
+        religion = placeholder
         size = 450
     }
 
     farmers = {
         culture = french
-        religion = protestant
+        religion = placeholder
         size = 15025
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = placeholder
         size = 51025
     }
 }
@@ -73,31 +73,31 @@
 2089 = {
     aristocrats = {
         culture = french
-        religion = catholic
+        religion = placeholder
         size = 250
     }
 
     clergymen = {
         culture = french
-        religion = catholic
+        religion = placeholder
         size = 50
     }
 
     soldiers = {
         culture = french
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = french
-        religion = catholic
+        religion = placeholder
         size = 250
     }
 
     farmers = {
         culture = tswana
-        religion = catholic
+        religion = placeholder
         size = 19500
     }
 }
@@ -105,37 +105,37 @@
 2092 = {
     aristocrats = {
         culture = french
-        religion = catholic
+        religion = placeholder
         size = 10
     }
 
     bureaucrats = {
         culture = french
-        religion = catholic
+        religion = placeholder
         size = 100
     }
 
     clergymen = {
         culture = french
-        religion = catholic
+        religion = placeholder
         size = 55
     }
 
     artisans = {
         culture = french
-        religion = catholic
+        religion = placeholder
         size = 150
     }
 
     soldiers = {
         culture = french
-        religion = catholic
+        religion = placeholder
         size = 250
     }
 
     farmers = {
         culture = tswana
-        religion = catholic
+        religion = placeholder
         size = 7450
     }
 }
@@ -144,31 +144,31 @@
 85 = {
     aristocrats = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 500
     }
 
     clergymen = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 400
     }
 
     soldiers = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 825
     }
 
     farmers = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 37000
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = placeholder
         size = 67000
     }
 }
@@ -176,31 +176,31 @@
 2093 = {
     aristocrats = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 250
     }
 
     clergymen = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 25
     }
 
     artisans = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 190
     }
 
     farmers = {
         culture = english
-        religion = protestant
+        religion = placeholder
         size = 5825
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = placeholder
         size = 10825
     }
 }
@@ -209,31 +209,31 @@
 65 = {
     aristocrats = {
         culture = lavlandish
-        religion = catholic
+        religion = placeholder
         size = 1000
     }
 
     artisans = {
         culture = lavlandish
-        religion = catholic
+        religion = placeholder
         size = 7000
     }
 
     soldiers = {
         culture = lavlandish
-        religion = catholic
+        religion = placeholder
         size = 2310
     }
 
     farmers = {
         culture = lavlandish
-        religion = catholic
+        religion = placeholder
         size = 12000
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = placeholder
         size = 62500
     }
 }
@@ -241,31 +241,31 @@
 70 = {
     clergymen = {
         culture = tswana
-        religion = protestant
+        religion = placeholder
         size = 50
     }
 
     artisans = {
         culture = tswana
-        religion = protestant
+        religion = placeholder
         size = 1500
     }
 
     soldiers = {
         culture = tswana
-        religion = protestant
+        religion = placeholder
         size = 100
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = placeholder
         size = 1350
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = placeholder
         size = 4725
     }
 }
@@ -273,25 +273,25 @@
 2097 = {
     artisans = {
         culture = lavlandish
-        religion = protestant
+        religion = placeholder
         size = 160
     }
 
     clergymen = {
         culture = lavlandish
-        religion = protestant
+        religion = placeholder
         size = 100
     }
 
     soldiers = {
         culture = lavlandish
-        religion = protestant
+        religion = placeholder
         size = 660
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = placeholder
         size = 20825
     }
 }
@@ -299,31 +299,31 @@
 2099 = {
     aristocrats = {
         culture = lavlandish
-        religion = protestant
+        religion = placeholder
         size = 200
     }
 
     clergymen = {
         culture = lavlandish
-        religion = protestant
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = lavlandish
-        religion = protestant
+        religion = placeholder
         size = 1100
     }
 
     soldiers = {
         culture = lavlandish
-        religion = protestant
+        religion = placeholder
         size = 792
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = placeholder
         size = 17500
     }
 }
@@ -332,31 +332,31 @@
 81 = {
     aristocrats = {
         culture = latvian
-        religion = protestant
+        religion = placeholder
         size = 1750
     }
 
     clergymen = {
         culture = latvian
-        religion = protestant
+        religion = placeholder
         size = 175
     }
 
     soldiers = {
         culture = latvian
-        religion = protestant
+        religion = placeholder
         size = 87
     }
 
     farmers = {
         culture = latvian
-        religion = protestant
+        religion = placeholder
         size = 6790
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = placeholder
         size = 14400
     }
 }
@@ -364,31 +364,31 @@
 241 = {
     aristocrats = {
         culture = latvian
-        religion = protestant
+        religion = placeholder
         size = 1750
     }
 
     artisans = {
         culture = latvian
-        religion = protestant
+        religion = placeholder
         size = 2135
     }
 
     soldiers = {
         culture = latvian
-        religion = protestant
+        religion = placeholder
         size = 1050
     }
 
     farmers = {
         culture = latvian
-        religion = protestant
+        religion = placeholder
         size = 7000
     }
 
     farmers = {
         culture = tswana
-        religion = catholic
+        religion = placeholder
         size = 15250
     }
 }
@@ -396,37 +396,37 @@
 2112 = {
     aristocrats = {
         culture = latvian
-        religion = protestant
+        religion = placeholder
         size = 525
     }
 
     clergymen = {
         culture = latvian
-        religion = protestant
+        religion = placeholder
         size = 70
     }
 
     artisans = {
         culture = latvian
-        religion = protestant
+        religion = placeholder
         size = 70
     }
 
     soldiers = {
         culture = latvian
-        religion = protestant
+        religion = placeholder
         size = 35
     }
 
     farmers = {
         culture = latvian
-        religion = protestant
+        religion = placeholder
         size = 1750
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = placeholder
         size = 4550
     }
 }
@@ -434,43 +434,43 @@
 3321 = {
     aristocrats = {
         culture = latvian
-        religion = protestant
+        religion = placeholder
         size = 35
     }
 
     clergymen = {
         culture = latvian
-        religion = protestant
+        religion = placeholder
         size = 35
     }
 
     artisans = {
         culture = latvian
-        religion = protestant
+        religion = placeholder
         size = 70
     }
 
     soldiers = {
         culture = latvian
-        religion = protestant
+        religion = placeholder
         size = 35
     }
 
     soldiers = {
         culture = latvian
-        religion = catholic
+        religion = placeholder
         size = 350
     }
 
     farmers = {
         culture = latvian
-        religion = protestant
+        religion = placeholder
         size = 2254
     }
 
     farmers = {
         culture = tswana
-        religion = catholic
+        religion = placeholder
         size = 7000
     }
 }
@@ -479,31 +479,31 @@
 71 = {
     clergymen = {
         culture = swedish
-        religion = protestant
+        religion = placeholder
         size = 100
     }
 
     artisans = {
         culture = swedish
-        religion = protestant
+        religion = placeholder
         size = 4000
     }
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = placeholder
         size = 100
     }
 
     farmers = {
         culture = swedish
-        religion = protestant
+        religion = placeholder
         size = 44600
     }
 
     farmers = {
         culture = tswana
-        religion = catholic
+        religion = placeholder
         size = 52100
     }
 }
@@ -511,31 +511,31 @@
 73 = {
     clergymen = {
         culture = swedish
-        religion = protestant
+        religion = placeholder
         size = 50
     }
 
     artisans = {
         culture = swedish
-        religion = protestant
+        religion = placeholder
         size = 250
     }
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = placeholder
         size = 25
     }
 
     farmers = {
         culture = swedish
-        religion = protestant
+        religion = placeholder
         size = 26500
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = placeholder
         size = 46500
     }
 }
@@ -543,31 +543,31 @@
 2085 = {
     aristocrats = {
         culture = swedish
-        religion = protestant
+        religion = placeholder
         size = 25
     }
 
     artisans = {
         culture = swedish
-        religion = protestant
+        religion = placeholder
         size = 100
     }
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = placeholder
         size = 12
     }
 
     farmers = {
         culture = swedish
-        religion = protestant
+        religion = placeholder
         size = 10800
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = placeholder
         size = 18000
     }
 }
@@ -575,31 +575,31 @@
 2086 = {
     aristocrats = {
         culture = swedish
-        religion = protestant
+        religion = placeholder
         size = 50
     }
 
     artisans = {
         culture = swedish
-        religion = protestant
+        religion = placeholder
         size = 200
     }
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = placeholder
         size = 250
     }
 
     farmers = {
         culture = swedish
-        religion = protestant
+        religion = placeholder
         size = 20650
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = placeholder
         size = 30650
     }
 }
@@ -608,37 +608,37 @@
 206 = {
     aristocrats = {
         culture = australian
-        religion = protestant
+        religion = placeholder
         size = 825
     }
 
     bureaucrats = {
         culture = australian
-        religion = protestant
+        religion = placeholder
         size = 820
     }
 
     artisans = {
         culture = australian
-        religion = protestant
+        religion = placeholder
         size = 1800
     }
 
     soldiers = {
         culture = australian
-        religion = protestant
+        religion = placeholder
         size = 3000
     }
 
     farmers = {
         culture = australian
-        religion = protestant
+        religion = placeholder
         size = 48431
     }
 
     farmers = {
         culture = tswana
-        religion = protestant
+        religion = placeholder
         size = 44575
     }
 }

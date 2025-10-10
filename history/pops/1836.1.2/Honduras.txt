@@ -4,7 +4,7 @@
 2193 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 950
         militancy = 9
         rebel_type = nationalist_rebels
@@ -12,13 +12,13 @@
 
     bureaucrats = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 125
     }
 
     officers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 100
         militancy = 9
         rebel_type = nationalist_rebels
@@ -26,7 +26,7 @@
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 450
         militancy = 9
         rebel_type = nationalist_rebels
@@ -34,13 +34,13 @@
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 2250
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 1450
 
         militancy = 9
@@ -49,7 +49,7 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 40675
         militancy = 5
     }
@@ -58,7 +58,7 @@
 2194 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 550
         militancy = 9
         rebel_type = nationalist_rebels
@@ -66,7 +66,7 @@
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 225
         militancy = 9
         rebel_type = nationalist_rebels
@@ -74,13 +74,13 @@
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 1150
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 225
 
         militancy = 9
@@ -89,7 +89,7 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 20850
         militancy = 9
         rebel_type = nationalist_rebels
@@ -99,7 +99,7 @@
 2195 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 425
         militancy = 9
         rebel_type = nationalist_rebels
@@ -107,7 +107,7 @@
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 175
         militancy = 9
         rebel_type = nationalist_rebels
@@ -115,13 +115,13 @@
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 850
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 175
 
         militancy = 9
@@ -130,7 +130,7 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 15375
         militancy = 9
         rebel_type = nationalist_rebels
@@ -140,7 +140,7 @@
 2196 = {
     aristocrats = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 75
         militancy = 9
         rebel_type = nationalist_rebels
@@ -148,7 +148,7 @@
 
     clergymen = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 50
         militancy = 9
         rebel_type = nationalist_rebels
@@ -156,13 +156,13 @@
 
     artisans = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 150
     }
 
     soldiers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 25
 
         militancy = 9
@@ -171,7 +171,7 @@
 
     farmers = {
         culture = mexican
-        religion = catholic
+        religion = placeholder
         size = 2700
         militancy = 5
     }
