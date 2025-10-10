@@ -373,3 +373,29 @@
         size = 53625
     }
 }
+#Weihui
+1515 = {
+    aristocrats = {
+        culture = russian
+        religion = orthodox
+        size = 625
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 1650
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 750
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 21450
+    }
+}

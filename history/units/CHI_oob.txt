@@ -16,25 +16,7 @@ leader = {
 }
 army = {
 	name = "1st Army"
-	location = 1543
-	regiment = {
-		name= "1.Kings Horse"
-		type = cavalry
-		home = 1543
-	}
-
-	regiment = {
-		name= "2.Kings Horse"
-		type = cavalry
-		home = 1543
-	}
-
-	regiment = {
-		name= "3.Kings Horse"
-		type = cavalry
-		home = 1543
-	}
-	
+	location = 1612
 	regiment = {
 		name= "5.Kings Horse"
 		type = cavalry
@@ -52,39 +34,10 @@ army = {
 		type = cavalry
 		home = 1679
 	}
-
-	regiment = {
-		name= "9.Kings Horse"
-		type = cavalry
-		home = 1470
-	}
-	
-	regiment = {
-		name= "10.Kings Horse"
-		type = cavalry
-		home = 1470
-	}
 }
 army = {
 	name = "1st Army"
-	location = 1515
-	regiment = {
-		name= "1.Kings Horse"
-		type = cavalry
-		home = 1515
-	}
-
-	regiment = {
-		name= "2.Kings Horse"
-		type = cavalry
-		home = 1515
-	}
-
-	regiment = {
-		name= "3.Kings Horse"
-		type = cavalry
-		home = 1515
-	}
+	location = 1518
 
 	regiment = {
 		name= "8.Kings Horse"

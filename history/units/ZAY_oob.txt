@@ -8,7 +8,7 @@ leader = {
 }
 army = {
 	name = "1st Army"
-	location = 1070
+	location = 1574
 	regiment = {
 		name= "1.Horse"
 		type = cavalry

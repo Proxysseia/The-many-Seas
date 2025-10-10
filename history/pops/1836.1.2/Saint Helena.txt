@@ -27,20 +27,9 @@
     farmers = {
         culture = english
         religion = protestant
-        size = 245
+        size = 845
     }
 
-    farmers = {
-        culture = english
-        religion = mahayana
-        size = 155
-    }
-
-    farmers = {
-        culture = english
-        religion = protestant
-        size = 500
-    }
 }
 #Ascension (140/35 POPS)
 2130 = {

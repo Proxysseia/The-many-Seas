@@ -27,7 +27,7 @@ leader = {
 
 army = {
 	name = "1st Army"
-	location = 389
+	location = 1470
 	regiment = {
 		name= "1.Horse"
 		type = cavalry
@@ -79,7 +79,7 @@ army = {
 
 army = {
 	name = "2nd Army"
-	location = 1058
+	location = 993
 	regiment = {
 		name= "1.Horse"
 		type = cavalry

@@ -1456,6 +1456,26 @@
         size = 4550
     }
 }
+#Olyekminsk (6000/1500 POPS)
+2644 = {
+    clergymen = {
+        culture = koryaki
+        religion = sunni
+        size = 75
+    }
+
+    soldiers = {
+        culture = koryaki
+        religion = sunni
+        size = 250
+    }
+
+    farmers = {
+        culture = koryaki
+        religion = sunni
+        size = 12450
+    }
+}
 #Unclaimed
 #Port Arthur (80000/15000 POPS)
 1481 = {

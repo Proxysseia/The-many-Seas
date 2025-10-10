@@ -1,5 +1,5 @@
 owner = YEN
-controller = YEN
+controller = URA
 add_core = YEN
 trade_goods = coal
 life_rating = 32
@@ -8,4 +8,3 @@ state_building = {
         building = glass_factory
         upgrade = yes
     }
-naval_base = 1
