@@ -1224,31 +1224,7 @@ mission_to_civilize = {
 	}
 	news = no
 	chance = {
-		base = 0
-		modifier = {
-			factor = 25
-			nationalism_n_imperialism = 1
-		}
-		modifier = {
-			factor = 25
-			market_regulations = 1
-		}
-		modifier = {
-			factor = 25
-			naval_statistics = 1
-		}
-		modifier = {
-			factor = 100
-			any_greater_power = {
-				invention = mission_to_civilize
-			}
-		}
-		modifier = {
-			factor = 10
-			any_neighbor_country = {
-				invention = mission_to_civilize
-			}
-		}
+		base = 100
 	}
 	effect = {
 		colonial_prestige = 0.1
