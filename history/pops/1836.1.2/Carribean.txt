@@ -365,92 +365,42 @@
     }
 }
 #Greater Antilles
-#Jamaica Region - 384000
-#Ruled by Britain 1836
-#Puerto Rico (356000/89000 POPS)
+#Puerto Rico 
 2222 = {
     aristocrats = {
         culture = antillean
         religion = catholic
-        size = 250
+        size = 1250
     }
 
     bureaucrats = {
         culture = antillean
         religion = catholic
-        size = 75
+        size = 525
     }
 
     clergymen = {
         culture = antillean
         religion = catholic
-        size = 300
+        size = 1200
     }
 
     artisans = {
         culture = antillean
         religion = catholic
-        size = 800
+        size = 4100
     }
 
     soldiers = {
         culture = antillean
         religion = catholic
-        size = 50
-    }
-
-    aristocrats = {
-        culture = antillean
-        religion = catholic
-        size = 1535
-    }
-
-    bureaucrats = {
-        culture = antillean
-        religion = catholic
-        size = 25
-    }
-
-    clergymen = {
-        culture = antillean
-        religion = catholic
-        size = 200
-    }
-
-    artisans = {
-        culture = antillean
-        religion = catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = antillean
-        religion = catholic
-        size = 450
+        size = 2400
     }
 
     farmers = {
         culture = antillean
         religion = catholic
-        size = 40850
-    }
-
-    artisans = {
-        culture = antillean
-        religion = catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = antillean
-        religion = catholic
-        size = 400
-    }
-
-    farmers = {
-        culture = antillean
-        religion = catholic
-        size = 30600
+        size = 130600
     }
 
     slaves = {
