@@ -18,6 +18,12 @@
         size = 740
     }
 
+    craftsmen = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 10120
+    }
+
     artisans = {
         culture = novosibiryaki
         religion = orthodox
@@ -27,19 +33,13 @@
     soldiers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 20000
+        size = 13000
     }
 
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 294120
-    }
-
-    craftsmen = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 15120
+        size = 150000
     }
 }
 #Naryn
@@ -54,12 +54,6 @@
         culture = novosibiryaki
         religion = orthodox
         size = 240
-    }
-
-    bureaucrats = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 60
     }
 
     artisans = {
@@ -77,13 +71,7 @@
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 102120
-    }
-
-    clerks = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 240
+        size = 52120
     }
 }
 #Ekaterinburg
@@ -351,7 +339,7 @@
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 158400
+        size = 108400
     }
 }
 #Krasnoyarsk
@@ -717,7 +705,7 @@
     aristocrats = {
         culture = novosibiryaki
         religion = orthodox
-        size = 3600
+        size = 1600
     }
 
     clergymen = {
@@ -729,7 +717,7 @@
     artisans = {
         culture = novosibiryaki
         religion = orthodox
-        size = 10440
+        size = 5440
     }
 
     soldiers = {
@@ -741,7 +729,7 @@
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 90972
+        size = 40972
     }
 }
 #Berezov
@@ -767,7 +755,7 @@
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 123120
+        size = 73000
     }
 }
 #Nizhnevartovsk
@@ -889,7 +877,7 @@
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 195120
+        size = 95120
     }
 }
 #Verkniy Ufaley
@@ -941,7 +929,7 @@
     soldiers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 2160
+        size = 260
     }
 
     farmers = {
@@ -961,7 +949,7 @@
     bureaucrats = {
         culture = novosibiryaki
         religion = orthodox
-        size = 1920
+        size = 220
     }
 
     officers = {
@@ -985,13 +973,13 @@
     soldiers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 3600
+        size = 300
     }
 
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 216390
+        size = 80000
     }
 }
 #Kokshetau
@@ -1104,16 +1092,10 @@
         size = 5400
     }
 
-    soldiers = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 6000
-    }
-
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 94800
+        size = 44800
     }
 }
 #Galich
@@ -1241,7 +1223,7 @@
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 99624
+        size = 85000
     }
 }
 #Tyumen
@@ -1264,16 +1246,10 @@
         size = 960
     }
 
-    soldiers = {
-        culture = novosibiryaki
-        religion = orthodox
-        size = 2550
-    }
-
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 110610
+        size = 40610
     }
 }
 #Kheta
@@ -1422,13 +1398,13 @@
     clergymen = {
         culture = novosibiryaki
         religion = orthodox
-        size = 60
+        size = 360
     }
 
     artisans = {
         culture = novosibiryaki
         religion = orthodox
-        size = 420
+        size = 2420
     }
 
     soldiers = {
@@ -1440,7 +1416,7 @@
     farmers = {
         culture = novosibiryaki
         religion = orthodox
-        size = 23730
+        size = 73730
     }
 }
 #Rzhev
@@ -1481,6 +1457,12 @@
         culture = novosibiryaki
         religion = orthodox
         size = 3480
+    }
+
+    bureaucrats = {
+        culture = novosibiryaki
+        religion = orthodox
+        size = 740
     }
 
     clergymen = {
@@ -1548,120 +1530,120 @@
 #North Anhui
 1470 = {
     artisans = {
-        culture = chinese
-        religion = mahayana
-        size = 2700
+        culture = novosibiryaki
+        religion = orthodox
+        size = 12700
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 3250
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
-        size = 272862
+        culture = novosibiryaki
+        religion = orthodox
+        size = 117000
     }
 }
 #Luzhou
 1474 = {
     artisans = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 2700
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 1500
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 110637
     }
 }
 #Ningguo
 1475 = {
     artisans = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 2000
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 1500
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 49000
     }
 }
 #Taiping
 1477 = {
     artisans = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 1625
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 250
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 23000
     }
 }
 #Kaifeng
 1508 = {
     artisans = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 1825
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 575
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 16000
     }
 }
 #Henan
 1510 = {
     artisans = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 1500
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 1000
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 11500
     }
 }
@@ -1669,440 +1651,434 @@
 1511 = {
 
     artisans = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 1500
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 1500
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 10062
     }
 }
 #Changzhou
 1537 = {
     artisans = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 1750
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 1600
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 26000
     }
 }
 #Xuzhou
 1542 = {
     aristocrats = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 210
     }
 
     artisans = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 2250
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 600
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 11111
     }
 }
 #Xian
 1559 = {
     aristocrats = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 500
     }
 
     artisans = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 5500
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
-        size = 1500
+        culture = novosibiryaki
+        religion = orthodox
+        size = 500
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
-        size = 22650
+        culture = novosibiryaki
+        religion = orthodox
+        size = 72650
     }
 }
 #Yenan
 1561 = {
     artisans = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 1350
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 175
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 15575
     }
 }
 #Fenzhou
 1573 = {
     aristocrats = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 925
     }
 
     artisans = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 2500
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 1000
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 24025
     }
 }
 #Luan
 1574 = {
     aristocrats = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 677
     }
 
     clergymen = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 565
     }
 
     artisans = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 1050
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 1500
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 20700
     }
 }
 #Pingyang
 1575 = {
     aristocrats = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 6600
     }
 
     clergymen = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 2200
     }
 
     artisans = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 1000
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 150
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 13000
     }
 }
 #Datong
 1576 = {
     aristocrats = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 750
     }
 
     clergymen = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 775
     }
 
     artisans = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 1400
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 787
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 75487
     }
 }
 #Daming
 1614 = {
     aristocrats = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 1400
     }
 
     artisans = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 1025
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 500
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 13662
     }
 }
 #Jizhou
 1615 = {
     aristocrats = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 8225
     }
 
     artisans = {
-        culture = chinese
-        religion = mahayana
-        size = 3100
+        culture = novosibiryaki
+        religion = orthodox
+        size = 12100
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
-        size = 1500
+        culture = novosibiryaki
+        religion = orthodox
+        size = 2500
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
-        size = 11575
+        culture = novosibiryaki
+        religion = orthodox
+        size = 101575
     }
 }
 #Shuntian
 1616 = {
     aristocrats = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 537
     }
 
     clergymen = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 537
     }
 
     artisans = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 2675
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 1500
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 27712
     }
 }
 #Tianjin
 1617 = {
     aristocrats = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 951
     }
 
     clergymen = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 376
     }
 
     artisans = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 3900
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 1300
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 46162
     }
 }
 #Zhongding
 1618 = {
     aristocrats = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 775
     }
 
     clergymen = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 156
     }
 
     artisans = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 2550
     }
 
-    soldiers = {
-        culture = chinese
-        religion = mahayana
-        size = 1500
-    }
-
     farmers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 9556
     }
 }
 #Shangzhou
 2062 = {
     aristocrats = {
-        culture = chinese
-        religion = mahayana
-        size = 362
+        culture = novosibiryaki
+        religion = orthodox
+        size = 1262
     }
 
     clergymen = {
-        culture = chinese
-        religion = mahayana
-        size = 187
+        culture = novosibiryaki
+        religion = orthodox
+        size = 587
     }
 
     artisans = {
-        culture = chinese
-        religion = mahayana
-        size = 2950
+        culture = novosibiryaki
+        religion = orthodox
+        size = 8950
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
-        size = 600
+        culture = novosibiryaki
+        religion = orthodox
+        size = 1600
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
-        size = 31200
+        culture = novosibiryaki
+        religion = orthodox
+        size = 121200
     }
 }
 #Nanjing
 2221 = {
     aristocrats = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 750
     }
 
     artisans = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 5500
     }
 
     soldiers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 625
     }
 
     farmers = {
-        culture = chinese
-        religion = mahayana
+        culture = novosibiryaki
+        religion = orthodox
         size = 18750
     }
 }
