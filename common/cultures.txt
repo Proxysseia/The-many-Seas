@@ -623,7 +623,6 @@ levantine = {
 
 turko_semitic = {
     leader = arab
-    is_overseas = no
     unit = OttomanGC
 	
     turkish = {
@@ -658,7 +657,6 @@ turko_semitic = {
 
 caucasian = {
     leader = arab
-    is_overseas = no
     unit = MoroccoGC
     circassian = {
             color = {185 206 6}
@@ -674,7 +672,6 @@ caucasian = {
 
 arab = {
     leader = arab
-    is_overseas = no
     unit = MoroccoGC
     maghrebi = {
         color = {24 103 22}
@@ -728,7 +725,6 @@ arab = {
 
 iranian_turanian = {
     leader = arab
-    is_overseas = no
     unit = MiddleEasternGC
     persian = {
         color = {144 88 81}
@@ -762,7 +758,6 @@ iranian_turanian = {
 
 central_asian = {
     leader = asian
-    is_overseas = no
     unit = AsianGC
     mongol = {
         color = {230 230 44}
@@ -948,7 +943,6 @@ far_east_asian = {
 
 oceanic = {
     leader = nativeamerican
-    is_overseas = no
     aborigine = {
         color = {78 24 92}
         first_names = { Nemarluk Umbarra Wylie Yagan Tollamareena Pemulwy Mokare Derrimut Bennelong Billibellary
@@ -967,7 +961,6 @@ oceanic = {
 
 native_american = {
     leader = nativeamerican
-    is_overseas = no
     quechua = {
         color = {178 141 85}
         first_names = { Agustín Alejandro Antauro Antonio Basilio Daniel Diego Eugenio Facundo Felipe
@@ -999,7 +992,6 @@ native_american = {
 
 oceania_cultures = {
     leader = european
-    is_overseas = no
     australian = {
         color = {138 194 181}
         first_names = { John Alf Adrian Louis Hallam Henry Shane Stafford William Frederick Thomas Ronald Lawrence Bruce Ray Stuart Brian Bob Scott Guy
@@ -1011,7 +1003,6 @@ oceania_cultures = {
 
 latin_american_cultures = {
     leader = southamerican
-    is_overseas = no
     unit = SouthAmericanGC
     mexican = {
         color = {51 117 62}
@@ -1049,7 +1040,6 @@ latin_american_cultures = {
 }
 south_american_cultures = {
     leader = southamerican
-    is_overseas = no
     unit = SouthAmericanGC
     nossogene = {
         color = {111 74 120}
@@ -1087,7 +1077,6 @@ south_american_cultures = {
 
 blue_african = {
     leader = african
-    is_overseas = no
     unit = AfricanGC
     bambara = {
         color = {45 88 164}
@@ -1109,7 +1098,6 @@ blue_african = {
 
 lake_african = {
     leader = african
-    is_overseas = no
     unit = AfricanGC
     fang = {
         color = {164 45 180}
@@ -1179,7 +1167,6 @@ lake_african = {
 
 cat_african = {
     leader = african
-    is_overseas = no
     unit = AfricanGC
     amhara = {
         color = {226 22 48}
@@ -1200,7 +1187,6 @@ cat_african = {
 
 red_african = {
     leader = african
-    is_overseas = no
     unit = ZuluGC
     herero = {
         color = {94 180 42}
@@ -1238,7 +1224,6 @@ red_african = {
 
 debug_culture = {
     leader = african
-    is_overseas = no
     unit = AfricanGC
     polar_bears = {
         first_names = {

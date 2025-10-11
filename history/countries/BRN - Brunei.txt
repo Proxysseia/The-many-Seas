@@ -26,9 +26,6 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
-
-
 ruling_party = AAA_conservative
 upper_house = {
 	fascist = 0
