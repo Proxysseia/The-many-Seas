@@ -99,38 +99,6 @@ small_but_efficient = {
 	supply_consumption = -0.9
 }
 
-social_reformed_nation = {
-		trigger = {
-			exists = yes
-			wage_reform = good_minimum_wage
-			work_hours = eight_hours
-			safety_regulations = good_safety
-			unemployment_subsidies = good_subsidies
-			pensions = good_pensions
-			health_care = good_health_care
-			school_reforms = good_schools
-			 
-		}
-		
-	social_reform_desire = -1.0
-	icon = 13
-}
-
-political_reformed_nation = {
-		trigger = {
-			exists = yes
-			slavery = no_slavery
-			vote_franschise = universal_voting
-			public_meetings = yes_meeting
-			press_rights = free_press
-			political_parties = secret_ballots
-		}
-		
-	political_reform_desire = -1.0
-	social_reform_desire = 0.5
-	icon = 13
-}
-
 #########################################
 #			FEMBOY MODIFIERS			#
 #########################################

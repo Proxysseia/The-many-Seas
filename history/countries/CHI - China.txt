@@ -27,9 +27,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
- 
- 
+
 set_country_flag = is_China
 
 ruling_party = AAA_conservative
