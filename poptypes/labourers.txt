@@ -14,7 +14,7 @@ everyday_needs = {
 	furniture = 0.75
 }
 
-life_needs = 
+life_needs = {
 	cattle = 0.75
 	wool =  1
 	fish =  1.2
