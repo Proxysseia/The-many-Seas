@@ -584,6 +584,9 @@ steamers = {
 	unciv_military = yes
 	activate_building = steamer_shipyard 
 	navy_base = { maximum_speed = 2 }
+	navy_base = {
+		supply_consumption = 0.10
+	}  
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -667,6 +670,9 @@ iron_steamers = {
 	cost = 10800
 	unciv_military = yes
 	navy_base = { maximum_speed = 2 }
+	navy_base = {
+		supply_consumption = 0.10
+	}  
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -749,6 +755,9 @@ steel_steamers = {
 	cost = 14400
 	unciv_military = yes 
 	navy_base = { maximum_speed = 2 }
+	navy_base = {
+		supply_consumption = 0.10
+	}  
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -832,6 +841,9 @@ steam_turbine_ships = {
 	cost = 16000
 	unciv_military = yes 
 	navy_base = { maximum_speed = 3 }
+	navy_base = {
+		supply_consumption = 0.10
+	}  
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -910,6 +922,9 @@ oil_driven_ships = {
 	cost = 20000
 	unciv_military = yes
 	navy_base = { maximum_speed = 3 }
+	navy_base = {
+		supply_consumption = 0.10
+	}  
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -1076,6 +1091,9 @@ fire_control_systems = {
 	cost = 7200
 	unciv_military = yes
 	supply_range = 0.10
+	navy_base = {
+		supply_consumption = 0.10
+	}  
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -1163,6 +1181,9 @@ weapon_platforms = {
 	cost = 10800
 	unciv_military = yes
 	supply_range = 0.10
+	navy_base = {
+		supply_consumption = 0.10
+	}  
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -1249,6 +1270,9 @@ main_armament = {
 	cost = 14400
 	unciv_military = yes
 	supply_range = 0.10
+	navy_base = {
+		supply_consumption = 0.10
+	}  
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -1340,6 +1364,9 @@ advanced_naval_design = {
 	cost = 16000
 	unciv_military = yes
 	supply_range = 0.10
+	navy_base = {
+		supply_consumption = 0.10
+	}  
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -1426,6 +1453,9 @@ modern_naval_design = {
 	cost = 20000
 	unciv_military = yes
 	supply_range = 0.10
+	navy_base = {
+		supply_consumption = 0.10
+	}  
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this

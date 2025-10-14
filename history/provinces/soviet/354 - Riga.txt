@@ -6,17 +6,17 @@ life_rating = 40
 naval_base = 2
 state_building = {
     level = 1
-    building = artillery_factory
+    building = steel_factory
     upgrade = yes
 }
 state_building = {
-    level = 1
+    level = 2
     building = cement_factory
     upgrade = yes
 }
 state_building = {
-    level = 1
-    building = regular_clothes_factory
+    level = 3
+    building = artillery_factory
     upgrade = yes
 }
 state_building = {
