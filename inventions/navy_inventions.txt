@@ -814,8 +814,8 @@ optical_rangefinders = {
 			hull = 2
 		}
 		clipper_transport = {
-			gun_power = -1
-		}	
+			gun_power = -3
+		}
 	}
 }
 # gyrostabilized_fire_control = {

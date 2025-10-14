@@ -28,7 +28,7 @@ artillery_offensive = {
 	supply_cost = {		#Total Cost: 6.35 
 		artillery = 0.11 #5.5
 		canned_food = 0.06 #0.6
-		ammunition = 0.10 #0.25
+		ammunition = 0.25 #0.25
 	}
 	
 
