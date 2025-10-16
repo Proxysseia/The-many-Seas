@@ -24,6 +24,7 @@ manowar = {
 		clipper_convoy = 20
 		artillery = 8
 		canned_food = 10
+		ammunition = 10
 	}
 	min_port_level = 1
 	limit_per_port = -1
@@ -31,9 +32,10 @@ manowar = {
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		clipper_convoy = 0.2 #0.24
-		artillery = 0.08 #0.16
+		clipper_convoy = 0.2
+		artillery = 0.08
 		canned_food = 0.1
+		ammunition = 0.1
 	}
 	
 	#Naval Abilties
