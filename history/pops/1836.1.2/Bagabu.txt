@@ -30,6 +30,38 @@
         size = 20000
     }
 }
+#Zhenyuan (2484000/621000 POPS)
+1507 = {
+    aristocrats = {
+        culture = mongo
+        religion = placeholder
+        size = 450
+    }
+
+    artisans = {
+        culture = mongo
+        religion = placeholder
+        size = 550
+    }
+
+    artisans = {
+        culture = mongo
+        religion = placeholder
+        size = 137
+    }
+
+    soldiers = {
+        culture = mongo
+        religion = placeholder
+        size = 127
+    }
+
+    farmers = {
+        culture = mongo
+        religion = placeholder
+        size = 15707
+    }
+}
 #An Nuhud
 1739 = {
     farmers = {
