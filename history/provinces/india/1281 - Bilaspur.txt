@@ -2,5 +2,5 @@ owner = PLL
 controller = PLL
 add_core = PLL
 add_core = BHA
-trade_goods = grain
+trade_goods = tea
 life_rating = 35
