@@ -169,21 +169,21 @@ PRU_575 = { 572 575 577 397 398 388 } #Rheinland
 
 ### France
 
-FRA_399 = { 403 2570 401 404 } #Picardie 
+FRA_399 = { 401 403 404 415 416 2570 } #Picardie 
 
 FRA_400 = { 408 405 406 429 428 } #Champagne
 
-FRA_418 = { 418 415 416 417 } #Normandie
+# FRA_418 = { } #Normandie
 
 FRA_420 = { 420 421 422 424 423 419 } #Bretagne
 
 FRA_425 = { 425 426 427 438 439 } #Ile de France
 
-FRA_435 = { 435 436 440 } #Loire
+FRA_435 = { 417 418 435 436 440 } #Loire
 
-FRA_442 = { 442 444 443 437 441 434 } #Poitou
+# FRA_442 = { } #Poitou
 
-FRA_445 = { 445 446 447 } #Limousin
+FRA_445 = { 434 437 443 441 445 446 447 } #Limousin
 
 FRA_448 = { 448 449 430 } #Auvergne
 
@@ -191,7 +191,7 @@ FRA_451 = { 451 452 453 431 467 } #Rhone
 
 FRA_455 = { 457 460 464 } #Le Midi
 
-FRA_458 = { 458 459 456 450 } #Aquitaine
+FRA_458 = { 442 444 458 459 456 450 } #Aquitaine
 
 FRA_461 = { 455 461 462 463 468 } #Languedoc
 
