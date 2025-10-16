@@ -61,7 +61,7 @@ From;To;Type;Through;Data;Comment
 55;159;sea;3102;0;Ukerewe Strait
 55;3349;sea;3102;0;Second Ukerewe Strait
 212;1463;sea;3102;0;WNG Jimma Double Strait
-1991;1997;sea;3103;0;Luba Kitara Double Strait
+1991;1493;sea;3103;0;Luba Kitara Double Strait
 1456;1458;sea;3236;0;Jimma Eth Shortcut
 3335;3333;sea;3236;0;Wng Eth Strait
 3335;1870;sea;3236;0;Wng Eth Strait
@@ -1178,8 +1178,6 @@ From;To;Type;Through;Data;Comment
 2823;1373;sea;0;0;
 2823;1502;sea;0;0;
 2823;1501;sea;0;0;
-2823;1493;sea;0;0;
-2823;1495;sea;0;0;
 2785;3332;sea;0;0;
 2785;1172;sea;0;0;
 2785;1171;sea;0;0;
@@ -1263,16 +1261,12 @@ From;To;Type;Through;Data;Comment
 3286;1255;sea;0;0;
 3286;1260;sea;0;0;
 3286;1258;sea;0;0;
-2824;1493;sea;0;0;
 2824;1496;sea;0;0;
 2824;1502;sea;0;0;
-2824;1495;sea;0;0;
 2824;1497;sea;0;0;
 2824;1501;sea;0;0;
 2824;2406;sea;0;0;
-2824;1504;sea;0;0;
 2824;1494;sea;0;0;
-2824;1503;sea;0;0;
 2824;1500;sea;0;0;
 2973;2267;sea;0;0;
 2973;2264;sea;0;0;
