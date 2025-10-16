@@ -94,7 +94,97 @@
         size = 91670
     }
 }
-#Waw
+#Canton
+1493 = {
+    aristocrats = {
+        culture = lake_nuer
+        religion = placeholder
+        size = 622
+    }
+
+    artisans = {
+        culture = lake_nuer
+        religion = placeholder
+        size = 2000
+    }
+
+    soldiers = {
+        culture = lake_nuer
+        religion = placeholder
+        size = 1750
+    }
+
+    farmers = {
+        culture = lake_nuer
+        religion = placeholder
+        size = 14700
+    }
+}
+#Gaozhou
+1495 = {
+    aristocrats = {
+        culture = lake_nuer
+        religion = placeholder
+        size = 700
+    }
+
+    clergymen = {
+        culture = lake_nuer
+        religion = placeholder
+        size = 500
+    }
+
+    artisans = {
+        culture = lake_nuer
+        religion = placeholder
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lake_nuer
+        religion = placeholder
+        size = 2750
+    }
+
+    farmers = {
+        culture = lake_nuer
+        religion = placeholder
+        size = 20000
+    }
+}
+#Pangle
+1504 = {
+    aristocrats = {
+        culture = lake_nuer
+        religion = placeholder
+        size = 1275
+    }
+
+    clergymen = {
+        culture = lake_nuer
+        religion = placeholder
+        size = 400
+    }
+
+    artisans = {
+        culture = lake_nuer
+        religion = placeholder
+        size = 4475
+    }
+
+    soldiers = {
+        culture = lake_nuer
+        religion = placeholder
+        size = 2000
+    }
+
+    farmers = {
+        culture = lake_nuer
+        religion = placeholder
+        size = 30962
+    }
+}
+#waw
 1843 = {
     aristocrats = {
         culture = lake_nuer

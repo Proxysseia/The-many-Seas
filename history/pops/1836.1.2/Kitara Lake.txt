@@ -1,3 +1,29 @@
+#Guilin 
+1503 = {
+    aristocrats = {
+        culture = lake_mongo
+        religion = placeholder
+        size = 3125
+    }
+
+    artisans = {
+        culture = lake_mongo
+        religion = placeholder
+        size = 3750
+    }
+
+    soldiers = {
+        culture = lake_mongo
+        religion = placeholder
+        size = 1500
+    }
+
+    farmers = {
+        culture = lake_mongo
+        religion = placeholder
+        size = 10000
+    }
+}
 #Bangassou
 1970 = {
     aristocrats = {
@@ -27,7 +53,7 @@
     farmers = {
         culture = lake_mongo
         religion = placeholder
-        size = 247500
+        size = 227500
     }
 }
 #Ndele
