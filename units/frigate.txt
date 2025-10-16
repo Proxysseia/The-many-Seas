@@ -22,6 +22,7 @@ frigate = {
 		clipper_convoy = 13
 		artillery = 4
 		canned_food = 5
+		ammunition = 10
 	}
 	min_port_level = 1
 	limit_per_port = -1
@@ -32,6 +33,7 @@ frigate = {
 		clipper_convoy = 0.13 #0.16
 		artillery = 0.04 #0.08
 		canned_food = 0.05
+		ammunition = 0.1
 	}
 	
 	#Naval Abilties

@@ -28,6 +28,7 @@ dreadnought = {
 		artillery = 50
 		canned_food = 100
 		fuel = 200
+		ammunition = 500
 	}
 	min_port_level = 6
 	limit_per_port = -1
@@ -39,6 +40,7 @@ dreadnought = {
 		artillery = 0.4       
 		canned_food = 1
 		fuel = 2        
+		ammunition = 5
 	}
 	
 	#Naval Abilties
