@@ -2682,7 +2682,7 @@ enl_vassal_treaty = {
 }
 
 enl_vassal_upgrade = {
-	population_growth = 0.001
+	global_population_growth = 0.001
 	icon =11
 }
 
