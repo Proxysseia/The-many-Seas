@@ -1804,3 +1804,17 @@
         size = 2700
     }
 }
+#Wenzhou
+1611 = {
+    aristocrats = {
+        culture = amazonian
+        religion = placeholder
+        size = 41
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = placeholder
+        size = 1911
+    }
+}
