@@ -276,68 +276,6 @@
     }
 }
 #West Hubei
-#Dean (4128000/1032000 POPS)
-1517 = {
-    aristocrats = {
-        culture = chinese
-        religion = placeholder
-        size = 6250
-    }
-
-    clergymen = {
-        culture = chinese
-        religion = placeholder
-        size = 2162
-    }
-
-    artisans = {
-        culture = chinese
-        religion = placeholder
-        size = 5500
-    }
-
-    artisans = {
-        culture = chinese
-        religion = placeholder
-        size = 5500
-    }
-
-    artisans = {
-        culture = chinese
-        religion = placeholder
-        size = 5500
-    }
-
-    artisans = {
-        culture = chinese
-        religion = placeholder
-        size = 787
-    }
-
-    soldiers = {
-        culture = chinese
-        religion = placeholder
-        size = 1500
-    }
-
-    soldiers = {
-        culture = chinese
-        religion = placeholder
-        size = 1162
-    }
-
-    farmers = {
-        culture = chinese
-        religion = placeholder
-        size = 64637
-    }
-
-    farmers = {
-        culture = chinese
-        religion = placeholder
-        size = 80000
-    }
-}
 #Xiangyang (3788000/947000 POPS)
 1523 = {
     aristocrats = {
@@ -765,56 +703,7 @@
         size = 67000
     }
 }
-#Kuizhou (4292000/1073000 POPS)
-1581 = {
-    aristocrats = {
-        culture = chinese
-        religion = placeholder
-        size = 10700
-    }
 
-    clergymen = {
-        culture = chinese
-        religion = placeholder
-        size = 5375
-    }
-
-    artisans = {
-        culture = chinese
-        religion = placeholder
-        size = 15500
-    }
-
-    artisans = {
-        culture = chinese
-        religion = placeholder
-        size = 11825
-    }
-
-    soldiers = {
-        culture = chinese
-        religion = placeholder
-        size = 1500
-    }
-
-    soldiers = {
-        culture = chinese
-        religion = placeholder
-        size = 1375
-    }
-
-    farmers = {
-        culture = chinese
-        religion = placeholder
-        size = 248225
-    }
-
-    farmers = {
-        culture = chinese
-        religion = placeholder
-        size = 61875
-    }
-}
 #Shunqing (4580000/1145000 POPS)
 1583 = {
     aristocrats = {

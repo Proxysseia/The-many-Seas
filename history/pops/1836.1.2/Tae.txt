@@ -1286,50 +1286,6 @@
         size = 196300
     }
 }
-#Wenzhou (1764000/ 441000 POPS)
-1611 = {
-    aristocrats = {
-        culture = chinese
-        religion = placeholder
-        size = 4175
-    }
-
-    clergymen = {
-        culture = chinese
-        religion = placeholder
-        size = 2112
-    }
-
-    artisans = {
-        culture = chinese
-        religion = placeholder
-        size = 5500
-    }
-
-    artisans = {
-        culture = chinese
-        religion = placeholder
-        size = 5500
-    }
-
-    artisans = {
-        culture = chinese
-        religion = placeholder
-        size = 550
-    }
-
-    soldiers = {
-        culture = chinese
-        religion = placeholder
-        size = 1100
-    }
-
-    farmers = {
-        culture = chinese
-        religion = placeholder
-        size = 191112
-    }
-}
 ##Chaoxue##
 ##Wuying
 #Quanzhou (2804000/701000 POPS)

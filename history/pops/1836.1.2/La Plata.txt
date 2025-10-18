@@ -2860,3 +2860,17 @@
         size = 2400
     }
 }
+#Kuizhou
+1581 = {
+    aristocrats = {
+        culture = janeiran
+        religion = placeholder
+        size = 107
+    }
+
+    farmers = {
+        culture = janeiran
+        religion = placeholder
+        size = 24820
+    }
+}
