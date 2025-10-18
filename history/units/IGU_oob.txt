@@ -1,5 +1,5 @@
 leader = {
-	name = "JustSome Guy"
+	name = "Just Some Guy"
 	date = 1806.1.1
 	type = land
 	personality = speed+a_6
@@ -9,7 +9,7 @@ leader = {
 
 army = {
 	name = "Innocent Civillians"
-	location = 2416
+	location = 1581
 	regiment = {
 		name= "Group of Refugees"
 		type = irregular
