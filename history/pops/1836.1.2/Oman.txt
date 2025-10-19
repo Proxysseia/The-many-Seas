@@ -368,6 +368,38 @@
         size = 6025
     }
 }
+#Taizhou
+1610 = {
+    aristocrats = {
+        culture = amhara
+        religion = placeholder
+        size = 220
+    }
+
+    clergymen = {
+        culture = amhara
+        religion = placeholder
+        size = 210
+    }
+
+    artisans = {
+        culture = amhara
+        religion = placeholder
+        size = 550
+    }
+
+    soldiers = {
+        culture = amhara
+        religion = placeholder
+        size = 111
+    }
+
+    farmers = {
+        culture = saayda
+        religion = placeholder
+        size = 12306
+    }
+}
 #Khasa
 2664 = {
     aristocrats = {
