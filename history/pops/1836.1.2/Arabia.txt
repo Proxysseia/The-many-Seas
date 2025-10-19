@@ -124,6 +124,12 @@
         size = 150
     }
 
+    bureaucrats = {
+        culture = saayda
+        religion = placeholder
+        size = 930
+    }
+
     clergymen = {
         culture = saayda
         religion = placeholder
@@ -824,13 +830,13 @@
     soldiers = {
         culture = saayda
         religion = placeholder
-        size = 937
+        size = 1937
     }
 
     clergymen = {
         culture = saayda
         religion = placeholder
-        size = 375
+        size = 3375
     }
 
     artisans = {
@@ -842,13 +848,7 @@
     farmers = {
         culture = saayda
         religion = placeholder
-        size = 98887
-    }
-
-    farmers = {
-        culture = saayda
-        religion = placeholder
-        size = 23887
+        size = 108887
     }
 }
 #Nablus
@@ -1026,7 +1026,7 @@
     clergymen = {
         culture = saayda
         religion = placeholder
-        size = 1562
+        size = 4562
     }
 
     artisans = {
@@ -1108,7 +1108,7 @@
     clergymen = {
         culture = saayda
         religion = placeholder
-        size = 1225
+        size = 3225
     }
 
     artisans = {
@@ -1127,12 +1127,6 @@
         culture = saayda
         religion = placeholder
         size = 98150
-    }
-
-    slaves = {
-        culture = amhara
-        religion = placeholder
-        size = 12000
     }
 }
 #Tabuk
@@ -1237,9 +1231,8 @@
         size = 6900
     }
 }
-#Nejd Region (204000)
-#under the rule of Nejd in 1836
-#Riyadh (116000/29000 POPS)
+#Nejd Region
+#Riyadh
 1157 = {
     aristocrats = {
         culture = saayda
@@ -1250,19 +1243,19 @@
     bureaucrats = {
         culture = saayda
         religion = placeholder
-        size = 1948
+        size = 1500
     }
 
     officers = {
         culture = saayda
         religion = placeholder
-        size = 112
+        size = 212
     }
 
     clergymen = {
         culture = saayda
         religion = placeholder
-        size = 637
+        size = 1637
     }
 
     artisans = {
@@ -1274,13 +1267,7 @@
     soldiers = {
         culture = saayda
         religion = placeholder
-        size = 2250
-    }
-
-    soldiers = {
-        culture = saayda
-        religion = placeholder
-        size = 750
+        size = 4250
     }
 
     farmers = {
@@ -1288,14 +1275,8 @@
         religion = placeholder
         size = 68512
     }
-
-    slaves = {
-        culture = amhara
-        religion = placeholder
-        size = 5000
-    }
 }
-#Rafha (20000/5000 POPS)
+#Rafha 
 1158 = {
     aristocrats = {
         culture = saayda
