@@ -1615,3 +1615,665 @@
         size = 5775
     }
 }
+#Jolo 
+1464 = {
+    aristocrats = {
+        culture = saayda
+
+
+        religion = placeholder
+        size = 807
+    }
+
+    clergymen = {
+        culture = saayda
+
+
+        religion = placeholder
+        size = 406
+    }
+
+    artisans = {
+        culture = saayda
+
+
+        religion = placeholder
+        size = 1550
+    }
+
+    soldiers = {
+        culture = saayda
+
+
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = saayda
+
+
+        religion = placeholder
+        size = 21107
+    }
+}
+#Huizhou
+1473 = {
+    aristocrats = {
+        culture = saayda
+
+
+        religion = placeholder
+        size = 700
+    }
+
+    clergymen = {
+        culture = saayda
+
+
+        religion = placeholder
+        size = 238
+    }
+
+    artisans = {
+        culture = saayda
+
+
+        religion = placeholder
+        size = 550
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = placeholder
+        size = 1500
+    }
+
+    farmers = {
+        culture = saayda
+        religion = placeholder
+        size = 19128
+    }
+}
+#Gongye
+1476 = {
+    aristocrats = {
+        culture = saayda
+        religion = placeholder
+        size = 106
+    }
+
+    artisans = {
+        culture = saayda
+        religion = placeholder
+        size = 150
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = placeholder
+        size = 500
+    }
+
+    farmers = {
+        culture = saayda
+        religion = placeholder
+        size = 3126
+    }
+}
+#Jianning
+1483 = {
+    aristocrats = {
+        culture = saayda
+        religion = placeholder
+        size = 300
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = placeholder
+        size = 500
+    }
+
+    artisans = {
+        culture = saayda
+        religion = placeholder
+        size = 985
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = placeholder
+        size = 197
+    }
+
+    farmers = {
+        culture = saayda
+        religion = placeholder
+        size = 19630
+    }
+}
+#Gongchang
+1489 = {
+    aristocrats = {
+        culture = saayda
+        religion = placeholder
+        size = 675
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = placeholder
+        size = 575
+    }
+
+    artisans = {
+        culture = saayda
+        religion = placeholder
+        size = 1550
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = placeholder
+        size = 1500
+    }
+
+    farmers = {
+        culture = saayda
+        religion = placeholder
+        size = 27775
+    }
+}
+#Pinglian
+1492 = {
+    aristocrats = {
+        culture = saayda
+        religion = placeholder
+        size = 615
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = placeholder
+        size = 680
+    }
+
+    artisans = {
+        culture = saayda
+        religion = placeholder
+        size = 550
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = saayda
+        religion = placeholder
+        size = 23103
+    }
+}
+#Hanyang
+1516 = {
+    aristocrats = {
+        culture = saayda
+        religion = placeholder
+        size = 500
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = placeholder
+        size = 1000
+    }
+
+    artisans = {
+        culture = saayda
+        religion = placeholder
+        size = 550
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = saayda
+        religion = placeholder
+        size = 24647
+    }
+}
+#Anlu
+1519 = {
+    aristocrats = {
+        culture = saayda
+        religion = placeholder
+        size = 500
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = placeholder
+        size = 900
+    }
+
+    artisans = {
+        culture = saayda
+        religion = placeholder
+        size = 1500
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = placeholder
+        size = 700
+    }
+
+    farmers = {
+        culture = saayda
+        religion = placeholder
+        size = 9137
+    }
+}
+#Jingzhou
+1520 = {
+    aristocrats = {
+        culture = saayda
+        religion = placeholder
+        size = 500
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = placeholder
+        size = 700
+    }
+
+    artisans = {
+        culture = saayda
+        religion = placeholder
+        size = 1500
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = placeholder
+        size = 500
+    }
+
+    farmers = {
+        culture = saayda
+        religion = placeholder
+        size = 18600
+    }
+}
+#Shinan
+1521 = {
+    aristocrats = {
+        culture = saayda
+        religion = placeholder
+        size = 500
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = placeholder
+        size = 875
+    }
+
+    artisans = {
+        culture = saayda
+        religion = placeholder
+        size = 5500
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = placeholder
+        size = 875
+    }
+
+    farmers = {
+        culture = saayda
+        religion = placeholder
+        size = 7287
+    }
+}
+#Changsha
+1524 = {
+    aristocrats = {
+        culture = saayda
+        religion = placeholder
+        size = 137
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = placeholder
+        size = 137
+    }
+
+    artisans = {
+        culture = saayda
+        religion = placeholder
+        size = 675
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = placeholder
+        size = 113
+    }
+
+    farmers = {
+        culture = saayda
+        religion = placeholder
+        size = 10625
+    }
+}
+#Hengzhou (3796000/949000 POPS)
+1527 = {
+    aristocrats = {
+        culture = saayda
+        religion = placeholder
+        size = 800
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = placeholder
+        size = 1225
+    }
+
+    artisans = {
+        culture = saayda
+        religion = placeholder
+        size = 1500
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = placeholder
+        size = 2737
+    }
+
+    farmers = {
+        culture = saayda
+        religion = placeholder
+        size = 26998
+    }
+}
+#Huaian (3148000/787000 POPS)
+1536 = {
+    aristocrats = {
+        culture = saayda
+        religion = placeholder
+        size = 600
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = placeholder
+        size = 1162
+    }
+
+    artisans = {
+        culture = saayda
+        religion = placeholder
+        size = 900
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = placeholder
+        size = 1376
+    }
+
+    farmers = {
+        culture = saayda
+        religion = placeholder
+        size = 23607
+    }
+}
+#Shanghai
+1538 = {
+    aristocrats = {
+        culture = saayda
+        religion = placeholder
+        size = 565
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = placeholder
+        size = 837
+    }
+
+    artisans = {
+        culture = saayda
+        religion = placeholder
+        size = 667
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = placeholder
+        size = 837
+    }
+
+    farmers = {
+        culture = saayda
+        religion = placeholder
+        size = 7460
+    }
+}
+#Nanchang
+1545 = {
+    aristocrats = {
+        culture = saayda
+        religion = placeholder
+        size = 5500
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = placeholder
+        size = 1500
+    }
+
+    artisans = {
+        culture = saayda
+        religion = placeholder
+        size = 2525
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = placeholder
+        size = 3012
+    }
+
+    farmers = {
+        culture = saayda
+        religion = placeholder
+        size = 26343
+    }
+}
+#Jiujiang
+1549 = {
+    aristocrats = {
+        culture = saayda
+        religion = placeholder
+        size = 405
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = placeholder
+        size = 775
+    }
+
+    artisans = {
+        culture = saayda
+        religion = placeholder
+        size = 1490
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = placeholder
+        size = 587
+    }
+
+    farmers = {
+        culture = saayda
+        religion = placeholder
+        size = 8648
+    }
+}
+#Raozhou
+1551 = {
+    aristocrats = {
+        culture = saayda
+        religion = placeholder
+        size = 425
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = placeholder
+        size = 900
+    }
+
+    artisans = {
+        culture = saayda
+        religion = placeholder
+        size = 445
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = placeholder
+        size = 900
+    }
+
+    farmers = {
+        culture = saayda
+        religion = placeholder
+        size = 14312
+    }
+}
+#Hangzhou
+1604 = {
+    aristocrats = {
+        culture = saayda
+        religion = placeholder
+        size = 772
+    }
+
+    bureaucrats = {
+        culture = saayda
+        religion = placeholder
+        size = 577
+    }
+
+    officers = {
+        culture = saayda
+        religion = placeholder
+        size = 323
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = placeholder
+        size = 975
+    }
+
+    artisans = {
+        culture = saayda
+        religion = placeholder
+        size = 1250
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = placeholder
+        size = 1375
+    }
+
+    farmers = {
+        culture = saayda
+        religion = placeholder
+        size = 21082
+    }
+}
+#Shaoxing 
+1609 = {
+    aristocrats = {
+        culture = saayda
+        religion = placeholder
+        size = 475
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = placeholder
+        size = 662
+    }
+
+    artisans = {
+        culture = saayda
+        religion = placeholder
+        size = 475
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = placeholder
+        size = 765
+    }
+
+    farmers = {
+        culture = saayda
+        religion = placeholder
+        size = 31401
+    }
+}
+#Amari
+1679 = {
+    aristocrats = {
+        culture = saayda
+        religion = placeholder
+        size = 562
+    }
+
+    clergymen = {
+        culture = saayda
+        religion = placeholder
+        size = 850
+    }
+
+    artisans = {
+        culture = saayda
+        religion = placeholder
+        size = 1500
+    }
+
+    soldiers = {
+        culture = saayda
+        religion = placeholder
+        size = 1225
+    }
+
+    farmers = {
+        culture = saayda
+        religion = placeholder
+        size = 32137
+    }
+}
