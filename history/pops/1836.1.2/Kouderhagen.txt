@@ -44,7 +44,7 @@
         size = 36911
     }
 }
-#Utrecht (152000/38000 POPS)
+#Utrecht
 377 = {
     aristocrats = {
         culture = lavlandish
@@ -61,13 +61,7 @@
     artisans = {
         culture = lavlandish
         religion = placeholder
-        size = 9000
-    }
-
-    artisans = {
-        culture = lavlandish
-        religion = placeholder
-        size = 5000
+        size = 14000
     }
 
     soldiers = {
@@ -79,7 +73,7 @@
     farmers = {
         culture = lavlandish
         religion = placeholder
-        size = 93053
+        size = 193053
     }
 }
 #Middelburg (170000/42500 POPS)
@@ -126,7 +120,7 @@
         size = 8034
     }
 }
-#Breda (173200/43300 POPS)
+#Breda
 380 = {
     aristocrats = {
         culture = lavlandish
@@ -155,7 +149,7 @@
     labourers = {
         culture = lavlandish
         religion = placeholder
-        size = 72947
+        size = 172947
     }
 }
 #Maastricht/Limburg (164200/41050 POPS)
@@ -342,25 +336,19 @@
         size = 12525
     }
 }
-#Groot-Kouderstad : 713800
-#Kouderstad (396000/175000 POPS)
+#Groot-Kouderstadt
+#Kouderstad
 400 = {
     aristocrats = {
         culture = lavlandish
         religion = placeholder
-        size = 9800
-    }
-
-    aristocrats = {
-        culture = lavlandish
-        religion = placeholder
-        size = 5800
+        size = 17800
     }
 
     bureaucrats = {
         culture = lavlandish
         religion = placeholder
-        size = 14520
+        size = 2520
     }
 
     capitalists = {
@@ -372,13 +360,7 @@
     officers = {
         culture = lavlandish
         religion = placeholder
-        size = 500
-    }
-
-    aristocrats = {
-        culture = lavlandish
-        religion = placeholder
-        size = 3250
+        size = 1500
     }
 
     craftsmen = {
@@ -396,61 +378,25 @@
     clergymen = {
         culture = lavlandish
         religion = placeholder
-        size = 200
-    }
-
-    clergymen = {
-        culture = lavlandish
-        religion = placeholder
-        size = 1000
+        size = 1200
     }
 
     artisans = {
         culture = lavlandish
         religion = placeholder
-        size = 10000
-    }
-
-    artisans = {
-        culture = lavlandish
-        religion = placeholder
-        size = 10000
-    }
-
-    artisans = {
-        culture = lavlandish
-        religion = placeholder
-        size = 10000
-    }
-
-    artisans = {
-        culture = lavlandish
-        religion = placeholder
-        size = 4750
+        size = 35000
     }
 
     soldiers = {
         culture = lavlandish
         religion = placeholder
-        size = 5940
-    }
-
-    soldiers = {
-        culture = lavlandish
-        religion = placeholder
-        size = 2970
+        size = 9940
     }
 
     farmers = {
         culture = lavlandish
         religion = placeholder
-        size = 372575
-    }
-
-    artisans = {
-        culture = lavlandish
-        religion = placeholder
-        size = 5500
+        size = 172575
     }
 }
 #Groningen (186600/46650 POPS)
@@ -553,7 +499,7 @@
         size = 2500
     }
 }
-#Assen (80000/20000 POPS)
+#Assen
 386 = {
     aristocrats = {
         culture = lavlandish
@@ -570,19 +516,7 @@
     artisans = {
         culture = lavlandish
         religion = placeholder
-        size = 11000
-    }
-
-    artisans = {
-        culture = lavlandish
-        religion = placeholder
-        size = 11000
-    }
-
-    artisans = {
-        culture = lavlandish
-        religion = placeholder
-        size = 4000
+        size = 25000
     }
 
     soldiers = {
@@ -594,19 +528,7 @@
     farmers = {
         culture = lavlandish
         religion = placeholder
-        size = 136745
-    }
-
-    farmers = {
-        culture = lavlandish
-        religion = placeholder
-        size = 5334
-    }
-
-    farmers = {
-        culture = flanish
-        religion = placeholder
-        size = 12150
+        size = 80745
     }
 }
 #Former Ghat - Now Nordhorn(16000/4000 POPS)
@@ -665,15 +587,8 @@
         size = 4515
     }
 }
-#under the rule of Hannover 1836
-#Lingen (80000/20000 POPS)
+#Lingen
 542 = {
-    aristocrats = {
-        culture = flanish
-        religion = placeholder
-        size = 10
-    }
-
     aristocrats = {
         culture = lavlandish
         religion = placeholder
@@ -689,25 +604,19 @@
     officers = {
         culture = lavlandish
         religion = placeholder
-        size = 25
+        size = 225
     }
 
     clergymen = {
         culture = lavlandish
         religion = placeholder
-        size = 65
-    }
-
-    clergymen = {
-        culture = lavlandish
-        religion = placeholder
-        size = 10
+        size = 165
     }
 
     artisans = {
         culture = lavlandish
         religion = placeholder
-        size = 400
+        size = 4000
     }
 
     soldiers = {
@@ -719,67 +628,7 @@
     farmers = {
         culture = lavlandish
         religion = placeholder
-        size = 38075
-    }
-
-    clergymen = {
-        culture = lavlandish
-        religion = placeholder
-        size = 65
-    }
-
-    artisans = {
-        culture = lavlandish
-        religion = placeholder
-        size = 150
-    }
-
-    soldiers = {
-        culture = lavlandish
-        religion = placeholder
-        size = 24
-    }
-
-    farmers = {
-        culture = lavlandish
-        religion = placeholder
-        size = 11260
-    }
-
-    farmers = {
-        culture = flanish
-        religion = placeholder
-        size = 16200
-    }
-
-    farmers = {
-        culture = flanish
-        religion = placeholder
-        size = 450
-    }
-
-    aristocrats = {
-        culture = flanish
-        religion = placeholder
-        size = 81
-    }
-
-    farmers = {
-        culture = flanish
-        religion = placeholder
-        size = 3500
-    }
-
-    aristocrats = {
-        culture = flanish
-        religion = placeholder
-        size = 24
-    }
-
-    farmers = {
-        culture = flanish
-        religion = placeholder
-        size = 1050
+        size = 58075
     }
 }
 #Emden (84000/21000 POPS)
@@ -930,7 +779,7 @@
         size = 35225
     }
 }
-#Osnabruck (220000/65000 POPS)
+#Osnabruck
 538 = {
     aristocrats = {
         culture = lavlandish
@@ -947,19 +796,7 @@
     artisans = {
         culture = lavlandish
         religion = placeholder
-        size = 9250
-    }
-
-    artisans = {
-        culture = lavlandish
-        religion = placeholder
-        size = 9250
-    }
-
-    artisans = {
-        culture = flanish
-        religion = placeholder
-        size = 1250
+        size = 20050
     }
 
     soldiers = {
@@ -971,109 +808,7 @@
     farmers = {
         culture = lavlandish
         religion = placeholder
-        size = 68950
-    }
-
-    farmers = {
-        culture = flanish
-        religion = placeholder
-        size = 36950
-    }
-
-    aristocrats = {
-        culture = flanish
-        religion = placeholder
-        size = 18
-    }
-
-    clergymen = {
-        culture = flanish
-        religion = placeholder
-        size = 22
-    }
-
-    artisans = {
-        culture = flanish
-        religion = placeholder
-        size = 157
-    }
-
-    soldiers = {
-        culture = flanish
-        religion = placeholder
-        size = 33
-    }
-
-    farmers = {
-        culture = flanish
-        religion = placeholder
-        size = 1669
-    }
-
-    farmers = {
-        culture = lavlandish
-        religion = placeholder
-        size = 15000
-    }
-
-    aristocrats = {
-        culture = flanish
-        religion = placeholder
-        size = 140
-    }
-
-    clergymen = {
-        culture = flanish
-        religion = placeholder
-        size = 175
-    }
-
-    artisans = {
-        culture = flanish
-        religion = placeholder
-        size = 1225
-    }
-
-    soldiers = {
-        culture = flanish
-        religion = placeholder
-        size = 262
-    }
-
-    farmers = {
-        culture = flanish
-        religion = placeholder
-        size = 12985
-    }
-
-    aristocrats = {
-        culture = flanish
-        religion = placeholder
-        size = 42
-    }
-
-    clergymen = {
-        culture = flanish
-        religion = placeholder
-        size = 53
-    }
-
-    artisans = {
-        culture = flanish
-        religion = placeholder
-        size = 368
-    }
-
-    soldiers = {
-        culture = flanish
-        religion = placeholder
-        size = 79
-    }
-
-    farmers = {
-        culture = flanish
-        religion = placeholder
-        size = 3896
+        size = 108950
     }
 }
 #Flanders Region (2558000)
@@ -1559,9 +1294,8 @@
         size = 88500
     }
 }
-#Rhineland Region (1908000)
-#under the rule of Kouderhagen in 2836
-#Cologne (484000/121000 POPS)
+#Rhineland Region
+#Cologne
 575 = {
     aristocrats = {
         culture = lavlandish
@@ -1572,19 +1306,13 @@
     bureaucrats = {
         culture = lavlandish
         religion = placeholder
-        size = 9982
+        size = 4982
     }
 
     capitalists = {
         culture = lavlandish
         religion = placeholder
-        size = 100
-    }
-
-    capitalists = {
-        culture = lavlandish
-        religion = placeholder
-        size = 200
+        size = 400
     }
 
     officers = {
@@ -1614,43 +1342,13 @@
     artisans = {
         culture = lavlandish
         religion = placeholder
-        size = 10000
-    }
-
-    artisans = {
-        culture = lavlandish
-        religion = placeholder
-        size = 10000
-    }
-
-    artisans = {
-        culture = lavlandish
-        religion = placeholder
-        size = 5000
+        size = 25000
     }
 
     farmers = {
         culture = lavlandish
         religion = placeholder
-        size = 115712
-    }
-
-    artisans = {
-        culture = lavlandish
-        religion = placeholder
-        size = 1500
-    }
-
-    soldiers = {
-        culture = lavlandish
-        religion = placeholder
-        size = 3219
-    }
-
-    farmers = {
-        culture = lavlandish
-        religion = placeholder
-        size = 16210
+        size = 75712
     }
 }
 #Kleves (356000/89000 POPS)
@@ -1715,8 +1413,7 @@
         size = 22275
     }
 }
-#under the rule of Prussia 1836
-#Trier (220000/55000 POPS)
+#Trier
 572 = {
     aristocrats = {
         culture = lavlandish
@@ -1745,55 +1442,13 @@
     artisans = {
         culture = lavlandish
         religion = placeholder
-        size = 10000
-    }
-
-    artisans = {
-        culture = lavlandish
-        religion = placeholder
-        size = 10000
-    }
-
-    artisans = {
-        culture = lavlandish
-        religion = placeholder
-        size = 10000
-    }
-
-    artisans = {
-        culture = lavlandish
-        religion = placeholder
-        size = 4250
+        size = 35000
     }
 
     farmers = {
         culture = lavlandish
         religion = placeholder
-        size = 148777
-    }
-
-    aristocrats = {
-        culture = lavlandish
-        religion = placeholder
-        size = 2250
-    }
-
-    clergymen = {
-        culture = lavlandish
-        religion = placeholder
-        size = 275
-    }
-
-    artisans = {
-        culture = lavlandish
-        religion = placeholder
-        size = 3400
-    }
-
-    farmers = {
-        culture = lavlandish
-        religion = placeholder
-        size = 85800
+        size = 138777
     }
 }
 #Munster (464000/95000 POPS)
