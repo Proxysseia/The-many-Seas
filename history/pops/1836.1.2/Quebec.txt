@@ -11,19 +11,19 @@
     artisans = {
         culture = native_american_minor
         religion = placeholder
-        size = 50
+        size = 250
     }
 
     soldiers = {
         culture = native_american_minor
         religion = placeholder
-        size = 50
+        size = 250
     }
 
     farmers = {
         culture = native_american_minor
         religion = placeholder
-        size = 750
+        size = 3750
     }
 }
 #Fort Simpson (2400/600 POPS)
@@ -31,7 +31,7 @@
     aristocrats = {
         culture = native_american_minor
         religion = placeholder
-        size = 25
+        size = 125
     }
 
     clergymen = {
@@ -43,19 +43,19 @@
     artisans = {
         culture = native_american_minor
         religion = placeholder
-        size = 25
+        size = 125
     }
 
     soldiers = {
         culture = native_american_minor
         religion = placeholder
-        size = 25
+        size = 125
     }
 
     farmers = {
         culture = native_american_minor
         religion = placeholder
-        size = 1000
+        size = 5000
     }
 }
 #Jianchang (1656000/414000 POPS)
@@ -63,7 +63,7 @@
     aristocrats = {
         culture = native_american_minor
         religion = placeholder
-        size = 2500
+        size = 12500
     }
 
     clergymen = {
@@ -75,25 +75,25 @@
     artisans = {
         culture = native_american_minor
         religion = placeholder
-        size = 3000
+        size = 15000
     }
 
     artisans = {
         culture = native_american_minor
         religion = placeholder
-        size = 4400
+        size = 22000
     }
 
     soldiers = {
         culture = native_american_minor
         religion = placeholder
-        size = 2900
+        size = 14500
     }
 
     farmers = {
         culture = native_american_minor
         religion = placeholder
-        size = 25050
+        size = 125250
     }
 }
 #Otomari (4100/1025 POPS)
@@ -101,7 +101,7 @@
     aristocrats = {
         culture = native_american_minor
         religion = placeholder
-        size = 800
+        size = 4000
     }
 
     clergymen = {
@@ -113,19 +113,19 @@
     artisans = {
         culture = native_american_minor
         religion = placeholder
-        size = 4000
+        size = 20000
     }
 
     soldiers = {
         culture = native_american_minor
         religion = placeholder
-        size = 8000
+        size = 4000
     }
 
     farmers = {
         culture = native_american_minor
         religion = placeholder
-        size = 168800
+        size = 444000
     }
 }
 #Erik Cove (2400/600 POPS)
@@ -133,7 +133,7 @@
     aristocrats = {
         culture = native_american_minor
         religion = placeholder
-        size = 50
+        size = 250
     }
 
     clergymen = {
@@ -145,19 +145,19 @@
     artisans = {
         culture = native_american_minor
         religion = placeholder
-        size = 50
+        size = 250
     }
 
     soldiers = {
         culture = native_american_minor
         religion = placeholder
-        size = 5
+        size = 25
     }
 
     farmers = {
         culture = native_american_minor
         religion = placeholder
-        size = 2200
+        size = 11000
     }
 }
 #Port Harrison (2400/600 POPS)
@@ -171,19 +171,19 @@
     artisans = {
         culture = native_american_minor
         religion = placeholder
-        size = 5
+        size = 25
     }
 
     soldiers = {
         culture = native_american_minor
         religion = placeholder
-        size = 20
+        size = 100
     }
 
     farmers = {
         culture = native_american_minor
         religion = placeholder
-        size = 1000
+        size = 5000
     }
 }
 #Fort George (1600/400 POPS)
@@ -197,19 +197,19 @@
     artisans = {
         culture = native_american_minor
         religion = placeholder
-        size = 5
+        size = 25
     }
 
     soldiers = {
         culture = native_american_minor
         religion = placeholder
-        size = 50
+        size = 250
     }
 
     farmers = {
         culture = native_american_minor
         religion = placeholder
-        size = 1500
+        size = 7500
     }
 }
 #Chicoutimi (11200/2800 POPS)
@@ -223,19 +223,19 @@
     artisans = {
         culture = native_american_minor
         religion = placeholder
-        size = 100
+        size = 500
     }
 
     soldiers = {
         culture = native_american_minor
         religion = placeholder
-        size = 25
+        size = 125
     }
 
     farmers = {
         culture = native_american_minor
         religion = placeholder
-        size = 1825
+        size = 9125
     }
 }
 #Whitehorse (4000/1000 POPS)
@@ -243,7 +243,7 @@
     aristocrats = {
         culture = native_american_minor
         religion = placeholder
-        size = 1000
+        size = 5000
     }
 
     clergymen = {
@@ -255,25 +255,25 @@
     artisans = {
         culture = native_american_minor
         religion = placeholder
-        size = 450
+        size = 2250
     }
 
     soldiers = {
         culture = native_american_minor
         religion = placeholder
-        size = 15
+        size = 75
     }
 
     farmers = {
         culture = native_american_minor
         religion = placeholder
-        size = 32400
+        size = 162000
     }
 
     farmers = {
         culture = native_american_minor
         religion = placeholder
-        size = 3000
+        size = 15000
     }
 }
 #Sept-Iles (8000/2000 POPS)
@@ -287,19 +287,19 @@
     artisans = {
         culture = native_american_minor
         religion = placeholder
-        size = 100
+        size = 500
     }
 
     soldiers = {
         culture = native_american_minor
         religion = placeholder
-        size = 50
+        size = 250
     }
 
     farmers = {
         culture = native_american_minor
         religion = placeholder
-        size = 6915
+        size = 34575
     }
 }
 #Temiscaming (16000/4000 POPS)
@@ -313,19 +313,19 @@
     artisans = {
         culture = native_american_minor
         religion = placeholder
-        size = 150
+        size = 750
     }
 
     soldiers = {
         culture = native_american_minor
         religion = placeholder
-        size = 25
+        size = 125
     }
 
     farmers = {
         culture = native_american_minor
         religion = placeholder
-        size = 4750
+        size = 23750
     }
 }
 #Trois-Rivieres (68000/17000 POPS)
@@ -339,19 +339,19 @@
     artisans = {
         culture = native_american_minor
         religion = placeholder
-        size = 3000
+        size = 15000
     }
 
     soldiers = {
         culture = native_american_minor
         religion = placeholder
-        size = 500
+        size = 2500
     }
 
     labourers = {
         culture = native_american_minor
         religion = placeholder
-        size = 67675
+        size = 338375
     }
 }
 #Sherbrooke (68000/17000 POPS)
@@ -365,19 +365,19 @@
     artisans = {
         culture = native_american_minor
         religion = placeholder
-        size = 400
+        size = 2000
     }
 
     soldiers = {
         culture = native_american_minor
         religion = placeholder
-        size = 100
+        size = 500
     }
 
     farmers = {
         culture = native_american_minor
         religion = placeholder
-        size = 34450
+        size = 172250
     }
 
     clergymen = {
@@ -389,19 +389,19 @@
     artisans = {
         culture = native_american_minor
         religion = placeholder
-        size = 700
+        size = 3500
     }
 
     soldiers = {
         culture = native_american_minor
         religion = placeholder
-        size = 150
+        size = 750
     }
 
     farmers = {
         culture = native_american_minor
         religion = placeholder
-        size = 20900
+        size = 104500
     }
 }
 #Riviere du Loup (56000/14000 POPS)
@@ -415,19 +415,19 @@
     artisans = {
         culture = native_american_minor
         religion = placeholder
-        size = 750
+        size = 3750
     }
 
     soldiers = {
         culture = native_american_minor
         religion = placeholder
-        size = 150
+        size = 750
     }
 
     labourers = {
         culture = native_american_minor
         religion = placeholder
-        size = 4500
+        size = 22500
     }
 }
 #Foretsa (956000/239000 POPS)
@@ -435,7 +435,7 @@
     aristocrats = {
         culture = native_american_minor
         religion = placeholder
-        size = 200
+        size = 1000
     }
 
     clergymen = {
@@ -447,19 +447,19 @@
     artisans = {
         culture = native_american_minor
         religion = placeholder
-        size = 3600
+        size = 18000
     }
 
     soldiers = {
         culture = native_american_minor
         religion = placeholder
-        size = 1525
+        size = 7625
     }
 
     farmers = {
         culture = native_american_minor
         religion = placeholder
-        size = 58350
+        size = 291750
     }
 }
 #Newfoundland Region - 84000
@@ -587,19 +587,19 @@
     artisans = {
         culture = native_american_minor
         religion = placeholder
-        size = 50
+        size = 250
     }
 
     soldiers = {
         culture = native_american_minor
         religion = placeholder
-        size = 50
+        size = 250
     }
 
     farmers = {
         culture = native_american_minor
         religion = placeholder
-        size = 2000
+        size = 10000
     }
 }
 #Cartwright (6000/1500 POPS)
@@ -613,18 +613,18 @@
     artisans = {
         culture = native_american_minor
         religion = placeholder
-        size = 50
+        size = 250
     }
 
     soldiers = {
         culture = native_american_minor
         religion = placeholder
-        size = 50
+        size = 250
     }
 
     farmers = {
         culture = native_american_minor
         religion = placeholder
-        size = 2500
+        size = 12500
     }
 }
