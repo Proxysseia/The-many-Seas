@@ -55,7 +55,7 @@
     }
 }
 #Fentian
-#Chengde (6420000/1605000 POPS)
+#Chengde
 1613 = {
     aristocrats = {
         culture = chinese
@@ -96,13 +96,7 @@
     farmers = {
         culture = chinese
         religion = placeholder
-        size = 412400
-    }
-
-    slaves = {
-        culture = mongol
-        religion = placeholder
-        size = 134650
+        size = 512400
     }
 }
 #Hanzhong (3492000/873000 POPS)
