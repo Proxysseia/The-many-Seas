@@ -43,7 +43,7 @@
         size = 17325
     }
 }
-#idk (180000/45000 POPS)
+#Aqtobe
 1183 = {
     aristocrats = {
         culture = russian
@@ -60,31 +60,19 @@
     artisans = {
         culture = russian
         religion = placeholder
-        size = 32600
+        size = 12600
     }
 
     soldiers = {
         culture = russian
         religion = placeholder
-        size = 12000
-    }
-
-    soldiers = {
-        culture = russian
-        religion = placeholder
-        size = 8000
+        size = 4000
     }
 
     farmers = {
         culture = russian
         religion = placeholder
-        size = 170100
-    }
-
-    farmers = {
-        culture = russian
-        religion = placeholder
-        size = 69300
+        size = 100100
     }
 }
 #Kizil Arvut (88000/22000 POPS)
