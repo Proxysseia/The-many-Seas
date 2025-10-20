@@ -79,9 +79,9 @@ USA_176 = { 174 176 180 } #Michigan
 
 USA_178 = { 179 178 218 227 } #Ohio
 
-USA_185 = { 185 } #Kentucky
+#USA_185 = { } #Kentucky
 
-USA_188 = { 188 190 } #Tennessee
+USA_188 = { 185 188 190 } #Tennessee
 
 USA_196 = { 196 198 } #Alabama
 
