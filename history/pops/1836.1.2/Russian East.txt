@@ -39,7 +39,7 @@
     farmers = {
         culture = novosibiryaki
         religion = placeholder
-        size = 150000
+        size = 100000
     }
 }
 #Naryn
@@ -243,7 +243,7 @@
     farmers = {
         culture = novosibiryaki
         religion = placeholder
-        size = 123984
+        size = 73984
     }
 }
 #Aksarka
@@ -1624,7 +1624,7 @@
     farmers = {
         culture = novosibiryaki
         religion = placeholder
-        size = 16000
+        size = 66000
     }
 }
 #Henan
@@ -1644,7 +1644,7 @@
     farmers = {
         culture = novosibiryaki
         religion = placeholder
-        size = 11500
+        size = 61500
     }
 }
 #Huaiqing

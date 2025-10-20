@@ -870,12 +870,6 @@
         religion = placeholder
         size = 129600
     }
-
-    farmers = {
-        culture = finnish
-        religion = placeholder
-        size = 240000
-    }
 }
 #Petrozavorsk
 995 = {
@@ -982,7 +976,7 @@
     farmers = {
         culture = finnish
         religion = placeholder
-        size = 17000
+        size = 67000
     }
 }
 #Stara Ladoga

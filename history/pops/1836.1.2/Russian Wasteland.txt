@@ -548,9 +548,8 @@
         size = 80000
     }
 }
-#Perm Region (2224000)
-#under the rule of Russia in 1836
-#Perm (960000/240000 POPS)
+#Perm Region
+#Perm
 1026 = {
     aristocrats = {
         culture = russian
@@ -567,7 +566,7 @@
     farmers = {
         culture = russian
         religion = placeholder
-        size = 162440
+        size = 62440
     }
 }
 #Vetluga (308000/77000 POPS)
@@ -602,7 +601,7 @@
         size = 42620
     }
 }
-#Vyatkha (504000/126000 POPS)
+#Vyatkha
 1028 = {
     aristocrats = {
         culture = russian
@@ -631,16 +630,10 @@
     farmers = {
         culture = russian
         religion = placeholder
-        size = 40000
-    }
-
-    farmers = {
-        culture = russian
-        religion = placeholder
         size = 88000
     }
 }
-#Glasov (452000/113000 POPS)
+#Glasov
 1029 = {
     aristocrats = {
         culture = russian
@@ -651,18 +644,17 @@
     soldiers = {
         culture = russian
         religion = placeholder
-        size = 4500
+        size = 1500
     }
 
     farmers = {
         culture = russian
         religion = placeholder
-        size = 106300
+        size = 60300
     }
 }
-#Kazan Region (2848000)
-#under the rule of Russia in 1836
-#Kazan (592000/148000 POPS)
+#Kazan Region
+#Kazan
 1030 = {
     aristocrats = {
         culture = russian
@@ -691,16 +683,10 @@
     farmers = {
         culture = russian
         religion = placeholder
-        size = 52000
-    }
-
-    farmers = {
-        culture = russian
-        religion = placeholder
-        size = 80000
+        size = 122000
     }
 }
-#Sarapol (560000/140000 POPS)
+#Sarapol
 1031 = {
     aristocrats = {
         culture = russian
@@ -731,14 +717,8 @@
         religion = placeholder
         size = 87400
     }
-
-    farmers = {
-        culture = russian
-        religion = placeholder
-        size = 40000
-    }
 }
-#Simbirsk (340000/85000 POPS)
+#Simbirsk
 1033 = {
     aristocrats = {
         culture = russian
@@ -1133,7 +1113,7 @@
     farmers = {
         culture = russian
         religion = placeholder
-        size = 40000
+        size = 90000
     }
 }
 #Jinzhou
@@ -1233,7 +1213,7 @@
     farmers = {
         culture = russian
         religion = placeholder
-        size = 20000
+        size = 50000
     }
 }
 #Weihaiwei
