@@ -687,13 +687,13 @@ CHI_1479 = { 1479 1554 1555 }  #Fengtian - South Manchuria
 
 CHI_1552 = { 1552 1002 1553 1533 } #Heilongjiang - North Manchuria
 
-CHI_1482 = { 1484 1486 1487 1550 } #Fujian
+CHI_1482 = { 1487 } #Fujian
 
 CHI_1485 = { 2681 2562 1678 2525 } #Formosa
 
 #CHI_1490 = { } #Gansu
 
-CHI_1493 = { 1494 1500 2406 } #East Canton
+CHI_1493 = { 1500 } #East Canton
 
 CHI_1499 = { 1501 1499 } #West Canton
 
@@ -707,7 +707,7 @@ CHI_1510 = { 1513 } #West Henan
 
 CHI_1519 = { 1523 } #West Hubei
 
-CHI_1524 = { 1540 1525 1529 } #West Hunan
+CHI_1524 = { 1529 } #West Hunan
 
 CHI_1526 = { 1530 } #East Hunan
 
@@ -731,13 +731,13 @@ CHI_1572 = { 1572  } #Shanxi
 
 CHI_1578 = { 1578 1580 1582 1584 1585 1586 } #West Sichuan
 
-CHI_1579 = { 1579 1577 1583 } #East Sichuan
+CHI_1579 = { 1577 } #East Sichuan
 
 CHI_1594 = { 1594 1597 1598 2607 } #Kashgar
 
 CHI_1600 = { 1600 1595 1596 1186 1188 } #Urumqui
 
-CHI_1601 = { 1601 1602 1603 } #Yunnan
+CHI_1601 = { 1602 1603 } #Yunnan
 
 CHI_1604 = { 1607 } #North Zhejiang
 
@@ -785,7 +785,7 @@ JAP_1675 = { 1646 1645 1675 1647 1648 1676 1677 } #Chubu
 
 ### North Africa
 
-MOR_1696 = { 1776 1696 1773 2134 } #Western Morocco
+MOR_1696 = { 1776 1773 1696 1550 2134 } #Western Morocco
 
 MOR_1693 = { 1690 1693 1691 2563 1692 1694 1699 1695 } #Morocco
 
@@ -793,13 +793,13 @@ MOR_1686 = { 1685 1681 1682 1680 1683 1684 1697 1698  } #Fez
 
 MOR_1688 = { 509 517 514 1688 1689 1687 } #al Rif
 
-FRA_1700 = { 1700 1701 1702 } #Algiers
+FRA_1700 = { 1700 1701 1702 1713 } #Algiers
 
-SAH_1718 = { 125 140 172 1718 1719 } #Sahara Plains
+SAH_1718 = { 125 140 172 1494 1540 1718 1719 } #Sahara Plains
 
-SAH_2225 = { 182 1716 1717 2225 2662 } #Western Sahara
+SAH_2225 = { 182 1484 1716 1717 2225 2662 } #Western Sahara
 
-SAH_2146 = { 1710 1711 1712 1720 2146 } #Eastern Sahara
+SAH_2146 = { 1710 1711 1712 1720 1525 2146 1583 1579 } #Eastern Sahara
 
 BNI_90 = { 90 220 222 223 } #Jdarland
 
@@ -807,7 +807,7 @@ BNI_1722 = { 103 122 195 1722 } #Tamanrasset
 
 BNI_1741 = { 151 1721 1741 1744 }#Murzuk 
 
-ALD_1704 = { 1704 1705 1706 1707 1703 1713 1715 } #Oran
+ALD_1704 = { 1486 1704 1705 1706 1707 1703 1715 } #Oran
 
 TUN_1726 = { 1725 1726 1727 1728 1708 1709 } #Tunisia
 
@@ -885,9 +885,9 @@ WNG_2033 = { 55 143 243 2024 2033 2047 } #Wawa
 
 ### West Africa
 
-FRA_1775 = { 168 184 186 191 1781 1782 } #Mauritania
+FRA_1775 = { 168 184 186 191 1781 1782 1601 } #Mauritania
 
-MAS_1923 = { 187 221 1923 2609 2627 } #Kidal
+MAS_1923 = { 187 221 1923 2406 2609 2627 } #Kidal
 
 FRA_1801 = { 1794 1795 1796 1797 1798 1799 1800 1801 } #Western Mali
 
