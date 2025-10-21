@@ -425,8 +425,8 @@ artillery_factory = {
 clipper_shipyard = {       
 	template = factory_template
 	input_goods = {         
-		fabric = 70		#162
-		timber = 90		#81
+		fabric = 50		#162
+		timber = 70		#81
 		steel = 20		#94		total input+maint = 346.825
 	}
 	output_goods = clipper_convoy 
@@ -1158,8 +1158,8 @@ artisan_artillery = {
 
 artisan_clipper = {       
 	input_goods = {         
-		fabric = 70		#162
-		timber = 90		#81
+		fabric = 50		#162
+		timber = 70		#81
 		steel = 20		#94		total input+maint = 346.825
 	}
 	output_goods = clipper_convoy 

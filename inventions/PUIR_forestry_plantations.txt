@@ -117,3 +117,22 @@ regenerative_forestry = {
 	}
 }
 
+#TMS i heart wood
+natural_forestry = {
+	limit = { high_pressure_steam_engine = 1 }
+	chance = {
+		base = 5
+		modifier = {
+			factor = 5
+			early_railroad = 1
+		}
+	}
+	effect = {
+		rgo_goods_throughput = {
+			timber = 0.1
+		}
+		factory_goods_output = {
+			lumber = 0.05 
+		}
+	}	
+}
