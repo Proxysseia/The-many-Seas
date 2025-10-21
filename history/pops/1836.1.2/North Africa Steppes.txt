@@ -87,7 +87,7 @@
     farmers = {
         culture = maghrebi
         religion = placeholder
-        size = 1545
+        size = 545
     }
 
     soldiers = {
@@ -99,7 +99,7 @@
     farmers = {
         culture = maghrebi
         religion = placeholder
-        size = 4200
+        size = 6200
     }
 }
 #Baton Rouge
@@ -560,6 +560,120 @@
         size = 85425
     }
 }
+#Chaozhou
+1494 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = placeholder
+        size = 320
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = placeholder
+        size = 116
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = placeholder
+        size = 950
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 9628
+    }
+}
+#Taicangzhou 
+1540 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = placeholder
+        size = 607
+    }
+
+    bureaucrats = {
+        culture = maghrebi
+        religion = placeholder
+        size = 370
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = placeholder
+        size = 537
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = placeholder
+        size = 1020
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 1503
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 13360
+    }
+}
+#Kunming
+1601 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = placeholder
+        size = 675
+    }
+
+    bureaucrats = {
+        culture = maghrebi
+        religion = placeholder
+        size = 133
+    }
+
+    officers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 90
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = placeholder
+        size = 287
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = placeholder
+        size = 550
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 20641
+    }
+}
 #Tuat
 1718 = {
     aristocrats = {
@@ -834,6 +948,38 @@
         culture = maghrebi
         religion = placeholder
         size = 71100
+    }
+}
+#Féiwòdǎo
+2406 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = placeholder
+        size = 970
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = placeholder
+        size = 366
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 450
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 21562
     }
 }
 #Araouane

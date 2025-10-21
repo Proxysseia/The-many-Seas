@@ -29,6 +29,140 @@
         size = 29450
     }
 }
+#Quanzhou
+1484 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = placeholder
+        size = 335
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = placeholder
+        size = 168
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = placeholder
+        size = 350
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 600
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 10831
+    }
+}
+#Ganzhou (4940000/1235000 POPS)
+1550 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = placeholder
+        size = 675
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = placeholder
+        size = 287
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = placeholder
+        size = 550
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 13963
+    }
+}
+#Baotung
+1579 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = placeholder
+        size = 661
+    }
+
+    bureaucrats = {
+        culture = maghrebi
+        religion = placeholder
+        size = 335
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = placeholder
+        size = 533
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = placeholder
+        size = 550
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 600
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 11565
+    }
+}
+#Shunqing
+1583 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = placeholder
+        size = 710
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = placeholder
+        size = 305
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = placeholder
+        size = 550
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 150
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 17624
+    }
+}
 #Ouargla
 1711 = {
     aristocrats = {

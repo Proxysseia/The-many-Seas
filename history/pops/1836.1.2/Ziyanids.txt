@@ -30,6 +30,70 @@
         size = 13600
     }
 }
+#Changde
+1525 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = placeholder
+        size = 360
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = placeholder
+        size = 825
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = placeholder
+        size = 1500
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 1500
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 25675
+    }
+}
+#Biskra
+1710 = {
+    aristocrats = {
+        culture = maghrebi
+        religion = placeholder
+        size = 300
+    }
+
+    clergymen = {
+        culture = maghrebi
+        religion = placeholder
+        size = 1300
+    }
+
+    artisans = {
+        culture = maghrebi
+        religion = placeholder
+        size = 1500
+    }
+
+    soldiers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 1452
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = placeholder
+        size = 55900
+    }
+}
 #Tozeur
 1729 = {
     aristocrats = {
