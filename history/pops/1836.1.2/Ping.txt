@@ -3,55 +3,55 @@
     aristocrats = {
         culture = chinese
         religion = placeholder
-        size = 7700
+        size = 15400
     }
 
     clergymen = {
         culture = chinese
         religion = placeholder
-        size = 3875
+        size = 7750
     }
 
     artisans = {
         culture = chinese
         religion = placeholder
-        size = 5500
+        size = 11000
     }
 
     artisans = {
         culture = chinese
         religion = placeholder
-        size = 5500
+        size = 11000
     }
 
     artisans = {
         culture = chinese
         religion = placeholder
-        size = 5500
+        size = 11000
     }
 
     artisans = {
         culture = chinese
         religion = placeholder
-        size = 4375
+        size = 8750
     }
 
     soldiers = {
         culture = chinese
         religion = placeholder
-        size = 1500
+        size = 3000
     }
 
     soldiers = {
         culture = chinese
         religion = placeholder
-        size = 875
+        size = 1750
     }
 
     farmers = {
         culture = chinese
         religion = placeholder
-        size = 307175
+        size = 614350
     }
 }
 #Fentian
@@ -60,43 +60,43 @@
     aristocrats = {
         culture = chinese
         religion = placeholder
-        size = 10875
+        size = 21750
     }
 
     clergymen = {
         culture = chinese
         religion = placeholder
-        size = 6500
+        size = 13000
     }
 
     artisans = {
         culture = chinese
         religion = placeholder
-        size = 5500
+        size = 11000
     }
 
     artisans = {
         culture = chinese
         religion = placeholder
-        size = 5500
+        size = 11000
     }
 
     artisans = {
         culture = chinese
         religion = placeholder
-        size = 5500
+        size = 11000
     }
 
     artisans = {
         culture = chinese
         religion = placeholder
-        size = 4775
+        size = 9550
     }
 
     farmers = {
         culture = chinese
         religion = placeholder
-        size = 512400
+        size = 1024800
     }
 }
 #Hanzhong (3492000/873000 POPS)
@@ -104,49 +104,49 @@
     aristocrats = {
         culture = chinese
         religion = placeholder
-        size = 9412
+        size = 18824
     }
 
     clergymen = {
         culture = chinese
         religion = placeholder
-        size = 4712
+        size = 9424
     }
 
     artisans = {
         culture = chinese
         religion = placeholder
-        size = 5500
+        size = 11000
     }
 
     artisans = {
         culture = chinese
         religion = placeholder
-        size = 5500
+        size = 11000
     }
 
     artisans = {
         culture = chinese
         religion = placeholder
-        size = 1050
+        size = 2100
     }
 
     soldiers = {
         culture = chinese
         religion = placeholder
-        size = 1212
+        size = 2424
     }
 
     farmers = {
         culture = chinese
         religion = placeholder
-        size = 166062
+        size = 332124
     }
 
     farmers = {
         culture = chinese
         religion = placeholder
-        size = 51112
+        size = 102224
     }
 }
 #West Hubei
@@ -155,73 +155,73 @@
     aristocrats = {
         culture = chinese
         religion = placeholder
-        size = 7750
+        size = 15500
     }
 
     clergymen = {
         culture = chinese
         religion = placeholder
-        size = 2000
+        size = 4000
     }
 
     artisans = {
         culture = chinese
         religion = placeholder
-        size = 5500
+        size = 11000
     }
 
     soldiers = {
         culture = chinese
         religion = placeholder
-        size = 1500
+        size = 3000
     }
 
     soldiers = {
         culture = chinese
         religion = placeholder
-        size = 512
+        size = 1024
     }
 
     farmers = {
         culture = chinese
         religion = placeholder
-        size = 35237
+        size = 70474
     }
 
     farmers = {
         culture = chinese
         religion = placeholder
-        size = 160000
+        size = 320000
     }
 
     aristocrats = {
         culture = chinese
         religion = placeholder
-        size = 1400
+        size = 2800
     }
 
     clergymen = {
         culture = chinese
         religion = placeholder
-        size = 725
+        size = 1450
     }
 
     artisans = {
         culture = chinese
         religion = placeholder
-        size = 3625
+        size = 7250
     }
 
     soldiers = {
         culture = chinese
         religion = placeholder
-        size = 725
+        size = 1450
     }
 
     farmers = {
         culture = chinese
         religion = placeholder
-        size = 65525
+        size = 131050
     }
 }
 #Sichuan
@@ -230,55 +230,55 @@
     aristocrats = {
         culture = chinese
         religion = placeholder
-        size = 2075
+        size = 4150
     }
 
     clergymen = {
         culture = chinese
         religion = placeholder
-        size = 3300
+        size = 6600
     }
 
     artisans = {
         culture = chinese
         religion = placeholder
-        size = 12500
+        size = 25000
     }
 
     artisans = {
         culture = chinese
         religion = placeholder
-        size = 10000
+        size = 20000
     }
 
     artisans = {
         culture = chinese
         religion = placeholder
-        size = 3975
+        size = 7950
     }
 
     soldiers = {
         culture = chinese
         religion = placeholder
-        size = 1500
+        size = 3000
     }
 
     soldiers = {
         culture = chinese
         religion = placeholder
-        size = 1300
+        size = 2600
     }
 
     farmers = {
         culture = chinese
         religion = placeholder
-        size = 136350
+        size = 272700
     }
 
     farmers = {
         culture = chinese
         religion = placeholder
-        size = 66350
+        size = 132700
     }
 }
 #Nanyang (3100000/775000 POPS)
@@ -286,37 +286,37 @@
     aristocrats = {
         culture = chinese
         religion = placeholder
-        size = 3500
+        size = 7000
     }
 
     clergymen = {
         culture = chinese
         religion = placeholder
-        size = 2375
+        size = 4750
     }
 
     artisans = {
         culture = chinese
         religion = placeholder
-        size = 5500
+        size = 11000
     }
 
     soldiers = {
         culture = chinese
         religion = placeholder
-        size = 1500
+        size = 3000
     }
 
     farmers = {
         culture = chinese
         religion = placeholder
-        size = 50725
+        size = 101450
     }
 
     slaves = {
         culture = chinese
         religion = placeholder
-        size = 115000
+        size = 230000
     }
 }
 #Hubei
@@ -325,49 +325,49 @@
     aristocrats = {
         culture = chinese
         religion = placeholder
-        size = 5525
+        size = 11050
     }
 
     bureaucrats = {
         culture = chinese
         religion = placeholder
-        size = 550
+        size = 1100
     }
 
     officers = {
         culture = chinese
         religion = placeholder
-        size = 1000
+        size = 2000
     }
 
     clergymen = {
         culture = chinese
         religion = placeholder
-        size = 6025
+        size = 12050
     }
 
     artisans = {
         culture = chinese
         religion = placeholder
-        size = 4000
+        size = 8000
     }
 
     soldiers = {
         culture = chinese
         religion = placeholder
-        size = 625
+        size = 1250
     }
 
     farmers = {
         culture = chinese
         religion = placeholder
-        size = 25825
+        size = 51650
     }
 
     farmers = {
         culture = chinese
         religion = placeholder
-        size = 10000
+        size = 20000
     }
 }
 #Shanxi
@@ -376,48 +376,48 @@
     aristocrats = {
         culture = chinese
         religion = placeholder
-        size = 7400
+        size = 14800
     }
 
     bureaucrats = {
         culture = chinese
         religion = placeholder
-        size = 2625
+        size = 5250
     }
 
     officers = {
         culture = chinese
         religion = placeholder
-        size = 2250
+        size = 4500
     }
 
     clergymen = {
         culture = chinese
         religion = placeholder
-        size = 3600
+        size = 7200
     }
 
     artisans = {
         culture = chinese
         religion = placeholder
-        size = 16575
+        size = 33150
     }
 
     soldiers = {
         culture = chinese
         religion = placeholder
-        size = 4675
+        size = 9350
     }
 
     farmers = {
         culture = chinese
         religion = placeholder
-        size = 130575
+        size = 261150
     }
 
     farmers = {
         culture = chinese
         religion = placeholder
-        size = 25000
+        size = 50000
     }
 }
