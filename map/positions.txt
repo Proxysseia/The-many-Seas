@@ -23288,7 +23288,7 @@
     }
 
     text_rotation = 6.283184
-    text_scale = 2.700000
+    text_scale = 1.700000
     building_construction = {
         x = 2674.000000
         y = 1460.000000
@@ -23334,7 +23334,7 @@
         y = 1461.699951
     }
 
-    text_scale = 2.800000
+    text_scale = 1.800000
     building_construction = {
         x = 2686.399902
         y = 1462.000000
@@ -23408,7 +23408,6 @@
         y = 1417.800049
     }
 
-    text_rotation = 1.047198
     text_scale = 1.900000
     unit = {
         x = 2663.000000
