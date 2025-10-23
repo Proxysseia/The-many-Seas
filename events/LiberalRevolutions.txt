@@ -1799,7 +1799,7 @@ country_event = {
 
 	trigger = {
 		NOT = {
-			economic_policy = laissez_faire
+#			economic_policy = laissez_faire
 			government = proletarian_dictatorship
 		}
 		has_pop_type = capitalists

@@ -11,7 +11,7 @@ adam_smith = {
 		base = 2
 		modifier = {
 			factor = 2
-			economic_policy = laissez_faire
+#			economic_policy = laissez_faire
 		}
 		modifier = {
 			factor = 2
@@ -30,7 +30,7 @@ jean_baptiste_say = {
 		base = 2
 		modifier = {
 			factor = 2
-			economic_policy = laissez_faire
+#			economic_policy = laissez_faire
 		}
 		modifier = {
 			factor = 2
@@ -49,7 +49,7 @@ david_ricardo = {
 		base = 2
 		modifier = {
 			factor = 2
-			economic_policy = laissez_faire
+#			economic_policy = laissez_faire
 		}
 		modifier = {
 			factor = 2

@@ -92,9 +92,9 @@ political_decisions = {
 			ALB = { annex_to = THIS }
 			ALB = { all_core = { add_core =  IRO } }
 			ALB = { all_core = { remove_core =  ALB } }
-#			MON = { annex_to = THIS }
-#			MON = { all_core = { add_core =  IRO } }
-#			MON = { all_core = { remove_core =  MON } }
+			MON = { annex_to = THIS }
+			MON = { all_core = { add_core =  IRO } }
+			MON = { all_core = { remove_core =  MON } }
 			ROM = { all_core = { add_core =  IRO } }
 			ROM = { all_core = { remove_core =  ROM } }
 #			794 = { add_core = IRO }
@@ -109,13 +109,14 @@ political_decisions = {
 	Demand_Return_of_Rome = {		#real
 		picture = the_vega_expedition
 			potential = {
-					tag = IRO
-				}
-				allow = {
+			tag = IRO	
+			NOT = { THIS = { is_core = 749 } }
+			}
+			allow = {
 					war = no
-					}
-				effect = {
-					IRO = { add_core = 749 }
+			}
+			effect = {
+					THIS = { add_core = 749 }
 					badboy = 7.5
 			}
 	}
