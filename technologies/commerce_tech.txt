@@ -20,10 +20,10 @@ private_banks = {
 				total_pops = 15000000
 			}
 		}
-		modifier = {
-			factor = 1.5
-			economic_policy = laissez_faire
-		}
+		# modifier = {
+		# 	factor = 1.5
+		# 	economic_policy = laissez_faire
+		# }
 		modifier = {
 			factor = 1.02
 			tech_school = commerce_tech_school
@@ -58,10 +58,10 @@ stock_exchange = {
 				total_pops = 15000000
 			}
 		}
-		modifier = {
-			factor = 1.25
-			economic_policy = laissez_faire
-		}
+		# modifier = {
+		# 	factor = 1.25
+		# 	economic_policy = laissez_faire
+		# }
 		modifier = {
 			factor = 1.02
 			tech_school = commerce_tech_school
@@ -96,10 +96,10 @@ business_banks = {
 				total_pops = 15000000
 			}
 		}
-		modifier = {
-			factor = 1.25
-			economic_policy = laissez_faire
-		}
+		# modifier = {
+		# 	factor = 1.25
+		# 	economic_policy = laissez_faire
+		# }
 		modifier = {
 			factor = 1.02
 			tech_school = commerce_tech_school
@@ -133,10 +133,10 @@ investment_banks = {
 				total_pops = 15000000
 			}
 		}
-		modifier = {
-			factor = 1.25
-			economic_policy = laissez_faire
-		}
+		# modifier = {
+		# 	factor = 1.25
+		# 	economic_policy = laissez_faire
+		# }
 		modifier = {
 			factor = 1.02
 			tech_school = commerce_tech_school
@@ -163,10 +163,10 @@ bank_inspection_board = {
 			factor = 1.5
 			rank = 16
 		}
-		modifier = {
-			factor = 1.25
-			economic_policy = laissez_faire
-		}
+		# modifier = {
+		# 	factor = 1.25
+		# 	economic_policy = laissez_faire
+		# }
 		modifier = {
 			factor = 1.02
 			tech_school = commerce_tech_school
@@ -193,10 +193,10 @@ mutual_funds = {
 			factor = 1.5
 			rank = 16
 		}
-		modifier = {
-			factor = 1.25
-			economic_policy = laissez_faire
-		}
+		# modifier = {
+		# 	factor = 1.25
+		# 	economic_policy = laissez_faire
+		# }
 		modifier = {
 			factor = 1.02
 			tech_school = commerce_tech_school
@@ -243,10 +243,10 @@ ad_hoc_money_bill_printing = {
 				total_pops = 15000000
 			}
 		}
-		modifier = {
-			factor = 1.25
-			economic_policy = laissez_faire
-		}
+		# modifier = {
+		# 	factor = 1.25
+		# 	economic_policy = laissez_faire
+		# }
 		modifier = {
 			factor = 1.05
 			literacy = 0.3 
@@ -269,10 +269,10 @@ private_bank_money_bill_printing = {
 	administrative_efficiency = 0.10
 	ai_chance = {
 		factor = 1.1
-		modifier = {
-			factor = 1.25
-			economic_policy = laissez_faire
-		}
+		# modifier = {
+		# 	factor = 1.25
+		# 	economic_policy = laissez_faire
+		# }
 		modifier = {
 			factor = 1.25 #1.1
 			rank = 16
@@ -295,10 +295,10 @@ central_bank_money_bill_printing = {
 			factor = 1.1
 			rank = 16
 		}
-		modifier = {
-			factor = 1.25
-			economic_policy = laissez_faire
-		}
+		# modifier = {
+		# 	factor = 1.25
+		# 	economic_policy = laissez_faire
+		# }
 		modifier = {
 			factor = 1.02
 			tech_school = commerce_tech_school
@@ -317,10 +317,10 @@ modern_central_bank_system = {
 			factor = 1.1
 			rank = 16
 		}
-		modifier = {
-			factor = 1.25
-			economic_policy = laissez_faire
-		}
+		# modifier = {
+		# 	factor = 1.25
+		# 	economic_policy = laissez_faire
+		# }
 		modifier = {
 			factor = 1.05
 			literacy = 0.3 
@@ -344,10 +344,10 @@ market_determined_exchange_rates = {
 	administrative_efficiency = 0.10
 	ai_chance = {
 		factor = 1.1
-		modifier = {
-			factor = 1.25
-			economic_policy = laissez_faire
-		}
+		# modifier = {
+		# 	factor = 1.25
+		# 	economic_policy = laissez_faire
+		# }
 		modifier = {
 			factor = 1.1
 			rank = 16
@@ -801,10 +801,10 @@ organized_factories = {
 	}
 		ai_chance = {
 		factor = 1.05
-		modifier = {
-			factor = 1.25
-			economic_policy = laissez_faire
-		}
+		# modifier = {
+		# 	factor = 1.25
+		# 	economic_policy = laissez_faire
+		# }
 		modifier = {
 			factor = 1.05
 			literacy = 0.3 
@@ -841,10 +841,10 @@ scientific_management = {
 	}
 	ai_chance = {
 		factor = 1.05
-		modifier = {
-			factor = 1.5
-			economic_policy = laissez_faire
-		}
+		# modifier = {
+		# 	factor = 1.5
+		# 	economic_policy = laissez_faire
+		# }
 		modifier = {
 			factor = 1.05
 			literacy = 0.3 
