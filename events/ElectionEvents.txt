@@ -98,71 +98,71 @@ country_event = {
 }
 	
 # A Heated Debate: Economic Policy
-country_event = {
-	id = 14010
-	title = "EVTNAME14010"
-	desc = "EVTDESC14010"
+# country_event = {
+# 	id = 14010
+# 	title = "EVTNAME14010"
+# 	desc = "EVTDESC14010"
 	
-	election = yes
-	issue_group = economic_policy
-	is_triggered_only = yes
+# 	election = yes
+# 	issue_group = economic_policy
+# 	is_triggered_only = yes
 	
-	option = {
-		name = "EVTOPTA14010"
-		any_pop = {
-			dominant_issue = {
-				factor = 0.1
-				value = laissez_faire
-			}
-			scaled_militancy = {
-				issue = planned_economy
-				factor = 0.2
-			}
-		}
-	}
+# 	option = {
+# 		name = "EVTOPTA14010"
+# 		any_pop = {
+# 			dominant_issue = {
+# 				factor = 0.1
+# 				value = laissez_faire
+# 			}
+# 			scaled_militancy = {
+# 				issue = planned_economy
+# 				factor = 0.2
+# 			}
+# 		}
+# 	}
 	
-	option = {
-		name = "EVTOPTB14010"
-		any_pop = {
-			dominant_issue = {
-				factor = 0.1
-				value = interventionism
-			}
-			scaled_militancy = {
-				issue = state_capitalism
-				factor = 0.2
-			}
-		}
-	}
+# 	option = {
+# 		name = "EVTOPTB14010"
+# 		any_pop = {
+# 			dominant_issue = {
+# 				factor = 0.1
+# 				value = interventionism
+# 			}
+# 			scaled_militancy = {
+# 				issue = state_capitalism
+# 				factor = 0.2
+# 			}
+# 		}
+# 	}
 	
-	option = {
-		name = "EVTOPTC14010"
-		any_pop = {
-			dominant_issue = {
-				factor = 0.1
-				value = state_capitalism
-			}
-			scaled_militancy = {
-				issue = interventionism
-				factor = 0.2
-			}
-		}
-	}
+# 	option = {
+# 		name = "EVTOPTC14010"
+# 		any_pop = {
+# 			dominant_issue = {
+# 				factor = 0.1
+# 				value = state_capitalism
+# 			}
+# 			scaled_militancy = {
+# 				issue = interventionism
+# 				factor = 0.2
+# 			}
+# 		}
+# 	}
 	
-	option = {
-		name = "EVTOPTD14010"
-		any_pop = {
-			dominant_issue = {
-				factor = 0.1
-				value = planned_economy
-			}
-			scaled_militancy = {
-				issue = laissez_faire
-				factor = 0.2
-			}
-		}
-	}
-}
+# 	option = {
+# 		name = "EVTOPTD14010"
+# 		any_pop = {
+# 			dominant_issue = {
+# 				factor = 0.1
+# 				value = planned_economy
+# 			}
+# 			scaled_militancy = {
+# 				issue = laissez_faire
+# 				factor = 0.2
+# 			}
+# 		}
+# 	}
+# }
 	
 # A Heated Debate: Religious Policy
 country_event = {
@@ -490,73 +490,73 @@ country_event = {
 }
 	
 #Monopoly
-country_event = {
-	id = 14070
-	title = "EVTNAME14070"
-	desc = "EVTDESC14070"
+# country_event = {
+# 	id = 14070
+# 	title = "EVTNAME14070"
+# 	desc = "EVTDESC14070"
 	
-	election = yes
-	issue_group = economic_policy
-	is_triggered_only = yes
+# 	election = yes
+# 	issue_group = economic_policy
+# 	is_triggered_only = yes
 	
-	option = {
-		name = "EVTOPTA14070"
-		any_pop = {
-			dominant_issue = {
-				factor = 0.30
-				value = laissez_faire
-			}
-			scaled_militancy = {
-				issue = planned_economy
-				factor = 0.2
-			}
-		}
-	}
+# 	option = {
+# 		name = "EVTOPTA14070"
+# 		any_pop = {
+# 			dominant_issue = {
+# 				factor = 0.30
+# 				value = laissez_faire
+# 			}
+# 			scaled_militancy = {
+# 				issue = planned_economy
+# 				factor = 0.2
+# 			}
+# 		}
+# 	}
 	
-	option = {
-		name = "EVTOPTB14070"
-		any_pop = {
-			dominant_issue = {
-				factor = 0.25
-				value = laissez_faire
-			}
-			scaled_militancy = {
-				issue = planned_economy
-				factor = 0.2
-			}
-		}
-	}
+# 	option = {
+# 		name = "EVTOPTB14070"
+# 		any_pop = {
+# 			dominant_issue = {
+# 				factor = 0.25
+# 				value = laissez_faire
+# 			}
+# 			scaled_militancy = {
+# 				issue = planned_economy
+# 				factor = 0.2
+# 			}
+# 		}
+# 	}
 		
-	option = {
-		name = "EVTOPTC14070"
-		any_pop = {
-			dominant_issue = {
-				factor = 0.15
-				value = laissez_faire
-			}
-		}
-	}
+# 	option = {
+# 		name = "EVTOPTC14070"
+# 		any_pop = {
+# 			dominant_issue = {
+# 				factor = 0.15
+# 				value = laissez_faire
+# 			}
+# 		}
+# 	}
 	
-	option = {
-		name = "EVTOPTD14070"
-		any_pop = {
-			dominant_issue = {
-				factor = 0.10
-				value = laissez_faire
-			}
-		}
-	}
+# 	option = {
+# 		name = "EVTOPTD14070"
+# 		any_pop = {
+# 			dominant_issue = {
+# 				factor = 0.10
+# 				value = laissez_faire
+# 			}
+# 		}
+# 	}
 	
-	option = {
-		name = "EVTOPTE14070"
-		any_pop = {
-			dominant_issue = {
-				factor = 0.05
-				value = laissez_faire
-			}
-		}
-	}
-}
+# 	option = {
+# 		name = "EVTOPTE14070"
+# 		any_pop = {
+# 			dominant_issue = {
+# 				factor = 0.05
+# 				value = laissez_faire
+# 			}
+# 		}
+# 	}
+# }
 
 #The Production Quota
 country_event = {
@@ -697,73 +697,73 @@ country_event = {
 }
 
 #Who produces what?
-country_event = {
-	id = 14100
-	title = "EVTNAME14100"
-	desc = "EVTDESC14100"
+# country_event = {
+# 	id = 14100
+# 	title = "EVTNAME14100"
+# 	desc = "EVTDESC14100"
 	
-	election = yes
-	issue_group = economic_policy
-	is_triggered_only = yes
+# 	election = yes
+# 	issue_group = economic_policy
+# 	is_triggered_only = yes
 	
-	option = {
-		name = "EVTOPTA14100"
-		any_pop = {
-			dominant_issue = {
-				factor = 0.30
-				value = planned_economy
-			}
-			scaled_militancy = {
-				issue = laissez_faire
-				factor = 0.2
-			}
-		}
-	}
+# 	option = {
+# 		name = "EVTOPTA14100"
+# 		any_pop = {
+# 			dominant_issue = {
+# 				factor = 0.30
+# 				value = planned_economy
+# 			}
+# 			scaled_militancy = {
+# 				issue = laissez_faire
+# 				factor = 0.2
+# 			}
+# 		}
+# 	}
 	
-	option = {
-		name = "EVTOPTB14100"
-		any_pop = {
-			dominant_issue = {
-				factor = 0.25
-				value = planned_economy
-			}
-			scaled_militancy = {
-				issue = laissez_faire
-				factor = 0.2
-			}
-		}
-	}
+# 	option = {
+# 		name = "EVTOPTB14100"
+# 		any_pop = {
+# 			dominant_issue = {
+# 				factor = 0.25
+# 				value = planned_economy
+# 			}
+# 			scaled_militancy = {
+# 				issue = laissez_faire
+# 				factor = 0.2
+# 			}
+# 		}
+# 	}
 		
-	option = {
-		name = "EVTOPTC14100"
-		any_pop = {
-			dominant_issue = {
-				factor = 0.15
-				value = planned_economy
-			}
-		}
-	}
+# 	option = {
+# 		name = "EVTOPTC14100"
+# 		any_pop = {
+# 			dominant_issue = {
+# 				factor = 0.15
+# 				value = planned_economy
+# 			}
+# 		}
+# 	}
 	
-	option = {
-		name = "EVTOPTD14100"
-		any_pop = {
-			dominant_issue = {
-				factor = 0.10
-				value = planned_economy
-			}
-		}
-	}
+# 	option = {
+# 		name = "EVTOPTD14100"
+# 		any_pop = {
+# 			dominant_issue = {
+# 				factor = 0.10
+# 				value = planned_economy
+# 			}
+# 		}
+# 	}
 	
-	option = {
-		name = "EVTOPTE14100"
-		any_pop = {
-			dominant_issue = {
-				factor = 0.05
-				value = planned_economy
-			}
-		}
-	}
-}
+# 	option = {
+# 		name = "EVTOPTE14100"
+# 		any_pop = {
+# 			dominant_issue = {
+# 				factor = 0.05
+# 				value = planned_economy
+# 			}
+# 		}
+# 	}
+# }
 	
 #Religious Umbrage
 country_event = {
