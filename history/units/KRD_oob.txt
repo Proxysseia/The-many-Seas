@@ -23,7 +23,12 @@ leader = {
 	background = speed+a_6
 	prestige = 0.3
 }
-
+TAH = {
+	value = -150
+}
+PER = {
+	value = -150
+}
 army = {
 	name = "1st Army"
 	location = 925
