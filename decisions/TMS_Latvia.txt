@@ -52,6 +52,12 @@ political_decisions = {
 		}
 		effect = {
 			LAT = { all_core = { remove_core =  POL } }
+			THIS  = {
+                add_country_modifier = { 
+                    name = latvia_polish_assim
+                    duration =  -1
+                }
+			}
 			set_country_flag = latvia_polish
 			prestige = 10
 		}

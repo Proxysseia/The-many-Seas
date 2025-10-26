@@ -2766,3 +2766,10 @@ debug_navy_xp = {
 	naval_unit_start_experience = 5
 	icon = 4
 }
+
+urals_russia_assim = {
+	icon = 7
+}
+latvia_polish_assim = {
+	icon = 7
+}

@@ -50,6 +50,12 @@ political_decisions = {
 		}
 		effect = {
 			set_country_flag = russia_moscovy
+			THIS  = {
+                add_country_modifier = { 
+                    name = urals_russia_assim
+                    duration =  -1
+                }
+			}
 			prestige = 10
 		}
 	}
