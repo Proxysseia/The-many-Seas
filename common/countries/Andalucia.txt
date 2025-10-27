@@ -18,20 +18,6 @@ party = {
 party = {
 	name = "AAA_liberal"
 	start_date = 1830.1.1
-	end_date = 1886.1.1
-
-	ideology = liberal
-
-	economic_policy = interventionism
-	trade_policy = free_trade
-	religious_policy = pluralism
-	citizenship_policy = limited_citizenship
-	war_policy = anti_military
-}
-
-party = {
-	name = "AAA_liberal_2"
-	start_date = 1886.1.1
 	end_date = 2000.1.1
 
 	ideology = liberal
@@ -43,8 +29,9 @@ party = {
 	war_policy = anti_military
 }
 
+
 party = {
-	name = "AAA_liberal_3"
+	name = "AAA_liberal_2"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -100,7 +87,7 @@ party = {
 }
 
 party = {
-	name = "AAA_liberal_4"
+	name = "AAA_liberal_3"
 	start_date = 1897.1.1
 	end_date = 2000.1.1
 
